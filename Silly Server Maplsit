@@ -1,0 +1,696 @@
+// SILLY SERVERS
+
+"umc_mapcycle" // SILLY SERVER MAPCYCLE
+{
+
+	"Arena "
+	{
+		"maps_invote" "1"
+
+		"arena_aerial_72_b2" { }
+		"arena_backlot_rc2" { }
+		"arena_betteryard_rc1" { }
+		"arena_below_zero" { }
+		"arena_chounai_b2" { }
+		"arena_courtyard_a3" { }
+		"arena_discovery_rc2" { }
+		"arena_haul_b4" { }
+		"arena_maccyf_72_b4" { }
+		"Arena_Metal_Gear_Solid_1" { }
+		"arena_phantom_b3" { }
+		"arena_shockwave_b1" { }
+		"arena_snowcastle_b2" { }
+		"arena_snowy_watchtower" { }
+		"arena_staple_a7a" { }
+		"arena_steeple_b3" { }
+		"arena_swampbridge_a3" { }
+		"arena_temper_rc1" { }
+		"arena_watchtower_event" { }
+		"arena_waterfort_winter" { }
+	}
+
+	"Control Points & AD"
+	{
+		"maps_invote" "1"
+
+		"cp_27points" { }
+		"cp_2Skyscraper_b3" { }
+		"cp_abyss_b81" { }
+		"cp_backwoods_b3" { }
+		"cp_alloy_rc3" { }
+		"cp_antiquity_rc1" { }
+		"cp_aqua" { }
+		"cp_axle_rc1" { }
+		"cp_bedrooms3" { }
+		"cp_bellas_roomz_v3" { }
+		"cp_bloodcrystal_event" { }
+		"cp_broma" { }
+		"cp_buzzards_canyon_winter" { }
+		"cp_cardinal_rc1a" { }
+		"cp_conifer_rc2" { }
+		"cp_carthage_b1" { }
+		"cp_clue_b1" { }
+		"cp_collis_b1" { }
+		"cp_construct_a3" { }
+		"cp_container" { }
+		"cp_copperhead_b1e" { }
+		"cp_croissant_rc6" { }
+		"cp_crossroads_b5" { }
+		"cp_crossroads_event_rc9" { }
+		"cp_daytrip" { }
+		"cp_degrootcreep_b5" { }
+		"cp_desperados_b2" { }
+		"cp_dispatch_b4" { }
+		"cp_drag_rc1" { }
+		"cp_drylock_b2" { }
+		"cp_dusk_rc1" { }
+		"cp_dustbowl_rainy" { }
+		"cp_dust2" { }
+		"cp_emilnewthing_a14c" { }
+		"cp_evergreen_b4" { }
+		"cp_ferrum_rc1" { }
+		"cp_follower" { }
+		"cp_frozen_rc4" { }
+		"cp_fulgur_rc2a" { }
+		"cp_furnace_rc" { }
+		"cp_geomance_rc1" { }
+		"cp_ghastlane_event_rc2" { }
+		"cp_glacier_rc6" { }
+		"cp_glassworks_rc6a" { }
+		"cp_groynes_b1" { }
+		"cp_gothic_event" { }
+		"cp_gydan" { }
+		"cp_hadal_b13a" { }
+		"cp_haddou_rc2" { }
+		"cp_heaven_rc" { }
+		"cp_imbricatus_a5" { }
+		"cp_industries_beta02b" { }
+		"cp_intrusion_b4" { }
+		"cp_japan_v2" { }
+		"cp_kalinka_rc2" { }
+		"cp_lair_a6" { }
+		"cp_logjam_rc5" { }
+		"cp_lumbermountain" { }
+		"cp_lushbowl_final" { }
+		"cp_lwobtsud" { }
+		"cp_minery_a12" { }
+		"cp_mist_rc1d" { }
+		"cp_monopod_a11" { }
+		"cp_neighbor_b3" { }
+		"cp_no_mercy_b1" { }
+		"cp_okto_beta_2" { }
+		"cp_omen_b6" { }
+		"cp_oranges_rc1" { }
+		"cp_overflow_2" { }
+		"cp_overgrown_b3" { }
+		"cp_overgrown_rc5a" { }
+		"cp_peachs_castle_v1" { }
+		"cp_powerground_b3" { }
+		"cp_priderock_b2" { }
+		"cp_propaganda_b19" { }
+		"cp_punts_v1b" { }
+		"cp_reckoner_rc6" { }
+		"cp_redstone_b2" { }
+		"cp_redstone_ridge_b5a" { }
+		"cp_ritter_rc1" { }
+		"cp_rooftop_b6" { }
+		"cp_sagevalley_rc1" { }
+		"cp_smbcastle2" { }
+		"cp_snowlodge_b5" { }
+		"cp_snowlodge_event_rc5a" { }
+		"cp_stag" { }
+		"cp_standin_event" { }
+		"cp_stoneyridge_rc1" { }
+		"cp_submerged_b1" { }
+		"cp_subway_b8" { }
+		"cp_sulfur_rc2_argil" { }
+		"cp_switchback_b5" { }
+		"cp_thebiomes_v1" { }
+		"cp_toy_fort_alt3" { }
+		"cp_toy_fort_tbr_v6" { }
+		"cp_toys_v2" { }
+		"cp_treehouse_b4" { }
+		"cp_urban_scramble" { }
+		"cp_undercrypt_b9" { }
+		"cp_verde_b1" { }
+		"cp_villa_b15b" { }
+		"cp_viper_industries" { }
+		"cp_wetcoal_b1" { }
+		"cp_zinkenite_b3a" { }
+	}
+    
+	"Capture the Flag"
+	{
+		"maps_invote" "1"
+
+	// "ctf_2fort_everyone_is_tiny" { } // Restricted due to presence of similar maps.
+		"ctf_2fort_mine_craft_bd4" { }
+	// "ctf_2fort_newfort_b6" { }
+	// "ctf_2fort_spooky_workshop" { } // Restricted due to presence of similar maps.
+		"ctf_2fort_time_tstorm_b1" { }
+		"ctf_2fooooooooooooooooort_rc3" { }
+		"ctf_2fort_unleashed_night" { }
+		"ctf_2villa_a11" { }
+		"ctf_above_a7" { }
+		"ctf_aerospace_b4" { }
+		"ctf_assault_sk" { }
+		"ctf_atrophy_b4" { }
+		"ctf_aurora_rc" { }
+		"ctf_backwards_b1" { }
+		"ctf_bedrooms3" { }
+		"ctf_biomass_rc1" { }
+		"ctf_boneyard" { }
+		"ctf_collisionroutev1f" { }
+		"ctf_collisionroutev1f_event" { }
+		"ctf_convoy_v2" { }
+		"ctf_cruise_b1" { }
+		"ctf_Decker_b1" { }
+		"ctf_deliverance_b3" { }
+		"ctf_discover_b59" { }
+		"ctf_extraction_b6" { }
+		"ctf_facility_build62" { }
+		"ctf_facing_worlds_2011" { }
+		"ctf_fishy_b4" { }
+		"ctf_flakey_b3" { }
+		"ctf_free2fort" { }
+		"ctf_frosty_rc1" { }
+		"ctf_geothermal_b2" { }
+		"ctf_greystone_b2" { }
+		"ctf_halo_bloodgulch" { }
+		"ctf_hearth_event_rc1" { }
+		"ctf_hydro_v2" { }
+		"ctf_hotspring_b3a" { }
+		"ctf_installation_v2" { }
+		"ctf_lostcity" { }
+		"ctf_mercy" { }
+		"ctf_minecraft_b8" { }
+		"ctf_moonwalk_v2" { }
+		"ctf_morocco_coast" { }
+		"ctf_newbine_rc1" { }
+		"ctf_nordhaven_special_b3" { }
+		"ctf_np_blake_fusion" { }
+		"ctf_operative_b1" { }
+		"ctf_overlook_b1" { }
+		"ctf_pool" { }
+		"ctf_powerhouse_final" { }
+		"ctf_quarry_v2" { }
+		"ctf_retreat_b1" { }
+		"ctf_rift_rc1a" { }
+		"ctf_royal_b3" { }
+		"ctf_scorched_final" { }
+		"ctf_shuangcheng" { }
+		"ctf_smooth_b2" { }
+		"ctf_snowfort" { }
+		"ctf_stronghold_b5" { }
+		"ctf_swamp" { }
+		"ctf_system_rc1" { }
+		"ctf_totalwar_v2" { }
+		"ctf_theskatingrink_b3" { }
+		"ctf_turbheim" { }
+	// "ctf_turbine_everything_is_big" { } // Restricted due to presence of similar maps.
+	// "ctf_turbine_extended_final" { } // Restricted due to presence of similar maps.
+		"ctf_turbine_upsidedown_02" { }
+	// "ctf_turbine2_a6" { } // Restricted due to presence of similar maps.
+		"ctf_urbanbrook" { }
+		"ctf_vikings_final" { }
+		"ctf_well_classic_b3" { }
+		"ctf_well_event_rc4a" { }
+		"ctf_well2" { }
+		"ctf_wild_west_final" { }
+		"ctf_wildfire_rc" { }
+	}
+
+	"Deathmatch"
+	{
+		"maps_invote" "1"
+
+		"dm_ashina_shrine_b1" { }
+		"dm_akbcity" { }
+		"dm_backfort_b1" { }
+		"dm_boostertower" { }
+		"dm_congo" { }
+		"dm_horyuji_v1_spy" { }
+		"dm_mariokart2_b3" { }
+		"dm_mariokart3_v1" { }
+		"dm_market_b2" { }
+		"dm_mountainlake2" { }
+		"dm_moving_in" { }
+		"dm_museum_final" { }
+		"dm_newyork" { }
+		"dm_sdm_final" { }
+		"dm_threed_festive_yelldowfix" { }
+		"dm_towerleap" { }
+		"dm_towerleap_v2_final2" { }
+		"dm_station_morozovo_v1" { }
+		"dm_supermariobros3_b3f" { }
+		"dm_warrock_marien_v8" { }
+		"dm_winter_park_v1" { }
+		"dm_woodland_b1" { }
+	}
+
+	"Garrys Mod "
+	{
+	"maps_invote" "1"
+		"c1m1" { }
+		"c1m1_cleanup" { }
+		"dm_bridge" { }
+		"dm_cloudcity" { }
+		"dm_island17" { }
+		"gm_7eleven_v6_ctcfix" { }
+	//  "gm_abstraction_extended" { } (map currently causing client crashes)
+		"gm_asqueon_city" { }
+		"gm_avalanchbeta" { }
+		"gm_baik_tatooine" { }
+		"gm_bay" { }
+		"gm_carconstruct_b1-8" { }
+		"gm_cliffhanger" { }
+		"gm_diprip_city" { }
+		"gm_excess_island" { }
+		"gm_excess_waters" { }
+		"gm_geekroom_v2_fix" { }
+		"gm_islandrain_v3" { }
+	// "gm_Lair" { } (map currently causing client crashes)
+		"gm_rockbottom" { }
+		"gm_seabase_alpha" { }
+		"gm_site19" { }
+		"gm_tropics_v3b" { }
+		"gm_ultrahill_v2" { }
+		"gm_valley" { }
+		"gm_worldwide_tf2_v2" { }
+		"gm_xhs_revolution" { }
+		"gpk_freecity" { }
+		"rp_destruction_v2" { }
+		"sb_atlantis_b14a" { }
+		"ttt_alstoybarn" { }
+		"ttt_bb_teenroom_b2" { }
+		"ttt_clubtitiboo" { }
+		"ttt_gunkanjima_v2" { }
+		"ttt_scarisland_b1" { }
+		"rp_jedivssith" { }
+		"zs_abandoned_mall_v10" { }
+		"zs_abstraction_night" { }
+		"zs_krusty_krab_large_v5" { }
+	}
+
+	"King of the Hill"
+	{
+		"maps_invote" "1"
+
+		"koth_airfield_b7" { }
+		"koth_alpinedepo" { }
+		"koth_anthem_b4" { }
+		"koth_aperture_science_iiia" { }
+		"koth_aquaticruin_final" { }
+		"koth_ashville_rc1" { }
+		"koth_autumn_twilight_rc2" { }
+		"koth_bagel_fall_b9" { }
+		"koth_basalt_rc2" { }
+		"koth_beachlands_a1" { }
+		"koth_canada_rc1" { }
+		"koth_campground_v2" { }
+		"koth_cannery_b11c" { }
+		"koth_canopy_rc2" { }
+		"koth_canyon_v2" { }
+		"koth_cascade_rc1a" { }
+		"koth_chasm_b1" { }
+		"koth_cinder_rc4" { }
+		"koth_clearcut_b15c" { }
+		"koth_cloudtop_72_b2" { }
+		"koth_coalplant_b7" { }
+		"koth_coldlands_rc2" { }
+		"koth_combustion_b1" { }
+		"koth_coulee_b4_fix" { }
+		"koth_crevice_b5" { }
+		"koth_daenam_b8" { }
+		"koth_databank_rc1" { }
+		"koth_denile_b3" { }
+		"koth_dewm_rc1" { }
+		"koth_dewpoint_b5b" { }
+		"koth_disneyworld_b1" { }
+		"koth_drop_b3" { }
+		"koth_dropdeadfred_v3" { }
+		"koth_dropdown_rc1" { }
+		"koth_dryway_final" { }
+		"koth_dusty_b1" { }
+		"koth_egan_72_a5_fix1" { }
+		"koth_ellius_beta_1" { }
+		"koth_encampment" { }
+		"koth_eros_rc2" { }
+		"koth_flake_a11" { }
+		"koth_forge_b4" { }
+		"koth_former_cornfield_b1" { }
+		"koth_Framework" { }
+		"koth_frostline_b1" { }
+		"koth_frostmoon_event_rc2b" { }
+		"koth_gallows_b1b" { }
+		"koth_graveyard_beta2" { }
+		"koth_gray_co_rc1" { }
+		"koth_green_hill" { }
+		"koth_hakurei_shrine_v4_spy" { }
+		"koth_Hakurei_Winter_v4_spy" { }
+		"koth_hangar_rc2" { }
+		"koth_hardway_72_rc1" { }
+		"koth_harter_rc1" { }
+		"koth_harvestalpine_v3b" { }
+		"koth_hole_alpha" { }
+		"koth_icetower_rc4" { }
+		"koth_jinglejam_rc2" { }
+		"koth_kemptown_b8" { }
+		"koth_loader_v2" { }
+		"koth_luigis_mansion_v3_yelldowfix" { }
+		"koth_nerve" { }
+		"Koth_Mad_Monster_Mansion" { }
+		"koth_market_b2_yelldowfix" { }
+		"koth_megalo_rc6b" { }
+		"koth_megaman6_rc1" { }
+		"koth_mill_rc4" { }
+		"koth_moonshine_rc" { }
+		"koth_muertos_b2" { }
+		"koth_namicott_rc4" { }
+		"koth_northbound_b2" { }
+		"koth_northural_v1" { }
+		"koth_nucleus_pro_a1" { }
+		"koth_octothorpe_classic_beta02" { }
+		"koth_oilfield" { }
+		"koth_oofbay_v1" { }
+		"koth_overgrowth" { }
+		"koth_pantheon_a14" { }
+		"koth_persia_b4" { }
+		"koth_powercore_v1" { }
+		"koth_precipice_b5" { }
+		"koth_preposterous_rc2" { }
+		"koth_product_rcx" { }
+		"koth_quarry_b6" { }
+		"koth_railbridge_rc2" { }
+		"koth_ramjam_rc1" { }
+		"koth_rats_office_b1_2" { }
+		"koth_RETRO_PIT" { }
+		"koth_riverbed_v2" { }
+		"koth_rooftop_b1" { }
+		"koth_roughshod_rc2" { }
+		"koth_runoff_b2" { }
+		"koth_sandstone_rc5" { }
+		"koth_sandvich_b1" { }
+		"koth_saturnvalley" { }
+		"koth_sawmill_event_v2" { }
+		"koth_sekhmet_b4" { }
+		"koth_sherman_rc1" { }
+		"koth_shirouma_b1" { }
+		"koth_sky_fortress_b2" { }
+		"koth_skyfall_a7a" { }
+		"koth_skylab_rc1" { }
+		"koth_skymill_b2" { }
+		"koth_skyscraper" { }
+		"koth_skyward_b2" { }
+		"koth_slaughter_b2a" { }
+		"koth_sludge_puddle" { }
+		"koth_snowcliff_b1" { }
+		"koth_spillway_rc3a" { }
+		"koth_spooky_ravine_b1_3" { }
+		"koth_Sprawl" { }
+		"koth_stallone_b2" { }
+		"koth_stargate_v3" { }
+		"koth_sunset_saloon_b1r1" { }
+		"koth_sunset_saloon_r2_2" { }
+		"koth_swamphouse_v10_final" { }
+		"koth_syphon_b3e" { }
+		"koth_temper_rc2" { }
+		"koth_tfot_watchtower_d" { }
+		"koth_thunder" { }
+		"koth_tombtown_rc6" { }
+		"koth_trainfalls_v5" { }
+		"koth_twinfalls" { }
+		"koth_undergrove_event_rc3e" { }
+		"koth_undergrove_rc1" { }
+		"koth_warehouse" { }
+		"koth_warehouse_a1" { }
+		"koth_warehouse_canal" { }
+		"koth_watermill_final" { }
+		"koth_whitecreek_rc2" { }
+		"koth_wildwater_a11" { }
+		"koth_winter_ridge_b2_yelldowfix" { }
+		"koth_yammoe_rc3_d" { }
+	}
+
+	"MvM "
+	{
+		"maps_invote" "1"
+		"mvm_airdrop_rc3" { }
+		"mvm_area_52_rc3" { }
+		"mvm_barren_final2" { }
+		"mvm_berserker_a3" { }
+		"mvm_bigrock" { }
+		"mvm_boogge_rc1" { }
+		"mvm_brugge_rc4" { }
+		"mvm_cargoship_v2a2" { }
+		"mvm_casino_city_b7c" { }
+		"mvm_coaltown" { }
+		"mvm_coastrock_rc1_1" { }
+		"mvm_condemned_b3" { }
+		"mvm_cyberia_rc3" { }
+		"mvm_damn_r1" { }
+		"mvm_decay_rc1" { }
+		"mvm_decoy" { }
+		"mvm_derelict_b3" { }
+		"mvm_desert_fort" { }
+		"mvm_diverge_b4" { }
+		"mvm_dockyard_rc6a" { }
+		"mvm_doppler_b12" { }
+		"mvm_downtown_final3" { }
+		"mvm_factory" { }
+		"mvm_fiori_b2" { }
+		"mvm_gateway_rc2" { }
+		"mvm_ghost_town" { }
+		"mvm_giza_b7" { }
+		"mvm_goldpit_b13" { }
+		"mvm_havana_b3" { }
+		"mvm_hideout_b3" { }
+		"mvm_intersection" { }
+		"mvm_isolation_rc3" { }
+		"mvm_kelly_rc1b" { }
+		"mvm_kiviak_b1" { }
+		"mvm_logvalley_b9" { }
+		"mvm_manncohq_v3" { }
+		"mvm_manndarin_final" { }
+		"mvm_mannhattan" { }
+		"mvm_mannworks" { }
+		"mvm_meltdown_rc1_4" { }
+		"mvm_memorial_b1" { }
+		"mvm_metro_rc1" { }
+		"mvm_minecraft_a13" { }
+		"mvm_oilrig_rc3" { }
+		"mvm_overgreen" { }
+		"mvm_oxidize_rc16" { }
+		"mvm_pinnacle_a6" { }
+		"mvm_potassium_release" { }
+		"mvm_powerplant_rc1" { }
+		"mvm_processingv1" { }
+		"mvm_production_rc4" { }
+		"mvm_quetzal_rc5" { }
+		"mvm_redbrier_b3" { }
+		"mvm_redherring_a7b" { }
+		"mvm_relic_a3" { }
+		"mvm_ripe_a5b" { }
+		"mvm_rottenburg" { }
+		"mvm_rustvalley_rc2" { }
+		"mvm_seabed_b1" { }
+		"mvm_sequoia_rc4" { }
+		"mvm_shadows_b3" { }
+		"mvm_sharp_rc1" { }
+		"mvm_shipper_b4" { }
+		"mvm_shiverpeak_rc2" { }
+		"mvm_skullcove_rc1" { }
+		"mvm_snowflake_b3" { }
+		"mvm_snowyard_a2" { }
+		"mvm_spacepost_b4" { }
+		"mvm_steep_rc2" { }
+		"mvm_teien_rc6" { }
+		"mvm_trainyard_rc3d" { }
+		"mvm_underground_rc3" { }
+		"mvm_underworld_rc2" { }
+		"mvm_waterfront_rc3" { }
+		"mvm_wulingyuan_a1b" { }
+		"mvm_yucatan_rc4" { }
+    }
+
+    "Payload "
+    {
+        "maps_invote" "1"
+
+        "pl_alpine_forest_rc2" { }
+        "pl_cooler_badwater_a3" { }
+        "pl_badlands_winter" { }
+        "pl_beerbowl_rc1" { }
+        "pl_blastpitt_rc3" { }
+        "pl_borax_b1" { }
+        "pl_boundary_final" { }
+        "pl_cashworks_final1" { }
+        "pl_cliffsedge_b1" { }
+        "pl_coldrush_b2" { }
+        "pl_cornfarm_rc" { }
+        "pl_corrode_rc2" { }
+        "pl_crusoe_a17" { }
+        "pl_curve" { }
+        "pl_deadwood" { }
+        "pl_eclipse_rc2" { }
+        "pl_edinbowl_b6b" { }
+        "pl_escarpment_rc1" { }
+        "pl_farmstead_rc1" { }
+        "pl_freeupward" { }
+        "pl_frostward" { }
+        "pl_great_heights_b3" { }
+        "pl_hat_factory_35" { }
+        "pl_haywire_rc5" { }
+        "pl_highwood_b18" { }
+        "pl_humidity_lps" { }
+        "pl_hydropower_rc4" { }
+        "pl_jungle_a1c" { }
+        "pl_kinder_b17" { }
+        "pl_manngrove_rc5" { }
+        "pl_mesa_b1" { }
+        "pl_metropolis_b5" { }
+        "pl_midwest_b12" { }
+        "pl_moonbase_rc1" { }
+        "pl_mountainside_rc2" { }
+        "pl_oasis_b4" { }
+        "pl_oasis_event_rc2" { }
+        "pl_pharaoh_rc1" { }
+        "pl_pier_b20" { }
+        "pl_promotion_b5" { }
+        "pl_rebirth_rc1" { }
+        "pl_rivercrossing_rc2a" { }
+        "pl_rocketravine_b6" { }
+        "pl_rustbelt_rc1" { }
+        "pl_shenmue_release" { }
+        "pl_sludgepit_final3" { }
+        "pl_snowbomb" { }
+        "pl_stallberg_rc3" { }
+        "pl_stranded_rc1" { }
+        "pl_vigil_rc7" { }
+        "pl_volcanic_a26" { }
+        "pl_yamashiro_b3" { }
+        "pl_yosai_b3a" { }
+    }
+
+	"Trade"
+	{
+		"maps_invote" "1"
+
+		"trade_3d_land_v3" { }
+		"trade_alley_rc6" { }
+		"trade_appleloosa_v2" { }
+		"trade_combine_v18" { }
+	// "trade_clocktown_v1a" { } // Restricted due to presence of similar maps.
+		"trade_clocktown_v1b" { }
+		"trade_echidna_shrine" { }
+		"trade_facility_v7" { }
+		"trade_finalfantasy_town" { }
+		"trade_frantic_factory_v4a" { }
+		"trade_icerink_b1" { }
+		"trade_industry" { }
+		"trade_island_a8" { }
+		"trade_jollyrogerbay_v3" { }
+		"trade_jsrf_garage_v5" { }
+		"trade_manhatten" { }
+		"trade_mega" { }
+		"trade_mmm_v1" { }
+		"trade_minecraft_village_f23" { }
+		"trade_minecraft_village_w21" { }
+		"trade_minecraft_fishbond_j_f15" { }
+		"trade_mumbos_mountain_v2" { }
+		"trade_resort_v12b" { }
+		"trade_riverwood_b6_yelldowfix" { }
+		"trade_rogueport" { }
+		"trade_slider_shore_wv3" { }
+		"trade_smsdelfinoplaza_a4" { }
+		"trade_space_v1" { }
+		"trade_speed_highway_v1" { }
+		"trade_stardust" { }
+		"trade_templeofdonger_v17" { }
+		"trade_templeofdonger_v69_h" { }
+		"trade_tfot_tbgsatelliteV5F" { }
+	}
+
+	"Miscellaneous"
+	{
+		"maps_invote" "1"
+
+		"achievement_apg_r16c" { }
+		"achievement_turbo_rhobv4_fall" { }
+	// "achievement_turbo_rhobv4_xmas" { } // Restricted due to presence of similar maps.
+		"ach_villains_city_day_v3" { }
+	// "ach_villains_city_fall_v3" { } // Restricted due to presence of similar maps.
+	// "ach_villains_city_night_v3" { } // Restricted due to presence of similar maps.
+	// "ach_villains_city_winter_v3" { } // Restricted due to presence of similar maps.
+		"ba_jailfort_b1" { }
+		"ba_jail_hopjb_b4" { }
+		"ba_jail_minecart_b7" { }
+		"ba_space_jail_v7" { }
+		"captains_custom_final" { }
+		"chill_cabin_final" { }
+		"cm_stantonmoor_u4" { }
+		"cyberpunk2_a" { }
+		"de_canals_for_tf2" { }
+		"dom_canalzone2_b4" { }
+		"dom_cliffhanger_b11" { }
+		"drudtown_028" { }
+		"gm_temple_v8" { }
+		"goldenmachinegun_v1b_night" { }
+		"hgss_goldenrodcity_b2" { }
+		"idle_trade_inkopolis_b1" { }
+		"intercosmic_terminal_e1" { }
+		"jb_bricks_v3c" { }
+		"jb_famous_final" { }
+		"jb_minecraft_nightfall_final" { }
+		"jb_supermario_v13" { }
+		"lunar_arboretum_d4" { }
+		"mario_kart_2008_v3" { }
+		"mpl_losthorizon_b10" { }
+		"pd_sfoth_a6" { }
+		"pk_bigcity_tf" { }
+		"pkmn_applewoods_b2f" { }
+		"pkmn_ecruteakcity_v4f" { }
+		"pkmn_goldenrodcity_b3" { }
+		"pkmn_mountsilver_b2f" { }
+		"pkmn_olivinecity_b2" { }
+		"pkmn_route119_b1" { }
+		"pkmn_sootopoliscity_b4f" { }
+		"pkmn_victoryroad_pl" { }
+		"pkmn_violetcity_b1" { }
+		"pkmn_vermillioncity_b1" { }
+		"plr_fishladder3" { }
+		"plr_hierarch_rc2b" { }
+		"plr_highertower" { }
+	// "plr_highmillbine" { } // Restricted due to presence of similar maps.
+	// "plr_hightower_everyone_is_tiny" { } // Restricted due to presence of similar maps.
+		"plr_hothouse_72" { }
+		"plr_lushtower" { }
+		"rats_tequila_b01" { }
+		"rp_elite_deathstar" { }
+		"rusty_bucket_bay" { }
+		"sd_turbine_a3a" { }
+		"silver_valley_c1" { }
+		"sky_plaza_f2" { }
+		"sm64_big_boos_haunt" { }
+		"sm64_hazy_maze_cave" { }
+		"sm64_lethal_lava_land" { }
+		"sm64_star_road_b2" { }
+		"sm64_whomps_fortress" { }
+		"tf_doom_e1m1_v01" { }
+		"tf_yelldowsforest_v8f" { }
+		"vsh_abandoned_facility_a4_argil_v2" { }
+		"vsh_arktown_v4" { }
+		"vsh_bianco_hills_v5_argil" { }
+		"vsh_dust_showdown_final1" { }
+		"vsh_estate_v1" { }
+		"vsh_hale_field_v2" { }
+		"vsh_jungle_beach_v3" { }
+		"vsh_jurassic_v2" { }
+		"vsh_lake_b3" { }
+		"vsh_nebula_rc1" { }
+		"vsh_ravenholm" { }
+		"vsh_scp_3008" { }
+		"vsh_stargate_v3" { }
+		"vsh_traincross_b2" { }
+    }
+}
