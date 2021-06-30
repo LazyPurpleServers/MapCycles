@@ -1,5 +1,3 @@
-// UNNOMINATABLE - These maps cannot be accessed via /nominate or /rtv on any of the servers, and are only accessible to members of the server Staff. 
-
 		// "achievement_all_v4" { } // :3
 		// "against_all_odds_b2" { } - small but cool map
 		// "air_hockey_v2_decibels" { } - novelty map that gets old fast
@@ -10,17 +8,17 @@
 		// "boxtrot_warehouse_rc1" { } - event map for staff
 		// "cp_arcticfortress" { }
 		// "cp_bestinclass_v2" { } - fun concept but hard to enjoy
-			// "cp_firewatch_b4" { }
-			// "cp_helmsdeep_v2" { } - maybe useful for events
+		// "cp_firewatch_b4" { }
+		// "cp_helmsdeep_v2" { } - maybe useful for events
 		// "cp_ohho" { } - suitable for torturing the pub server
 		// "cp_orange_50f_tower" { } - punish map
 		// "cp_vertigo_beta3" { }
-			// "ctf_2fort_tfc" { }
-			// "ctf_darktower" { } - interesting map but not great for the pub. fun to show off
+		// "ctf_2fort_tfc" { }
+		// "ctf_darktower" { } - interesting map but not great for the pub. fun to show off
 		// "ctf_flyingfortresses" { } // buggy 
 		// "ctf_hellpower" { }
 		// "ctf_monkey_a1" { } buggy 
-			// "ctf_tinybiny" { } - torture map
+		// "ctf_tinybiny" { } - torture map
 		// "ctf_turbine_maze" { } oh HELL no
 		// "ctf_turrrrrrrrrrrrrrrrrnbine" { } - causes server crashes after a few minutes. Will need to wait for an updated version?
 		// "cyberpunk_2_2" { } - LOUD
