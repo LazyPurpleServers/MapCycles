@@ -1,0 +1,60 @@
+// UNNOMINATABLE - These maps cannot be accessed via /nominate or /rtv on any of the servers, and are only accessible to members of the server Staff. 
+
+		// "achievement_all_v4" { } // :3
+		// "against_all_odds_b2" { } - small but cool map
+		// "air_hockey_v2_decibels" { } - novelty map that gets old fast
+		// "arena_biebertower" { } // cruelty in map design
+		// "Arctic_Ocean_fix" { }
+		// "balloon_race_v1" { }
+		// "beerpong_b1" { } - novelty map that gets old fast
+		// "boxtrot_warehouse_rc1" { } - event map for staff
+		// "cp_arcticfortress" { }
+		// "cp_bestinclass_v2" { } - fun concept but hard to enjoy
+			// "cp_firewatch_b4" { }
+			// "cp_helmsdeep_v2" { } - maybe useful for events
+		// "cp_ohho" { } - suitable for torturing the pub server
+		// "cp_orange_50f_tower" { } - punish map
+		// "cp_vertigo_beta3" { }
+			// "ctf_2fort_tfc" { }
+			// "ctf_darktower" { } - interesting map but not great for the pub. fun to show off
+		// "ctf_flyingfortresses" { } // buggy 
+		// "ctf_hellpower" { }
+		// "ctf_monkey_a1" { } buggy 
+			// "ctf_tinybiny" { } - torture map
+		// "ctf_turbine_maze" { } oh HELL no
+		// "ctf_turrrrrrrrrrrrrrrrrnbine" { } - causes server crashes after a few minutes. Will need to wait for an updated version?
+		// "cyberpunk_2_2" { } - LOUD
+		// "dm_thebackrooms_b1" { }
+		// "dm_boyd" { }
+		// "dm_House_of_Fun_fix" { } // elevator trouble
+		// "dm_lparena_v3final" { } - Staff event map
+		// "dm_target_b1" { }
+		// "gm_bigcitysideways" { } - punishment map
+		// "gm_mc_bigcity" { } - silly map but people would get bored quickly
+		// "gmodtech_hotel_v1" { }
+		// "heavyboxing_v7" { } - Used for staff-led events.
+		// "itemtest_d" { } - [redacted]
+		// "koth_arctic_b3" { }
+		// "koth_freeside_event" { }
+		// "koth_ghostship_a3" { }
+		// "koth_hellpit_b1" { }
+		// "koth_hungry_v2" { }
+		// "koth_minotaur_b1" { } - suited for special events
+		// "koth_wubwubwub_remix_vip" { } - best map in the universe that can’t be on rotation
+		// "oot3d_hyrule" { } - ooooooh boy
+		// "pl_rumble_event_rc13" { }
+		// "pl_shoreleave_rc1" { } - framerate issues but too pretty to remove
+		// "manor_of_fun" { } - elevator issues
+		// "mario_kart_2012" { }
+		// "koth_minotaur_b1" { } - event map
+		// "qmirror_b2" 
+		// "qtf_thunderstruck_sm_v1" { }
+		// "koth_rust_b1" { }
+		// "tdm_ricochet_fortress_b3" { } - suited for special events
+		// "tf_london_final" { } - humanity is too weak to appreciate such a map
+		// "this_is_alpaca" { } - hail satan
+		// "trade_edventures" { } - visual optimization issues
+		// "trade_hugbox" { } - Punishment map.
+		// "trade_masscc_c4_1" { }
+		// "trade_oreinos_belltower" { } poor framerate but i refuse to get rid of it
+		// "vsh_2fortdesk_v8_argil" { } - small novelty map
