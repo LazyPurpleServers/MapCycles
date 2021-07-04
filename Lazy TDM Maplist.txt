@@ -1,0 +1,14 @@
+// SILLY SERVERS
+
+"umc_mapcycle" // TEAM DEATHMATCH SERVER MAPCYCLE
+{
+
+    "Deathmatch "
+    {
+        "maps_invote" "5"
+
+        "ctf_free2fort" { }
+		"dm_mariokart2_b3" { }
+		"mario_kart_2008_v3" { }
+    }
+}
