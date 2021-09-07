@@ -5,8 +5,7 @@
 	"Novelty"
 	{
 		"maps_invote" "5"
-
-		"1up_granary" { }
+		
 		"2f2f_directional_dinosaurs_a1" { }
 		"2fart" { }
 		"balloon_race_v2b" { }
