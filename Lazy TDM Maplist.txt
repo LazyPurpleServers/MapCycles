@@ -7,6 +7,7 @@
     {
         "maps_invote" "5"
 
+	"1up_granary" { } // Lami: The main feature of this map doesn't work in the current version of TF2, but maybe it's still worth including in the TDM rotation?
         "ctf_free2fort" { }
 		"dm_mariokart2_b3" { }
 		"mario_kart_2008_v3" { }
