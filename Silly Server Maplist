@@ -617,8 +617,8 @@
 		"achievement_apg_r16c" { }
 		"achievement_turbo_rhobv4_fall" { }
 	// "achievement_turbo_rhobv4_xmas" { } // Restricted due to presence of similar maps.
-		"ach_villains_city_day_v3" { }
-	// "ach_villains_city_fall_v3" { } // Restricted due to presence of similar maps.
+		// "ach_villains_city_day_v3" { }
+	"ach_villains_city_fall_v3" { } // Restricted due to presence of similar maps.
 	// "ach_villains_city_night_v3" { } // Restricted due to presence of similar maps.
 	// "ach_villains_city_winter_v3" { } // Restricted due to presence of similar maps.
 		"ba_jailfort_b1" { }
