@@ -251,6 +251,7 @@
 	"Garrys Mod "
 	{
 	"maps_invote" "1"
+		"abandonment" { }
 		"c1m1" { }
 		"c1m1_cleanup" { }
 		"dm_bridge" { }
@@ -261,35 +262,66 @@
 		"gm_asqueon_city" { }
 		"gm_avalanchbeta" { }
 		"gm_baik_tatooine" { }
+		"gm_baik_frontline" { }
 		"gm_bay" { }
+		"gm_borealis_full" { }
+		"gm_buttes2" { } 
 		"gm_carconstruct_b1-8" { }
 		"gm_cliffhanger" { }
+		"gm_coolsnow" { } 
+		"gm_desertfortress" { }
 		"gm_diprip_city" { }
 		"gm_excess_island" { }
 		"gm_excess_waters" { }
+		"gm_forest_arctic" { }
 		"gm_geekroom_v2_fix" { }
+		"gm_gleb" { }
+		"gm_greenland" { }
+		"gm_hl2docks" { }
 		"gm_islandrain_v3" { }
-	// "gm_Lair" { } (map currently causing client crashes)
+		"gm_isles" { }
+	// "gm_lair" { } (map currently causing client crashes)
+		"gm_lifecenter2" { }
+		"gm_memory" { }
+		"gm_oceantown" { }
+		"gm_oceantown_night" { }
+		"gm_outpost_omega" { }
+		"gm_rats_nest" { }
 		"gm_rockbottom" { }
 		"gm_seabase_alpha" { }
+		"gm_securityzone" { }
 		"gm_site19" { }
+		"gm_subliminal" { }
 		"gm_tropics_v3b" { }
 		"gm_ultrahill_v2" { }
 		"gm_valley" { }
+		"gm_vertigo_full" { }
+		"gm_vexten" { }
 		"gm_worldwide_tf2_v2" { }
 		"gm_xhs_revolution" { }
 		"gpk_freecity" { }
+		"mu_alpinnacle" { }
+		"rp_bmsectorc_v2" { }
 		"rp_destruction_v2" { }
+		"rp_richlandday" { }
+		"rp_richlandnight" { }
 		"sb_atlantis_b14a" { }
 		"ttt_alstoybarn" { }
+		"ttt_at_lie_ntis" { }
 		"ttt_bb_teenroom_b2" { }
+		"ttt_byperbasedome_v1" { }
 		"ttt_clubtitiboo" { }
+		"ttt_fallingwater" { }
+		"ttt_glaciation_idaaar" { }
 		"ttt_gunkanjima_v2" { }
+		"ttt_mc_skyislands" { }
+		"ttt_minecraft_ore_islands" { }
 		"ttt_scarisland_b1" { }
 		"rp_jedivssith" { }
 		"zs_abandoned_mall_v10" { }
 		"zs_abstraction_night" { }
 		"zs_krusty_krab_large_v5" { }
+		"zs_palace_a1" { }
 	}
 
 	"King of the Hill"
@@ -600,7 +632,7 @@
 		"trade_resort_v12b" { }
 		"trade_riverwood_b6_yelldowfix" { }
 		"trade_rogueport" { }
-		"trade_slider_shore_wv3" { }
+		"trade_slider_shore_wv4" { }
 		"trade_smsdelfinoplaza_a4" { }
 		"trade_space_v1" { }
 		"trade_speed_highway_v1" { }
