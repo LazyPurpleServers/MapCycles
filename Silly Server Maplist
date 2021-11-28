@@ -252,7 +252,6 @@
 	{
 	"maps_invote" "1"
 		"abandonment" { }
-		"c1m1" { }
 		"c1m1_cleanup" { }
 		"dm_bridge" { }
 		"dm_cloudcity" { }
@@ -470,7 +469,6 @@
 		"mvm_airdrop_rc3" { }
 		"mvm_area_52_rc3" { }
 		"mvm_barren_final2" { }
-		"mvm_berserker_a3" { }
 		"mvm_bigrock" { }
 		"mvm_boogge_rc1" { }
 		"mvm_brugge_rc4" { }
@@ -533,7 +531,6 @@
 		"mvm_shiverpeak_rc2" { }
 		"mvm_skullcove_rc1" { }
 		"mvm_snowflake_b3" { }
-		"mvm_snowyard_a2" { }
 		"mvm_spacepost_b4" { }
 		"mvm_steep_rc2" { }
 		"mvm_teien_rc6" { }
@@ -541,7 +538,6 @@
 		"mvm_underground_rc3" { }
 		"mvm_underworld_rc2" { }
 		"mvm_waterfront_rc3" { }
-		"mvm_wulingyuan_a1b" { }
 		"mvm_yucatan_rc4" { }
     }
 
