@@ -609,7 +609,6 @@
 		"trade_combine_v18" { }
 	// "trade_clocktown_v1a" { } // Restricted due to presence of similar maps.
 		"trade_clocktown_v1b" { }
-		"trade_echidna_shrine" { }
 		"trade_facility_v7" { }
 		"trade_finalfantasy_town" { }
 		"trade_frantic_factory_v4a" { }
