@@ -251,6 +251,39 @@
 	"Garrys Mod "
 	{
 	"maps_invote" "1"
+	
+		"eft_legoland_v1" { }
+		"freespace06_v2-1" { }
+		"gm_1950s_bowlingalley" { }
+		"gm_1950s_turnpike" { }
+		"gm_1950s_turnpike_rollercoastertycoon" { }
+		"gm_abandoned_canal" { }
+		"gm_atomic" { }
+		"gm_atomsminicompobase_lajron" { }
+		"GM_Cyclopean" { }
+		"gm_explore_asylum" { }
+		"gm_explore_mill" { }
+		"gm_explore_tunnels" { }
+		"gm_freebuild" { }
+		"gm_lego_backlot_night_v2" { }
+		"gm_legoracers_castleisland" { }
+		"gm_lunarbase" { }
+		"gm_Madgrass_V4" { }
+		"gm_medievalsiege" { }
+		"gm_mirrorcity_v1" { }
+		"gm_peyote" { }
+		"gm_red_keep" { }
+		"gm_slaywatch" { }
+		"gm_slopes" { }
+		"gm_trainconstruct2" { }
+		"gpk_freecity" { }
+		"olg_rp-build_v2_fixed" { }
+		"sandbox_ttt_lego" { }
+		"ttt_lego_treasureisland" { }
+		"ttt_mc_dolls_v3" { }
+		"ttt_waterworld" { }
+		"zs_swimming_pool_v2" { }
+
 		"abandonment" { }
 		"c1m1_cleanup" { }
 		"dm_bridge_dingusfix" { }
