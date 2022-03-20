@@ -7,7 +7,7 @@ Please report any map errors in our public Discord channel! With such a large ma
 
 Main Website: https://lazypurple.com/ 
 
-Discord invite: https://discord.com/invite/vDz8V7V
+Discord invite: https://discord.gg/XG9Vm4rJuA
 
 Server Fastdl: https://lazypurple.com/tf/fastdl/ 
 
