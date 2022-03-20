@@ -4,35 +4,42 @@
 {
     "Deathmatch"
 	{
-        "maps_invote" "5"
+        "maps_invote" "6"
 
-		"cp_container" { }
+        "2fart" { } // lami added this
 		"cp_kakariko_a3" { }
+		"cp_infinite_b1" { } // lami added this
 		"cp_oranges_rc1" { }
+		"cp_rooftop_b6" { }
 		"cp_shelter_rc2" { }
-		"ctf_2fort_mine_craft_bd4" { }
 		"ctf_2castle" { }
-		"ctf_2villa_a11" { }
-		"ctf_pogger_a8c" { }
+		"ctf_parabolic_a10" { }
 		"ctf_routegs" { }
 		"dm_backfort_b1" { }
 		"dm_congo_b1" { }
 		"dm_mariokart2_b3" { }
 		"dm_museum_final" { }
+		"dm_newyork" { }
 		"dm_supermariobros3_b3f" { }
 		"dm_towerleap_v2_final2" { }
 		"dom_cliffhanger_b11" { }
-		"koth_green_hill" { }
+		"koth_aquaticruin_final" { }
+		"koth_betteryard_rc1" { }
+		"koth_hangar_rc5" { }
+		"koth_hoax_rc2" { }
 		"koth_megaman6_rc1" { }
+		"koth_megasnow_b2d" { }
 		"koth_rooftop_b1" { }
+		"koth_sharkbay_rc2" { }
+		"koth_space_pizza"  // lami added this
 		"koth_warehouse_canal" { }
-		"mario_kart_2008_v3" { }
+		"koth_ye_olde_harveste_v4" { }
+		"mario_kart_reanimated" { }
 		"pkmn_ecruteakcity_v4f" { }
 		"pkmn_goldenrodcity_b3" { }
 		"pkmn_olivinecity_b3f" { }
 		"plr_bananabay" { }
 		"plr_hightower" { }
-		"sd_turbine_a3a" { }
 		"trade_facility_v7" { }
 		"trade_jsrf_garage_v5" { }
 		"trade_minecraft_ff1i" { }
