@@ -41,8 +41,6 @@
 		"plr_bananabay" { }
 		"plr_hightower" { }
 		"trade_facility_v7" { }
-		"trade_jsrf_garage_v5" { }
-		"trade_minecraft_ff1i" { }
 		"trade_minecraft_village_f23" { }
 	}
 }
