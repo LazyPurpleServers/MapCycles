@@ -7,7 +7,6 @@
         "maps_invote" "6"
         
         "2fart" { } // lami added this
-		"cp_infinite_b1" { } // lami added this
 		"cp_kakariko_a3" { }
 		"cp_oranges_rc1" { }
 		"cp_rooftop_b6" { }
@@ -31,6 +30,7 @@
 		"koth_rooftop_b1" { }
 		"koth_space_pizza"  // lami added this
 		"koth_sharkbay_rc2" { }
+		"koth_sunset_saloon_b1r1"  // lami added this
 		"koth_warehouse_canal" { }
 		"koth_ye_olde_harveste_v4" { }
 		"mario_kart_reanimated" { }
