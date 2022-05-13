@@ -30,7 +30,7 @@
 		"koth_rooftop_b1" { }
 		"koth_space_pizza"  // lami added this
 		"koth_sharkbay_rc2" { }
-		"koth_sunset_saloon_b1r1"  // lami added this
+		"koth_sunset_saloon_r2_2" { }
 		"koth_warehouse_canal" { }
 		"koth_ye_olde_harveste_v4" { }
 		"mario_kart_reanimated" { }
