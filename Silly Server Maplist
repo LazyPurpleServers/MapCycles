@@ -500,7 +500,7 @@
 		"mvm_barren_final2" { }
 		"mvm_bigrock" { }
 		"mvm_boogge_rc1" { }
-		"mvm_brugge_rc4" { }
+		"mvm_brugge_rc4b" { }
 		"mvm_cargoship_v2a2" { }
 		"mvm_casino_city_b7c" { }
 		"mvm_coaltown" { }
@@ -555,7 +555,7 @@
 		"mvm_seabed_b1" { }
 		"mvm_sequoia_rc4" { }
 		"mvm_shadows_b3" { }
-		"mvm_sharp_rc1" { }
+		"mvm_sharp_rc9" { }
 		"mvm_shipper_b4" { }
 		"mvm_shiverpeak_rc2" { }
 		"mvm_skullcove_rc1" { }
