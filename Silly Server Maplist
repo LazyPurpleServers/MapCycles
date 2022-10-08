@@ -226,7 +226,7 @@
 
 		"dm_ashina_shrine_b1" { }
 		"dm_akbcity" { }
-		"dm_backfort_b1" { }
+		"dm_backfort_gravfix2" { }
 		"dm_boostertower" { }
 		"dm_congo" { }
 		"dm_horyuji_v1_spy" { }
@@ -236,13 +236,13 @@
 		"dm_mountainlake2" { }
 		"dm_moving_in" { }
 		"dm_museum_final" { }
-		"dm_newyork" { }
+		"dm_newyork_gravfix3" { }
 		"dm_sdm_final" { }
 		"dm_threed_festive_yelldowfix" { }
 		"dm_towerleap" { }
 		"dm_towerleap_v2_final2" { }
 		"dm_station_morozovo_v1" { }
-		"dm_supermariobros3_b3f" { }
+		"dm_supermariobros3_b2f" { }
 		"dm_warrock_marien_v8" { }
 		"dm_winter_park_v1" { }
 		"dm_woodland_b1" { }
@@ -558,7 +558,6 @@
 		"mvm_production_rc4" { }
 		"mvm_quetzal_rc5" { }
 		"mvm_redbrier_b3" { }
-		"mvm_redherring_a7b" { }
 		"mvm_relic_a3" { }
 		"mvm_ripe_a5b" { }
 		"mvm_rottenburg" { }
@@ -654,7 +653,7 @@
 		"trade_facility_v7" { }
 		"trade_finalfantasy_town" { }
 		"trade_frantic_factory_v4a" { }
-		"trade_icerink_b1" { }
+		"trade_icerink_b3a" { }
 		"trade_industry" { }
 		"trade_island_a8" { }
 		"trade_jollyrogerbay_v3" { }
@@ -719,23 +718,25 @@
 		"mpl_losthorizon_b10" { }
 		"pd_sfoth_a6" { }
 		"pk_bigcity_tf" { }
-		"pkmn_applewoods_b2f" { }
+		"pkmn_applewoods_b3f" { }
 		"pkmn_ecruteakcity_v4f" { }
-		"pkmn_goldenrodcity_b3" { }
+		"pkmn_goldenrodcity_b4a" { }
 		"pkmn_mountsilver_b2f" { }
-		"pkmn_olivinecity_b2" { }
-		"pkmn_route119_b1" { }
+		"pkmn_olivinecity_b3f" { }
+		"pkmn_route119_b1a" { }
 		"pkmn_sootopoliscity_b4f" { }
 		"pkmn_victoryroad_pl" { }
 		"pkmn_violetcity_b1" { }
 		"pkmn_vermillioncity_b1" { }
 		"plr_fishladder3" { }
+		"plr_hacksaw_b10" { }
 		"plr_hierarch_rc2b" { }
 		"plr_highertower" { }
 	// "plr_highmillbine" { } // Restricted due to presence of similar maps.
 	// "plr_hightower_everyone_is_tiny" { } // Restricted due to presence of similar maps.
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
+		"plr_sidetracked_rc3" { }
 		"rats_tequila_b01" { }
 		"rp_elite_deathstar" { }
 		"rusty_bucket_bay" { }
