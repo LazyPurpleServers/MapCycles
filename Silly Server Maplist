@@ -251,45 +251,36 @@
 	"Garrys Mod "
 	{
 	"maps_invote" "1"
-	
-		"eft_legoland_v1" { }
-		"freespace06_v2-1" { }
-		"gm_1950s_bowlingalley" { }
-		"gm_1950s_turnpike" { }
-		"gm_1950s_turnpike_rollercoastertycoon" { }
-		"gm_abandoned_canal" { }
-		"gm_atomic" { }
-		"gm_atomsminicompobase_lajron" { }
-		"GM_Cyclopean" { }
-		"gm_explore_asylum" { }
-		"gm_explore_mill" { }
-		"gm_explore_tunnels" { }
-		"gm_freebuild" { }
-		"gm_lego_backlot_night_v2" { }
-		"gm_legoracers_castleisland" { }
-		"gm_lunarbase" { }
-		"gm_Madgrass_V4" { }
-		"gm_medievalsiege" { }
-		"gm_mirrorcity_v1" { }
-		"gm_peyote" { }
-		"gm_red_keep" { }
-		"gm_trainconstruct2" { }
-		"gpk_freecity" { }
-		"olg_rp-build_v2_fixed" { }
-		"sandbox_ttt_lego" { }
-		"ttt_lego_treasureisland" { }
-		"ttt_mc_dolls_v3" { }
-		"ttt_waterworld" { }
-		"zs_swimming_pool_v2" { }
 
+		"gm_buildnation_v3_2" { }
+		"gm_canals" { }
+		"gm_chata" { }
+		"gm_coalmine" { }
+		"gm_coast" { }
+		"gm_outlands" { }
+		"gm_supersizeroom_v2" { }
+		"gm_terminus" { }
+		"rp_amsterville" { }
+		"rp_c18_v1" { }
+		"rp_ice_icity_v8a_tf2_day" { }
+		"rp_innercity_bn_v1d" { }
+		"rp_woodland_warzone" { }
+		
 		"abandonment" { }
 		"c1m1_cleanup" { }
 		"dm_bridge_dingusfix" { }
 		"dm_cloudcity" { }
 		"dm_island17" { }
+		"eft_legoland_v1" { }
+		"freespace06_v2-1" { }
+		"gm_1950s_bowlingalley" { }
+		"gm_1950s_turnpike" { }
+		"gm_1950s_turnpike_rollercoastertycoon" { }
 		"gm_7eleven_v6_ctcfix" { }
-	//  "gm_abstraction_extended" { } (map currently causing client crashes)
+		"gm_abandoned_canal" { }
 		"gm_asqueon_city" { }
+		"gm_atomic" { }
+		"gm_atomsminicompobase_lajron" { }
 		"gm_avalanchbeta" { }
 		"gm_baik_tatooine" { }
 		"gm_baik_frontline" { }
@@ -299,10 +290,15 @@
 		"gm_carconstruct_b1-8" { }
 		"gm_cliffhanger" { }
 		"gm_coolsnow" { } 
+		"GM_Cyclopean" { }
 		"gm_desertfortress" { }
 		"gm_diprip_city" { }
 		"gm_excess_island" { }
 		"gm_excess_waters" { }
+		"gm_explore_asylum" { }
+		"gm_explore_mill" { }
+		"gm_explore_tunnels" { }
+		"gm_freebuild" { }
 		"gm_forest_arctic" { }
 		"gm_geekroom_v2_fix" { }
 		"gm_gleb" { }
@@ -310,17 +306,25 @@
 		"gm_hl2docks" { }
 		"gm_islandrain_v3" { }
 		"gm_isles" { }
-	// "gm_lair" { } (map currently causing client crashes)
+		"gm_lego_backlot_night_v2" { }
+		"gm_legoracers_castleisland" { }
 		"gm_lifecenter2" { }
+		"gm_lunarbase" { }
+		"gm_Madgrass_V4" { }
+		"gm_medievalsiege" { }
 		"gm_memory" { }
+		"gm_mirrorcity_v1" { }
 		"gm_oceantown" { }
 		"gm_oceantown_night" { }
 		"gm_outpost_omega" { }
+		"gm_peyote" { }
 		"gm_rats_nest" { }
+		"gm_red_keep" { }
 		"gm_rockbottom" { }
 		"gm_seabase_alpha" { }
 		"gm_securityzone" { }
 		"gm_subliminal" { }
+		"gm_trainconstruct2" { }
 		"gm_tropics_v3b" { }
 		"gm_ultrahill_v2" { }
 		"gm_valley" { }
@@ -330,10 +334,13 @@
 		"gm_xhs_revolution" { }
 		"gpk_freecity" { }
 		"mu_alpinnacle" { }
+		"olg_rp-build_v2_fixed" { }
 		"rp_bmsectorc_v2" { }
 		"rp_destruction_v2" { }
+		"rp_jedivssith" { }
 		"rp_richlandday" { }
 		"rp_richlandnight" { }
+		"sandbox_ttt_lego" { }
 		"sb_atlantis_b14a" { }
 		"ttt_alstoybarn" { }
 		"ttt_at_lie_ntis" { }
@@ -343,14 +350,17 @@
 		"ttt_fallingwater" { }
 		"ttt_glaciation_idaaar" { }
 		"ttt_gunkanjima_v2" { }
+		"ttt_lego_treasureisland" { }
+		"ttt_mc_dolls_v3" { }
 		"ttt_mc_skyislands" { }
 		"ttt_minecraft_ore_islands" { }
 		"ttt_scarisland_b1" { }
-		"rp_jedivssith" { }
+		"ttt_waterworld" { }
 		"zs_abandoned_mall_v10" { }
 		"zs_abstraction_night" { }
 		"zs_krusty_krab_large_v5" { }
 		"zs_palace_a1" { }
+		"zs_swimming_pool_v2" { }
 	}
 
 	"King of the Hill"
@@ -426,6 +436,7 @@
 		"koth_megaman6_rc1" { }
 		"koth_mill_rc4" { }
 		"koth_moonshine_rc" { }
+		"koth_muertos_b2" { }
 		"koth_namicott_rc4" { }
 		"koth_northbound_b2" { }
 		"koth_northural_v1" { }
@@ -675,12 +686,12 @@
 		"maps_invote" "1"
 
 		"achievement_apg_r16c" { }
-		"achievement_turbo_rhobv4_fall" { }
-	// "achievement_turbo_rhobv4_xmas" { } // Restricted due to presence of similar maps.
+		"achievement_turbo_rhobv4_fall" { } // Restricted due to presence of similar maps.
+	   	// "achievement_turbo_rhobv4_xmas" { } 
 		// "ach_villains_city_day_v3" { }
-	"ach_villains_city_fall_v3" { } // Restricted due to presence of similar maps.
-	// "ach_villains_city_night_v3" { } // Restricted due to presence of similar maps.
-	// "ach_villains_city_winter_v3" { } // Restricted due to presence of similar maps.
+		"ach_villains_city_fall_v3" { } // Restricted due to presence of similar maps.
+		// "ach_villains_city_night_v3" { } // Restricted due to presence of similar maps.
+		// "ach_villains_city_winter_v3" { } // Restricted due to presence of similar maps.
 		"ba_jailfort_b1" { }
 		"ba_jail_hopjb_b4" { }
 		"ba_jail_minecart_b7" { }
