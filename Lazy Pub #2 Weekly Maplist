@@ -4,7 +4,7 @@
 {
 	"Arena "
 	{
-		"maps_invote" "5"
+		"maps_invote" "1"
 
 		"arena_backlot_rc2" { }
 		"arena_badlands" { }
@@ -54,7 +54,7 @@
 
 	"Attack & Defend "
 	{
-		"maps_invote" "5"
+		"maps_invote" "1"
 
 		"cp_alloy_rc3" { }
 		"cp_aqua" { }
@@ -103,7 +103,7 @@
 
 	"Control Points"
 	{
-	"maps_invote" "5"
+	"maps_invote" "1"
 
 		"cp_2Skyscraper_b3" { }
 		"cp_abyss_b81" { }
@@ -151,7 +151,7 @@
 
 	"Capture The Flag"
 	{
-		"maps_invote" "5"
+		"maps_invote" "1"
 
 		"ctf_2fort_dark" { }
 		"ctf_2fort_desert2" { }
@@ -220,7 +220,7 @@
 
 	"Deathmatch"
 	{
-		"maps_invote" "5"
+		"maps_invote" "1"
 
 		"dm_ashina_shrine_b1" { }
 		"dm_ashina_shrine_b1_mm" { }
@@ -236,7 +236,7 @@
 
 	"King of the Hill"
 	{
-		"maps_invote" "5"
+		"maps_invote" "1"
 
 		"koth_airborne_a5" { }
 		"koth_airfield_b7" { }
@@ -386,7 +386,7 @@
 
 	"Payload "
 	{
-		"maps_invote" "5"
+		"maps_invote" "1"
 
 		"pl_abandoned_upward" { }
 		"pl_alpine_forest_rc2" { }
@@ -463,7 +463,7 @@
 
 	"Valve's Greatest Hits"
 	{
-	"maps_invote" "5"
+	"maps_invote" "1"
 
 		"cp_badlands" { }
 		"cp_coldfront" { }
