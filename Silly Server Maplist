@@ -498,6 +498,7 @@
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
 		"koth_mill_rc4" { }
+		"koth_minecraft_canyon_a4" { }
 		"koth_moonshine_rc" { }
 		"koth_muertos_b2" { }
 		"koth_namicott_rc4" { }
@@ -708,7 +709,7 @@
 		"maps_invote" "1"
 
 		"trade_3d_land_v3" { }
-		"trade_absolutemuppet_lazypurple" { }
+		"trade_absolutemuppet_lp2" { }
 		"trade_appleloosa_v2" { }
 		"trade_balloonfarm" { }
 		"trade_bubblegloop_swamp_a2" { }
@@ -719,7 +720,7 @@
 		"trade_finalfantasy_town" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_icerink_b3a" { }
-		"trade_imagination_figment_event" { }
+		"trade_imagination_figment_a5a" { }
 		"trade_industry" { }
 		"trade_island_a8" { }
 		"trade_jollyrogerbay_v3" { }
@@ -728,9 +729,10 @@
 		"trade_mcdonalds_b1" { }
 		"trade_mega" { }
 		"trade_mmm_v1" { }
+		"trade_minecraft_fishbond_j_f15" { }
+		"trade_minecraft_hans_v71b" { }
 		"trade_minecraft_village_f23" { }
 		"trade_minecraft_village_w21" { }
-		"trade_minecraft_fishbond_j_f15" { }
 		"trade_mumbos_mountain_v2" { }
 		"trade_resort_v12b" { }
 		"trade_riverwood_b6_yelldowfix" { }
