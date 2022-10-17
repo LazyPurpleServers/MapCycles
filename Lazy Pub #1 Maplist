@@ -1,111 +1,101 @@
-// PUB SERVER #1
-
 "umc_mapcycle"
 {
+	"Newest Maps"
+	{
+		"pl_divulgence_b2" { }
+	}
+
 	"Attack & Defend"
 	{
-		"cp_conifer_b7" { }
-		"cp_dustbowl" { }
+		"cp_alloy_rc3" { }
+		"cp_altitude" { }
+		"cp_caldera_rc2" { }
+		"cp_conifer_rc2" { }
 		"cp_egypt_final" { }
 		"cp_fulgur_rc2a" { }
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
+		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
-		"cp_overgrown_rc5a" { }
-		"cp_snowbase_b10" { }
+		"cp_osiris_b26" { }
+		"cp_overgrown_rc7b" { }
+		"cp_scourge_b5" { }
+		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
 		"cp_stoneyridge_rc1" { }
 		"cp_steel" { }
 	}
 
-	"Control Points"
-	{
-		"default_max_players" "20"
-		"cp_5gorge" { }
-		"cp_badlands" { }
-		"cp_coldfront" { }
-		"cp_freight_final1" { }
-		"cp_glassworks_rc6a" { }
-		"cp_granary" { }
-		"cp_gullywash_final1" { }
-		"cp_japan_v2" { }
-		"cp_powerhouse" { }
-		"cp_priderock_b2" { }
-		"cp_process" { }
-		"cp_propaganda_b4" { }
-		"cp_sunshine" { }
-		"cp_well" { }
-	}
-
-	"Capture the Flag"
-	{
-		"ctf_2fort" { }
-		"ctf_aerospace_b4" { }
-		"ctf_convoy_v2" { }
-		"ctf_doublecross" { }
-		"ctf_helltrain_event_final1" { }
-		"ctf_landfall" { }
-		"ctf_ocean_machine" { }
-		"ctf_sawmill" { }
-		"ctf_turbine" { }
-		"ctf_well" { }
-		"ctf_wiretap_b1" { }
-	}
-
 	"King of the Hill"
 	{
-		"koth_airfield_b7" { }
-		"koth_badlands" { }
-		"koth_bagel_rc3" { }
-		"koth_canada_rc1" { }
-		"koth_databank_rc1" { }
-		"koth_hangar_rc2" { }
+		"koth_bagel_rc5" { }
+		"koth_betteryard_rc1" { }
+		"koth_cascade" { }
+		"koth_databank_rc3" { }
+		"koth_eros_rc2" { }
+		"koth_hangar_rc5" { }
 		"koth_harvest_final" { }
 		"koth_highpass" { }
+		"koth_hoax_rc3" { }
 		"koth_horizon" { }
 		"koth_king" { }
+		"koth_lakeside_final" { }
 		"koth_lazarus" { }
+		"koth_maple_ridge_rc2" { }
+		"koth_megasnow_b2d" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
-		"koth_powercore_v1" { }
-		"koth_product_rcx" { }
 		"koth_sawmill" { }
+		"koth_sharkbay_rc2" { }
+		"koth_shorelight_rc4" { }
+		"koth_slaughter_b2a" { }
+		"koth_soot_b5" { }
+		"koth_spillway_rc3a" { }
 		"koth_suijin" { }
 		"koth_undergrove_rc1" { }
+		"koth_undergrowth_b2a" { }
 		"koth_viaduct" { }
 	}
 
-	"Payload"
+	"Payload "
 	{
 		"pl_badwater" { }
 		"pl_barnblitz" { }
-		"pl_barnblitz_pro_rc2" { }
 		"pl_borneo" { }
+		"pl_cactuscanyon_redux_rc4b" { }
+		"pl_divulgence_b2" { }
+		"pl_enclosure_final" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc1" { }
 		"pl_frontier_final" { }
-		"pl_goldrush" { }
-		"pl_mountainside_rc2" { }
+		"pl_midwest_rc1a" { }
+		"pl_munitions_b3" { }
+		"pl_oasis_b4" { }
 		"pl_pier" { }
+		"pl_rumford_rc1" { }
+		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
-		"pl_snowycoast" { }
 		"pl_swiftwater_final1" { }
 		"pl_thundermountain" { }
 		"pl_upward" { }
-		"pl_vigil_rc7" { }
+		"pl_vigil_rc9" { }
 	}
 
-	"Other"
+	"Alternative "
 	{
-		"dom_cliffhanger_b11" { }
-		"dm_ashina_shrine_b1" { }
+		"cp_caper_rc4" { }
+		"pass_brickyard" { }
+		"pass_gigantic_b4" { }
+		"pass_gridiron_rc1a" { }
+		"pass_smalltime_rc1a" { }
+		"pd_hightower_b3" { }
+		"pd_pipeline_b1" { }
+		"pd_standin_b1" { }
+		"pd_tomb_rc1" { }
 		"pd_watergate" { }
-		"plr_fishladder_3" { }
-		"plr_hightower" { }
-		"plr_lushtower" { }
 	}
 }
