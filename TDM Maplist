@@ -4,40 +4,60 @@
 {
     "Deathmatch"
 	{
-        "maps_invote" "6"
+        "maps_invote" "7"
         
-        "2fart" { } // lami added this
-		"cp_kakariko_a3" { }
-		"cp_oranges_rc1" { }
+		"2fart" { }
+		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
-		"cp_shelter_rc2" { }
+		"cp_shelter_rc3a" { }
 		"ctf_2castle" { }
+		"ctf_doublecross_snowy" { }
+		"ctf_frosty_rc1" { }
+		"ctf_extraction_b6" { }
+		"ctf_hearth_event_rc5" { }
+		"ctf_hades_b5" { }
+		"ctf_hotspring_b3a" { }
+		"ctf_landfall" { }
+		"ctf_lavatech_b6" { }
+		"ctf_nuclide_rc8d" { }
 		"ctf_parabolic_a10" { }
 		"ctf_routegs" { }
-		"dm_backfort_b1" { }
+		"dm_backfort_gravfix2" { }
 		"dm_congo_b1" { }
 		"dm_mariokart2_b3" { }
-		"dm_museum_final" { }
-		"dm_newyork_gravfix2" { }
+		"dm_newyork_gravfix3" { }
 		"dm_supermariobros3_b2f" { }
 		"dm_towerleap_v2_final2" { }
 		"dom_cliffhanger_b11" { }
 		"koth_aquaticruin_final" { }
+		"koth_cascade" { }
+		"koth_dewm_rc1" { }
+		"koth_dryway_final" { }
 		"koth_hangar_rc5" { }
-		"koth_hoax_rc2" { }
+		"koth_hoax_rc3" { }
+		"koth_icetower_rc4" { }
+		"koth_illinois_a16a" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_b2d" { }
-		"koth_rooftop_b1" { }
-		"koth_space_pizza"  // lami added this
+		"koth_occult_rc6" { }
+		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
-		"koth_sunset_saloon_r2_2" { }
-		"koth_warehouse_canal" { }
+		"koth_shorelight_rc4" { }
+		"koth_slaughter_b2a" { }
+		"koth_spillway_rc3a" { }
+		"koth_stallone_b2" { }
+		"koth_suijin" { }
 		"koth_ye_olde_harveste_v4" { }
-		"mario_kart_reanimated" { }
-		"pkmn_ecruteakcity_v4f" { }
-		"pkmn_goldenrodcity_b3" { }
+		"pass_brickyard" { }
+		"pass_district" { }
+		"pass_gridiron_rc1a" { }
+		"pass_smalltime_rc1a" { }
+		"pd_tomb_rc1" { }
+		"pd_watergate" { }
+		"pkmn_goldenrodcity_b4a" { }
 		"pkmn_olivinecity_b3f" { }
-		"plr_bananabay" { }
+		"plr_hacksaw_b10" { }
+		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
 		"trade_facility_v7" { }
 		"trade_minecraft_village_f23" { }
