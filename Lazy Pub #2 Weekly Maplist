@@ -145,6 +145,7 @@
 		"cp_redstone_b2" { }
 		"cp_redstone_ridge_b5a" { }
 		"cp_rooftop_b6" { }
+		"cp_shelter_rc3a" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
 		"cp_supermariobros3_b3f" { }
@@ -179,9 +180,10 @@
 		"ctf_collisionroutev1f_event" { }
 		"ctf_convoy_v2" { }
 		"ctf_cruise_b1" { }
-		"ctf_Decker_b1" { }
+		"ctf_decker_b1" { }
 		"ctf_deliverance_b3" { }
 		"ctf_discover_b59" { }
+		"ctf_doublecross_snowy" { }
 		"ctf_downtown_final" { }
 		"ctf_epicenter" { }
 		"ctf_extraction_b6" { }
@@ -194,20 +196,24 @@
 		"ctf_geothermal_b2" { }
 		"ctf_haarp" { }
 		"ctf_hades_b5" { }
-		"ctf_hearth_event_rc1" { }
+		"ctf_hearth_event_rc5" { }
 		"ctf_hydro_v2" { }
 		"ctf_hotspring_b3a" { }
 		"ctf_installation_v2" { }
+		"ctf_lavatech_b6" { }
 		"ctf_lostcity" { }
 		"ctf_mercy" { }
-		"ctf_minecraft_b8" { }
+		"ctf_minecraftland_v2b3-3_sg2-1" { }
+		"ctf_nuclide_rc8d" { }
 		"ctf_operative_b1" { }
 		"ctf_overlook_b1" { }
+		"ctf_parabolic_a10" { }
 		"ctf_pool" { }
 		"ctf_quarry_v2" { }
 		"ctf_raveravine_beta03" { }
 		"ctf_retreat_b1" { }
 		"ctf_rift_rc1a" { }
+		"ctf_routegs" { }
 		"ctf_scorched_final" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -223,22 +229,6 @@
 		"ctf_wildfire_rc" { }
 		"ctf_winter_ridge_b1" { }
 		"ctf_wiretap_b1" { }
-	}
-
-	"Deathmatch"
-	{
-		"maps_invote" "1"
-
-		"dm_ashina_shrine_b1" { }
-		"dm_ashina_shrine_b1_mm" { }
-		"dm_backfort_b1" { }
-		"dm_disco_commcen_b1" { }
-		"dm_halo_bloodgulch" { }
-		"dm_lockdown_tf" { }
-		"dm_longest_yard" { }
-		"dm_moving_in" { }
-		"dm_towerleap" { }
-		"dm_towerleap_v2_final2" { }
 	}
 
 	"King of the Hill"
@@ -316,6 +306,7 @@
 		"koth_maple_ridge_rc2" { }
 		"koth_mars" { }
 		"koth_megalo_rc6b" { }
+		"koth_megaman6_rc1" { }
 		"koth_megasnow_b2d" { }
 		"koth_mill_rc4" { }
 		"koth_missilebase_b5" { }
@@ -409,6 +400,7 @@
 		"pl_borax_b1" { }
 		"pl_boundary_final" { }
 		"pl_boxcanyon_b2" { }
+		"pl_cactuscanyon_redux_rc4b" { }
 		"pl_cashworks_final1" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_b2" { }
@@ -433,16 +425,20 @@
 		"pl_manngrove_rc5" { }
 		"pl_mesa_b1" { }
 		"pl_metropolis_b5" { }
+		"pl_midwest_rc1a" { }
 		"pl_mill_b5" { }
 		"pl_moonbase_rc1" { }
 		"pl_mountainside_rc2" { }
+		"pl_munitions_b3" { }
 		"pl_oasis_b4" { }
 		"pl_pharaoh_rc1" { }
-		"pl_pier_b20" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
 		"pl_rivercrossing_rc2a" { }
 		"pl_rocketravine_b6" { }
+		"pl_rustbelt_rc1" { }
+		"pl_rumford_rc1" { }
+		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
 		"pl_shenmue_release" { }
 		"pl_skirmish_b2" { }
@@ -450,6 +446,7 @@
 		"pl_spectre_a2" { }
 		"pl_stranded_rc1" { }
 		"pl_subzero_a1" { }
+		"pl_vigil_rc9" { }
 		"pl_volcanic_a26" { }
 		"pl_yamashiro_b3" { }
 	}
@@ -458,15 +455,27 @@
 	{
 		"maps_invote" "1"
 
+		"cp_caper_rc4" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
-		"pd_tribute_b3" { }
+		"pass_brickyard" { }
+		"pass_gigantic_b4" { }
+		"pass_gridiron_rc1a" { }
+		"pass_smalltime_rc1a" { }
+		"pd_hightower_b3" { }
+		"pd_pipeline_b1" { }
+		"pd_standin_b1" { }
+		"pd_tomb_rc1" { }
+		"pd_watergate" { }
 		"plr_2cart" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_b1" { }
-		"plr_heirarch_rc2b" { }
+		"plr_hacksaw_b10" { }
+		"plr_hierarch_rc2b" { }
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
+		"plr_sidetracked_rc3" { }
+		"plr_valentine_b2" { }
 		"sd_push_b1" { }
 		"tc_meridian_rc2" { }
 	}
@@ -495,11 +504,13 @@
 		"cp_steel" { }
 		"ctf_2fort" { }
 		"ctf_doublecross" { }
+		"ctf_landfall" { }
 		"ctf_turbine" { }
 		"ctf_well" { }
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
+		"pl_enclosure_final" { }
 		"pl_frontier_final" { }
 		"pl_goldrush" { }
 		“pl_pier” { }
