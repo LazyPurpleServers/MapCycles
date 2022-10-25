@@ -604,7 +604,6 @@
 		"mvm_intersection" { }
 		"mvm_isolation_rc3" { }
 		"mvm_kelly_rc1b" { }
-		"mvm_kiviak_b1" { }
 		"mvm_logvalley_b9" { }
 		"mvm_manncohq_v3" { }
 		"mvm_manndarin_final" { }
