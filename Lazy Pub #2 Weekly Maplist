@@ -480,6 +480,24 @@
 		"tc_meridian_rc2" { }
 	}
 
+	"Deathmatch"
+	{
+		"maps_invote" "1"
+
+		"dm_ashina_shrine_b1" { }
+		"dm_ashina_shrine_b1_mm" { }
+		"dm_backfort_gravfix2" { }
+		"dm_disco_commcen_b1" { }
+		"dm_halo_bloodgulch" { }
+		"dm_lockdown_tf" { }
+		"dm_longest_yard" { }
+		"dm_moving_in" { }
+		"dm_newyork_gravfix3" { }
+		"dm_towerleap" { }
+		"dm_towerleap_v2_final2" { }
+	}
+
+
 	"Valve's Greatest Hits"
 	{
 	"maps_invote" "1"
