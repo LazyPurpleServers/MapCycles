@@ -43,7 +43,7 @@
 		"8"
 		{
 			"map" "mvm_barren_final2"
-			"popfile" "mvm_brugge_rc4b_int_sparkbag_subroutine"
+			"popfile" "mvm_barren_final2_adv_robotic_landscape"
 		}
 		"9"
 		{
@@ -316,6 +316,11 @@
 			"popfile" "mvm_siege_mode_v7_kmlp_quickplay"
 		}
 		"62"
+		{
+			"map" "mvm_tiny_town_v8"
+			"popfile" "mvm_tiny_town_v8_kmlp_quickplay"
+		}
+		"63"
 		{
 			"map" "mvm_tiny_town_v8"
 			"popfile" "mvm_tiny_town_v8_kmlp_quickplay"
