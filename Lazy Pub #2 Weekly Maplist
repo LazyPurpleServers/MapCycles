@@ -6,7 +6,7 @@
 	{
 		"maps_invote" "1"
 
-		"aplr_tinyrock_b5" { }
+		"aplr_tinyrock4_rc1a" { }
 		"arena_backlot_rc2" { }
 		"arena_badlands" { }
 		"arena_betteryard_rc1" { }
@@ -307,7 +307,7 @@
 		"koth_mars" { }
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
-		"koth_megasnow_b2d" { }
+		"koth_megasnow_b3" { }
 		"koth_mill_rc4" { }
 		"koth_missilebase_b5" { }
 		"koth_montane_b3" { }
@@ -455,7 +455,7 @@
 	{
 		"maps_invote" "1"
 
-		"cp_caper_rc4" { }
+		"cp_caper_rc4a" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
 		"pass_brickyard" { }
@@ -463,14 +463,14 @@
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
 		"pd_hightower_b3" { }
-		"pd_pipeline_b1" { }
+		"pd_pipeline_rc3" { }
 		"pd_standin_b1" { }
 		"pd_tomb_rc1" { }
 		"pd_watergate" { }
 		"plr_2cart" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_b1" { }
-		"plr_hacksaw_b10" { }
+		"plr_hacksaw_rc1" { }
 		"plr_hierarch_rc2b" { }
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
