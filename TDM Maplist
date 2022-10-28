@@ -39,7 +39,7 @@
 		"koth_icetower_rc4" { }
 		"koth_illinois_a16a" { }
 		"koth_megaman6_rc1" { }
-		"koth_megasnow_b2d" { }
+		"koth_megasnow_b3" { }
 		"koth_occult_rc6" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
@@ -57,7 +57,7 @@
 		"pd_watergate" { }
 		"pkmn_goldenrodcity_b4a" { }
 		"pkmn_olivinecity_b3f" { }
-		"plr_hacksaw_b10" { }
+		"plr_hacksaw_rc1" { }
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
 		"trade_facility_v7" { }
