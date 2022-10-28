@@ -2,7 +2,9 @@
 {
 	"Newest Maps"
 	{
-		"pl_divulgence_b2" { }
+		"cp_caper_rc4a" { }
+		"koth_megasnow_b3" { }
+		"pd_pipeline_rc3" { }
 	}
 
 	"Attack & Defend"
@@ -46,7 +48,7 @@
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
 		"koth_maple_ridge_rc2" { }
-		"koth_megasnow_b2d" { }
+		"koth_megasnow_b3" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_sawmill" { }
@@ -87,13 +89,13 @@
 
 	"Alternative "
 	{
-		"cp_caper_rc4" { }
+		"cp_caper_rc4a" { }
 		"pass_brickyard" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
 		"pd_hightower_b3" { }
-		"pd_pipeline_b1" { }
+		"pd_pipeline_rc3" { }
 		"pd_standin_b1" { }
 		"pd_tomb_rc1" { }
 		"pd_watergate" { }
