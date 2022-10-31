@@ -205,10 +205,7 @@
 	{
 		"maps_invote" "1"
 
-	// "ctf_2fort_everyone_is_tiny" { } // Restricted due to presence of similar maps.
 		"ctf_2fort_mine_craft_bd4" { }
-	// "ctf_2fort_newfort_b6" { }
-	// "ctf_2fort_spooky_workshop" { } // Restricted due to presence of similar maps.
 		"ctf_2fort_time_tstorm_b1" { }
 		"ctf_2fooooooooooooooooort_rc3" { }
 		"ctf_2fort_unleashed_night" { }
@@ -271,10 +268,7 @@
 		"ctf_totalwar_v2" { }
 		"ctf_theskatingrink_b3" { }
 		"ctf_turbheim" { }
-	// "ctf_turbine_everything_is_big" { } // Restricted due to presence of similar maps.
-	// "ctf_turbine_extended_final" { } // Restricted due to presence of similar maps.
 		"ctf_turbine_upsidedown_02" { }
-	// "ctf_turbine2_a6" { } // Restricted due to presence of similar maps.
 		"ctf_urbanbrook" { }
 		"ctf_vikings_final" { }
 		"ctf_well_classic_b3" { }
@@ -750,12 +744,9 @@
 		"maps_invote" "1"
 
 		"achievement_apg_r16c" { }
-		"achievement_turbo_rhobv4_fall" { } // Restricted due to presence of similar maps.
-	   	// "achievement_turbo_rhobv4_xmas" { } 
-		// "ach_villains_city_day_v3" { }
-		"ach_villains_city_fall_v3" { } // Restricted due to presence of similar maps.
-		// "ach_villains_city_night_v3" { } // Restricted due to presence of similar maps.
-		// "ach_villains_city_winter_v3" { } // Restricted due to presence of similar maps.
+		"achievement_turbo_rhobv4_fall" { }
+		"ach_villains_city_fall_v3" { }
+		"ach_villains_city_winter_v3" { }
 		"ba_jailfort_b1" { }
 		"ba_jail_hopjb_b4" { }
 		"ba_jail_minecart_b7" { }
@@ -800,8 +791,6 @@
 		"plr_hacksaw_b10" { }
 		"plr_hierarch_rc2b" { }
 		"plr_highertower" { }
-	// "plr_highmillbine" { } // Restricted due to presence of similar maps.
-	// "plr_hightower_everyone_is_tiny" { } // Restricted due to presence of similar maps.
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
 		"plr_sidetracked_rc3" { }
