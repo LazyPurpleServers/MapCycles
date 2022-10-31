@@ -8,6 +8,7 @@
 		
 		"2f2f_directional_dinosaurs_a1" { }
 		"2fart" { }
+		"arena_perks_a8" { }
 		"balloon_race_v2b" { }
 		"balloon_race_v3_t7" { }
 		"billiards2_a2" { }
@@ -93,8 +94,6 @@
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
 		"ds_extractum" { }
-		"htf_harvest_v4" { }
-		"htf_lakeside_v2" { }
 		"koth_087b_v2" { }
 		"koth_af_formula_a2" { }
 		"koth_ant_fortress_a2" { }
