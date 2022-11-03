@@ -30,6 +30,8 @@
 		"cp_kakariko_a3" { }
 		"cp_lwobtsud" { }
 		"cp_marienwerder_beta2" { }
+		"cp_mario_bros_beta8" { }
+		"cp_marioblast_2011" { }
 		"cp_peachs_castle_v1" { }
 		"cp_pirateship_v3" { }
 		"cp_recloak_a2" { }
@@ -107,7 +109,6 @@
 		"koth_diabolical_final1" { }
 		"koth_disneyworld_b1" { }
 		"koth_dropdeadfred_v3" { }
-		"koth_eros_rc2" { }
 		"koth_falling" { }
 		"koth_flood" { }
 		"koth_foolsgrid" { }
