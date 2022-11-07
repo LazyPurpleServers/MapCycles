@@ -4,6 +4,8 @@
 	{
 		"cp_caper_rc5" { }
 		"cp_paris_b2" { }
+		"koth_synthetic_rc6a" { }
+		"pl_sludgepit_final4" { }
 	}
 
 	"Attack & Defend"
@@ -58,6 +60,7 @@
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
 		"koth_suijin" { }
+		"koth_synthetic_rc6a" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
 		"koth_viaduct" { }
@@ -81,6 +84,7 @@
 		"pl_rumford_rc1" { }
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
+		"pl_sludgepit_final4" { }
 		"pl_swiftwater_final1" { }
 		"pl_thundermountain" { }
 		"pl_upward" { }
