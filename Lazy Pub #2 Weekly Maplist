@@ -357,7 +357,7 @@
 		"koth_stark_b3" { }
 		"koth_steelmill_b3" { }
 		"koth_sunset_saloon_r2_2" { }
-		"koth_synthetic_event_rc3d" { }
+		"koth_synthetic_event" { }
 		"koth_synthetic_rc6a" { }
 		"koth_syphon_b3e" { }
 		"koth_temper_rc2" { }
@@ -442,7 +442,7 @@
 		"pl_rustbelt_rc1" { }
 		"pl_shenmue_release" { }
 		"pl_skirmish_b2" { }
-		"pl_sludgepit_b3" { }
+		"pl_sludgepit_final4" { }
 		"pl_spectre_a2" { }
 		"pl_stranded_rc1" { }
 		"pl_subzero_a1" { }
