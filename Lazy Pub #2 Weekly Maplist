@@ -6,7 +6,7 @@
 	{
 		"maps_invote" "1"
 
-		"aplr_tinyrock4_rc1b" { }
+		"aplr_tinyrock4_rc3" { }
 		"arena_backlot_rc2" { }
 		"arena_badlands" { }
 		"arena_betteryard_rc1" { }
@@ -98,7 +98,7 @@
 		"cp_spookeyridge_b7" { }
 		"cp_snowlodge_b5" { }
 		"cp_steel_aftermath" { }
-		"cp_stoneyridge_rc1" { }
+		"cp_stoneyridge_rc2" { }
 		"cp_subway_b8" { }
 		"cp_sulfur_rc2" { }
 		"cp_treehouse_b4" { }
@@ -308,7 +308,7 @@
 		"koth_mars" { }
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
-		"koth_megasnow_b4b" { }
+		"koth_megasnow_rc1" { }
 		"koth_mill_rc4" { }
 		"koth_missilebase_b5" { }
 		"koth_montane_b3" { }
