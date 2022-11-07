@@ -2,10 +2,8 @@
 {
 	"Newest Maps"
 	{
-		"cp_caper_rc4a" { }
-		"cp_paris_b1" { }
-		"koth_megasnow_b4b" { }
-		"pd_pipeline_rc6" { }
+		"cp_caper_rc5" { }
+		"cp_paris_b2" { }
 	}
 
 	"Attack & Defend"
@@ -26,7 +24,7 @@
 		"cp_mountainlab" { }
 		"cp_osiris_b26" { }
 		"cp_overgrown_rc7b" { }
-		"cp_paris_b1" { }
+		"cp_paris_b2" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
@@ -91,7 +89,7 @@
 
 	"Alternative "
 	{
-		"cp_caper_rc4a" { }
+		"cp_caper_rc5" { }
 		"pass_brickyard" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
