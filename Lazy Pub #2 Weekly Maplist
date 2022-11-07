@@ -57,6 +57,7 @@
 		"maps_invote" "1"
 
 		"cp_alloy_rc3" { }
+		"cp_ambush_rc5" { }
 		"cp_aqua" { }
 		"cp_bloodcrystal_event" { }
 		"cp_broma" { }
