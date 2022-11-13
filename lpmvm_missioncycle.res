@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "63"
+		"count" "86"
 		
 		"1"
 		{
@@ -107,7 +107,7 @@
 		}
 		"21"
 		{
-			"map" "mvm_goldpit_b15"
+			"map" "mvm_goldpit_rc2"
 			"popfile" "mvm_goldpit_b15_int_exciting_excavation"
 		}
 		"22"
@@ -322,12 +322,125 @@
 		}
 		"63"
 		{
-			"map" "mvm_tiny_town_v8"
-			"popfile" "mvm_tiny_town_v8_kmlp_quickplay"
+			"map" "mvm_airdrop_rc3"
+			"popfile" "mvm_airdrop_rc3"
+		}
+		"64"
+		{
+			"map" "mvm_badwater_final"
+			"popfile" "mvm_badwater_final"
+		}
+		"65"
+		{
+			"map" "mvm_boogge_rc1"
+			"popfile" "mvm_boogge_rc1"
+		}
+		"66"
+		{
+			"map" "mvm_cargoship_v2a6"
+			"popfile" "mvm_cargoship_v2a6_int_starboard_strike"
+		}
+		"67"
+		{
+			"map" "mvm_damm_r1"
+			"popfile" "mvm_damm_r1"
+		}
+		"68"
+		{
+			"map" "mvm_decay_rc1"
+			"popfile" "mvm_decay_rc1_nightmare"
+		}
+		"69"
+		{
+			"map" "mvm_factory"
+			"popfile" "mvm_factory"
+		}
+		"70"
+		{
+			"map" "mvm_gateway_rc2"
+			"popfile" "mvm_gateway_rc2"
+		}
+		"71"
+		{
+			"map" "mvm_havana_b3"
+			"popfile" "mvm_havana_b3"
+		}
+		"72"
+		{
+			"map" "mvm_intersection"
+			"popfile" "mvm_intersection"
+		}
+		"73"
+		{
+			"map" "mvm_logvalley_b9"
+			"popfile" "mvm_logvalley_b9"
+		}
+		"74"
+		{
+			"map" "mvm_manncohq_v3"
+			"popfile" "mvm_manncohq_v3"
+		}
+		"75"
+		{
+			"map" "mvm_manndarin_final"
+			"popfile" "mvm_manndarin_final_advanced_lamiiedit"
+		}
+		"76"
+		{
+			"map" "mvm_memorial_b1"
+			"popfile" "mvm_memorial_b1"
+		}
+		"77"
+		{
+			"map" "mvm_overgreen"
+			"popfile" "mvm_overgreen"
+		}
+		"78"
+		{
+			"map" "mvm_pinnacle_a6"
+			"popfile" "mvm_pinnacle_a6_a6_advanced_canadian_crackdown"
+		}
+		"79"
+		{
+			"map" "mvm_potassium_release3"
+			"popfile" "mvm_potassium_release3"
+		}
+		"80"
+		{
+			"map" "mvm_processed_b4"
+			"popfile" "mvm_processed_b4_int_leaking_oilcan"
+		}
+		"81"
+		{
+			"map" "mvm_redbrier_b3"
+			"popfile" "mvm_redbrier_b3_666_calamatic_revenge"
+		}
+		"82"
+		{
+			"map" "mvm_seabed_b1"
+			"popfile" "mvm_seabed_b1_advanced1"
+		}
+		"83"
+		{
+			"map" "mvm_sharp_rc9"
+			"popfile" "mvm_sharp_rc9_adv_sudden_equinox"
+		}
+		"84"
+		{
+			"map" "mvm_shipper_b4"
+			"popfile" "mvm_shipper_b4"
+		}
+		"85"
+		{
+			"map" "mvm_snowflake_b3"
+			"popfile" "mvm_snowflake_b3"
+		}
+		"86"
+		{
+			"map" "mvm_terrorlict_final1"
+			"popfile" "MISSION"
 		}
 	}
 }
-
-
 
 
