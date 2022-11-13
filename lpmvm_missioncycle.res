@@ -438,7 +438,7 @@
 		"86"
 		{
 			"map" "mvm_terrorlict_final1"
-			"popfile" "MISSION"
+			"popfile" "mvm_terrorlict_final1"
 		}
 	}
 }
