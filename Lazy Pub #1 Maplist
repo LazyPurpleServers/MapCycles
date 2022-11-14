@@ -2,11 +2,7 @@
 {
 	"Newest Maps"
 	{
-		"cp_caper_rc5" { }
-		"cp_paris_b2" { }
-		"koth_megasnow_rc1" { }
-		"koth_synthetic_rc6a" { }
-		"pl_sludgepit_final4" { }
+		"cp_paris_b3" { }
 	}
 
 	"Attack & Defend"
@@ -27,7 +23,7 @@
 		"cp_mountainlab" { }
 		"cp_osiris_b26" { }
 		"cp_overgrown_rc7b" { }
-		"cp_paris_b2" { }
+		"cp_paris_b3" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
