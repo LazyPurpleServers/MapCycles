@@ -342,100 +342,95 @@
 		}
 		"68"
 		{
-			"map" "mvm_damm_r1"
-			"popfile" "mvm_damm_r1"
-		}
-		"69"
-		{
 			"map" "mvm_decay_rc1"
 			"popfile" "mvm_decay_rc1_nightmare"
 		}
-		"70"
+		"69"
 		{
 			"map" "mvm_factory"
 			"popfile" "mvm_factory"
 		}
-		"71"
+		"70"
 		{
 			"map" "mvm_gateway_rc2"
 			"popfile" "mvm_gateway_rc2"
 		}
-		"72"
+		"71"
 		{
 			"map" "mvm_havana_b3"
 			"popfile" "mvm_havana_b3"
 		}
-		"73"
+		"72"
 		{
 			"map" "mvm_intersection"
 			"popfile" "mvm_intersection"
 		}
-		"74"
+		"73"
 		{
 			"map" "mvm_logvalley_b9"
 			"popfile" "mvm_logvalley_b9"
 		}
-		"75"
+		"74"
 		{
 			"map" "mvm_manncohq_v3"
 			"popfile" "mvm_manncohq_v3"
 		}
-		"76"
+		"75"
 		{
 			"map" "mvm_manndarin_final"
 			"popfile" "mvm_manndarin_final_advanced_lamiiedit"
 		}
-		"77"
+		"76"
 		{
 			"map" "mvm_memorial_b1"
 			"popfile" "mvm_memorial_b1"
 		}
-		"78"
+		"77"
 		{
 			"map" "mvm_overgreen"
 			"popfile" "mvm_overgreen"
 		}
-		"79"
+		"78"
 		{
 			"map" "mvm_pinnacle_a6"
 			"popfile" "mvm_pinnacle_a6_a6_advanced_canadian_crackdown"
 		}
-		"80"
+		"79"
 		{
 			"map" "mvm_potassium_release3"
 			"popfile" "mvm_potassium_release3"
 		}
-		"81"
+		"80"
 		{
 			"map" "mvm_processed_b4"
 			"popfile" "mvm_processed_b4_int_leaking_oilcan"
 		}
-		"82"
+		"81"
 		{
 			"map" "mvm_redbrier_b3"
 			"popfile" "mvm_redbrier_b3_666_calamatic_revenge"
 		}
-		"83"
+		"82"
 		{
 			"map" "mvm_seabed_b1"
 			"popfile" "mvm_seabed_b1_advanced1"
 		}
-		"84"
+		"83"
 		{
 			"map" "mvm_sharp_rc9"
 			"popfile" "mvm_sharp_rc9_adv_sudden_equinox"
 		}
-		"85"
+		"84"
 		{
 			"map" "mvm_shipper_b4"
 			"popfile" "mvm_shipper_b4"
 		}
-		"86"
+		"85"
 		{
 			"map" "mvm_snowflake_b3"
 			"popfile" "mvm_snowflake_b3"
 		}
-		"87"
+		"86"
 		{
 			"map" "mvm_terrorlict_final1"
 			"popfile" "mvm_terrorlict_final1"
