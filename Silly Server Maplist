@@ -4,67 +4,6 @@
 {
 
 
-	// All Hallow's Eve
-
-	"Halloween " // special category for seasonal silly server spooptimes - valve maps allowed here
-	{
-		"maps_invote" "5"
-		
-		"cp_alamo_event" { }
-		"cp_bloodcrystal_event" { }
-		"cp_clue_b1" { }
-		"cp_crossroads_event_rc9" { }
-		"cp_gothic_event" { }
-		"cp_geomance_rc1" { }
-		"cp_gorge_event" { }
-		"cp_gothic_event" { }
-		"cp_lazytown_lazynite" { }
-		"cp_manor_event" { }
-		"cp_neighbor_b3" { }
-		"cp_pirateship_v3" { }
-		"cp_spookeyridge_b7" { }
-		"cp_standin_event" { }
-		"cp_steel_aftermath" { }
-		"cp_sunshine_event" { }
-		"cp_toys_v2" { }
-		"cp_undercrypt_b9" { }
-		"ctf_2fort_2012_night" { }
-		"ctf_2fort_invasion" { }
-		"ctf_2fort_spooky_workshop" { }
-		"ctf_collisionroutev1f_event" { }
-		"ctf_darktower" { }
-		"ctf_hearth_event_rc5" { }
-		"ctf_nightlands" { }
-		"ctf_turbine_event_b7" { }
-		"ctf_turbine_upsidedown_02" { }
-		"ctf_well_event_rc4a" { }
-		"koth_ashwood_night_b8" { }
-		"koth_autumn_twilight_rc2" { }
-		"koth_bagel_event" { }
-		"koth_gravelstone_event" { }
-		"koth_harvest_event" { }
-		"koth_harvest_minecraft_s2" { }
-		"koth_lakeside_event" { }
-		"koth_luigis_mansiion_v3_yelldow" { }
-		"koth_moonshine_event" { }
-		"koth_saturnvalley" { }
-		"koth_sawmill_event_v2" { }
-		"koth_slasher" { }
-		"koth_viaduct_event" { }
-		"pl_badwater_event" { }
-		"pd_sfoth_a6" { }
-		"pl_rebirth_b1" { }
-		"pl_rumble_event" { }
-		"plr_hightower_event" { }
-		"trade_templeofdonger_v69_h" { }
-		"ach_villains_city_fall_v3" { }
-		"achievement_turbo_rhobv4_fall" { }
-		"chill_cabin_final" { }
-		"mario_kart_deluxe_v3" { }
-		"pkmn_goldenrodcity_b4a" { }
-		"sm64_big_boos_haunt" { }
-	}
-
 	"Arena "
 	{
 		"maps_invote" "1"
@@ -270,6 +209,7 @@
 		"ctf_theskatingrink_b3" { }
 		"ctf_turbheim" { }
 		"ctf_turbine_upsidedown_02" { }
+		"ctf_turbine_winter_rc1" { }
 		"ctf_urbanbrook" { }
 		"ctf_vikings_final" { }
 		"ctf_well_classic_b3" { }
