@@ -312,7 +312,7 @@
 		}
 		"62"
 		{
-			"map" "mvm_seige_mode_v7"
+			"map" "mvm_siege_mode_v7"
 			"popfile" "mvm_siege_mode_v7_kmlp_quickplay"
 		}
 		"63"
