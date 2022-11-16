@@ -35,7 +35,6 @@
 	"King of the Hill"
 	{
 		"koth_bagel_rc5" { }
-		"koth_betteryard_rc1" { }
 		"koth_cascade" { }
 		"koth_databank_rc3" { }
 		"koth_eros_rc2" { }
@@ -92,7 +91,6 @@
 	"Alternative "
 	{
 		"cp_caper_rc5" { }
-		"pass_brickyard" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
