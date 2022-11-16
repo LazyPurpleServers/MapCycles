@@ -3,6 +3,7 @@
 	"Newest Maps"
 	{
 		"cp_paris_b3" { }
+		"koth_shorelight_rc5" { }
 		"pd_suijin_matsuri_rc3" { }
 	}
 
@@ -52,7 +53,7 @@
 		"koth_nucleus" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
-		"koth_shorelight_rc4" { }
+		"koth_shorelight_rc5" { }
 		"koth_slaughter_b2a" { }
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
