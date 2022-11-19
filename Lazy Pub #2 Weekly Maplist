@@ -209,6 +209,7 @@
 		"ctf_operative_b1" { }
 		"ctf_overlook_b1" { }
 		"ctf_parabolic_a10" { }
+		"ctf_pelican_peak_rc6a" { }
 		"ctf_pool" { }
 		"ctf_quarry_v2" { }
 		"ctf_raveravine_beta03" { }
@@ -262,6 +263,7 @@
 		"koth_clearcut_b15c" { }
 		"koth_coalplant_b7" { }
 		"koth_combustion_b1" { }
+		"koth_conveyance_rc3b" { }
 		"koth_coulee_b4_fix" { }
 		"koth_daenam_b8" { }
 		"koth_databank_rc3" { }
@@ -456,13 +458,14 @@
 	{
 		"maps_invote" "1"
 
-		"cp_caper_rc5" { }
+		"cp_caper_rc6a" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
 		"pass_brickyard" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
+		"pd_atom_smash_b1" { }
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
