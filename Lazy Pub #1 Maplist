@@ -7,6 +7,8 @@
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
 		"pd_atom_smash_b1" { }
+		"pd_suijin_matsuri_rc4" { }
+		"pl_divulgence_b4" { }
 	}
 
 	"Attack & Defend"
@@ -75,7 +77,7 @@
 		"pl_barnblitz" { }
 		"pl_borneo" { }
 		"pl_cactuscanyon_redux_rc4b" { }
-		"pl_divulgence_b2" { }
+		"pl_divulgence_b4" { }
 		"pl_enclosure_final" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc1" { }
@@ -104,7 +106,7 @@
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
-		"pd_suijin_matsuri_rc3" { }
+		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc1" { }
 		"pd_watergate" { }
 	}
