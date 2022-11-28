@@ -15,6 +15,7 @@
 		"billiards2_a2" { }
 		"bot_rockpaperglitter_b3_fix" { }
 		"cp_27points" { }
+		"cp_badwater" { }
 		"cp_beachassault_v3" { }
 		"cp_bellas_roomz_v3" { }
 		"cp_cheesefire" { }
@@ -53,6 +54,7 @@
 		"ctf_2fort_twisted" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_atrophy_b4" { }
+		"ctf_badwater_b2" { }
 		"ctf_facing_worlds_2011" { }
 		"ctf_bedrooms3" { }
 		"ctf_converge_b3" { }
