@@ -55,6 +55,7 @@
 		"ctf_2fort_unleashed_night" { }
 		"ctf_atrophy_b4" { }
 		"ctf_badwater_b2" { }
+		"ctf_enibrut_b2" { }
 		"ctf_facing_worlds_2011" { }
 		"ctf_bedrooms3" { }
 		"ctf_converge_b3" { }
@@ -178,14 +179,17 @@
 		"pl_dustbowl_b4" { }
 		"pl_fastwater" { }
 		"pl_frontiiiiiiiiiieeeeeeeeer" { }
+		"pl_hsurdlog" { }
 		"pl_jungle_a1c" { }
 		"pl_minepit" { }
 		"pl_minewoods" { }
 		"pl_morrigan_alley_b3" { }
 		"pl_moonbase_rc1" { }
+		"pl_oodooh" { }
 		"pl_rainbowride_b7e" { }
 		"pl_retawdab" { }
 		"pl_siegemachine_a6" { }
+		"pl_tsaocywons_b1" { }
 		"plr_dogbread_b3" { }
 		"plr_highmillbine" { }
 		"plr_hightower_dontjumptoohigh" { }
@@ -194,6 +198,7 @@
 		"steamboat_race_v5e" { }
 		"sm_krastmas" { }
 		"tdm_overtopolis_a5" { }
+		"tc_ordyh" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
 		"tf_doom_e1m1_v01" { }
