@@ -169,6 +169,7 @@
 		"pd_steamed_hams_final" { }
 		"pkmn_victoryroad_pl" { }
 		"pl_badsawter" { }
+		"pl_boostwater" { }
 		"pl_cooler_badwater_a3" { }
 		"pl_badwater_rainy" { }
 		"pl_badwater_tilt" { }
@@ -189,7 +190,9 @@
 		"pl_rainbowride_b7e" { }
 		"pl_retawdab" { }
 		"pl_siegemachine_a6" { }
+		"pl_spacewater_b7a_fix_2" { }
 		"pl_tsaocywons_b1" { }
+		"pl_upwater" { }
 		"plr_dogbread_b3" { }
 		"plr_highmillbine" { }
 		"plr_hightower_dontjumptoohigh" { }
