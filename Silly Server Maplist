@@ -339,7 +339,7 @@
 		"rp_destruction_v2" { }
 		"rp_jedivssith" { }
 		"rp_richlandday" { }
-		"rp_richlandnight" { } rp_tb_city45_v02n
+		"rp_richlandnight" { }
 		"rp_tb_city45_v02n" { }
 		"sandbox_ttt_lego" { }
 		"sb_atlantis_b14a" { }
