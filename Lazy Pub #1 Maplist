@@ -2,6 +2,8 @@
 {
 	"Celebration "
 	{
+        "maps_invote" "7"
+        
 		"cp_caldera_rc2" { }
 		"cp_conifer_rc2" { }
 		"cp_hazyfort_rc6" { }
