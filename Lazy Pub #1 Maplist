@@ -1,35 +1,29 @@
 "umc_mapcycle"
 {
-	"Celebration "
+	"Gravidea's Choice "
 	{
-        "maps_invote" "7"
+        "maps_invote" "1"
         
 		"cp_caldera_rc2" { }
 		"cp_conifer_rc2" { }
 		"cp_hazyfort_rc6" { }
 		"cp_fulgur_rc2a" { }
-		"cp_osiris_b26" { }
 		"koth_bagel_rc5" { }
 		"koth_hangar_rc5" { }
 		"koth_hoax_rc3" { }
-		"koth_megasnow_rc1" { }
 		"koth_namicott_rc4" { }
-		"koth_databank_rc3" { }
-		"koth_sharkbay_rc2" { }
 		"pl_cactuscanyon_redux_rc4b" { }
 		"pl_midwest_rc1a" { }
-		"pl_oasis_b4" { }
 		"pl_rumford_rc1" { }
 		"pl_vigil_rc9" { }
 		"cp_caper_rc6a" { }
-		"pass_smalltime_rc1a" { }
-		"pd_pipeline_rc6" { }
-		"pd_standin_b1" { }
 	}
 
 	"Attack & Defend"
 	{
-		"cp_alloy_rc3"
+        "maps_invote" "1"
+        
+		"cp_alloy_rc3" { }
 		"cp_altitude" { }
 		"cp_caldera_rc2" { }
 		"cp_conifer_rc2" { }
@@ -55,6 +49,8 @@
 
 	"King of the Hill"
 	{
+        "maps_invote" "1"
+        
 		"koth_anthem_b4" { }
 		"koth_bagel_rc5" { }
 		"koth_cascade" { }
@@ -89,6 +85,8 @@
 
 	"Payload "
 	{
+        "maps_invote" "1"
+        
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
@@ -115,6 +113,8 @@
 
 	"Alternative "
 	{
+        "maps_invote" "1"
+        
 		"cp_caper_rc6a" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
