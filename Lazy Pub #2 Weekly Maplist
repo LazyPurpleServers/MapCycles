@@ -6,7 +6,6 @@
 	{
 		"maps_invote" "1"
 
-		"aplr_tinyrock" { }
 		"arena_backlot_rc2" { }
 		"arena_badlands" { }
 		"arena_betteryard_rc1" { }
@@ -42,6 +41,7 @@
 		"arena_stone_keep_siege_a1" { }
 		"arena_swampbridge_a3" { }
 		"arena_temper_rc1" { }
+		"arena_tinyrock" { }
 		"arena_voltage_a1" { }
 		"arena_watchtower" { }
 		"arena_watchtower_event" { }
