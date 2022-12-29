@@ -337,7 +337,7 @@
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
-		"koth_sawmill_event_v2" { }
+		"koth_sawmill_event" { }
 		"koth_sekhmet_b4" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
@@ -396,7 +396,7 @@
 		"pl_abandoned_upward" { }
 		"pl_alpine_forest_rc2" { }
 		"pl_angkor_rc1" { }
-		"pl_badwater_event" { }
+		"pl_bloodwater" { }
 		"pl_badwater_snowy" { }
 		"pl_badlands_winter" { }
 		"pl_barnblitz_pro_rc2" { }
