@@ -1,22 +1,13 @@
 "umc_mapcycle"
 {
-	"Gravidea's Choice "
+	"Newest Maps "
 	{
         "maps_invote" "1"
         
-		"cp_caldera_rc2" { }
-		"cp_conifer_rc2" { }
-		"cp_hazyfort_rc6" { }
-		"cp_fulgur_rc2a" { }
-		"koth_bagel_rc5" { }
-		"koth_hangar_rc5" { }
-		"koth_hoax_rc3" { }
-		"koth_namicott_rc4" { }
-		"pl_cactuscanyon_redux_rc4b" { }
-		"pl_midwest_rc1a" { }
-		"pl_rumford_rc1" { }
-		"pl_vigil_rc9" { }
-		"cp_caper_rc6a" { }
+		"ctf_nuclide_rc8d" { }
+		"koth_chasm_b1" { }
+		"koth_rocktop_rc2" { }
+		"pl_stranded_rc3" { }
 	}
 
 	"Attack & Defend"
@@ -70,6 +61,7 @@
 		"koth_megasnow_rc1" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
+		"koth_rocktop_rc2" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_shorelight_rc5" { }
@@ -105,6 +97,7 @@
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
 		"pl_sludgepit_final4" { }
+		"pl_stranded_rc3" { }
 		"pl_swiftwater_final1" { }
 		"pl_thundermountain" { }
 		"pl_upward" { }
@@ -116,6 +109,7 @@
         "maps_invote" "1"
         
 		"cp_caper_rc6a" { }
+		"ctf_nuclide_rc8d" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
