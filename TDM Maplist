@@ -38,6 +38,7 @@
 		"dom_cliffhanger_b11" { }
 		"koth_aquaticruin_final" { }
 		"koth_cascade" { }
+		"koth_chasm_b1" { }
 		"koth_conveyance_rc3b" { }
 		"koth_dewm_rc1" { }
 		"koth_dryway_final" { }
@@ -51,6 +52,7 @@
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
 		"koth_occult_rc6" { }
+		"koth_rocktop_rc2" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_shorelight_rc5" { }
