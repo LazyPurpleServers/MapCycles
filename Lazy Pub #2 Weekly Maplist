@@ -46,7 +46,6 @@
 		"arena_voltage_a1" { }
 		"arena_watchtower" { }
 		"arena_watchtower_event" { }
-		"arena_watchtowerrrrrrrrr_b1" { }
 		"arena_well" { }
 		"arena_yunshu_rc1" { }
 		"ctf_exsmol_rc1" { }
@@ -422,7 +421,7 @@
 		"pl_eruption_b9a" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc1" { }
-		"pl_frankensteins_castle_v3" { }
+		"pl_hasslecastle" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
 		"pl_haywire_rc5" { }
