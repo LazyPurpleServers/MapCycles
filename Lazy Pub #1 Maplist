@@ -4,11 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"ctf_nuclide_rc8d" { }
-		"koth_chasm_b1" { }
-		"koth_rocktop_rc2" { }
-		"koth_sherman_rc1" { }
-		"pl_stranded_rc3" { }
+		"pl_cactuscanyon_redux_final" { }
+		"pl_divulgence_b4b" { }
 	}
 
 	"Attack & Defend"
@@ -84,8 +81,8 @@
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
-		"pl_cactuscanyon_redux_rc4b" { }
-		"pl_divulgence_b4" { }
+		"pl_cactuscanyon_redux_final" { }
+		"pl_divulgence_b4b" { }
 		"pl_enclosure_final" { }
 		"pl_eruption_b9a" { }
 		"pl_escarpment_rc1" { }
