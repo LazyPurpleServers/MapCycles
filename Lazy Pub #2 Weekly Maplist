@@ -402,7 +402,7 @@
 		"pl_borax_b1" { }
 		"pl_boundary_final" { }
 		"pl_boxcanyon_b2" { }
-		"pl_cactuscanyon_redux_rc4b" { }
+		"pl_cactuscanyon_redux_final" { }
 		"pl_cashworks_final1" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_b2" { }
@@ -413,7 +413,7 @@
 		"pl_crusoe_a17" { }
 		"pl_curve" { }
 		"pl_deadwood" { }
-		"pl_divulgence_b4" { }
+		"pl_divulgence_b4b" { }
 		"pl_eclipse_rc2" { }
 		"pl_effigy_rc2" { }
 		"pl_eruption_b9a" { }
