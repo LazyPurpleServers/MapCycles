@@ -4,8 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"pl_cactuscanyon_redux_final" { }
-		"pl_divulgence_b4b" { }
+		"koth_bagel_rc6" { }
 	}
 
 	"Attack & Defend"
@@ -41,7 +40,7 @@
         "maps_invote" "1"
         
 		"koth_anthem_b4" { }
-		"koth_bagel_rc5" { }
+		"koth_bagel_rc6" { }
 		"koth_cascade" { }
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
