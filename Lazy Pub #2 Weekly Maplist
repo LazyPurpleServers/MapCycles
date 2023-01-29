@@ -100,6 +100,7 @@
 		"cp_sulfur_rc2" { }
 		"cp_treehouse_b4" { }
 		"cp_upland_rc4" { }
+		"cp_vertigo_beta3" { }
 		"cp_wetcoal_b1" { }
 		"cp_zephyr_a1" { }
 		"cp_zinkenite_b3a" { }
@@ -121,6 +122,7 @@
 		"cp_croissant_rc6" { }
 		"cp_crossroads_b5" { }
 		"cp_crossroads_event_rc9" { }
+		"cp_daytrip_rc4" { }
 		"cp_dispatch_b4" { }
 		"cp_drylock_b2" { }
 		"cp_evergreen_b4" { }
@@ -143,7 +145,7 @@
 		"cp_redstone_b2" { }
 		"cp_redstone_ridge_b5a" { }
 		"cp_rooftop_b6" { }
-		"cp_shelter_rc3a" { }
+		"cp_shelter_rc4" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
 		"cp_supermariobros3_b3f" { }
@@ -219,6 +221,7 @@
 		"ctf_stronghold_b5" { }
 		"ctf_system_rc1" { }
 		"ctf_totalwar_v2" { }
+		"ctf_turbine2_a6" { }
 		"ctf_turbine_expanded" { }
 		"ctf_turbine_pro_b1" { }
 		"ctf_turbine_winter_rc1" { }
@@ -244,7 +247,7 @@
 		"koth_ashville_rc1" { }
 		"koth_ashwood_night_b8" { }
 		"koth_badlands_event" { }
-		"koth_bagel_rc5" { }
+		"koth_bagel_rc6" { }
 		"koth_basalt_rc2" { }
 		"koth_beachlands_a1" { }
 		"koth_betteryard_rc1" { }
@@ -352,6 +355,7 @@
 		"koth_sludge_puddle" { }
 		"koth_snowcliff_b1" { }
 		"koth_snowtown_a7" { }
+		"koth_sollytude" { }
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
 		"koth_stallone_b2" { }
