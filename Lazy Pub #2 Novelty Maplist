@@ -7,7 +7,6 @@
 		"maps_invote" "5"
 		
 		"2f2f_directional_dinosaurs_a1" { }
-		"2fart" { }
 		"arena_floorofglass_V1" { }
 		"arena_perks_a8" { }
 		"arena_ravine_randomly_b1" { }
@@ -16,23 +15,21 @@
 		"balloon_race_v3_t7" { }
 		"billiards2_a2" { }
 		"bot_rockpaperglitter_b3_fix" { }
-		"cp_27points" { }
 		"cp_badwater" { }
 		"cp_beachassault_v3" { }
 		"cp_bellas_roomz_v3" { }
 		"cp_cheesefire" { }
 		"cp_container" { }
 		"cp_cowpath_b3" { }
-		"cp_daytrip" { }
-		"cp_degrootkeep_rainstorm" { }
 		"cp_dryseas" { }
 		"cp_floorislava_rc2" { }
 		"cp_frantic_factory" { }
+		"cp_helmsdeep_v2" { }
 		"cp_hotelhell" { }
-		"cp_infinite_b1" { }
+		"cp_infinite_b8" { }
 		"cp_kakariko_a3" { }
 		"cp_lwobtsud" { }
-		"cp_marienwerder_beta2" { }
+		"cp_marienwerder_rc" { }
 		"cp_mario_bros_beta8" { }
 		"cp_marioblast_2011" { }
 		"cp_ohho" { }
@@ -45,15 +42,10 @@
 		"cp_toys_v2" { }
 		"cp_treehouse_b4" { }
 		"cp_tiplevarg" { }
-		"cp_vertigo_beta3" { }
 		"cp_yranarg" { }
 		"ctf_2bine_v1" { }
-		"ctf_2fort_2012_night" { }
 		"ctf_2fort_mine_craft_bd4" { }
-		"ctf_2fort_minecraft_s13" { }
-		"ctf_2fort_spooky_workshop" { }
 		"ctf_2fort_twisted" { }
-		"ctf_2fort_unleashed_night" { }
 		"ctf_atrophy_b4" { }
 		"ctf_badwater_b2" { }
 		"ctf_enibrut_b2" { }
@@ -61,6 +53,7 @@
 		"ctf_bedrooms3" { }
 		"ctf_converge_b3" { }
 		"ctf_flakey_b3" { }
+		"ctf_flyingfortresses" { }
 		"ctf_greystone_b2" { }
 		"ctf_hallofdeath_2_rc1" { }
 		"ctf_halo_bloodgulch" { }
@@ -80,24 +73,19 @@
 		"ctf_sawmill_hell" { }
 		"ctf_theskatingrink" { }
 		"ctf_trof2" { }
-		"ctf_turbine2_a6" { }
 		"ctf_turbine_crocodile" { }
-		"ctf_turbine_event_b7" { }
 		"ctf_turbine_everything_is_big" { }
 		"ctf_turbine_expanded" { }
 		"ctf_turbine_extended_final" { }
 		"ctf_turbine_flood" { }
-		"ctf_turbine_minecraft_s1" { }
 		"ctf_turbine_upsidedown_02" { }
 		"ctf_turrrrrrrrrrrrrrrrrbine_fix3" { }
 		"ctf_underside_1_1" { }
 		"ctf_unturbine" { }
-		"ctf_vector_v1" { }
 		"ctf_vikings_final" { }
 		"ctf_xpress_2012_b1" { }
 		"ctf_zeppelin" { }
 		"dm_halo_bloodgulch" { }
-		"dom_drenched_a4a" { }
 		"dom_presidents_a1" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
@@ -106,13 +94,11 @@
 		"koth_af_formula_a2" { }
 		"koth_ant_fortress_a2" { }
 		"koth_aperture_science_iiia" { }
-		"koth_campground_v2" { }
+		"koth_conveyor_v2" { }
 		"koth_crevice_b5" { }
 		"koth_dead_simple_classic" { }
 		"koth_deep13_b1" { }
-		"koth_deku" { }
 		"koth_diabolical_final1" { }
-		"koth_disneyworld_b1" { }
 		"koth_dropdeadfred_v3" { }
 		"koth_falling" { }
 		"koth_flood" { }
@@ -129,7 +115,6 @@
 		"koth_mariokart2_b2" { }
 		"koth_minefest_b1" { }
 		"koth_mineriver" { }
-		"koth_namicott_rc4" { }
 		"koth_neurotoxin_s7" { }
 		"koth_nippletwister_a3" { }
 		"koth_nyan_b1" { }
@@ -146,12 +131,9 @@
 		"koth_saturnvalley" { }
 		"koth_saw_final" { }
 		"koth_schism_a26" { }
-		"koth_sherman_rc1" { }
 		"koth_skybox_rc2" { }
 		"koth_skyway_c" { }
-		"koth_sollytude" { }
 		"koth_space_pizza" { }
-		"koth_sunset_saloon_b1r1" { }
 		"koth_sunset_saloon_r2_2" { }
 		"koth_tesseract_a2" { }
 		"koth_tf2craps_b1" { }
@@ -183,25 +165,29 @@
 		"pl_frontiiiiiiiiiieeeeeeeeer" { }
 		"pl_hsurdlog" { }
 		"pl_jungle_a1c" { }
+		"pl_nat20_b2b" { }
 		"pl_minepit" { }
 		"pl_minewoods" { }
 		"pl_morrigan_alley_b3" { }
 		"pl_moonbase_rc1" { }
 		"pl_oodooh" { }
 		"pl_rainbowride_b7e" { }
+		"pl_redship_dc_rc3" { }
 		"pl_retawdab" { }
 		"pl_siegemachine_a6" { }
+		"pl_slopandslime_b2" { }
 		"pl_spacewater_b7a_fix_2" { }
 		"pl_tsaocywons_b1" { }
 		"pl_upwater" { }
+		"pl_ztilbnrab" { }
 		"plr_2cart" { }
 		"plr_dogbread_b3" { }
 		"plr_highmillbine" { }
 		"plr_hightower_dontjumptoohigh" { }
 		"plr_hightower_everyone_is_tiny" { }
+		"plr_whalerace_a4a" { }
 		"rats_tequila_b01" { }
 		"steamboat_race_v5e" { }
-		"sm_krastmas" { }
 		"tdm_overtopolis_a5" { }
 		"tc_ordyh" { }
 		"tc_spectre_b5" { }
