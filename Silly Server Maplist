@@ -284,7 +284,7 @@
 		"gm_baik_tatooine" { }
 		"gm_baik_frontline" { }
 		"gm_bay" { }
-		"gm_bigcitysideways" { }	
+		// "gm_bigcitysideways" { } off of rotation until i can fix the spawn points
 		"gm_borealis_full" { }
 		"gm_buttes2" { } 
 		"gm_carconstruct_b1-8" { }
