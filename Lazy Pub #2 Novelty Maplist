@@ -59,7 +59,6 @@
 		"ctf_halo_bloodgulch" { }
 		"ctf_lavapit_72h_b2" { }
 		"ctf_mandrillmaze_b2" { }
-		"ctf_marble_alpha" { }
 		"ctf_minecraft_b8" { }
 		"ctf_minecraft_tunnel_finalV2" { }
 		"ctf_nordhaven_special_b3" { }
@@ -135,7 +134,6 @@
 		"koth_skyway_c" { }
 		"koth_space_pizza" { }
 		"koth_sunset_saloon_r2_2" { }
-		"koth_tesseract_a2" { }
 		"koth_tf2craps_b1" { }
 		"koth_traingrid_b2" { }
 		"koth_trainsawlaser_rc2" { }
