@@ -5,6 +5,8 @@
         "maps_invote" "1"
         
 		"koth_bagel_rc6" { }
+		"pl_cactuscanyon_redux_final1" { }
+		"pl_shoreleave_rc2" { }
 	}
 
 	"Attack & Defend"
@@ -80,7 +82,7 @@
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
-		"pl_cactuscanyon_redux_final" { }
+		"pl_cactuscanyon_redux_final1" { }
 		"pl_divulgence_b4b" { }
 		"pl_enclosure_final" { }
 		"pl_eruption_b9a" { }
@@ -94,6 +96,7 @@
 		"pl_rumford_rc1" { }
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
+		"pl_shoreleave_rc2" { }
 		"pl_sludgepit_final4" { }
 		"pl_stranded_rc3" { }
 		"pl_swiftwater_final1" { }
