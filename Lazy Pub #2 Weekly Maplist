@@ -406,7 +406,7 @@
 		"pl_borax_b1" { }
 		"pl_boundary_final" { }
 		"pl_boxcanyon_b2" { }
-		"pl_cactuscanyon_redux_final" { }
+		"pl_cactuscanyon_redux_final1" { }
 		"pl_cashworks_final1" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_b2" { }
@@ -447,6 +447,7 @@
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
 		"pl_shenmue_release" { }
+		"pl_shoreleave_rc2" { }
 		"pl_skirmish_b2" { }
 		"pl_sludgepit_final4" { }
 		"pl_spectre_a2" { }
