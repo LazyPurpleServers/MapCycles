@@ -75,6 +75,7 @@
 		"cp_gydan" { }
 		"cp_hadal_rc1" { }
 		"cp_haddou_rc2" { }
+		"cp_hardwood_b4" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_heaven_rc" { }
@@ -292,7 +293,7 @@
 		"koth_gladstone_b7a" { }
 		"koth_gravelstone_event" { }
 		"koth_gray_co_rc1" { }
-		"koth_hangar_rc5" { }
+		"koth_hangar_rc5b" { }
 		"koth_hardway_72_rc1" { }
 		"koth_harter_rc1" { }
 		"koth_harvestalpine_v3b" { }
@@ -443,7 +444,7 @@
 		"pl_rebirth_rc1" { }
 		"pl_rivercrossing_rc2a" { }
 		"pl_rocketravine_b6" { }
-		"pl_rumford_rc1" { }
+		"pl_rumford_rc2" { }
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
 		"pl_shenmue_release" { }
