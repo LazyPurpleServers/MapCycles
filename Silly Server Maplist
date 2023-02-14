@@ -640,11 +640,11 @@
 		"maps_invote" "1"
 
 		"trade_3d_land_v3" { }
-		"trade_absolutemuppet_lp3c" { }
+		"trade_absolutemuppet_lp4" { }
 		"trade_appleloosa_v2" { }
 		"trade_badsand_rc8" { }
 		"trade_balloonfarm" { }
-		"trade_bluehouse_lp1" { }
+		"trade_bluehouse_lp2" { }
 		"trade_bubblegloop_swamp_a2" { }
 		"trade_clocktown_v1b" { }
 		"trade_combine_v18" { }
@@ -654,7 +654,7 @@
 		"trade_finalfantasy_town" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_icerink_b3a" { }
-		"trade_imagination_figment_a7a" { }
+		"trade_imagination_figment_a8" { }
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
