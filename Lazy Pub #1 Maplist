@@ -4,9 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"cp_hardwood_b4" { }
-		"koth_hangar_rc5b" { }
-		"pl_rumford_rc2" { }
+		"pl_vineyard_rc5a" { }
 	}
 
 	"Attack & Defend"
@@ -104,6 +102,7 @@
 		"pl_thundermountain" { }
 		"pl_upward" { }
 		"pl_vigil_rc9" { }
+		"pl_vineyard_rc5a" { }
 	}
 
 	"Alternative "
