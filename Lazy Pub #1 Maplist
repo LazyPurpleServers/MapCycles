@@ -4,6 +4,8 @@
 	{
         "maps_invote" "1"
         
+		"koth_kemptown_rc3a" { }
+		"pl_jinn_b12a" { }
 		"pl_vineyard_rc5a" { }
 	}
 
@@ -52,6 +54,7 @@
 		"koth_highpass" { }
 		"koth_hoax_rc3" { }
 		"koth_horizon" { }
+		"koth_kemptown_rc3a" { }
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
@@ -88,6 +91,7 @@
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc1" { }
 		"pl_frontier_final" { }
+		"pl_jinn_b12a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_b4" { }
