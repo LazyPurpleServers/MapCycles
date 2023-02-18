@@ -52,6 +52,8 @@
 		"ctf_facing_worlds_2011" { }
 		"ctf_bedrooms3" { }
 		"ctf_converge_b3" { }
+		"ctf_crasher" { }
+		"ctf_eggwar_b2" { }
 		"ctf_flakey_b3" { }
 		"ctf_flyingfortresses" { }
 		"ctf_greystone_b2" { }
@@ -88,6 +90,7 @@
 		"dom_presidents_a1" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
+		"dom_seaplant_b0a" { }
 		"ds_extractum" { }
 		"koth_087b_v2" { }
 		"koth_af_formula_a2" { }
@@ -131,6 +134,8 @@
 		"koth_saw_final" { }
 		"koth_schism_a26" { }
 		"koth_skybox_rc2" { }
+		"koth_skyfall_a7a" { }
+		"koth_skywalker1" { }
 		"koth_skyway_c" { }
 		"koth_space_pizza" { }
 		"koth_sunset_saloon_r2_2" { }
