@@ -407,7 +407,7 @@
 		"pl_borax_b1" { }
 		"pl_boundary_final" { }
 		"pl_boxcanyon_b2" { }
-		"pl_cactuscanyon_redux_final1" { }
+		"pl_cactuscanyon_redux_final2" { }
 		"pl_cashworks_final1" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_b2" { }
@@ -423,7 +423,7 @@
 		"pl_effigy_rc2" { }
 		"pl_eruption_b9a" { }
 		"pl_escarpment_rc1" { }
-		"pl_farmstead_rc1" { }
+		"pl_farmstead_rc3" { }
 		"pl_hasslecastle" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
