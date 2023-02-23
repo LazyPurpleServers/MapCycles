@@ -4,11 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"koth_kemptown_rc3a" { }
-		"pl_cactuscanyon_redux_final2" { }
-		"pl_farmstead_rc3" { }
-		"pl_jinn_b12a" { }
-		"pl_vineyard_rc5a" { }
+		"cp_hardwood_b5a" { }
 	}
 
 	"Attack & Defend"
@@ -24,7 +20,7 @@
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
-		"cp_hardwood_b4" { }
+		"cp_hardwood_b5a" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_mojave_b2" { }
