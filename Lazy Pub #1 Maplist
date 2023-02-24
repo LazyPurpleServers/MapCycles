@@ -4,7 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_hardwood_b5a" { }
+		"cp_hardwood_b5b" { }
+		"pl_jinn_b13a" { }
 	}
 
 	"Attack & Defend"
@@ -88,7 +89,7 @@
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc3" { }
 		"pl_frontier_final" { }
-		"pl_jinn_b12a" { }
+		"pl_jinn_b13a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_b4" { }
