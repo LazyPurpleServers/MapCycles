@@ -16,6 +16,7 @@
 		"billiards" { }
 		"bot_rockpaperglitter_b3_fix" { }
 		"cp_badwater" { }
+		"cp_battlefortress_b8c" { }
 		"cp_beachassault_v3" { }
 		"cp_bellas_roomz_v3" { }
 		"cp_cheesefire" { }
@@ -173,6 +174,7 @@
 		"pl_minewoods" { }
 		"pl_morrigan_alley_b3" { }
 		"pl_moonbase_rc1" { }
+		"pl_offcenter_stage1a" { }
 		"pl_oodooh" { }
 		"pl_rainbowride_b7e" { }
 		"pl_redship_dc_rc3" { }
@@ -196,6 +198,7 @@
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
 		"tf_doom_e1m1_v01" { }
+		"vip_tfc_hunted" { }
 		"wacky_races_v2" { }
 	}
 }
