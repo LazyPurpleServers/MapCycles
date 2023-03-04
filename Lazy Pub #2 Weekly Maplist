@@ -466,7 +466,7 @@
 	{
 		"maps_invote" "1"
 
-		"cp_caper_rc6a" { }
+		"cp_caper_rc7" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
 		"pass_brickyard" { }
@@ -478,7 +478,7 @@
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
 		"pd_suijin_matsuri_rc4" { }
-		"pd_tomb_rc1" { }
+		"pd_tomb_rc2a" { }
 		"pd_watergate" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_b1" { }
