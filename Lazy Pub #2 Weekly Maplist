@@ -161,6 +161,7 @@
 	{
 		"maps_invote" "1"
 
+		"ctf_2castle" { }
 		"ctf_2fort_dark" { }
 		"ctf_2fort_desert2" { }
 		"ctf_2fort_spooky_workshop" { }
