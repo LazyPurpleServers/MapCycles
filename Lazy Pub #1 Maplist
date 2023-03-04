@@ -4,8 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_hardwood_b5b" { }
-		"pl_jinn_b13a" { }
+		"cp_caper_rc7" { }
+		"pd_tomb_rc2a" { }
 	}
 
 	"Attack & Defend"
@@ -111,7 +111,7 @@
 	{
         "maps_invote" "1"
         
-		"cp_caper_rc6a" { }
+		"cp_caper_rc7" { }
 		"ctf_nuclide_rc8d" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
@@ -121,7 +121,7 @@
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
 		"pd_suijin_matsuri_rc4" { }
-		"pd_tomb_rc1" { }
+		"pd_tomb_rc2a" { }
 		"pd_watergate" { }
 	}
 }
