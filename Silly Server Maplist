@@ -144,6 +144,7 @@
 	{
 		"maps_invote" "1"
 
+		"ctf_2castle" { }
 		"ctf_2fort_frostyV47" { }
 		"ctf_2fort_mine_craft_bd4" { }
 		"ctf_2fort_time_tstorm_b1" { }
