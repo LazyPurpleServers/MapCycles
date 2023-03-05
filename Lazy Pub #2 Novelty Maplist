@@ -2,29 +2,15 @@
 
 "umc_mapcycle" // Lazy Pub - Novelty
 {
-	"Novelty"
+
+	"Attack & Defend"
 	{
-		"maps_invote" "5"
-		
-		"2f2f_directional_dinosaurs_a1" { }
-		"arena_floorofglass_V1" { }
-		"arena_perks_a8" { }
-		"arena_ravine_randomly_b1" { }
-		"arena_watchtowerrrrrrrrr_b1" { }
-		"balloon_race_v2b" { }
-		"balloon_race_v3_t7" { }
-		"billiards" { }
-		"bot_rockpaperglitter_b3_fix" { }
+		"maps_invote" "1"
+
 		"cp_badwater" { }
 		"cp_battlefortress_b8c" { }
-		"cp_beachassault_v3" { }
-		"cp_bellas_roomz_v3" { }
+		"cp_beachassault_v3" { } 
 		"cp_cheesefire" { }
-		"cp_container" { }
-		"cp_cowpath_b3" { }
-		"cp_dryseas" { }
-		"cp_floorislava_rc2" { }
-		"cp_frantic_factory" { }
 		"cp_helmsdeep_v2" { }
 		"cp_hotelhell" { }
 		"cp_infinite_b8" { }
@@ -32,18 +18,37 @@
 		"cp_lwobtsud" { }
 		"cp_marienwerder_rc" { }
 		"cp_mario_bros_beta8" { }
+		"cp_ribbon_hood_event_final" { }
+		"cp_smbcastle_2" { }
+		"cp_treehouse_b4" { }
+		"cp_tiplevarg" { }
+	}
+
+	"Control Points"
+	{
+		"maps_invote" "1"
+
+		"cp_bellas_roomz_v3" { }
+		"cp_container" { }
+		"cp_cowpath_b3" { }
+		"cp_dryseas" { }
+		"cp_floorislava_rc2" { }
+		"cp_frantic_factory" { }
 		"cp_marioblast_2011" { }
 		"cp_ohho" { }
 		"cp_peachs_castle_v1" { }
 		"cp_pirateship_v3" { }
 		"cp_recloak_a2" { }
-		"cp_ribbon_hood_event_final" { }
 		"cp_sdnaldab" { }
-		"cp_smbcastle_2" { }
 		"cp_toys_v2" { }
-		"cp_treehouse_b4" { }
-		"cp_tiplevarg" { }
 		"cp_yranarg" { }
+		"rats_tequila_b01" { }
+	}
+
+	"Capture the Flag"
+	{
+		"maps_invote" "1"
+
 		"ctf_2bine_v1" { }
 		"ctf_2fort_mine_craft_bd4" { }
 		"ctf_2fort_twisted" { }
@@ -87,12 +92,51 @@
 		"ctf_vikings_final" { }
 		"ctf_xpress_2012_b1" { }
 		"ctf_zeppelin" { }
-		"dm_halo_bloodgulch" { }
-		"dom_presidents_a1" { }
-		"dom_canalzone2_b4" { }
-		"dom_cliffhanger_b11" { }
-		"dom_seaplant_b0a" { }
-		"ds_extractum" { }
+	}
+
+	"Payload"
+	{
+		"maps_invote" "1"
+
+		"pkmn_victoryroad_pl" { }
+		"pl_badsawter" { }
+		"pl_boostwater" { }
+		"pl_cooler_badwater_a3" { }
+		"pl_badwater_rainy" { }
+		"pl_badwater_tilt" { }
+		"pl_casserole_rc2" { }
+		"pl_donkeykong_final" { }
+		"pl_dbheights_b5" { }
+		"pl_drawpu_rc1" { }
+		"pl_dustbowl_b4" { }
+		"pl_fastwater" { }
+		"pl_frontiiiiiiiiiieeeeeeeeer" { }
+		"pl_hsurdlog" { }
+		"pl_jungle_a1c" { }
+		"pl_nat20_b2b" { }
+		"pl_minepit" { }
+		"pl_minewoods" { }
+		"pl_morrigan_alley_b3" { }
+		"pl_moonbase_rc1" { }
+		"pl_offcenter_stage1a" { }
+		"pl_oodooh" { }
+		"pl_rainbowride_b7e" { }
+		"pl_redship_dc_rc3" { }
+		"pl_retawdab" { }
+		"pl_siegemachine_a6" { }
+		"pl_slopandslime_b2" { }
+		"pl_spacewater_b7a_fix_2" { }
+		"pl_tsaocywons_b1" { }
+		"pl_upwater" { }
+		"pl_ztilbnrab" { }
+	}
+
+	"King of the Hill"
+	{
+		"maps_invote" "1"
+
+		"2f2f_directional_dinosaurs_a1" { }
+		"bot_rockpaperglitter_b3_fix" { }
 		"koth_087b_v2" { }
 		"koth_af_formula_a2" { }
 		"koth_ant_fortress_a2" { }
@@ -148,57 +192,45 @@
 		"koth_twisted_v5" { }
 		"koth_weeeeeeeeeeeeeeeeell_rc2" { }
 		"koth_working_class_b4" { }
+	}
+
+	"Miscellaneous"
+	{
+		"maps_invote" "3"
+		
+		"arena_floorofglass_V1" { }
+		"arena_perks_a8" { }
+		"arena_ravine_randomly_b1" { }
+		"arena_watchtowerrrrrrrrr_b1" { }
+		"balloon_race_v2b" { }
+		"balloon_race_v3_t7" { }
+		"steamboat_race_v5e" { }
+		"wacky_races_v2"  { }
+		"billiards" { }
+		"dom_presidents_a1" { }
+		"dom_canalzone2_b4" { }
+		"dom_cliffhanger_b11" { }
+		"dom_seaplant_b0a" { }
+		"ds_extractum" { }
 		"ktf_innercity_v2" { }
 		"pd_blastoff_xmas_rc5" { }
 		"pd_carosel_b2a" { }
 		"pd_meme_machine_rc4" { }
 		"pd_sfoth_a6" { }
 		"pd_steamed_hams_final" { }
-		"pkmn_victoryroad_pl" { }
-		"pl_badsawter" { }
-		"pl_boostwater" { }
-		"pl_cooler_badwater_a3" { }
-		"pl_badwater_rainy" { }
-		"pl_badwater_tilt" { }
-		"pl_casserole_rc2" { }
-		"pl_donkeykong_final" { }
-		"pl_dbheights_b5" { }
-		"pl_drawpu_rc1" { }
-		"pl_dustbowl_b4" { }
-		"pl_fastwater" { }
-		"pl_frontiiiiiiiiiieeeeeeeeer" { }
-		"pl_hsurdlog" { }
-		"pl_jungle_a1c" { }
-		"pl_nat20_b2b" { }
-		"pl_minepit" { }
-		"pl_minewoods" { }
-		"pl_morrigan_alley_b3" { }
-		"pl_moonbase_rc1" { }
-		"pl_offcenter_stage1a" { }
-		"pl_oodooh" { }
-		"pl_rainbowride_b7e" { }
-		"pl_redship_dc_rc3" { }
-		"pl_retawdab" { }
-		"pl_siegemachine_a6" { }
-		"pl_slopandslime_b2" { }
-		"pl_spacewater_b7a_fix_2" { }
-		"pl_tsaocywons_b1" { }
-		"pl_upwater" { }
-		"pl_ztilbnrab" { }
 		"plr_2cart" { }
 		"plr_dogbread_b3" { }
 		"plr_highmillbine" { }
 		"plr_hightower_dontjumptoohigh" { }
 		"plr_hightower_everyone_is_tiny" { }
 		"plr_whalerace_a4a" { }
-		"rats_tequila_b01" { }
-		"steamboat_race_v5e" { }
-		"tdm_overtopolis_a5" { }
 		"tc_ordyh" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
-		"tf_doom_e1m1_v01" { }
 		"vip_tfc_hunted" { }
-		"wacky_races_v2" { }
+		"tdm_overtopolis_a5" { }
+		"tf_doom_e1m1_v01" { }
+		"dm_halo_bloodgulch" { }
 	}
+
 }
