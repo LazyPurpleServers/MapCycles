@@ -4,8 +4,11 @@
 	{
         "maps_invote" "1"
         
-		"cp_caper_rc7" { }
-		"pd_tomb_rc2a" { }
+		"cp_hardwood_rc1b" { }
+		"pl_farmstead_rc4" { }
+		"pl_jinn_b14a" { }
+		"pl_oasis_rc2" { }
+
 	}
 
 	"Attack & Defend"
@@ -21,7 +24,7 @@
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
-		"cp_hardwood_b5a" { }
+		"cp_hardwood_rc1b" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_mojave_b2" { }
@@ -87,12 +90,12 @@
 		"pl_divulgence_b4b" { }
 		"pl_enclosure_final" { }
 		"pl_escarpment_rc1" { }
-		"pl_farmstead_rc3" { }
+		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
-		"pl_jinn_b13a" { }
+		"pl_jinn_b14a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
-		"pl_oasis_b4" { }
+		"pl_oasis_rc2" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
