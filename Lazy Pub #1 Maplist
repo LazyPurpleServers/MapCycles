@@ -4,11 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_hardwood_rc1b" { }
-		"pl_farmstead_rc4" { }
-		"pl_jinn_b14a" { }
-		"pl_oasis_rc2" { }
-
+		"koth_skymill_b3" { }
+		"pl_vineyard_rc6a" { }
 	}
 
 	"Attack & Defend"
@@ -69,6 +66,7 @@
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
 		"koth_shorelight_rc5" { }
+		"koth_skymill_b3" { }
 		"koth_slaughter_b2a" { }
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
@@ -107,7 +105,7 @@
 		"pl_thundermountain" { }
 		"pl_upward" { }
 		"pl_vigil_rc9" { }
-		"pl_vineyard_rc5a" { }
+		"pl_vineyard_rc6a" { }
 	}
 
 	"Alternative "
