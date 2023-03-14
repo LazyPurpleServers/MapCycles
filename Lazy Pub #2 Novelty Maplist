@@ -6,7 +6,7 @@
 	"Attack & Defend"
 	{
 		"maps_invote" "1"
-
+		
 		"cp_badwater" { }
 		"cp_battlefortress_b8c" { }
 		"cp_beachassault_v3" { } 
@@ -18,16 +18,22 @@
 		"cp_lwobtsud" { }
 		"cp_marienwerder_rc" { }
 		"cp_mario_bros_beta8" { }
+		"cp_pall_mall_d9" { }
 		"cp_ribbon_hood_event_final" { }
+		"cp_smallbowl" { }
 		"cp_smbcastle_2" { }
 		"cp_treehouse_b4" { }
 		"cp_tiplevarg" { }
+		"cp_whitebase_v1" { }
+		"cp_widebowl" { }
+		"tfc_avanti" { }
 	}
 
 	"Control Points"
 	{
 		"maps_invote" "1"
-
+		
+		"cp_2fort_5cp" { }
 		"cp_bellas_roomz_v3" { }
 		"cp_container" { }
 		"cp_cowpath_b3" { }
@@ -48,7 +54,7 @@
 	"Capture the Flag"
 	{
 		"maps_invote" "1"
-
+		
 		"ctf_2bine_v1" { }
 		"ctf_2fort_mine_craft_bd4" { }
 		"ctf_2fort_twisted" { }
@@ -61,8 +67,9 @@
 		"ctf_crasher" { }
 		"ctf_eggwar_b2" { }
 		"ctf_flakey_b3" { }
-		"ctf_flyingfortresses" { }
+		"ctf_flyingfortresses_b2" { }
 		"ctf_greystone_b2" { }
+		"ctf_half2fort_halfturbine" { }
 		"ctf_hallofdeath_2_rc1" { }
 		"ctf_halo_bloodgulch" { }
 		"ctf_lavapit_72h_b2" { }
@@ -70,6 +77,7 @@
 		"ctf_minecraft_b8" { }
 		"ctf_minecraft_tunnel_finalV2" { }
 		"ctf_nordhaven_special_b3" { }
+		"ctf_nocross" { }
 		"ctf_np_blake_fusion" { }
 		"ctf_ocean_machine" { }
 		"ctf_pool" { }
@@ -77,12 +85,14 @@
 		"ctf_royal_b3" { }
 		"ctf_sawmill_rainy" { }
 		"ctf_theskatingrink" { }
+		"ctf_theundergroundwar_a4"
 		"ctf_trof2" { }
 		"ctf_turbine_crocodile" { }
 		"ctf_turbine_everything_is_big" { }
 		"ctf_turbine_expanded" { }
 		"ctf_turbine_extended_final" { }
 		"ctf_turbine_flood" { }
+		"ctf_turbine_tilted" { }
 		"ctf_turbine_upsidedown_02" { }
 		"ctf_turrrrrrrrrrrrrrrrrbine_fix3" { }
 		"ctf_underside_1_1" { }
@@ -95,9 +105,10 @@
 	"Payload"
 	{
 		"maps_invote" "1"
-
+		
 		"pkmn_victoryroad_pl" { }
 		"pl_badsawter" { }
+		"pl_badcoastbarnward_a5" { }
 		"pl_boostwater" { }
 		"pl_cooler_badwater_a3" { }
 		"pl_badwater_rainy" { }
@@ -130,11 +141,12 @@
 	"King of the Hill"
 	{
 		"maps_invote" "1"
-
+		
 		"2f2f_directional_dinosaurs_a1" { }
 		"bot_rockpaperglitter_b3_fix" { }
 		"koth_087b_v2" { }
 		"koth_af_formula_a2" { }
+		"koth_ahoball_b1" { }
 		"koth_ant_fortress_a2" { }
 		"koth_aperture_science_iiia" { }
 		"koth_conveyor_v2" { }
@@ -158,6 +170,7 @@
 		"koth_mariokart2_b2" { }
 		"koth_minefest_b1" { }
 		"koth_mineriver" { }
+		"koth_monopoly_v1fix" { }
 		"koth_neurotoxin_s7" { }
 		"koth_nippletwister_a3" { }
 		"koth_nyan_b1" { }
@@ -194,7 +207,9 @@
 	{
 		"maps_invote" "1"
 		
+		"af_arena_idolon" { }
 		"arena_floorofglass_V1" { }
+		"arena_hammertimer_a1" { }
 		"arena_perks_a8" { }
 		"arena_ravine_randomly_b1" { }
 		"arena_watchtowerrrrrrrrr_b1" { }
@@ -203,11 +218,15 @@
 		"steamboat_race_v5e" { }
 		"wacky_races_v2"  { }
 		"billiards" { }
+		"cp_arena_trains_b2" { }
 		"dom_presidents_a1" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
 		"dom_seaplant_b0a" { }
 		"ds_extractum" { }
+		"games_minecraft_v4" { }
+		"htf_homerfly_b1" { }
+		"kothandball_torture_a1d" { }
 		"ktf_innercity_v2" { }
 		"pd_blastoff_xmas_rc5" { }
 		"pd_carosel_b2a" { }
@@ -215,11 +234,14 @@
 		"pd_sfoth_a6" { }
 		"pd_steamed_hams_final" { }
 		"plr_2cart" { }
+		"plr_2xhighertower_v2" { }
+		"plr_desertbus_rc2" { }
 		"plr_dogbread_b3" { }
 		"plr_highmillbine" { }
 		"plr_hightower_dontjumptoohigh" { }
 		"plr_hightower_everyone_is_tiny" { }
 		"plr_whalerace_a4a" { }
+		"sd_rumrun_a1" { }
 		"tc_ordyh" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
@@ -227,6 +249,8 @@
 		"tdm_overtopolis_a5" { }
 		"tf_doom_e1m1_v01" { }
 		"dm_halo_bloodgulch" { }
+		"dm_hangumhigh_tf2" { }
+		"dm_q3dm17_b1" { }
 	}
 
 }
