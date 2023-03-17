@@ -88,7 +88,7 @@
 		"cp_no_mercy_b1" { }
 		"cp_omen_b6" { }
 		"cp_osiris_b26" { }
-		"cp_overgrown_rc7b" { }
+		"cp_overgrown_rc8" { }
 		"cp_paris_b2" { }
 		"cp_rotary_a0" { }
 		"cp_scourge_b5" { }
@@ -421,6 +421,7 @@
 		"pl_curve" { }
 		"pl_deadwood" { }
 		"pl_divulgence_b4b" { }
+		"pl_dryrock_b5" { }
 		"pl_eclipse_rc2" { }
 		"pl_effigy_rc2" { }
 		"pl_eruption_b9a" { }
@@ -442,7 +443,7 @@
 		"pl_morrigan_alley_b3" { }
 		"pl_mountainside_rc2" { }
 		"pl_munitions_b3" { }
-		"pl_oasis_rc2" { }
+		"pl_oasis_rc3" { }
 		"pl_pharaoh_rc1" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
@@ -459,7 +460,7 @@
 		"pl_stranded_rc3" { }
 		"pl_subzero_a1" { }
 		"pl_vigil_rc9" { }
-		"pl_vineyard_rc6a" { }
+		"pl_vineyard_rc6c" { }
 		"pl_volcanic_a26" { }
 		"pl_yamashiro_b3" { }
 	}
