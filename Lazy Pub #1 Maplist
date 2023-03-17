@@ -4,8 +4,10 @@
 	{
         "maps_invote" "1"
         
-		"koth_skymill_b3" { }
-		"pl_vineyard_rc6a" { }
+		"cp_overgrown_rc8" { }
+		"pl_dryrock_b5" { }
+		"pl_oasis_rc3" { }
+		"pl_vineyard_rc6c" { }
 	}
 
 	"Attack & Defend"
@@ -28,7 +30,7 @@
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
 		"cp_osiris_b26" { }
-		"cp_overgrown_rc7b" { }
+		"cp_overgrown_rc8" { }
 		"cp_paris_b3" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
@@ -86,6 +88,7 @@
 		"pl_borneo" { }
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_divulgence_b4b" { }
+		"pl_dryrock_b5" { }
 		"pl_enclosure_final" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
@@ -93,7 +96,7 @@
 		"pl_jinn_b14a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
-		"pl_oasis_rc2" { }
+		"pl_oasis_rc3" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
@@ -105,7 +108,7 @@
 		"pl_thundermountain" { }
 		"pl_upward" { }
 		"pl_vigil_rc9" { }
-		"pl_vineyard_rc6a" { }
+		"pl_vineyard_rc6c" { }
 	}
 
 	"Alternative "
