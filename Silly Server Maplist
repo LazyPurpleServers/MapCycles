@@ -237,6 +237,7 @@
 		"dm_mountainlake2" { }
 		"dm_moving_in" { }
 		"dm_museum_final" { }
+		"dm_newhorizon_v2" { }
 		"dm_newyork_gravfix3" { }
 		"dm_sdm_final" { }
 		"dm_threed_festive_yelldowfix" { }
@@ -266,7 +267,6 @@
 		"rp_ice_icity_v8a_tf2_day" { }
 		"rp_innercity_bn_v1d" { }
 		"rp_woodland_warzone" { }
-		
 		"abandonment" { }
 		"c1m1_cleanup" { }
 		"dm_bridge_dingusfix" { }
@@ -758,6 +758,7 @@
 		"vsh_arktown_v4" { }
 		"vsh_bianco_hills_v5_argil" { }
 		"vsh_dust_showdown_final1" { }
+		"vsh_egyptyspot_reworked_b2c" { }
 		"vsh_estate_v1" { }
 		"vsh_hale_field_v2" { }
 		"vsh_jungle_beach_v3" { }
