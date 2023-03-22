@@ -194,7 +194,6 @@
 		"ctf_fishy_b4" { }
 		"ctf_flakey_b3" { }
 		"ctf_free2fort" { }
-		"ctf_frosty_rc1" { }
 		"ctf_geothermal_b2" { }
 		"ctf_giants_rc3" { }
 		"ctf_haarp" { }
@@ -536,6 +535,7 @@
 		"cp_steel" { }
 		"ctf_2fort" { }
 		"ctf_doublecross" { }
+		"ctf_frosty" { }
 		"ctf_landfall" { }
 		"ctf_turbine" { }
 		"ctf_well" { }
