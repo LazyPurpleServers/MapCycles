@@ -4,10 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_overgrown_rc8" { }
-		"pl_dryrock_b5" { }
-		"pl_oasis_rc3" { }
-		"pl_vineyard_rc6c" { }
+		"koth_shorelight_rc6" { }
+		"pd_tomb_rc2b" { }
 	}
 
 	"Attack & Defend"
@@ -67,7 +65,7 @@
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
-		"koth_shorelight_rc5" { }
+		"koth_shorelight_rc6" { }
 		"koth_skymill_b3" { }
 		"koth_slaughter_b2a" { }
 		"koth_soot_b5" { }
@@ -125,7 +123,7 @@
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
 		"pd_suijin_matsuri_rc4" { }
-		"pd_tomb_rc2a" { }
+		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 	}
 }
