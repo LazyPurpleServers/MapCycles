@@ -347,7 +347,7 @@
 		"koth_sherman_rc1" { }
 		"koth_shirouma_b1" { }
 		"koth_shirouma_medieval_b1" { }
-		"koth_shorelight_rc5" { }
+		"koth_shorelight_rc6" { }
 		"koth_sky_lock_b2" { }
 		"koth_skylab_rc1" { }
 		"koth_skymill_b3" { }
@@ -480,7 +480,7 @@
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
 		"pd_suijin_matsuri_rc4" { }
-		"pd_tomb_rc2a" { }
+		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_b1" { }
