@@ -103,7 +103,7 @@
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
 		"cp_wetcoal_b1" { }
-		"cp_zephyr_a1" { }
+		"cp_zephyr_a3" { }
 		"cp_zinkenite_b3a" { }
 	}
 
@@ -181,7 +181,7 @@
 		"ctf_collisionroutev1f" { }
 		"ctf_collisionroutev1f_event" { }
 		"ctf_convoy_v2" { }
-		"ctf_cruise_b1" { }
+		"ctf_cruise_b4b" { }
 		"ctf_decker_b1" { }
 		"ctf_deliverance_b3" { }
 		"ctf_discover_b59" { }
@@ -286,12 +286,12 @@
 		"koth_fission" { }
 		"koth_flake_a11" { }
 		"koth_flurry_rc5" { }
-		"koth_forge_b4" { }
+		"koth_forge_b5a" { }
 		"koth_former_cornfield_b1" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
 		"koth_garbage_day" { }
-		"koth_gladstone_b7a" { }
+		"koth_gladstone_b8" { }
 		"koth_gravelstone_event" { }
 		"koth_gray_co_rc1" { }
 		"koth_hangar_rc5b" { }
@@ -405,7 +405,7 @@
 		"pl_badwater_snowy" { }
 		"pl_badlands_winter" { }
 		"pl_barnblitz_pro_rc2" { }
-		"pl_borax_b1" { }
+		"pl_borax_rc2" { }
 		"pl_boundary_final" { }
 		"pl_boxcanyon_b2" { }
 		"pl_cactuscanyon_redux_final2" { }
@@ -483,7 +483,7 @@
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"plr_fishladder3" { }
-		"plr_guavagulf_b1" { }
+		"plr_guavagulf_a7b" { }
 		"plr_hacksaw_rc1b" { }
 		"plr_hierarch_rc2b" { }
 		"plr_hothouse_72" { }
