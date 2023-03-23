@@ -163,7 +163,7 @@
 		"ctf_collisionroutev1f" { }
 		"ctf_collisionroutev1f_event" { }
 		"ctf_convoy_v2" { }
-		"ctf_cruise_b1" { }
+		"ctf_cruise_b4b" { }
 		"ctf_Decker_b1" { }
 		"ctf_deliverance_b3" { }
 		"ctf_discover_b59" { }
@@ -411,7 +411,7 @@
 		"koth_encampment" { }
 		"koth_eros_rc2" { }
 		"koth_flake_a11" { }
-		"koth_forge_b4" { }
+		"koth_forge_b5a" { }
 		"koth_former_cornfield_b1" { }
 		"koth_Framework" { }
 		"koth_frostline_b1" { }
@@ -587,7 +587,7 @@
         "pl_badlands_winter" { }
         "pl_beerbowl_rc1" { }
         "pl_blastpitt_rc3" { }
-        "pl_borax_b1" { }
+        "pl_borax_rc2" { }
         "pl_boundary_final" { }
         "pl_cashworks_final1" { }
         "pl_cliffsedge_b1" { }
