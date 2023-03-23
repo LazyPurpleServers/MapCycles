@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"koth_forge_b5a" { }
 		"koth_shorelight_rc6" { }
 		"pd_tomb_rc2b" { }
 	}
@@ -48,6 +49,7 @@
 		"koth_conveyance_rc3b" { }
 		"koth_databank_rc3" { }
 		"koth_eros_rc2" { }
+		"koth_forge_b5a" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_highpass" { }
