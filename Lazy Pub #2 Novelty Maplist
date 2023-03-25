@@ -92,6 +92,7 @@
 		"ctf_turbine_expanded" { }
 		"ctf_turbine_extended_final" { }
 		"ctf_turbine_flood" { }
+		"ctf_turbine_maze_noleaks" { }
 		"ctf_turbine_tilted" { }
 		"ctf_turbine_upsidedown_02" { }
 		"ctf_turrrrrrrrrrrrrrrrrbine_fix3" { }
