@@ -77,7 +77,7 @@
 		}
 		"15"
 		{
-			"map" "mvm_dockyard_rc6"
+			"map" "mvm_dockyard_rc7"
 			"popfile" "mvm_dockyard_rc7_spyware_shipping"
 		}
 		"16"
