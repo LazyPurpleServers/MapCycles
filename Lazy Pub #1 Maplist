@@ -4,9 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"koth_forge_b5a" { }
-		"koth_shorelight_rc6" { }
-		"pd_tomb_rc2b" { }
+		"cp_upland_rc4" { }
 	}
 
 	"Attack & Defend"
@@ -36,6 +34,7 @@
 		"cp_snowplow" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_steel" { }
+		"cp_upland_rc4" { }
 	}
 
 	"King of the Hill"
