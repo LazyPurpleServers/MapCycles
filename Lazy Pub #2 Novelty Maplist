@@ -225,12 +225,13 @@
 		"dom_cliffhanger_b11" { }
 		"dom_seaplant_b0a" { }
 		"ds_extractum" { }
+		"falling_cp" { }
 		"games_minecraft_v4" { }
 		"htf_homerfly_b1" { }
 		"kothandball_torture_a1d" { }
 		"ktf_innercity_v2" { }
 		"pd_blastoff_xmas_rc5" { }
-		"pd_carosel_b2a" { }
+		"pd_carousel_b2a" { }
 		"pd_meme_machine_rc4" { }
 		"pd_sfoth_a6" { }
 		"pd_steamed_hams_final" { }
