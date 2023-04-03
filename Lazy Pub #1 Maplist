@@ -4,7 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"cp_upland_rc4" { }
+		"pl_jinn_rc1" { }
 	}
 
 	"Attack & Defend"
@@ -92,7 +92,7 @@
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
-		"pl_jinn_b14a" { }
+		"pl_jinn_rc1" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
