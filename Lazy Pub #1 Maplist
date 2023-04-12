@@ -4,7 +4,9 @@
 	{
         "maps_invote" "1"
         
-		"pl_jinn_rc1" { }
+		"pl_extinction_b9" { }
+		"pl_vigil_rc10" { }
+		"pl_vineyard_rc7" { }
 	}
 
 	"Attack & Defend"
@@ -90,6 +92,7 @@
 		"pl_dryrock_b5" { }
 		"pl_enclosure_final" { }
 		"pl_escarpment_rc1" { }
+		"pl_extinction_b9" { }
 		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
 		"pl_jinn_rc1" { }
@@ -106,8 +109,8 @@
 		"pl_swiftwater_final1" { }
 		"pl_thundermountain" { }
 		"pl_upward" { }
-		"pl_vigil_rc9" { }
-		"pl_vineyard_rc6c" { }
+		"pl_vigil_rc10" { }
+		"pl_vineyard_rc7" { }
 	}
 
 	"Alternative "
