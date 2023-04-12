@@ -407,7 +407,7 @@
 		"pl_dryrock_b5" { }
 		"pl_eclipse_rc2" { }
 		"pl_effigy_rc2" { }
-		"pl_eruption_b9a" { }
+		"pl_extinction_b9" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
 		"pl_hasslecastle" { }
@@ -442,8 +442,8 @@
 		"pl_spectre_a2" { }
 		"pl_stranded_rc3" { }
 		"pl_subzero_a1" { }
-		"pl_vigil_rc9" { }
-		"pl_vineyard_rc6c" { }
+		"pl_vigil_rc10" { }
+		"pl_vineyard_rc7" { }
 		"pl_volcanic_a26" { }
 		"pl_yamashiro_b3" { }
 	}
