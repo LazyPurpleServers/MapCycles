@@ -11,6 +11,7 @@
 		"cp_battlefortress_b8c" { }
 		"cp_beachassault_v3" { } 
 		"cp_cheesefire" { }
+		"cp_george_rc7" { }
 		"cp_helmsdeep_v2" { }
 		"cp_hotelhell" { }
 		"cp_infinite_b8" { }
@@ -55,6 +56,7 @@
 		"maps_invote" "1"
 		
 		"ctf_2bine_v1" { }
+		"ctf_2fort_breakable" { }
 		"ctf_2fort_mine_craft_bd4" { }
 		"ctf_2fort_twisted" { }
 		"ctf_atrophy_b4" { }
@@ -112,7 +114,7 @@
 		"pl_cooler_badwater_a3" { }
 		"pl_badwater_rainy" { }
 		"pl_badwater_tilt" { }
-		"pl_casserole_rc2" { }
+		"pl_casserole_rc3" { }
 		"pl_donkeykong_final" { }
 		"pl_dbheights_b5" { }
 		"pl_drawpu_rc1" { }
@@ -146,8 +148,10 @@
 		"koth_087b_v2" { }
 		"koth_af_formula_a2" { }
 		"koth_ahoball_b1" { }
+		"koth_always_b2" { }
 		"koth_ant_fortress_a2" { }
 		"koth_aperture_science_iiia" { }
+		"koth_bonezone_a9" { }
 		"koth_conveyor_v2" { }
 		"koth_crevice_b5" { }
 		"koth_dead_simple_classic" { }
