@@ -4,9 +4,11 @@
 	{
         "maps_invote" "1"
         
-		"pl_extinction_b9" { }
-		"pl_vigil_rc10" { }
-		"pl_vineyard_rc7" { }
+		"cp_brew_b2" { }
+		"koth_empire_b5" { }
+		"koth_rotunda_rc0b" { }
+		"pl_extinction_b10" { }
+		"pl_vineyard_rc7a" { }
 	}
 
 	"Attack & Defend"
@@ -15,6 +17,7 @@
         
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
+		"cp_brew_b2" { }
 		"cp_caldera_rc2" { }
 		"cp_conifer_rc2" { }
 		"cp_egypt_final" { }
@@ -49,6 +52,7 @@
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
 		"koth_databank_rc3" { }
+		"koth_empire_b5" { }
 		"koth_eros_rc2" { }
 		"koth_forge_b5a" { }
 		"koth_hangar_rc5b" { }
@@ -65,6 +69,7 @@
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_rocktop_rc2" { }
+		"koth_rotunda_rc0b" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
@@ -92,7 +97,7 @@
 		"pl_dryrock_b5" { }
 		"pl_enclosure_final" { }
 		"pl_escarpment_rc1" { }
-		"pl_extinction_b9" { }
+		"pl_extinction_b10" { }
 		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
 		"pl_jinn_rc1" { }
@@ -110,7 +115,7 @@
 		"pl_thundermountain" { }
 		"pl_upward" { }
 		"pl_vigil_rc10" { }
-		"pl_vineyard_rc7" { }
+		"pl_vineyard_rc7a" { }
 	}
 
 	"Alternative "
