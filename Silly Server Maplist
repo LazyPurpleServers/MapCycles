@@ -123,7 +123,7 @@
 		"cp_standin_event" { }
 		"cp_stoneyridge_rc1" { }
 		"cp_submerged_b1" { }
-		"cp_subway_b8" { }
+		"cp_subway_final" { }
 		"cp_sulfur_rc2_argil" { }
 		"cp_switchback_b5" { }
 		"cp_thebiomes_v1" { }
@@ -396,7 +396,7 @@
 		"koth_combustion_b1" { }
 		"koth_coulee_b4_fix" { }
 		"koth_crevice_b5" { }
-		"koth_daenam_b8" { }
+		"koth_daenam_b11" { }
 		"koth_databank_rc1" { }
 		"koth_denile_b3" { }
 		"koth_dewm_rc1" { }
@@ -592,7 +592,7 @@
         "pl_boundary_final" { }
         "pl_cashworks_final1" { }
         "pl_cliffsedge_b1" { }
-        "pl_coldrush_b2" { }
+        "pl_coldrush_rc1" { }
         "pl_cornfarm_rc" { }
         "pl_corrode_rc2" { }
         "pl_crusoe_a17" { }
