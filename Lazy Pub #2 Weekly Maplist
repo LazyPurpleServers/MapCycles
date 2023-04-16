@@ -54,6 +54,7 @@
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
 		"cp_bloodcrystal_event" { }
+		"cp_brew_b2" { }
 		"cp_broma" { }
 		"cp_caldera_rc2" { }
 		"cp_carthage_b1" { }
@@ -267,6 +268,7 @@
 		"koth_dryway_final" { }
 		"koth_dusty_b1" { }
 		"koth_egan_72_a5_fix1" { }
+		"koth_empire_b5" { }
 		"koth_encampment" { }
 		"koth_eros_rc2" { }
 		"koth_fission" { }
@@ -324,6 +326,8 @@
 		"koth_railbridge_rc2" { }
 		"koth_ramjam_rc1" { }
 		"koth_rocktop_rc2" { }
+		"koth_rotunda_rc0b" { }
+
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
@@ -407,7 +411,7 @@
 		"pl_dryrock_b5" { }
 		"pl_eclipse_rc2" { }
 		"pl_effigy_rc2" { }
-		"pl_extinction_b9" { }
+		"pl_extinction_b10" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
 		"pl_hasslecastle" { }
@@ -443,7 +447,7 @@
 		"pl_stranded_rc3" { }
 		"pl_subzero_a1" { }
 		"pl_vigil_rc10" { }
-		"pl_vineyard_rc7" { }
+		"pl_vineyard_rc7a" { }
 		"pl_volcanic_a26" { }
 		"pl_yamashiro_b3" { }
 	}
