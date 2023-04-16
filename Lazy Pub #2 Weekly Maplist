@@ -10,7 +10,6 @@
 		"arena_badlands" { }
 		"arena_betteryard_rc1" { }
 		"arena_below_zero" { }
-		"arena_boatshed" { }
 		"arena_byre" { }
 		"arena_caverna_final" { }
 		"arena_chounai_b2" { }
@@ -40,7 +39,6 @@
 		"arena_temper_rc1" { }
 		"arena_tinyrock" { }
 		"arena_voltage_a1" { }
-		"arena_watchtower_event" { }
 		"arena_well" { }
 		"arena_yunshu_rc1" { }
 		"ctf_exsmol_rc1" { }
@@ -90,11 +88,10 @@
 		"cp_rotary_a0" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
-		"cp_spookeyridge_b7" { }
 		"cp_snowlodge_b5" { }
 		"cp_steel_aftermath" { }
 		"cp_stoneyridge_rc2" { }
-		"cp_subway_b8" { }
+		"cp_subway_final" { }
 		"cp_sulfur_rc2" { }
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
@@ -117,7 +114,7 @@
 		"cp_construct_a3" { }
 		"cp_croissant_rc6" { }
 		"cp_crossroads_b5" { }
-		"cp_crossroads_event_rc9" { }
+		"cp_crossroads_event_rc10" { }
 		"cp_daytrip_rc4" { }
 		"cp_dispatch_b4" { }
 		"cp_drylock_b2" { }
@@ -136,7 +133,7 @@
 		"cp_overflow_2" { }
 		"cp_powerground_b3" { }
 		"cp_priderock_b2" { }
-		"cp_propaganda_b4" { }
+		"cp_propaganda_b19" { }
 		"cp_reckoner_b3" { }
 		"cp_redstone_b2" { }
 		"cp_rooftop_b6" { }
@@ -174,7 +171,7 @@
 		"ctf_converge_b3" { }
 		"ctf_convoy_v2" { }
 		"ctf_cruise_b4b" { }
-		"ctf_decker_b1" { }
+		"ctf_decker_rc1" { }
 		"ctf_deliverance_b3" { }
 		"ctf_discover_b59" { }
 		"ctf_doublecross_snowy" { }
@@ -221,7 +218,7 @@
 		"ctf_well_classic_b3" { }
 		"ctf_wildfire_rc" { }
 		"ctf_winter_ridge_b1" { }
-		"ctf_wiretap_b1" { }
+		"ctf_wiretap_b3" { }
 	}
 
 	"King of the Hill"
@@ -238,7 +235,6 @@
 		"koth_badlands_event" { }
 		"koth_bagel_rc6" { }
 		"koth_basalt_rc2" { }
-		"koth_beachlands_a1" { }
 		"koth_betteryard_rc1" { }
 		"koth_boxes_a10" { }
 		"koth_brickyard_v2_a8" { }
@@ -256,7 +252,7 @@
 		"koth_combustion_b1" { }
 		"koth_conveyance_rc3b" { }
 		"koth_coulee_b4_fix" { }
-		"koth_daenam_b8" { }
+		"koth_daenam_b11" { }
 		"koth_databank_rc3" { }
 		"koth_denile_b3" { }
 		"koth_dewm_rc1" { }
@@ -391,15 +387,14 @@
 		"pl_angkor_rc1" { }
 		"pl_bloodwater" { }
 		"pl_badwater_snowy" { }
-		"pl_badlands_winter" { }
 		"pl_barnblitz_pro_rc2" { }
 		"pl_borax_rc2" { }
 		"pl_boundary_final" { }
-		"pl_boxcanyon_b2" { }
+		"pl_boxcanyon_rc9" { }
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_cashworks_final1" { }
 		"pl_cliffsedge_b1" { }
-		"pl_coldrush_b2" { }
+		"pl_coldrush_rc1" { }
 		"pl_cornfarm_rc" { }
 		"pl_corrode_rc2" { }
 		"pl_cranetop_b8" { }
