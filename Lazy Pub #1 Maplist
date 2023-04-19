@@ -6,8 +6,9 @@
         
 		"cp_brew_b2" { }
 		"koth_empire_b5" { }
-		"koth_rotunda_rc0b" { }
+		"koth_rotunda_rc2" { }
 		"pl_extinction_b10" { }
+		"pl_jinn_rc2" { }
 		"pl_vineyard_rc7a" { }
 	}
 
@@ -69,7 +70,7 @@
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc0b" { }
+		"koth_rotunda_rc2" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
@@ -100,7 +101,7 @@
 		"pl_extinction_b10" { }
 		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
-		"pl_jinn_rc1" { }
+		"pl_jinn_rc2" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
