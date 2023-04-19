@@ -177,6 +177,7 @@
 		"ctf_geothermal_b2" { }
 		"ctf_giants_rc3" { }
 		"ctf_greystone_b2" { }
+		"ctf_hades_b5" { }
 		"ctf_halo_bloodgulch" { }
 		"ctf_hearth_event_rc5" { }
 		"ctf_hellpower" { }
@@ -754,7 +755,7 @@
 		"sm64_whomps_fortress" { }
 		"tf_doom_e1m1_v01" { }
 		"tf_yelldowsforest_v8f" { }
-		"tower_of_power_v3" { }
+		"tower_of_power_v4" { }
 		"vsh_abandoned_facility_a4_argil_v2" { }
 		"vsh_arktown_v4" { }
 		"vsh_bianco_hills_v5_argil" { }
