@@ -47,13 +47,15 @@
 		"koth_dewm_rc1" { }
 		"koth_dryway_final" { }
 		"koth_forge_b5a" { }
+		"koth_gamma_b2" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_hoax_rc3" { }
-		"koth_king" { }
 		"koth_icetower_rc4" { }
 		"koth_illinois_a16a" { }
+		"koth_jamram_rc1a" { }
 		"koth_kemptown_rc3a" { }
+		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
