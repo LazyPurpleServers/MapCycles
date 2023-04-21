@@ -238,6 +238,7 @@
 		"koth_betteryard_rc1" { }
 		"koth_boxes_a10" { }
 		"koth_brickyard_v2_a8" { }
+		"koth_brine_rc1" { }
 		"koth_butte_b1a" { }
 		"koth_canada_rc1" { }
 		"koth_cannery_b11c" { }
@@ -322,7 +323,7 @@
 		"koth_quarry_b6" { }
 		"koth_railbridge_rc2" { }
 		"koth_jamram_rc1a" { }
-		"koth_relic_b20" { }
+		"koth_relic_rc" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda_rc2" { }
 		"koth_roughshod_rc2" { }
@@ -415,7 +416,7 @@
 		"pl_great_heights_b3" { }
 		"pl_haywire_rc5" { }
 		"pl_hydropower_rc4" { }
-		"pl_jinn_rc2" { }
+		"pl_jinn_rc2a" { }
 		"pl_jungle_a1c" { }
 		"pl_manngrove_rc5" { }
 		"pl_mesa_b1" { }
