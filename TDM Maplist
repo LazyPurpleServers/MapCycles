@@ -41,6 +41,7 @@
 		"dm_towerleap_v2_final2" { }
 		"dom_cliffhanger_b11" { }
 		"koth_aquaticruin_final" { }
+		"koth_brine_rc1" { }
 		"koth_cascade" { }
 		"koth_chasm_b1" { }
 		"koth_conveyance_rc3b" { }
@@ -61,7 +62,7 @@
 		"koth_megasnow_rc1" { }
 		"koth_occult_rc6" { }
 		"koth_preposterous_rc2" { }
-		"koth_relic_b20" { }
+		"koth_relic_rc" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda_rc2" { }
 		"koth_sawmill" { }
