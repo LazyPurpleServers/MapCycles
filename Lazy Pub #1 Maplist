@@ -4,8 +4,10 @@
 	{
         "maps_invote" "1"
         
+		"koth_brine_rc1" { }
 		"koth_empire_rc1" { }
 		"koth_jamram_rc1a" { }
+		"pl_jinn_rc2a" { }
 	}
 
 	"Attack & Defend"
@@ -45,6 +47,7 @@
         
 		"koth_anthem_b4" { }
 		"koth_bagel_rc6" { }
+		"koth_brine_rc1" { }
 		"koth_cascade" { }
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
@@ -98,7 +101,7 @@
 		"pl_extinction_b10" { }
 		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
-		"pl_jinn_rc2" { }
+		"pl_jinn_rc2a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
