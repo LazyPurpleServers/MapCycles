@@ -4,9 +4,13 @@
 	{
         "maps_invote" "1"
         
+		"cp_caldera_rc3" { }
+		"cp_drypine_b3" { }
+		"cp_france_rc2" { }
 		"koth_brine_rc1" { }
-		"koth_empire_rc1" { }
+		"koth_empire_rc2" { }
 		"koth_jamram_rc1a" { }
+		"koth_rotunda_rc5" { }
 		"pl_jinn_rc2a" { }
 	}
 
@@ -17,8 +21,9 @@
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
 		"cp_brew_b2" { }
-		"cp_caldera_rc2" { }
+		"cp_caldera_rc3" { }
 		"cp_conifer_rc2" { }
+		"cp_drypine_b3" { }
 		"cp_egypt_final" { }
 		"cp_fulgur_rc2a" { }
 		"cp_furnace_rc" { }
@@ -32,7 +37,7 @@
 		"cp_mountainlab" { }
 		"cp_osiris_b26" { }
 		"cp_overgrown_rc8" { }
-		"cp_paris_b3" { }
+		"cp_france_rc2" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
@@ -52,7 +57,7 @@
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
 		"koth_databank_rc3" { }
-		"koth_empire_rc1" { }
+		"koth_empire_rc2" { }
 		"koth_eros_rc2" { }
 		"koth_forge_b5a" { }
 		"koth_hangar_rc5b" { }
@@ -70,7 +75,7 @@
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc2" { }
+		"koth_rotunda_rc5" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
