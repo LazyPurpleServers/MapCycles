@@ -54,7 +54,7 @@
 		"cp_bloodcrystal_event" { }
 		"cp_brew_b2" { }
 		"cp_broma" { }
-		"cp_caldera_rc2" { }
+		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
 		"cp_copperhead_b1e" { }
 		"cp_conifer_rc2" { }
@@ -84,7 +84,7 @@
 		"cp_omen_b6" { }
 		"cp_osiris_b26" { }
 		"cp_overgrown_rc8" { }
-		"cp_paris_b2" { }
+		"cp_france_rc2" { }
 		"cp_rotary_a0" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
@@ -265,7 +265,7 @@
 		"koth_dryway_final" { }
 		"koth_dusty_b1" { }
 		"koth_egan_72_a5_fix1" { }
-		"koth_empire_b5" { }
+		"koth_empire_rc2" { }
 		"koth_encampment" { }
 		"koth_eros_rc2" { }
 		"koth_fission" { }
@@ -325,7 +325,7 @@
 		"koth_jamram_rc1a" { }
 		"koth_relic_rc" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc2" { }
+		"koth_rotunda_rc5" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
