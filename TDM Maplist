@@ -48,7 +48,7 @@
 		"koth_dewm_rc1" { }
 		"koth_dryway_final" { }
 		"koth_forge_b5a" { }
-		"koth_gamma_b2" { }
+		"koth_gamma_b3" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_hoax_rc3" { }
@@ -62,9 +62,9 @@
 		"koth_megasnow_rc1" { }
 		"koth_occult_rc6" { }
 		"koth_preposterous_rc2" { }
-		"koth_relic_rc" { }
+		"koth_relic_rc1" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc2" { }
+		"koth_rotunda_rc7" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
