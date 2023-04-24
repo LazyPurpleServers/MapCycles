@@ -6,11 +6,11 @@
         
 		"cp_caldera_rc3" { }
 		"cp_drypine_b3" { }
-		"cp_france_rc2" { }
+		"cp_france_rc4c" { }
 		"koth_brine_rc1" { }
 		"koth_empire_rc2" { }
 		"koth_jamram_rc1a" { }
-		"koth_rotunda_rc5" { }
+		"koth_rotunda_rc7" { }
 		"pl_jinn_rc2a" { }
 	}
 
@@ -37,7 +37,7 @@
 		"cp_mountainlab" { }
 		"cp_osiris_b26" { }
 		"cp_overgrown_rc8" { }
-		"cp_france_rc2" { }
+		"cp_france_rc4c" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
@@ -75,7 +75,7 @@
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc5" { }
+		"koth_rotunda_rc7" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
