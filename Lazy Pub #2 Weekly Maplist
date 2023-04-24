@@ -84,7 +84,7 @@
 		"cp_omen_b6" { }
 		"cp_osiris_b26" { }
 		"cp_overgrown_rc8" { }
-		"cp_france_rc2" { }
+		"cp_france_rc4c" { }
 		"cp_rotary_a0" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
@@ -253,7 +253,7 @@
 		"koth_combustion_b1" { }
 		"koth_conveyance_rc3b" { }
 		"koth_coulee_b4_fix" { }
-		"koth_daenam_b11" { }
+		"koth_daenam_b12" { }
 		"koth_databank_rc3" { }
 		"koth_denile_b3" { }
 		"koth_dewm_rc1" { }
@@ -275,7 +275,7 @@
 		"koth_former_cornfield_b1" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
-		"koth_gamma_b2" { }
+		"koth_gamma_b3" { }
 		"koth_garbage_day" { }
 		"koth_gladstone_b8" { }
 		"koth_gravelstone_event" { }
@@ -323,9 +323,9 @@
 		"koth_quarry_b6" { }
 		"koth_railbridge_rc2" { }
 		"koth_jamram_rc1a" { }
-		"koth_relic_rc" { }
+		"koth_relic_rc1" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc5" { }
+		"koth_rotunda_rc7" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
@@ -476,6 +476,7 @@
 		"plr_sidetracked_rc3" { }
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
+		"sd_toucan_a2" { }
 		"tc_meridian_rc2" { }
 	}
 
