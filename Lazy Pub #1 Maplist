@@ -4,14 +4,10 @@
 	{
         "maps_invote" "1"
         
-		"cp_caldera_rc3" { }
-		"cp_drypine_b3" { }
-		"cp_france_rc4c" { }
-		"koth_brine_rc1" { }
-		"koth_empire_rc2" { }
-		"koth_jamram_rc1a" { }
-		"koth_rotunda_rc7" { }
-		"pl_jinn_rc2a" { }
+		"koth_camp_saxton_b1" { }
+		"koth_brine_rc2" { }
+		"koth_relic_rc2" { }
+		"koth_rotunda_rc8" { }
 	}
 
 	"Attack & Defend"
@@ -52,7 +48,8 @@
         
 		"koth_anthem_b4" { }
 		"koth_bagel_rc6" { }
-		"koth_brine_rc1" { }
+		"koth_brine_rc2" { }
+		"koth_camp_saxton_b1" { }
 		"koth_cascade" { }
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
@@ -74,8 +71,9 @@
 		"koth_megasnow_rc1" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
+		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc7" { }
+		"koth_rotunda_rc8" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
