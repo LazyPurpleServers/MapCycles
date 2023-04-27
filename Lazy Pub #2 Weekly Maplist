@@ -238,8 +238,9 @@
 		"koth_betteryard_rc1" { }
 		"koth_boxes_a10" { }
 		"koth_brickyard_v2_a8" { }
-		"koth_brine_rc1" { }
+		"koth_brine_rc2" { }
 		"koth_butte_b1a" { }
+		"koth_camp_saxton_b1" { }
 		"koth_canada_rc1" { }
 		"koth_cannery_b11c" { }
 		"koth_canopy_rc2" { }
@@ -323,9 +324,9 @@
 		"koth_quarry_b6" { }
 		"koth_railbridge_rc2" { }
 		"koth_jamram_rc1a" { }
-		"koth_relic_rc1" { }
+		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc7" { }
+		"koth_rotunda_rc8" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
@@ -464,6 +465,7 @@
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
+		"pd_street_rc2" { }
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
