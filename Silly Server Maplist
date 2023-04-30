@@ -436,6 +436,7 @@
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_b8" { }
 		"koth_loader_v2" { }
+		"koth_logwash_rc2" { }
 		"koth_luigis_mansion_v3_yelldowfix" { }
 		"koth_nerve" { }
 		"Koth_Mad_Monster_Mansion" { }
@@ -468,7 +469,7 @@
 		"koth_RETRO_PIT" { }
 		"koth_riverbed_v2" { }
 		"koth_rooftop_b1" { }
-		"koth_rotunda_rc8" { }
+		"koth_rotunda_rc10" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
