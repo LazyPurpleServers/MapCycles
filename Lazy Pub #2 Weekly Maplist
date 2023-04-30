@@ -70,7 +70,7 @@
 		"cp_gydan" { }
 		"cp_hadal_rc1" { }
 		"cp_haddou_rc2" { }
-		"cp_hardwood_rc1b" { }
+		"cp_hardwood_rc2" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_heaven_rc" { }
@@ -295,6 +295,7 @@
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_rc3a" { }
 		"koth_loader_v2" { }
+		"koth_logwash_rc2" { }
 		"koth_luftangriff_b5a" { }
 		"koth_maple_ridge_event" { }
 		"koth_maple_ridge_rc2" { }
@@ -326,7 +327,7 @@
 		"koth_jamram_rc1a" { }
 		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc8" { }
+		"koth_rotunda_rc10" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
@@ -430,6 +431,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_pharaoh_rc1" { }
+		"pl_phoenix_b2" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
 		"pl_rivercrossing_rc2a" { }
@@ -465,7 +467,7 @@
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
-		"pd_street_rc2" { }
+		"pd_street_rc2a" { }
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
@@ -478,10 +480,10 @@
 		"plr_sidetracked_rc3" { }
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
-		"sd_toucan_a2" { }
+		"sd_toucan_a4" { }
 		"tc_meridian_rc2" { }
-		"vsh_distillery_rc3" { }
-		"vsh_skirmish_final3" { }
+		"vsh_distillery_23w17a" { }
+		"vsh_skirmish_final4c" { }
 		"vsh_tinyrock_23w14c" { }
 	}
 
