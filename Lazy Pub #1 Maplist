@@ -6,9 +6,11 @@
         
 		"koth_camp_saxton_b1" { }
 		"koth_brine_rc2" { }
+		"koth_logwash_rc2" { }
 		"koth_relic_rc2" { }
-		"koth_rotunda_rc8" { }
-		"pd_street_rc2" { }
+		"koth_rotunda_rc10" { }
+		"pd_street_rc2a" { }
+		"pl_phoenix_b2" { }
 	}
 
 	"Attack & Defend"
@@ -68,13 +70,14 @@
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
+		"koth_logwash_rc2" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_megasnow_rc1" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc8" { }
+		"koth_rotunda_rc10" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
@@ -109,6 +112,7 @@
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
+		"pl_phoenix_b2" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
@@ -136,7 +140,7 @@
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
-		"pd_street_rc2" { }
+		"pd_street_rc2a" { }
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
