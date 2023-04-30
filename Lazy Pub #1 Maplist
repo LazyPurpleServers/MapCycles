@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"cp_hardwood_rc2" { }
 		"koth_camp_saxton_b1" { }
 		"koth_brine_rc2" { }
 		"koth_logwash_rc2" { }
@@ -28,7 +29,7 @@
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
-		"cp_hardwood_rc1b" { }
+		"cp_hardwood_rc2" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_mojave_b2" { }
