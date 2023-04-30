@@ -56,7 +56,7 @@
 		"cp_broma" { }
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
-		"cp_copperhead_b1e" { }
+		"cp_copperhead_b2c" { }
 		"cp_conifer_rc2" { }
 		"cp_desperados_b2" { }
 		"cp_drag_rc1" { }
@@ -112,7 +112,7 @@
 		"cp_cardinal_rc1a" { }
 		"cp_collis_b1" { }
 		"cp_construct_a3" { }
-		"cp_croissant_rc6" { }
+		"cp_croissant_final" { }
 		"cp_crossroads_b5" { }
 		"cp_crossroads_event_rc10" { }
 		"cp_daytrip_rc4" { }
@@ -125,8 +125,8 @@
 		"cp_glassworks_rc6a" { }
 		"cp_indulge" { }
 		"cp_japan_v2" { }
-		"cp_kalinka_rc2" { }
-		"cp_logjam_rc5" { }
+		"cp_kalinka_rc6a" { }
+		"cp_logjam_rc12f" { }
 		"cp_malgam_g4" { }
 		"cp_oceanside_a4b" { }
 		"cp_oranges_rc1" { }
@@ -134,7 +134,7 @@
 		"cp_powerground_b3" { }
 		"cp_priderock_b2" { }
 		"cp_propaganda_b19" { }
-		"cp_reckoner_b3" { }
+		"cp_reckoner_rc6" { }
 		"cp_redstone_b2" { }
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
@@ -158,13 +158,13 @@
 		"ctf_2fort_newfort_b6" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
-		"ctf_arroyo_b8" { }
+		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
 		"ctf_aerospace_b4" { }
 		"ctf_assault_sk" { }
 		"ctf_atrophy_b4" { }
-		"ctf_aurora_rc" { }
+		"ctf_meltdown_b6" { }
 		"ctf_backwards_b1" { }
 		"ctf_biomass_rc1" { }
 		"ctf_boneyard" { }
@@ -202,7 +202,7 @@
 		"ctf_quarry_v2" { }
 		"ctf_raveravine_beta03" { }
 		"ctf_retreat_b1" { }
-		"ctf_rift_rc1a" { }
+		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_scorched_final" { }
 		"ctf_snowfort" { }
@@ -248,7 +248,7 @@
 		"koth_caverna_final" { }
 		"koth_chapel_event" { }
 		"koth_chasm_b1" { }
-		"koth_clearcut_b15c" { }
+		"koth_clearcut_b15d" { }
 		"koth_cloudtop_72_b2" { }
 		"koth_coalplant_b7" { }
 		"koth_combustion_b1" { }
@@ -312,7 +312,7 @@
 		"koth_nebula" { }
 		"koth_nerve" { }
 		"koth_northbound_b2" { }
-		"koth_occult_rc5" { }
+		"koth_occult_rc6" { }
 		"koth_octothorpe_classic_beta02" { }
 		"koth_oilfield" { }
 		"koth_orbit_final" { }
@@ -322,7 +322,7 @@
 		"koth_precipice_b5" { }
 		"koth_preposterous_rc2" { }
 		"koth_product_rcx" { }
-		"koth_quarry_b6" { }
+		"koth_quarry_rc5" { }
 		"koth_railbridge_rc2" { }
 		"koth_jamram_rc1a" { }
 		"koth_relic_rc2" { }
@@ -388,12 +388,12 @@
 
 		"pl_abandoned_upward" { }
 		"pl_alpine_forest_rc2" { }
-		"pl_angkor_rc1" { }
+		"pl_angkor_rc2" { }
 		"pl_bloodwater" { }
 		"pl_badwater_snowy" { }
 		"pl_barnblitz_pro_rc2" { }
 		"pl_borax_rc2" { }
-		"pl_boundary_final" { }
+		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_cashworks_final1" { }
@@ -403,12 +403,11 @@
 		"pl_corrode_rc2" { }
 		"pl_cranetop_b8" { }
 		"pl_crash_72_2" { }
-		"pl_crusoe_a17" { }
+		"pl_crusoe_a17b" { }
 		"pl_curve" { }
 		"pl_deadwood" { }
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
-		"pl_eclipse_rc2" { }
 		"pl_effigy_rc2" { }
 		"pl_extinction_b10" { }
 		"pl_escarpment_rc1" { }
@@ -422,6 +421,7 @@
 		"pl_jungle_a1c" { }
 		"pl_manngrove_rc5" { }
 		"pl_mesa_b1" { }
+		"pl_mesaworks_rc3" { }
 		"pl_metropolis_b5" { }
 		"pl_midwest_rc1a" { }
 		"pl_mill_b5" { }
@@ -441,9 +441,9 @@
 		"pl_rustbelt_rc1" { }
 		"pl_shenmue_release" { }
 		"pl_shoreleave_rc2" { }
-		"pl_skirmish_b2" { }
+		"pl_skirmish_b3" { }
 		"pl_sludgepit_final4" { }
-		"pl_spectre_a2" { }
+		"pl_spectre_a5_dew10" { }
 		"pl_stranded_rc3" { }
 		"pl_subzero_a1" { }
 		"pl_vigil_rc10" { }
@@ -481,7 +481,7 @@
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
 		"sd_toucan_a4" { }
-		"tc_meridian_rc2" { }
+		"tc_meridian_rc3" { }
 		"vsh_distillery_23w17a" { }
 		"vsh_skirmish_final4c" { }
 		"vsh_tinyrock_23w14c" { }
