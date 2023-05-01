@@ -4,14 +4,17 @@
 	{
         "maps_invote" "1"
         
+		"cp_brew_b3" { }
+		"cp_drypine_rc1" { }
 		"cp_hardwood_rc2" { }
 		"koth_camp_saxton_b1" { }
-		"koth_brine_rc2" { }
-		"koth_logwash_rc2" { }
+		"koth_brine_rc3a" { }
+		"koth_logwash_rc4" { }
 		"koth_relic_rc2" { }
-		"koth_rotunda_rc10" { }
-		"pd_street_rc2a" { }
-		"pl_phoenix_b2" { }
+		"koth_rotunda_rc11" { }
+		"pd_street_rc2b" { }
+		"pl_extinction_rc1" { }
+		"pl_phoenix_b3" { }
 	}
 
 	"Attack & Defend"
@@ -20,10 +23,10 @@
         
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
-		"cp_brew_b2" { }
+		"cp_brew_b3" { }
 		"cp_caldera_rc3" { }
 		"cp_conifer_rc2" { }
-		"cp_drypine_b3" { }
+		"cp_drypine_rc1" { }
 		"cp_egypt_final" { }
 		"cp_fulgur_rc2a" { }
 		"cp_furnace_rc" { }
@@ -52,7 +55,7 @@
         
 		"koth_anthem_b4" { }
 		"koth_bagel_rc6" { }
-		"koth_brine_rc2" { }
+		"koth_brine_rc3a" { }
 		"koth_camp_saxton_b1" { }
 		"koth_cascade" { }
 		"koth_coalplant_b7" { }
@@ -71,14 +74,14 @@
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
-		"koth_logwash_rc2" { }
+		"koth_logwash_rc4" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_megasnow_rc1" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc10" { }
+		"koth_rotunda_rc11" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
@@ -106,14 +109,14 @@
 		"pl_dryrock_b5" { }
 		"pl_enclosure_final" { }
 		"pl_escarpment_rc1" { }
-		"pl_extinction_b10" { }
+		"pl_extinction_rc1" { }
 		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
 		"pl_jinn_rc2a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
-		"pl_phoenix_b2" { }
+		"pl_phoenix_b3" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
@@ -141,7 +144,7 @@
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
 		"pd_standin_b1" { }
-		"pd_street_rc2a" { }
+		"pd_street_rc2b" { }
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
