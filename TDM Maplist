@@ -41,7 +41,7 @@
 		"dm_towerleap_v2_final2" { }
 		"dom_cliffhanger_b11" { }
 		"koth_aquaticruin_final" { }
-		"koth_brine_rc2" { }
+		"koth_brine_rc3a" { }
 		"koth_camp_saxton_b1" { }
 		"koth_cascade" { }
 		"koth_chasm_b1" { }
@@ -58,14 +58,14 @@
 		"koth_kemptown_rc3a" { }
 		"koth_king" { }
 		"koth_lakeside_final" { }
-		"koth_logwash_rc2" { }
+		"koth_logwash_rc4" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
 		"koth_occult_rc6" { }
 		"koth_preposterous_rc2" { }
 		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc10" { }
+		"koth_rotunda_rc11" { }
 		"koth_sawmill" { }
 		"koth_sharkbay_rc2" { }
 		"koth_sherman_rc1" { }
