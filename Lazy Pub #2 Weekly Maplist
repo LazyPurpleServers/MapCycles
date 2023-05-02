@@ -482,9 +482,9 @@
 		"sd_push_b1" { }
 		"sd_toucan_a4" { }
 		"tc_meridian_rc3" { }
-		"vsh_distillery_23w17a" { }
+		"vsh_distillery_23w17b_2" { }
 		"vsh_skirmish_final5b" { }
-		"vsh_tinyrock_23w14c" { }
+		"vsh_tinyrock_23w17b_2" { }
 	}
 
 	"Deathmatch"
