@@ -40,6 +40,7 @@
 		"cp_cowpath_b3" { }
 		"cp_floorislava_rc2" { }
 		"cp_frantic_factory" { }
+		"cp_granary_storm_v1" { }
 		"cp_marioblast_2011" { }
 		"cp_ohho" { }
 		"cp_peachs_castle_v1" { }
@@ -212,6 +213,7 @@
 		"maps_invote" "1"
 		
 		"af_arena_idolon" { }
+		"af_bananarama" { }
 		"arena_floorofglass_V1" { }
 		"arena_hammertimer_a1" { }
 		"arena_perks_a8" { }
@@ -233,6 +235,7 @@
 		"htf_homerfly_b1" { }
 		"kothandball_torture_a1d" { }
 		"ktf_innercity_v2" { }
+		"pass_jam_a1b" { }
 		"pd_blastoff_xmas_rc5" { }
 		"pd_carousel_b2a" { }
 		"pd_meme_machine_rc4" { }
