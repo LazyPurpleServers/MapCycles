@@ -52,7 +52,7 @@
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
 		"cp_bloodcrystal_event" { }
-		"cp_brew_b3" { }
+		"cp_brew_b3a" { }
 		"cp_broma" { }
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
@@ -326,7 +326,7 @@
 		"koth_quarry_rc5" { }
 		"koth_railbridge_rc2" { }
 		"koth_jamram_rc1a" { }
-		"koth_relic_rc2" { }
+		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda_rc11" { }
 		"koth_roughshod_rc2" { }
@@ -480,10 +480,10 @@
 		"plr_sidetracked_rc3" { }
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
-		"sd_toucan_a4" { }
+		"sd_toucan_rc1" { }
 		"tc_meridian_rc3" { }
 		"vsh_distillery_23w17b_2" { }
-		"vsh_skirmish_final5b" { }
+		"vsh_skirmish_final5c" { }
 		"vsh_tinyrock_23w17b_2" { }
 	}
 
