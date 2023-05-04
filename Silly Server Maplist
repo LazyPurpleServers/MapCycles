@@ -465,7 +465,7 @@
 		"koth_railbridge_rc2" { }
 		"koth_jamram_rc1a" { }
 		"koth_rats_office_b1_2" { }
-		"koth_relic_rc2" { }
+		"koth_relic_rc3" { }
 		"koth_RETRO_PIT" { }
 		"koth_riverbed_v2" { }
 		"koth_rooftop_b1" { }
@@ -650,11 +650,11 @@
 		"maps_invote" "1"
 
 		"trade_3d_land_v3" { }
-		"trade_absolutemuppet_lp4" { }
+		"trade_absolutemuppet_lp4b" { }
 		"trade_appleloosa_v2" { }
 		"trade_badsand_rc8" { }
 		"trade_balloonfarm" { }
-		"trade_bluehouse_lp2" { }
+		"trade_bluehouse_lp3a" { }
 		"trade_bubblegloop_swamp_a2" { }
 		"trade_clocktown_v1b" { }
 		"trade_combine_v18" { }
@@ -664,7 +664,7 @@
 		"trade_finalfantasy_town" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_icerink_b3a" { }
-		"trade_imagination_figment_a8" { }
+		"trade_imagination_figment_a9" { }
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
