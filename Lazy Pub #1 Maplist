@@ -4,17 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_brew_b3" { }
-		"cp_drypine_rc1" { }
-		"cp_hardwood_rc2" { }
-		"koth_camp_saxton_b1" { }
-		"koth_brine_rc3a" { }
-		"koth_logwash_rc4" { }
-		"koth_relic_rc2" { }
-		"koth_rotunda_rc11" { }
-		"pd_street_rc2b" { }
-		"pl_extinction_rc1" { }
-		"pl_phoenix_b3" { }
+		"cp_brew_b3a" { }
+		"koth_relic_rc3" { }
 	}
 
 	"Attack & Defend"
@@ -23,7 +14,7 @@
         
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
-		"cp_brew_b3" { }
+		"cp_brew_b3a" { }
 		"cp_caldera_rc3" { }
 		"cp_conifer_rc2" { }
 		"cp_drypine_rc1" { }
@@ -79,7 +70,7 @@
 		"koth_megasnow_rc1" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
-		"koth_relic_rc2" { }
+		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda_rc11" { }
 		"koth_sawmill" { }
