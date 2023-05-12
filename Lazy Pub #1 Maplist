@@ -4,9 +4,11 @@
 	{
         "maps_invote" "1"
         
-		"cp_brew_b3a" { }
-		"koth_relic_rc3" { }
-		"koth_rotunda_rc13" { }
+		"cp_conifer_rc3" { }
+		"cp_fulgur_rc3" { }
+		"cp_hardwood_rc3" { }
+		"cp_osiris_b27" { }
+		"pl_stranded_rc9" { }
 	}
 
 	"Attack & Defend"
@@ -17,20 +19,20 @@
 		"cp_altitude" { }
 		"cp_brew_b3a" { }
 		"cp_caldera_rc3" { }
-		"cp_conifer_rc2" { }
+		"cp_conifer_rc3" { }
 		"cp_drypine_rc1" { }
 		"cp_egypt_final" { }
-		"cp_fulgur_rc2a" { }
+		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
-		"cp_hardwood_rc2" { }
+		"cp_hardwood_rc3" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
-		"cp_osiris_b26" { }
+		"cp_osiris_b27" { }
 		"cp_overgrown_rc8" { }
 		"cp_france_rc4c" { }
 		"cp_scourge_b5" { }
@@ -115,7 +117,7 @@
 		"pl_rustbelt_rc1" { }
 		"pl_shoreleave_rc2" { }
 		"pl_sludgepit_final4" { }
-		"pl_stranded_rc7" { }
+		"pl_stranded_rc9" { }
 		"pl_swiftwater_final1" { }
 		"pl_thundermountain" { }
 		"pl_upward" { }
