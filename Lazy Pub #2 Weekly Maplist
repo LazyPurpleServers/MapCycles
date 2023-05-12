@@ -57,21 +57,21 @@
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
 		"cp_copperhead_b2c" { }
-		"cp_conifer_rc2" { }
+		"cp_conifer_rc3" { }
 		"cp_desperados_b2" { }
 		"cp_drag_rc1" { }
 		"cp_drypine_rc1" { }
 		"cp_dustbowl_rainy" { }
 		"cp_ferrum_rc1" { }
 		"cp_fieldworks_a4" { }
-		"cp_fulgur_rc2a" { }
+		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
 		"cp_glacier_rc6" { }
 		"cp_gothic_event" { }
 		"cp_gydan" { }
 		"cp_hadal_rc1" { }
 		"cp_haddou_rc2" { }
-		"cp_hardwood_rc2" { }
+		"cp_hardwood_rc3" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_heaven_rc" { }
@@ -83,7 +83,7 @@
 		"cp_neighbor_b3" { }
 		"cp_no_mercy_b1" { }
 		"cp_omen_b6" { }
-		"cp_osiris_b26" { }
+		"cp_osiris_b27" { }
 		"cp_overgrown_rc8" { }
 		"cp_france_rc4c" { }
 		"cp_rotary_a0" { }
@@ -433,6 +433,7 @@
 		"pl_oasis_rc3" { }
 		"pl_pharaoh_rc1" { }
 		"pl_phoenix_b3" { }
+		"pl_pit" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
 		"pl_rivercrossing_rc2a" { }
@@ -444,7 +445,7 @@
 		"pl_shoreleave_rc2" { }
 		"pl_sludgepit_final4" { }
 		"pl_spectre_a5_dew10" { }
-		"pl_stranded_rc3" { }
+		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
 		"pl_vigil_rc10" { }
 		"pl_vineyard_rc7a" { }
@@ -483,7 +484,7 @@
 		"sd_toucan_rc1" { }
 		"tc_meridian_rc3" { }
 		"vsh_distillery_23w17b_2" { }
-		"vsh_skirmish_final5c" { }
+		"vsh_skirmish_final6b" { }
 		"vsh_tinyrock_23w17b_2" { }
 	}
 
