@@ -52,7 +52,7 @@
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
 		"cp_bloodcrystal_event" { }
-		"cp_brew_b3a" { }
+		"cp_brew_b4" { }
 		"cp_broma" { }
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
@@ -71,7 +71,7 @@
 		"cp_gydan" { }
 		"cp_hadal_rc1" { }
 		"cp_haddou_rc2" { }
-		"cp_hardwood_rc3" { }
+		"cp_hardwood_rc3a" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_heaven_rc" { }
@@ -432,7 +432,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_pharaoh_rc1" { }
-		"pl_phoenix_b3" { }
+		"pl_phoenix_b4a" { }
 		"pl_pit" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
