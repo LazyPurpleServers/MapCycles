@@ -4,11 +4,9 @@
 	{
         "maps_invote" "1"
         
-		"cp_conifer_rc3" { }
-		"cp_fulgur_rc3" { }
+		"cp_brew_b4" { }
 		"cp_hardwood_rc3" { }
-		"cp_osiris_b27" { }
-		"pl_stranded_rc9" { }
+		"pl_phoenix_b4a" { }
 	}
 
 	"Attack & Defend"
@@ -17,7 +15,7 @@
         
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
-		"cp_brew_b3a" { }
+		"cp_brew_b4" { }
 		"cp_caldera_rc3" { }
 		"cp_conifer_rc3" { }
 		"cp_drypine_rc1" { }
@@ -26,7 +24,7 @@
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
-		"cp_hardwood_rc3" { }
+		"cp_hardwood_rc3a" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_mojave_b2" { }
@@ -110,7 +108,7 @@
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
-		"pl_phoenix_b3" { }
+		"pl_phoenix_b4a" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
