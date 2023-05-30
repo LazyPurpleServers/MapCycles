@@ -4,9 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_brew_b4" { }
-		"cp_hardwood_rc3" { }
-		"pl_phoenix_b4a" { }
+		"cp_hardwood_rc4" { }
+		"pl_eruption_b12" { }
 	}
 
 	"Attack & Defend"
@@ -24,7 +23,7 @@
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
-		"cp_hardwood_rc3a" { }
+		"cp_hardwood_rc4" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_mojave_b2" { }
@@ -100,6 +99,7 @@
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
 		"pl_enclosure_final" { }
+		"pl_eruption_b12" { }
 		"pl_escarpment_rc1" { }
 		"pl_extinction_rc1" { }
 		"pl_farmstead_rc4" { }
