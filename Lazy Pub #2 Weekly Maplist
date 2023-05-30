@@ -71,7 +71,7 @@
 		"cp_gydan" { }
 		"cp_hadal_rc1" { }
 		"cp_haddou_rc2" { }
-		"cp_hardwood_rc3a" { }
+		"cp_hardwood_rc4" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_heaven_rc" { }
@@ -176,6 +176,7 @@
 		"ctf_deliverance_b3" { }
 		"ctf_discover_b59" { }
 		"ctf_doublecross_snowy" { }
+		"ctf_downstream_b4a" { }
 		"ctf_downtown_final" { }
 		"ctf_epicenter" { }
 		"ctf_extraction_b6" { }
@@ -410,6 +411,7 @@
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
+		"pl_eruption_b12" { }
 		"pl_extinction_rc1" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
@@ -483,9 +485,9 @@
 		"sd_push_b1" { }
 		"sd_toucan_rc1" { }
 		"tc_meridian_rc3" { }
-		"vsh_distillery_23w17b_2" { }
+		"vsh_distillery_23w18b" { }
 		"vsh_skirmish_final6b" { }
-		"vsh_tinyrock_23w17b_2" { }
+		"vsh_tinyrock_23w18b" { }
 	}
 
 	"Deathmatch"
