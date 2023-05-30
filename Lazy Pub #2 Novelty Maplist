@@ -15,6 +15,7 @@
 		"cp_helmsdeep_v2" { }
 		"cp_hotelhell" { }
 		"cp_infinite_b8" { }
+		"cp_invisibowl_krowfix" { }
 		"cp_kakariko_a3" { }
 		"cp_lwobtsud" { }
 		"cp_marienwerder_rc" { }
@@ -253,6 +254,7 @@
 		"tc_ordyh" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
+		"tfp_tf2party_b2" { }
 		"vip_tfc_hunted" { }
 		"tdm_overtopolis_a5" { }
 		"tf_doom_e1m1_v01" { }
