@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"cp_hardwood_rc4" { }
-		"pl_eruption_b12" { }
+		"pl_eruption_b13" { }
 	}
 
 	"Attack & Defend"
@@ -99,7 +99,7 @@
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
 		"pl_enclosure_final" { }
-		"pl_eruption_b12" { }
+		"pl_eruption_b13" { }
 		"pl_escarpment_rc1" { }
 		"pl_extinction_rc1" { }
 		"pl_farmstead_rc4" { }
