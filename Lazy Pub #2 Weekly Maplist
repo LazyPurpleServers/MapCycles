@@ -26,7 +26,8 @@
 		"Arena_Metal_Gear_Solid_1" { }
 		"arena_namicott_rc4" { }
 		"arena_nucleus" { }
-		"arena_offblast" { }
+		"arena_offblast_final" { }
+		"arena_offblast_hybrid_rc1d" { }
 		"arena_phantom_b3" { }
 		"arena_ravine" { }
 		"arena_sawmill" { }
@@ -176,7 +177,7 @@
 		"ctf_deliverance_b3" { }
 		"ctf_discover_b59" { }
 		"ctf_doublecross_snowy" { }
-		"ctf_downstream_b4a" { }
+		"ctf_downstream_b7" { }
 		"ctf_downtown_final" { }
 		"ctf_epicenter" { }
 		"ctf_extraction_b6" { }
@@ -276,6 +277,7 @@
 		"koth_flurry_rc5" { }
 		"koth_forge_b5a" { }
 		"koth_former_cornfield_b1" { }
+		"koth_friction_a4" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
 		"koth_gamma_b3" { }
@@ -324,6 +326,7 @@
 		"koth_precipice_b5" { }
 		"koth_preposterous_rc2" { }
 		"koth_product_rcx" { }
+		"koth_qonk_a10" { }
 		"koth_quarry_rc5" { }
 		"koth_railbridge_rc2" { }
 		"koth_jamram_rc1a" { }
@@ -411,7 +414,7 @@
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
-		"pl_eruption_b12" { }
+		"pl_eruption_b13" { }
 		"pl_extinction_rc1" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
@@ -438,6 +441,7 @@
 		"pl_pit" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
+		"pl_ridgetech_rc1a" { }
 		"pl_rivercrossing_rc2a" { }
 		"pl_rocketravine_b6" { }
 		"pl_rumford_rc2" { }
@@ -469,6 +473,7 @@
 		"pd_atom_smash_b1" { }
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
+		"pd_selbyen_b4a" { }
 		"pd_standin_b1" { }
 		"pd_street_rc2b" { }
 		"pd_suijin_matsuri_rc4" { }
@@ -497,6 +502,7 @@
 		"dm_ashina_shrine_b1" { }
 		"dm_ashina_shrine_b1_mm" { }
 		"dm_backfort_gravfix3" { }
+		"dm_flux_b8" { }
 		"dm_halo_bloodgulch" { }
 		"dm_lockdown_tf" { }
 		"dm_longest_yard" { }
