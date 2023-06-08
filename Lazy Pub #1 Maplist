@@ -4,8 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_hardwood_rc4" { }
-		"pl_eruption_b13" { }
+		"pl_extinction_rc2" { }
+		"pl_vineyard_rc8a" { }
 	}
 
 	"Attack & Defend"
@@ -101,7 +101,7 @@
 		"pl_enclosure_final" { }
 		"pl_eruption_b13" { }
 		"pl_escarpment_rc1" { }
-		"pl_extinction_rc1" { }
+		"pl_extinction_rc2" { }
 		"pl_farmstead_rc4" { }
 		"pl_frontier_final" { }
 		"pl_jinn_rc2a" { }
@@ -120,7 +120,7 @@
 		"pl_thundermountain" { }
 		"pl_upward" { }
 		"pl_vigil_rc10" { }
-		"pl_vineyard_rc7a" { }
+		"pl_vineyard_rc8a" { }
 	}
 
 	"Alternative "
