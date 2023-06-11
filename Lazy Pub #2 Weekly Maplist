@@ -177,7 +177,7 @@
 		"ctf_deliverance_b3" { }
 		"ctf_discover_b59" { }
 		"ctf_doublecross_snowy" { }
-		"ctf_downstream_b7" { }
+		"ctf_downstream_b9a" { }
 		"ctf_downtown_final" { }
 		"ctf_epicenter" { }
 		"ctf_extraction_b6" { }
@@ -196,7 +196,6 @@
 		"ctf_lavatech_b6" { }
 		"ctf_lostcity" { }
 		"ctf_mercy" { }
-		// "ctf_minecraftland_v2b3-3_sg2-1" { } // not really suitable for the pub
 		"ctf_nuclide_rc8d" { }
 		"ctf_overlook_b1" { }
 		"ctf_parabolic_a10" { }
@@ -299,7 +298,7 @@
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_rc3a" { }
 		"koth_loader_v2" { }
-		"koth_logwash_rc4" { }
+		"koth_logwash_rc5" { }
 		"koth_luftangriff_b5a" { }
 		"koth_maple_ridge_event" { }
 		"koth_maple_ridge_rc2" { }
@@ -493,7 +492,7 @@
 		"tc_meridian_rc3" { }
 		"vsh_distillery_23w18b" { }
 		"vsh_skirmish_final6b" { }
-		"vsh_tinyrock_23w18b" { }
+		"vsh_tinyrock_23w23a" { }
 	}
 
 	"Deathmatch"
