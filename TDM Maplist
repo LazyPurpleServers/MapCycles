@@ -14,6 +14,7 @@
 		"ctf_badwater_b2" { }
 		"ctf_biomass_rc1" { }
 		"ctf_doublecross_snowy" { }
+		"ctf_downstream_b9a" { }
 		"ctf_extraction_b6" { }
 		"ctf_frosty" { }
 		"ctf_giants_rc3" { }
@@ -28,6 +29,7 @@
 		"ctf_pelican_peak_rc6a" { }
 		"ctf_routegs" { }
 		"ctf_turbine_winter_rc1" { }
+		"ctf_vikings_final" { }
 		"ctf_wildfire_rc" { }
 		"dm_ashina_shrine_b1_mm" { }
 		"dm_backfort_gravfix3" { }
@@ -44,6 +46,7 @@
 		"koth_camp_saxton_b1" { }
 		"koth_cascade" { }
 		"koth_chasm_b1" { }
+		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
 		"koth_dewm_rc1" { }
 		"koth_dryway_final" { }
@@ -57,11 +60,14 @@
 		"koth_kemptown_rc3a" { }
 		"koth_king" { }
 		"koth_lakeside_final" { }
-		"koth_logwash_rc4" { }
+		"koth_logwash_rc5" { }
+		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
 		"koth_occult_rc6" { }
+		"koth_octothorpe_classic_beta02" { }
 		"koth_preposterous_rc2" { }
+		"koth_railbridge_rc2" { }
 		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda_rc11" { }
