@@ -145,6 +145,7 @@
 	{
 		"maps_invote" "1"
 
+		"ctf_2009_xmas_rc1" { }
 		"ctf_2castle" { }
 		"ctf_2fort_frostyV47" { }
 		"ctf_2fort_mine_craft_bd4" { }
@@ -661,6 +662,7 @@
 		"trade_echidna_shrine" { }
 		"trade_facility_v7" { }
 		"trade_finalfantasy_town" { }
+		"trade_forest_realms_a3" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_icerink_b3a" { }
 		"trade_imagination_figment_a9e" { }
@@ -761,7 +763,7 @@
 		"sm64_whomps_fortress" { }
 		"tf_doom_e1m1_v01" { }
 		"tf_yelldowsforest_v8f" { }
-		"tower_of_power_v4" { }
+		"tower_of_power_v5" { }
 		"vsh_abandoned_facility_a4_argil_v2" { }
 		"vsh_arktown_v4" { }
 		"vsh_bianco_hills_v5_argil" { }
