@@ -471,7 +471,7 @@
 		"koth_RETRO_PIT" { }
 		"koth_riverbed_v2" { }
 		"koth_rooftop_b1" { }
-		"koth_rotunda_rc13" { }
+		"koth_rotunda_rc13a" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
@@ -725,7 +725,7 @@
 		"lunar_arboretum_d4" { }
 		"mannor_of_horrors" { }
 		"manor_of_fun_fix" { }
-		"manor_of_mischief" { }
+		"manor_of_mischief_v4" { }
 		"mario_kart_2008_v3" { }
 		"mcwallmart_g3_winter_256" { }
 		"mpl_losthorizon_b10" { }
