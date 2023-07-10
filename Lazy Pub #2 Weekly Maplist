@@ -331,7 +331,7 @@
 		"koth_jamram_rc1a" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc13" { }
+		"koth_rotunda_rc13a" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
@@ -443,7 +443,7 @@
 		"pl_ridgetech_rc1a" { }
 		"pl_rivercrossing_rc2a" { }
 		"pl_rocketravine_b6" { }
-		"pl_rocksalt_v6" { }
+		"pl_rocksalt_v7" { }
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
