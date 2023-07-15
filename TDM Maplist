@@ -26,7 +26,7 @@
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_nuclide_rc8d" { }
 		"ctf_parabolic_a10" { }
-		"ctf_pelican_peak_rc6a" { }
+		"ctf_pelican_peak" { }
 		"ctf_routegs" { }
 		"ctf_turbine_winter_rc1" { }
 		"ctf_vikings_final" { }
@@ -72,9 +72,9 @@
 		"koth_railbridge_rc2" { }
 		"koth_relic_rc2" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc13a" { }
+		"koth_rotunda" { }
 		"koth_sawmill" { }
-		"koth_sharkbay_rc2" { }
+		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
 		"koth_shorelight_rc6" { }
 		"koth_slaughter_b2a" { }
@@ -87,6 +87,7 @@
 		"pass_district" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
+		"pd_selbyen" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pkmn_goldenrodcity_b5" { }
