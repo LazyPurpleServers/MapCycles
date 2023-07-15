@@ -111,7 +111,7 @@
 		"cp_priderock_b2" { }
 		"cp_propaganda_b19" { }
 		"cp_punts_v1b" { }
-		"cp_reckoner_rc6" { }
+		"cp_reckoner" { }
 		"cp_redstone_b2" { }
 		"cp_redstone_ridge_b5a" { }
 		"cp_ritter_rc1" { }
@@ -125,7 +125,7 @@
 		"cp_stoneyridge_rc1" { }
 		"cp_submerged_b1" { }
 		"cp_subway_final" { }
-		"cp_sulfur_rc2_argil" { }
+		"cp_sulfur" { }
 		"cp_switchback_b5" { }
 		"cp_thebiomes_v1" { }
 		"cp_toy_fort_alt3" { }
@@ -197,6 +197,7 @@
 		"ctf_np_blake_fusion" { }
 		"ctf_operative_b1" { }
 		"ctf_overlook_b1" { }
+		"ctf_pelican_peak" { }
 		"ctf_pool" { }
 		"ctf_powerhouse_final" { }
 		"ctf_quarry_v2" { }
@@ -471,7 +472,7 @@
 		"koth_RETRO_PIT" { }
 		"koth_riverbed_v2" { }
 		"koth_rooftop_b1" { }
-		"koth_rotunda_rc13a" { }
+		"koth_rotunda" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
@@ -479,6 +480,7 @@
 		"koth_saturnvalley" { }
 		"koth_sawmill_event_v2" { }
 		"koth_sekhmet_b4" { }
+		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
 		"koth_shirouma_b1" { }
 		"koth_sky_fortress_b2" { }
@@ -598,7 +600,7 @@
         "pl_blastpitt_rc3" { }
         "pl_borax_rc2" { }
         "pl_boundary_final" { }
-        "pl_cashworks_final1" { }
+        "pl_cashworks" { }
         "pl_cliffsedge_b1" { }
         "pl_coldrush_rc1" { }
         "pl_cornfarm_rc" { }
@@ -730,6 +732,7 @@
 		"mcwallmart_g3_winter_256" { }
 		"mpl_losthorizon_b10" { }
 		"oot3d_hyrule_ctcfix1" { }
+		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
 		"pk_bigcity_tf" { }
 		"pkmn_applewoods_b3f" { }
