@@ -72,7 +72,7 @@
 		"cp_gydan" { }
 		"cp_hadal_rc1" { }
 		"cp_haddou_rc2" { }
-		"cp_hardwood_rc4" { }
+		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_heaven_rc" { }
@@ -94,7 +94,7 @@
 		"cp_steel_aftermath" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_subway_final" { }
-		"cp_sulfur_rc2" { }
+		"cp_sulfur" { }
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
 		"cp_wetcoal_b1" { }
@@ -136,7 +136,7 @@
 		"cp_powerground_b3" { }
 		"cp_priderock_b2" { }
 		"cp_propaganda_b19" { }
-		"cp_reckoner_rc6" { }
+		"cp_reckoner" { }
 		"cp_redstone_b2" { }
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
@@ -199,7 +199,7 @@
 		"ctf_nuclide_rc8d" { }
 		"ctf_overlook_b1" { }
 		"ctf_parabolic_a10" { }
-		"ctf_pelican_peak_rc6a" { }
+		"ctf_pelican_peak" { }
 		"ctf_pool" { }
 		"ctf_quarry_v2" { }
 		"ctf_raveravine_beta03" { }
@@ -331,13 +331,13 @@
 		"koth_jamram_rc1a" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
-		"koth_rotunda_rc13a" { }
+		"koth_rotunda" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
 		"koth_sawmill_event" { }
 		"koth_sekhmet_b4" { }
-		"koth_sharkbay_rc2" { }
+		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
 		"koth_shirouma_b1" { }
 		"koth_shirouma_medieval_b1" { }
@@ -400,7 +400,7 @@
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
 		"pl_cactuscanyon_redux_final2" { }
-		"pl_cashworks_final1" { }
+		"pl_cashworks" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
 		"pl_cornfarm_rc" { }
@@ -436,7 +436,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_pharaoh_rc1" { }
-		"pl_phoenix_b4a" { }
+		"pl_phoenix" { }
 		"pl_pit" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
@@ -453,6 +453,7 @@
 		"pl_spectre_a5_dew10" { }
 		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
+		"pl_venice" { }
 		"pl_vigil_rc10" { }
 		"pl_vineyard_rc8a" { }
 		"pl_volcanic_a26" { }
@@ -473,7 +474,7 @@
 		"pd_atom_smash_b1" { }
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
-		"pd_selbyen_b4a" { }
+		"pd_selbyen" { }
 		"pd_standin_b1" { }
 		"pd_street_rc2b" { }
 		"pd_suijin_matsuri_rc4" { }
@@ -490,9 +491,6 @@
 		"sd_push_b1" { }
 		"sd_toucan_rc1" { }
 		"tc_meridian_rc3" { }
-		"vsh_distillery_23w18b" { }
-		"vsh_skirmish_final6b" { }
-		"vsh_tinyrock_23w24a" { }
 	}
 
 	"Deathmatch"
