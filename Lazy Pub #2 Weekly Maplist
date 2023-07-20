@@ -489,8 +489,12 @@
 		"plr_sidetracked_rc3" { }
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
-		"sd_toucan_rc1" { }
+		"sd_toucan_rc3" { }
 		"tc_meridian_rc3" { }
+		"vsh_distillery" { }
+		"vsh_nucleus" { }
+		"vsh_skirmish" { }
+		"vsh_tinyrock" { }
 	}
 
 	"Deathmatch"
