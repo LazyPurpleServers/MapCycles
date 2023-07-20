@@ -666,7 +666,7 @@
 		"trade_forest_realms_a3" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_icerink_b3a" { }
-		"trade_imagination_figment_a10" { }
+		"trade_imagination_figment_a10b" { }
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
@@ -756,6 +756,7 @@
 		"rp_elite_deathstar" { }
 		"rusty_bucket_bay" { }
 		"sb_rockbottom" { }
+		"sd_toucan_rc3" { }
 		"sd_turbine_a3a" { }
 		"silver_valley_c1" { }
 		"sky_plaza_f2" { }
