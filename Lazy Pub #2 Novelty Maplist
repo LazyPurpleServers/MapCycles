@@ -146,7 +146,6 @@
 	{
 		"maps_invote" "1"
 		
-		"2f2f_directional_dinosaurs_a1" { }
 		"bot_rockpaperglitter_b3_fix" { }
 		"koth_087b_v2" { }
 		"koth_af_formula_a2" { }
@@ -159,6 +158,7 @@
 		"koth_dead_simple_classic" { }
 		"koth_deep13_b1" { }
 		"koth_diabolical_final1" { }
+		"koth_directional_dinosaurs_gravfix" { }
 		"koth_dropdeadfred_v3" { }
 		"koth_falling" { }
 		"koth_flood" { }
@@ -221,6 +221,7 @@
 		"arena_watchtowerrrrrrrrr_b1" { }
 		"balloon_race_v2b" { }
 		"balloon_race_v3_t7" { }
+		"boss_sealchamber_v2" { }
 		"steamboat_race_v5e" { }
 		"wacky_races_v2"  { }
 		"billiards" { }
