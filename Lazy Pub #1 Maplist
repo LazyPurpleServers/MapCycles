@@ -4,13 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"cp_hardwood_final" { }
-		"cp_steel" { }
-		"cp_sulfur" { }
-		"koth_rotunda" { }
-		"koth_sharkbay" { }
-		"pd_selbyen" { }
-		"pl_phoenix" { }
+		"koth_shorelight_rc7" { }
 	}
 
 	"Attack & Defend"
@@ -82,7 +76,7 @@
 		"koth_sawmill" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
-		"koth_shorelight_rc6" { }
+		"koth_shorelight_rc7" { }
 		"koth_skymill_b3" { }
 		"koth_slaughter_b2a" { }
 		"koth_soot_b5" { }
