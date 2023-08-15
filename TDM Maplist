@@ -2,15 +2,32 @@
 
 "umc_mapcycle" // TEAM DEATHMATCH SERVER MAPCYCLE
 {
-    "Deathmatch"
+	"Gravidea's Choice "
 	{
-        "maps_invote" "7"
+        "maps_invote" "1"
+        
+		"ctf_frosty" { }
+		"dom_cliffhanger_b11" { }
+		"koth_relic_rc2" { }
+		"pass_smalltime_rc1a" { }
+		"plr_hacksaw_rc1b" { }
+	}
+
+	"Control Points "
+	{
+        "maps_invote" "1"
         
 		"cp_marioblast_2011" { }
 		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
 		"cp_standin_final" { }
+	}
+
+	"Capture the Flag "
+	{
+        "maps_invote" "1"
+
 		"ctf_badwater_b2" { }
 		"ctf_biomass_rc1" { }
 		"ctf_doublecross_snowy" { }
@@ -31,6 +48,12 @@
 		"ctf_turbine_winter_rc1" { }
 		"ctf_vikings_final" { }
 		"ctf_wildfire_rc" { }
+	}
+
+	"Deathmatch "
+	{
+        "maps_invote" "1"
+
 		"dm_ashina_shrine_b1_mm" { }
 		"dm_backfort_gravfix3" { }
 		"dm_congo_b1" { }
@@ -41,7 +64,12 @@
 		"dm_newyork_gravfix3" { }
 		"dm_supermariobros3_b2f" { }
 		"dm_towerleap_v2_final2" { }
-		"dom_cliffhanger_b11" { }
+	}
+
+	"King of the Hill "
+	{
+        "maps_invote" "1"
+
 		"koth_aquaticruin_final" { }
 		"koth_brine_rc3a" { }
 		"koth_camp_saxton_b1" { }
@@ -82,11 +110,20 @@
 		"koth_stallone_b2" { }
 		"koth_suijin" { }
 		"koth_synthetic_rc6a" { }
+		"koth_undergrove_rc1" { }
 		"koth_ye_olde_harveste_v4" { }
+	}
+
+	"Miscellaneous "
+	{
+        "maps_invote" "1"
+
+		"dom_cliffhanger_b11" { }
 		"pass_brickyard" { }
 		"pass_district" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
+		"pass_timbertown" { }
 		"pd_selbyen" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
