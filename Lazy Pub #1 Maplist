@@ -4,7 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"koth_shorelight_rc7" { }
+		"koth_bagel_rc7" { }
 	}
 
 	"Attack & Defend"
@@ -45,7 +45,7 @@
         "maps_invote" "1"
         
 		"koth_anthem_b4" { }
-		"koth_bagel_rc6" { }
+		"koth_bagel_rc7" { }
 		"koth_brine_rc3a" { }
 		"koth_camp_saxton_b1" { }
 		"koth_cascade" { }
