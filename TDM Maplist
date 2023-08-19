@@ -6,7 +6,9 @@
         
 		"ctf_frosty" { }
 		"dom_cliffhanger_b11" { }
+		"koth_railbridge_rc2" { }
 		"koth_relic_rc3" { }
+		"koth_rotunda" { }
 		"koth_undergrove_rc1" { }
 		"pass_smalltime_rc1a" { }
 		"plr_hacksaw_rc1b" { }
@@ -28,7 +30,6 @@
         "maps_invote" "1"
 
 		"ctf_badwater_b2" { }
-		"ctf_biomass_rc1" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
 		"ctf_extraction_b6" { }
