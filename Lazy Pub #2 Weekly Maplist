@@ -63,6 +63,7 @@
 		"cp_drag_rc1" { }
 		"cp_drypine_rc1" { }
 		"cp_dustbowl_rainy" { }
+		"cp_dustcity" { }
 		"cp_ferrum_rc1" { }
 		"cp_fieldworks_a4" { }
 		"cp_fulgur_rc3" { }
@@ -112,6 +113,7 @@
 		"cp_axle_rc1" { }
 		"cp_bellas_roomz_v3" { }
 		"cp_buzzards_canyon_winter" { }
+		"cp_canaveral_rc5b" { }
 		"cp_cardinal_rc1a" { }
 		"cp_collis_b1" { }
 		"cp_construct_a3" { }
@@ -121,6 +123,7 @@
 		"cp_daytrip_rc4" { }
 		"cp_dispatch_b4" { }
 		"cp_drylock_b2" { }
+		"cp_entropy" { }
 		"cp_evergreen_b4" { }
 		"cp_follower" { }
 		"cp_frozen_rc4" { }
@@ -260,6 +263,7 @@
 		"koth_daenam_b12" { }
 		"koth_databank_rc3" { }
 		"koth_denile_b3" { }
+		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
 		"koth_dewpoint_b5b" { }
 		"koth_diabolical_final1" { }
@@ -406,6 +410,7 @@
 		"pl_coldrush_rc1" { }
 		"pl_cornfarm_rc" { }
 		"pl_corrode_rc2" { }
+		"pl_corruption_event_b4" { }
 		"pl_cranetop_b8" { }
 		"pl_crash_72_2" { }
 		"pl_crusoe_a17b" { }
@@ -477,10 +482,12 @@
 		"pd_pipeline_rc6" { }
 		"pd_selbyen" { }
 		"pd_standin_b1" { }
+		"pd_static_rc1c" { }
 		"pd_street_rc2b" { }
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
+		"pl_longboy_b8a" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_a7b" { }
 		"plr_hacksaw_rc1b" { }
