@@ -1,9 +1,9 @@
-"tf_mvm_missioncycle.res"
+"lpmvm_missioncycle.res"
 {	
 	"categories" "1"
 	"1"
 	{
-		"count" "87"
+		"count" "89"
 		
 		"1"
 		{
@@ -107,8 +107,8 @@
 		}
 		"21"
 		{
-			"map" "mvm_goldpit_rc2"
-			"popfile" "mvm_goldpit_b15_int_exciting_excavation"
+			"map" "mvm_goldpit_rc3"
+			"popfile" "mvm_goldpit_rc3_adv_goldrush"
 		}
 		"22"
 		{
@@ -197,8 +197,8 @@
 		}
 		"39"
 		{
-			"map" "mvm_rustvalley_rc3a"
-			"popfile" "mvm_rustvalley_rc3a_int_restless_robotics"
+			"map" "mvm_rustvalley_rc4"
+			"popfile" "mvm_rustvalley_rc4_int_restless_robotics"
 		}
 		"40"
 		{
@@ -434,6 +434,21 @@
 		{
 			"map" "mvm_terrorlict_final1"
 			"popfile" "mvm_terrorlict_final1"
+		}
+		"87"
+		{
+			"map" "mvm_yiresa_rc5a"
+			"popfile" "mvm_yiresa_rc5a_int_torrent_territory"
+		}
+		"88"
+		{
+			"map" "mvm_swirl_rc5"
+			"popfile" "mvm_swirl_rc5_advanced"
+		}
+		"89"
+		{
+			"map" "mvm_dusk_rc6"
+			"popfile" "mvm_dusk_rc6_int_ravager_raid"
 		}
 	}
 }
