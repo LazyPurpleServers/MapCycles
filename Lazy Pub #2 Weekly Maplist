@@ -26,8 +26,10 @@
 		"Arena_Metal_Gear_Solid_1" { }
 		"arena_namicott_rc4" { }
 		"arena_nucleus" { }
+		"arena_offblast_event_b3" { }
 		"arena_offblast_final" { }
 		"arena_offblast_hybrid_rc1d" { }
+		"arena_perks_b2" { }
 		"arena_phantom_b3" { }
 		"arena_ravine" { }
 		"arena_sawmill" { }
@@ -59,7 +61,9 @@
 		"cp_carthage_b1" { }
 		"cp_copperhead_b2c" { }
 		"cp_conifer_rc3" { }
+		"cp_degrootkeep_rats_a1b" { }
 		"cp_desperados_b2" { }
+		"cp_darkmarsh_event_rc4" { }
 		"cp_drag_rc1" { }
 		"cp_drypine_rc1" { }
 		"cp_dustbowl_rainy" { }
@@ -137,6 +141,7 @@
 		"cp_oceanside_a4b" { }
 		"cp_oranges_rc1" { }
 		"cp_overflow_2" { }
+		"cp_cowerhouse_b1" { }
 		"cp_powerground_b3" { }
 		"cp_priderock_b2" { }
 		"cp_propaganda_b19" { }
@@ -191,6 +196,7 @@
 		"ctf_free2fort" { }
 		"ctf_geothermal_b2" { }
 		"ctf_giants_rc3" { }
+		"ctf_graveshift_rc3" { }
 		"ctf_haarp" { }
 		"ctf_hades_b5" { }
 		"ctf_hearth_event_rc5" { }
@@ -353,6 +359,7 @@
 		"koth_skyscraper" { }
 		"koth_skyward_b2" { }
 		"koth_slaughter_b2a" { }
+		"koth_slime_rc1" { }
 		"koth_sludge_puddle" { }
 		"koth_snowcliff_b1" { }
 		"koth_snowtown_a7" { }
@@ -457,6 +464,7 @@
 		"pl_shoreleave_rc2" { }
 		"pl_sludgepit_final4" { }
 		"pl_spectre_a5_dew10" { }
+		"pl_spineyard_rc1a" { }
 		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
 		"pl_venice" { }
@@ -479,6 +487,9 @@
 		"pass_smalltime_rc1a" { }
 		"pd_atom_smash_b1" { }
 		"pd_hightower_b3" { }
+		"pd_infestation_b5" { }
+		"pd_mannsylvania_rc1" { }
+		"pd_nucleus_event_b4" { }
 		"pd_pipeline_rc6" { }
 		"pd_selbyen" { }
 		"pd_standin_b1" { }
