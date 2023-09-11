@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "89"
+		"count" "90"
 		
 		"1"
 		{
@@ -449,6 +449,11 @@
 		{
 			"map" "mvm_dusk_rc6"
 			"popfile" "mvm_dusk_rc6_int_ravager_raid"
+		}
+		"90"
+		{
+			"map" "mvm_scrapyard_rc1a"
+			"popfile" "mvm_scrapyard_rc1a_adv_techno_treachery"
 		}
 	}
 }
