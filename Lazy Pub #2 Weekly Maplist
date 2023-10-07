@@ -117,7 +117,7 @@
 		"cp_axle_rc1" { }
 		"cp_bellas_roomz_v3" { }
 		"cp_buzzards_canyon_winter" { }
-		"cp_canaveral_rc5b" { }
+		"cp_canaveral_rc5c" { }
 		"cp_cardinal_rc1a" { }
 		"cp_collis_b1" { }
 		"cp_construct_a3" { }
@@ -386,6 +386,7 @@
 		"koth_undergrove_event" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
+		"koth_valor_b1" { }
 		"koth_verso_a2" { }
 		"koth_warehouse" { }
 		"koth_warehouse_a1" { }
@@ -431,9 +432,10 @@
 		"pl_extinction_rc2" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
-		"pl_hasslecastle" { }
+		"pl_fountain_b1" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
+		"pl_hasslecastle" { }
 		"pl_haywire_rc5" { }
 		"pl_hydropower_rc4" { }
 		"pl_jinn_rc2a" { }
