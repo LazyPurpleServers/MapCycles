@@ -4,7 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"koth_bagel_rc7" { }
+		"pl_fountain_b1" { }
 	}
 
 	"Attack & Defend"
@@ -103,6 +103,7 @@
 		"pl_escarpment_rc1" { }
 		"pl_extinction_rc2" { }
 		"pl_farmstead_rc4" { }
+		"pl_fountain_b1" { }
 		"pl_frontier_final" { }
 		"pl_jinn_rc2a" { }
 		"pl_midwest_rc1a" { }
