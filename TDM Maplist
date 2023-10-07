@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"cp_canaveral_rc5c" { }
 		"ctf_frosty" { }
 		"dom_cliffhanger_b11" { }
 		"koth_railbridge_rc2" { }
@@ -18,6 +19,7 @@
 	{
         "maps_invote" "1"
         
+		"cp_canaveral_rc5c" { }
 		"cp_marioblast_2011" { }
 		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
@@ -112,6 +114,7 @@
 		"koth_suijin" { }
 		"koth_synthetic_rc6a" { }
 		"koth_undergrove_rc1" { }
+		"koth_valor_b1" { }
 		"koth_ye_olde_harveste_v4" { }
 	}
 
