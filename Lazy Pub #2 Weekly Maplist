@@ -85,6 +85,7 @@
 		"cp_intrusion_b4" { }
 		"cp_longhaul_a3" { }
 		"cp_lushbowl_final" { }
+		"cp_marienwerder_rc" { }
 		"cp_minery_a12" { }
 		"cp_mojave_b2" { }
 		"cp_neighbor_b3" { }
@@ -119,6 +120,7 @@
 		"cp_buzzards_canyon_winter" { }
 		"cp_canaveral_rc5c" { }
 		"cp_cardinal_rc1a" { }
+		"cp_coilblaze_rc8" { }
 		"cp_collis_b1" { }
 		"cp_construct_a3" { }
 		"cp_croissant_final" { }
@@ -135,7 +137,6 @@
 		"cp_glassworks_rc6a" { }
 		"cp_indulge" { }
 		"cp_japan_v2" { }
-		"cp_kalinka_rc6a" { }
 		"cp_logjam_rc12f" { }
 		"cp_malgam_g4" { }
 		"cp_oceanside_a4b" { }
@@ -197,11 +198,13 @@
 		"ctf_geothermal_b2" { }
 		"ctf_giants_rc3" { }
 		"ctf_graveshift_rc3" { }
+		"ctf_greystone_b2" { }
 		"ctf_haarp" { }
 		"ctf_hades_b5" { }
+		"ctf_hallofdeath_2_rc1" { }
 		"ctf_hearth_event_rc5" { }
-		"ctf_hydro_v2" { }
 		"ctf_hotspring_b3a" { }
+		"ctf_hydro_v2" { }
 		"ctf_installation_v2" { }
 		"ctf_lavatech_b6" { }
 		"ctf_lostcity" { }
@@ -340,7 +343,7 @@
 		"koth_qonk_a10" { }
 		"koth_quarry_rc5" { }
 		"koth_railbridge_rc2" { }
-		"koth_jamram_rc1a" { }
+		"koth_jamram_rc1b" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
@@ -432,7 +435,7 @@
 		"pl_extinction_rc2" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
-		"pl_fountain_b1" { }
+		"pl_fountain_b1a" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
 		"pl_hasslecastle" { }
@@ -513,6 +516,8 @@
 		"sd_push_b1" { }
 		"sd_toucan_rc3" { }
 		"tc_meridian_rc3" { }
+		"tc_spectre_b5" { }
+		"tc_strata_b1c" { }
 		"vsh_distillery" { }
 		"vsh_nucleus" { }
 		"vsh_skirmish" { }
