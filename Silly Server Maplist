@@ -52,6 +52,7 @@
 		"cp_carthage_b1" { }
 		"cp_clue_b1" { }
 		"cp_collis_b1" { }
+		"cp_coilblaze_rc8" { }
 		"cp_construct_a3" { }
 		"cp_container" { }
 		"cp_copperhead_b1e" { }
@@ -89,7 +90,6 @@
 		"cp_industries_beta02b" { }
 		"cp_intrusion_b4" { }
 		"cp_japan_v2" { }
-		"cp_kalinka_rc2" { }
 		"cp_lair_a6" { }
 		"cp_logjam_rc5" { }
 		"cp_lumbermountain" { }
@@ -103,6 +103,7 @@
 		"cp_okto_beta_2" { }
 		"cp_omen_b6" { }
 		"cp_oranges_rc1" { }
+		"cp_orange_horizon" { }
 		"cp_osiris_b27" { }
 		"cp_overflow_2" { }
 		"cp_overgrown_b3" { }
@@ -190,6 +191,7 @@
 		"ctf_lostcity" { }
 		"ctf_mercy" { }
 		"ctf_minecraft_b8" { }
+		"ctf_minecraft_tunnel_finalV2" { }
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_moonwalk_v2" { }
 		"ctf_morocco_coast" { }
@@ -467,7 +469,7 @@
 		"koth_product_rcx" { }
 		"koth_quarry_b6" { }
 		"koth_railbridge_rc2" { }
-		"koth_jamram_rc1a" { }
+		"koth_jamram_rc1b" { }
 		"koth_rats_office_b1_2" { }
 		"koth_relic_rc3" { }
 		"koth_RETRO_PIT" { }
@@ -751,6 +753,7 @@
 		"pkmn_victoryroad_pl" { }
 		"pkmn_violetcity_b1" { }
 		"pkmn_vermillioncity_b1" { }
+		"plr_2xhighertower_v2" { }
 		"plr_fishladder3" { }
 		"plr_hacksaw_b10" { }
 		"plr_hierarch_rc2b" { }
