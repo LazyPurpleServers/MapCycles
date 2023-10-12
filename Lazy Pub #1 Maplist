@@ -4,7 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"pl_fountain_b1" { }
+		"koth_jamram_rc1b" { }
+		"pl_fountain_b1a" { }
 	}
 
 	"Attack & Defend"
@@ -60,7 +61,7 @@
 		"koth_highpass" { }
 		"koth_hoax_rc3" { }
 		"koth_horizon" { }
-		"koth_jamram_rc1a" { }
+		"koth_jamram_rc1b" { }
 		"koth_kemptown_rc3a" { }
 		"koth_king" { }
 		"koth_lakeside_final" { }
