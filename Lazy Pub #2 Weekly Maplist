@@ -60,7 +60,7 @@
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
 		"cp_copperhead_b2c" { }
-		"cp_conifer_rc3" { }
+		"cp_conifer_rc3a" { }
 		"cp_degrootkeep_rats_a1b" { }
 		"cp_desperados_b2" { }
 		"cp_darkmarsh_event_rc4" { }
@@ -435,7 +435,7 @@
 		"pl_extinction_rc2" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
-		"pl_fountain_b1a" { }
+		"pl_fountain_b2" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
 		"pl_hasslecastle" { }
