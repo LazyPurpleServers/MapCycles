@@ -367,6 +367,7 @@
 		"koth_sludge_puddle" { }
 		"koth_snowcliff_b1" { }
 		"koth_snowtown_a7" { }
+		"koth_solar_rc1a" { }
 		"koth_sollytude" { }
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
@@ -417,6 +418,7 @@
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
 		"pl_cactuscanyon_redux_final2" { }
+		"pl_candyland_test4a" { }
 		"pl_cashworks" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
@@ -530,6 +532,7 @@
 
 		"dm_ashina_shrine_b1" { }
 		"dm_ashina_shrine_b1_mm" { }
+		"dm_backfort_event_b1" { }
 		"dm_backfort_gravfix3" { }
 		"dm_flux_b8" { }
 		"dm_halo_bloodgulch" { }
