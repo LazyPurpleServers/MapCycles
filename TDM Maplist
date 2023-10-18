@@ -6,6 +6,7 @@
         
 		"cp_canaveral_rc5c" { }
 		"ctf_frosty" { }
+		"dm_backfort_event_b1" { }
 		"dom_cliffhanger_b11" { }
 		"koth_railbridge_rc2" { }
 		"koth_relic_rc3" { }
@@ -57,6 +58,7 @@
         "maps_invote" "1"
 
 		"dm_ashina_shrine_b1_mm" { }
+		"dm_backfort_event_b1" { }
 		"dm_backfort_gravfix3" { }
 		"dm_congo_b1" { }
 		"dm_directional_dinosaurs_gravfix2" { }
