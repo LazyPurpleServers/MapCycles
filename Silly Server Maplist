@@ -233,6 +233,7 @@
 		"maps_invote" "1"
 
 		"dm_ashina_shrine_b1" { }
+		"dm_backfort_event_b1" { }
 		"dm_backfort_gravfix3" { }
 		"dm_boostertower" { }
 		"dm_congo" { }
@@ -497,6 +498,7 @@
 		"koth_sludge_puddle" { }
 		"koth_snowcliff_b1" { }
 		"koth_sol_b1" { }
+		"koth_solar_rc1a" { }
 		"koth_spillway_rc3a" { }
 		"koth_spooky_ravine_b1_3" { }
 		"koth_Sprawl" { }
