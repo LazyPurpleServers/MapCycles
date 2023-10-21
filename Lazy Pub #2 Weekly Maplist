@@ -60,7 +60,7 @@
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
 		"cp_copperhead_b2c" { }
-		"cp_conifer_rc3a" { }
+		"cp_conifer_rc4" { }
 		"cp_degrootkeep_rats_a1b" { }
 		"cp_desperados_b2" { }
 		"cp_darkmarsh_event_rc4" { }
@@ -418,7 +418,7 @@
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
 		"pl_cactuscanyon_redux_final2" { }
-		"pl_candyland_test4a" { }
+		"pl_candyland_test4b" { }
 		"pl_cashworks" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
@@ -437,7 +437,7 @@
 		"pl_extinction_rc2" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
-		"pl_fountain_b2" { }
+		"pl_fountain_b3" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
 		"pl_hasslecastle" { }
