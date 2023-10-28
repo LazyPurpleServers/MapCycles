@@ -52,6 +52,7 @@
 		"ctf_sidewinder_rc0" { }
 		"ctf_turbine_winter_rc1" { }
 		"ctf_vikings_final" { }
+		"ctf_well_snowy_b2" { }
 		"ctf_wildfire_rc" { }
 	}
 
@@ -96,6 +97,7 @@
 		"koth_jamram_rc1b" { }
 		"koth_kemptown_rc3a" { }
 		"koth_king" { }
+		"koth_krampus_rc1" { }
 		"koth_lakeside_final" { }
 		"koth_logwash_rc5" { }
 		"koth_los_muertos" { }
