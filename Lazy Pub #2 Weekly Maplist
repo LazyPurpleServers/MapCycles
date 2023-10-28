@@ -233,6 +233,7 @@
 		"ctf_urbanbrook" { }
 		"ctf_vector_v1" { }
 		"ctf_well_classic_b3" { }
+		"ctf_well_snowy_b2" { }
 		"ctf_wildfire_rc" { }
 		"ctf_winter_ridge_b1" { }
 		"ctf_wiretap_b3" { }
@@ -313,6 +314,7 @@
 		"koth_illinois_a16a" { }
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_rc3a" { }
+		"koth_krampus_rc1" { }
 		"koth_loader_v2" { }
 		"koth_logwash_rc5" { }
 		"koth_luftangriff_b5a" { }
@@ -481,6 +483,7 @@
 		"pl_vineyard_rc8a" { }
 		"pl_volcanic_a26" { }
 		"pl_yamashiro_b3" { }
+		"pl_ye_olde_mdvl_snow" { }
 	}
 
 	"Miscellaneous"
