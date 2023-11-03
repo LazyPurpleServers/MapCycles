@@ -220,7 +220,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_scorched_final" { }
-		"ctf_sidewinder_rc3" { }
+		"ctf_sidewinder_rc3a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
 		"ctf_system_rc1" { }
@@ -233,7 +233,7 @@
 		"ctf_urbanbrook" { }
 		"ctf_vector_v1" { }
 		"ctf_well_classic_b3" { }
-		"ctf_well_snowy_b3" { }
+		"ctf_well_snowy_b4" { }
 		"ctf_wildfire_rc" { }
 		"ctf_winter_ridge_b1" { }
 		"ctf_wiretap_b3" { }
@@ -393,7 +393,7 @@
 		"koth_undergrove_event" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
-		"koth_valor_b1" { }
+		"koth_valor_rc1" { }
 		"koth_verso_a2" { }
 		"koth_warehouse" { }
 		"koth_warehouse_a1" { }
