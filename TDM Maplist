@@ -6,7 +6,7 @@
         
 		"cp_canaveral_rc5c" { }
 		"ctf_frosty" { }
-		"ctf_sidewinder_rc3" { }
+		"ctf_sidewinder_rc3a" { }
 		"dm_backfort_event_b2" { }
 		"dom_cliffhanger_b11" { }
 		"koth_railbridge_rc2" { }
@@ -49,10 +49,10 @@
 		"ctf_parabolic_a10" { }
 		"ctf_pelican_peak" { }
 		"ctf_routegs" { }
-		"ctf_sidewinder_rc3" { }
+		"ctf_sidewinder_rc3a" { }
 		"ctf_turbine_winter_rc1" { }
 		"ctf_vikings_final" { }
-		"ctf_well_snowy_b2" { }
+		"ctf_well_snowy_b4" { }
 		"ctf_wildfire_rc" { }
 	}
 
@@ -120,7 +120,7 @@
 		"koth_suijin" { }
 		"koth_synthetic_rc6a" { }
 		"koth_undergrove_rc1" { }
-		"koth_valor_b1" { }
+		"koth_valor_rc1" { }
 		"koth_ye_olde_harveste_v4" { }
 	}
 
