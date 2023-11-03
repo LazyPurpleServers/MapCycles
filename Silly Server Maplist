@@ -223,7 +223,7 @@
 		"ctf_vikings_final" { }
 		"ctf_well_classic_b3" { }
 		"ctf_well_event_rc4a" { }
-		"ctf_well_snowy_b3" { }
+		"ctf_well_snowy_b4" { }
 		"ctf_well2" { }
 		"ctf_wild_west_final" { }
 		"ctf_wildfire_rc" { }
@@ -517,6 +517,7 @@
 		"koth_twinfalls" { }
 		"koth_undergrove_event_rc3e" { }
 		"koth_undergrove_rc1" { }
+		"koth_valor_rc1" { }
 		"koth_warehouse" { }
 		"koth_warehouse_a1" { }
 		"koth_warehouse_canal" { }
