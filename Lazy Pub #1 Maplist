@@ -6,6 +6,7 @@
         
 		"cp_conifer_rc4" { }
 		"koth_jamram_rc1b" { }
+		"koth_valor_rc1" { }
 		"pl_fountain_b3" { }
 	}
 
@@ -86,6 +87,7 @@
 		"koth_synthetic_rc6a" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
+		"koth_valor_rc1" { }
 		"koth_viaduct" { }
 	}
 
