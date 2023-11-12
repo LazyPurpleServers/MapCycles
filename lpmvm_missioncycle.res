@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "90"
+		"count" "91"
 		
 		"1"
 		{
@@ -454,6 +454,11 @@
 		{
 			"map" "mvm_scrapyard_rc1a"
 			"popfile" "mvm_scrapyard_rc1a_adv_techno_treachery"
+		}
+		"91"
+		{
+			"map" "mvm_greekrock_rc1"
+			"popfile" "mvm_greekrock_rc1_the_last_mission"
 		}
 	}
 }
