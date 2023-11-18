@@ -440,7 +440,7 @@
 		"koth_harter_rc1" { }
 		"koth_harvestalpine_v3b" { }
 		"koth_hole_alpha" { }
-		"koth_icetower_rc4" { }
+		"koth_icetower_rc6" { }
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_b8" { }
 		"koth_loader_v2" { }
@@ -745,6 +745,7 @@
 		"mercs_paradise_v2" { }
 		"mpl_losthorizon_b10" { }
 		"oot3d_hyrule_ctcfix1" { }
+		"pd_galleria_b9b" { }
 		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
 		"pk_bigcity_tf" { }
