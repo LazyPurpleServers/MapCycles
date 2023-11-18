@@ -220,7 +220,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_scorched_final" { }
-		"ctf_sidewinder_rc3a" { }
+		"ctf_sidewinder_rc3b" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
 		"ctf_system_rc1" { }
@@ -309,7 +309,7 @@
 		"koth_hoax_rc3" { }
 		"koth_hole_alpha" { }
 		"koth_horizon" { }
-		"koth_icetower_rc4" { }
+		"koth_icetower_rc6" { }
 		"koth_iglesia_b3b" { }
 		"koth_illinois_a16a" { }
 		"koth_jinglejam_rc2" { }
@@ -354,6 +354,7 @@
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
 		"koth_sawmill_event" { }
+		"koth_schneestadt_b2a" { }
 		"koth_sekhmet_b4" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
@@ -498,6 +499,7 @@
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
 		"pd_atom_smash_b1" { }
+		"pd_galleria_b9b" { }
 		"pd_hightower_b3" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania_rc1" { }
@@ -526,6 +528,7 @@
 		"tc_strata_b1c" { }
 		"vsh_distillery" { }
 		"vsh_nucleus" { }
+		"vsh_outlook_rc2" { }
 		"vsh_skirmish" { }
 		"vsh_tinyrock" { }
 	}
