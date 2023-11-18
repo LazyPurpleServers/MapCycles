@@ -5,15 +5,14 @@
         "maps_invote" "1"
         
 		"cp_canaveral_rc5c" { }
-		"ctf_frosty" { }
-		"ctf_sidewinder_rc3a" { }
-		"dm_backfort_event_b2" { }
+		"ctf_sidewinder_rc3b" { }
 		"dom_cliffhanger_b11" { }
+		"koth_icetower_rc6" { }
 		"koth_railbridge_rc2" { }
-		"koth_relic_rc3" { }
 		"koth_rotunda" { }
 		"koth_undergrove_rc1" { }
 		"pass_smalltime_rc1a" { }
+		"pd_galleria_b9b" { }
 		"plr_hacksaw_rc1b" { }
 	}
 
@@ -49,7 +48,7 @@
 		"ctf_parabolic_a10" { }
 		"ctf_pelican_peak" { }
 		"ctf_routegs" { }
-		"ctf_sidewinder_rc3a" { }
+		"ctf_sidewinder_rc3b" { }
 		"ctf_turbine_winter_rc1" { }
 		"ctf_vikings_final" { }
 		"ctf_well_snowy_b4" { }
@@ -92,7 +91,7 @@
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_hoax_rc3" { }
-		"koth_icetower_rc4" { }
+		"koth_icetower_rc6" { }
 		"koth_illinois_a16a" { }
 		"koth_jamram_rc1b" { }
 		"koth_kemptown_rc3a" { }
@@ -111,6 +110,7 @@
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
 		"koth_sawmill" { }
+		"koth_schneestadt_b2a" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
 		"koth_shorelight_rc7" { }
@@ -133,6 +133,7 @@
 		"pass_district" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
+		"pd_galleria_b9b" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania_rc1" { }
 		"pd_selbyen" { }
