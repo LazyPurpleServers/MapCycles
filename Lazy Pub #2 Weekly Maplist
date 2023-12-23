@@ -229,7 +229,7 @@
 		"ctf_totalwar_v2" { }
 		"ctf_turbine2_a6" { }
 		"ctf_turbine_expanded" { }
-		"ctf_turbine_winter_rc1" { }
+		"ctf_turbine_winter" { }
 		"ctf_turbine2_a6" { }
 		"ctf_urbanbrook" { }
 		"ctf_vector_v1" { }
@@ -444,6 +444,7 @@
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc4" { }
 		"pl_fountain_b3" { }
+		"pl_frostcliff" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
 		"pl_hasslecastle" { }
