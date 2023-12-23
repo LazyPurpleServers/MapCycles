@@ -4,10 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_conifer_rc4" { }
-		"koth_jamram_rc1b" { }
-		"koth_valor_rc1" { }
-		"pl_fountain_b3" { }
+		"cp_brew" { }
+		"pd_galleria" { }
 	}
 
 	"Attack & Defend"
