@@ -1,6 +1,6 @@
 "umc_mapcycle"
 {
-	"Gravidea's Choice "
+	"TDM's Choice "
 	{
         "maps_invote" "1"
         
@@ -13,7 +13,7 @@
 		"koth_undergrove_rc1" { }
 		"pass_smalltime_rc1a" { }
 		"pd_galleria_b9b" { }
-		"plr_hacksaw_rc1b" { }
+		"plr_hacksaw" { }
 	}
 
 	"Control Points "
@@ -96,7 +96,7 @@
 		"koth_jamram_rc1b" { }
 		"koth_kemptown_rc3a" { }
 		"koth_king" { }
-		"koth_krampus_rc1" { }
+		"koth_krampus" { }
 		"koth_lakeside_final" { }
 		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
@@ -132,7 +132,7 @@
 		"pass_district" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
-		"pd_galleria_b9b" { }
+		"pd_galleria" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania_rc1" { }
 		"pd_selbyen" { }
@@ -141,7 +141,7 @@
 		"pkmn_goldenrodcity_b5" { }
 		"plr_bananabay" { }
 		"plr_cutter_b3" { }
-		"plr_hacksaw_rc1b" { }
+		"plr_hacksaw" { }
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
 		"sd_toucan_rc3" { }
