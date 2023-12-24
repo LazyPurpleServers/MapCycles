@@ -218,7 +218,7 @@
 		"ctf_theskatingrink_b3" { }
 		"ctf_turbheim" { }
 		"ctf_turbine_upsidedown_02" { }
-		"ctf_turbine_winter_rc1" { }
+		"ctf_turbine_winter" { }
 		"ctf_urbanbrook" { }
 		"ctf_vikings_final" { }
 		"ctf_well_classic_b3" { }
@@ -745,7 +745,7 @@
 		"mercs_paradise_v2" { }
 		"mpl_losthorizon_b10" { }
 		"oot3d_hyrule_ctcfix1" { }
-		"pd_galleria_b9b" { }
+		"pd_galleria" { }
 		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
 		"pk_bigcity_tf" { }
