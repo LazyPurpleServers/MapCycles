@@ -5,21 +5,19 @@
         "maps_invote" "1"
         
 		"cp_canaveral_rc5c" { }
-		"ctf_sidewinder_rc3b" { }
-		"dom_cliffhanger_b11" { }
+		"cp_abyss_b81" { }
+		"dom_cliffhanger_b81" { }
 		"koth_icetower_rc6" { }
 		"koth_railbridge_rc2" { }
-		"koth_rotunda" { }
 		"koth_undergrove_rc1" { }
-		"pass_smalltime_rc1a" { }
 		"pd_galleria" { }
-		"plr_hacksaw" { }
 	}
 
 	"Control Points "
 	{
         "maps_invote" "1"
         
+		"cp_abyss_b81" { }
 		"cp_canaveral_rc5c" { }
 		"cp_marioblast_2011" { }
 		"cp_powerhouse" { }
