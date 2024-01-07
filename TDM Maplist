@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"cp_abyss_b81" { }
-		"cp_canaveral_rc5c" { }
+		"ctf_rift_rc1a" { }
 		"dom_cliffhanger_b81" { }
 		"koth_icetower_rc6" { }
 		"koth_railbridge_rc2" { }
@@ -45,6 +45,7 @@
 		"ctf_nuclide_rc8d" { }
 		"ctf_parabolic_a10" { }
 		"ctf_pelican_peak" { }
+		"ctf_rift_rc1a" { }
 		"ctf_routegs" { }
 		"ctf_sidewinder_rc3b" { }
 		"ctf_turbine_winter" { }
