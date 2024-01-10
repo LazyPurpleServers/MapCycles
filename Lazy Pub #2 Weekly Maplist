@@ -35,7 +35,7 @@
 		"arena_sawmill" { }
 		"arena_scorched_final" { }
 		"arena_shockwave_b1" { }
-		"arena_snowcastle_b2" { }
+		"arena_snowcastle_b3" { }
 		"arena_staple_rc1" { }
 		"arena_steeple_b3" { }
 		"arena_stone_keep_siege_a1" { }
@@ -96,6 +96,7 @@
 		"cp_osiris_b27" { }
 		"cp_overgrown_rc8" { }
 		"cp_france_rc4c" { }
+		"cp_rocketforge_b3" { }
 		"cp_rotary_a0" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
@@ -137,6 +138,7 @@
 		"cp_frozen_rc4" { }
 		"cp_geomance_rc1" { }
 		"cp_glassworks_rc6a" { }
+		"cp_holyhell_rc1" { }
 		"cp_indulge" { }
 		"cp_japan_v2" { }
 		"cp_logjam_rc12f" { }
@@ -172,6 +174,7 @@
 		"ctf_2fort_newfort_b6" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
+		"ctf_applejack_b4" { }
 		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
@@ -227,6 +230,7 @@
 		"ctf_stronghold_b5" { }
 		"ctf_system_rc1" { }
 		"ctf_tailrace_b10" { }
+		"ctf_terminus_event_b3a" { }
 		"ctf_totalwar_v2" { }
 		"ctf_turbine2_a6" { }
 		"ctf_turbine_expanded" { }
@@ -532,6 +536,7 @@
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
 		"vsh_distillery" { }
+		"vsh_facility_b3c" { }
 		"vsh_nucleus" { }
 		"vsh_outlook_rc2" { }
 		"vsh_skirmish" { }
