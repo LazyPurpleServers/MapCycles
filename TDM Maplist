@@ -5,6 +5,7 @@
         "maps_invote" "1"
         
 		"cp_abyss_b81" { }
+		"ctf_applejack_b4" { }
 		"ctf_rift_rc1a" { }
 		"dom_cliffhanger_b81" { }
 		"koth_icetower_rc6" { }
@@ -30,6 +31,7 @@
 	{
         "maps_invote" "1"
 
+		"ctf_applejack_b4" { }
 		"ctf_badwater_b2" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
