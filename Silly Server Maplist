@@ -388,7 +388,7 @@
 		"koth_aquaticruin_final" { }
 		"koth_ashville_rc1" { }
 		"koth_autumn_twilight_rc2" { }
-		"koth_bagel_rc7" { }
+		"koth_bagel_rc8" { }
 		"koth_basalt_rc2" { }
 		"koth_beachlands_a1" { }
 		"koth_brine_rc3a" { }
@@ -431,7 +431,7 @@
 		"koth_frostline_b1" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
-		"koth_gamma_b5" { }
+		"koth_gamma_b6" { }
 		"koth_graveyard_beta2" { }
 		"koth_gray_co_rc1" { }
 		"koth_green_hill" { }
@@ -729,8 +729,9 @@
 		"ennui_box" { }
 		"gm_temple_v8" { }
 		"goldenmachinegun_v1b_night" { }
-		"hikikomori_mall_a4" { }
 		"hgss_goldenrodcity_b2" { }
+		"hikikomori_mall_a4" { }
+		"hotandcold_mattie" { }
 		"idle_trade_inkopolis_b1" { }
 		"inandout_mattie" { }
 		"intercosmic_terminal_e1" { }
