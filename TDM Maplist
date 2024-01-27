@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"cp_abyss_b81" { }
-		"cp_supermariobros3" { }
+		"cp_supermariobros3_b4" { }
 		"ctf_applejack_b4" { }
 		"ctf_rift_rc1a" { }
 		"dom_cliffhanger_b81" { }
@@ -26,7 +26,7 @@
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
 		"cp_standin_final" { }
-		"cp_supermariobros3" { }
+		"cp_supermariobros3_b4" { }
 	}
 
 	"Capture the Flag "
