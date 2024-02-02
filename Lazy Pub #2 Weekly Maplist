@@ -87,6 +87,7 @@
 		"cp_longhaul_a3" { }
 		"cp_lushbowl_final" { }
 		"cp_marienwerder_rc" { }
+		"cp_method_b2" { }
 		"cp_minery_a12" { }
 		"cp_mojave_b2" { }
 		"cp_neighbor_b3" { }
@@ -459,7 +460,7 @@
 		"pl_jungle_a1c" { }
 		"pl_manngrove_rc5" { }
 		"pl_mesa_b1" { }
-		"pl_mesaworks_rc3" { }
+		"pl_mesaworks_final" { }
 		"pl_metropolis_b5" { }
 		"pl_midwest_rc1a" { }
 		"pl_mill_b5" { }
