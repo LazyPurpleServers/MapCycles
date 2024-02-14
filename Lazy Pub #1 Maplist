@@ -4,7 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"koth_bagel_rc8" { }
+		"cp_method_b3" { }
+		"pl_vineyard_rc8b" { }
 	}
 
 	"Attack & Defend"
@@ -24,6 +25,7 @@
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
+		"cp_method_b3" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
@@ -120,7 +122,7 @@
 		"pl_thundermountain" { }
 		"pl_upward" { }
 		"pl_vigil_rc10" { }
-		"pl_vineyard_rc8a" { }
+		"pl_vineyard_rc8b" { }
 	}
 
 	"Alternative "
