@@ -95,6 +95,7 @@
 		"cp_lumbermountain" { }
 		"cp_lushbowl_final" { }
 		"cp_lwobtsud" { }
+		"cp_method_b3" { }
 		"cp_minery_a12" { }
 		"cp_mist_rc1d" { }
 		"cp_monopod_a11" { }
@@ -431,7 +432,7 @@
 		"koth_frostline_b1" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
-		"koth_gamma_b6" { }
+		"koth_gamma_b7" { }
 		"koth_graveyard_beta2" { }
 		"koth_gray_co_rc1" { }
 		"koth_green_hill" { }
