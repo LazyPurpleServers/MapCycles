@@ -88,7 +88,7 @@
 		"cp_longhaul_a3" { }
 		"cp_lushbowl_final" { }
 		"cp_marienwerder_rc" { }
-		"cp_method_b2" { }
+		"cp_method_b3" { }
 		"cp_minery_a12" { }
 		"cp_mojave_b2" { }
 		"cp_neighbor_b3" { }
@@ -491,7 +491,7 @@
 		"pl_subzero_a1" { }
 		"pl_venice" { }
 		"pl_vigil_rc10" { }
-		"pl_vineyard_rc8a" { }
+		"pl_vineyard_rc8b" { }
 		"pl_volcanic_a26" { }
 		"pl_yamashiro_b3" { }
 		"pl_ye_olde_mdvl_snow" { }
