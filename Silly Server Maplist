@@ -271,7 +271,6 @@
 		"gm_buildnation_v3_2" { }
 		"gm_canals" { }
 		"gm_chata" { }
-		"gm_coalmine" { }
 		"gm_coast" { }
 		"gm_outlands" { }
 		"gm_supersizeroom_v2" { }
@@ -684,7 +683,7 @@
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
 		"trade_manhatten" { }
-		"trade_mcdonalds_b1" { }
+		"trade_mcdonalds_b2" { }
 		"trade_mega" { }
 		"trade_mmm_v1" { }
 		"trade_minecraft_fishbond_j_f15" { }
