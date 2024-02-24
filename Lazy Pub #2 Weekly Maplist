@@ -176,7 +176,7 @@
 		"ctf_2fort_newfort_b6" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
-		"ctf_applejack_b4" { }
+		"ctf_applejack_b5" { }
 		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
@@ -324,6 +324,7 @@
 		"koth_kemptown_rc3a" { }
 		"koth_krampus_rc1" { }
 		"koth_loader_v2" { }
+		"koth_logwash_rc6a" { }
 		"koth_luftangriff_b5a" { }
 		"koth_maple_ridge_event" { }
 		"koth_maple_ridge_rc2" { }
