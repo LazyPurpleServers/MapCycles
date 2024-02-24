@@ -6,6 +6,7 @@
         
 		"cp_method_b3" { }
 		"pl_vineyard_rc8b" { }
+		"koth_logwash_rc6a" { }
 	}
 
 	"Attack & Defend"
@@ -66,6 +67,7 @@
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
+		"koth_logwash_rc6a" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_megasnow_rc1" { }
 		"koth_namicott_rc4" { }
