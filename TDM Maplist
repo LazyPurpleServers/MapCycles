@@ -6,7 +6,7 @@
         
 		"cp_abyss_b81" { }
 		"cp_supermariobros3_b4" { }
-		"ctf_applejack_b4" { }
+		"ctf_applejack_b5" { }
 		"ctf_rift_rc1a" { }
 		"dom_cliffhanger_b81" { }
 		"koth_icetower_rc6" { }
@@ -100,6 +100,7 @@
 		"koth_king" { }
 		"koth_krampus" { }
 		"koth_lakeside_final" { }
+		"koth_logwash_rc6a" { }
 		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
