@@ -157,7 +157,7 @@
 		"ctf_2villa_a11" { }
 		"ctf_above_a7" { }
 		"ctf_aerospace_b4" { }
-		"ctf_applejack_b4" { }
+		"ctf_applejack_b5" { }
 		"ctf_assault_sk" { }
 		"ctf_atrophy_b4" { }
 		"ctf_aurora_rc" { }
@@ -445,7 +445,7 @@
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_b8" { }
 		"koth_loader_v2" { }
-		"koth_logwash_rc5" { }
+		"koth_logwash_rc6a" { }
 		"koth_luigis_mansion_v3_yelldowfix" { }
 		"koth_nerve" { }
 		"Koth_Mad_Monster_Mansion" { }
@@ -746,6 +746,7 @@
 		"mcwallmart_g6_winter" { }
 		"mercs_paradise_v2" { }
 		"mpl_losthorizon_b10" { }
+		"nintendo_land_b5" { }
 		"oot3d_hyrule_ctcfix1" { }
 		"pd_galleria" { }
 		"pd_selbyen" { }
