@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"cp_copperhead_b2c" { }
 		"cp_method_b3" { }
 		"pl_vineyard_rc8b" { }
 		"koth_logwash_rc6a" { }
@@ -18,6 +19,7 @@
 		"cp_brew" { }
 		"cp_caldera_rc3" { }
 		"cp_conifer_rc4" { }
+		"cp_copperhead_b2c" { }
 		"cp_egypt_final" { }
 		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
