@@ -10,7 +10,6 @@
 		"ctf_rift_rc1a" { }
 		"dom_cliffhanger_b81" { }
 		"koth_icetower_rc6" { }
-		"koth_northbound_b2" { }
 		"koth_railbridge_rc2" { }
 		"koth_undergrove_rc1" { }
 		"pd_galleria" { }
@@ -105,7 +104,6 @@
 		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
-		"koth_northbound_b2" { }
 		"koth_occult_rc6" { }
 		"koth_octothorpe_classic_beta02" { }
 		"koth_preposterous_rc2" { }
