@@ -62,6 +62,7 @@
 		"cp_carthage_b1" { }
 		"cp_copperhead_b2c" { }
 		"cp_conifer_rc4" { }
+		"cp_daytrip_rc4" { }
 		"cp_degrootkeep_rats_a1b" { }
 		"cp_desperados_b2" { }
 		"cp_darkmarsh_event_rc4" { }
@@ -122,6 +123,7 @@
 		"cp_antiquity_rc1" { }
 		"cp_axle_rc1" { }
 		"cp_bellas_roomz_v3" { }
+		"cp_biodome_b1" { }
 		"cp_buzzards_canyon_winter" { }
 		"cp_canaveral_rc5c" { }
 		"cp_cardinal_rc1a" { }
@@ -131,7 +133,6 @@
 		"cp_croissant_final" { }
 		"cp_crossroads_b5" { }
 		"cp_crossroads_event_rc10" { }
-		"cp_daytrip_rc4" { }
 		"cp_dispatch_b4" { }
 		"cp_drylock_b2" { }
 		"cp_entropy" { }
