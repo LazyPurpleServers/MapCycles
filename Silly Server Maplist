@@ -190,7 +190,7 @@
 		"ctf_hydro_v2" { }
 		"ctf_hotspring_b3a" { }
 		"ctf_installation_v2" { }
-		"ctf_lavatech_rc1" { }
+		"ctf_lavatech_rc2" { }
 		"ctf_lonepine_xmas_rc4" { }
 		"ctf_lostcity" { }
 		"ctf_mercy" { }
@@ -740,6 +740,7 @@
 		"jb_famous_final" { }
 		"jb_minecraft_nightfall_final" { }
 		"jb_supermario_v13" { }
+		"lethargy_pools_a1" { }
 		"lunar_arboretum_d4" { }
 		"mannor_of_horrors" { }
 		"manor_of_fun_fix" { }
