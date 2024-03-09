@@ -252,7 +252,7 @@
 		"dm_mountainlake2" { }
 		"dm_moving_in" { }
 		"dm_museum_final" { }
-		"dm_newhorizon_v2" { }
+		"dm_newhorizon_v3" { }
 		"dm_newyork_gravfix3" { }
 		"dm_sdm_final" { }
 		"dm_threed_festive_yelldowfix" { }
@@ -741,7 +741,7 @@
 		"jb_famous_final" { }
 		"jb_minecraft_nightfall_final" { }
 		"jb_supermario_v13" { }
-		"lethargy_pools_a1" { }
+		"lethargy_pools_a2" { }
 		"lunar_arboretum_d4" { }
 		"mannor_of_horrors" { }
 		"manor_of_fun_fix" { }
