@@ -5,9 +5,8 @@
         "maps_invote" "1"
         
 		"cp_copperhead_b2c" { }
-		"cp_method_b3" { }
-		"pl_vineyard_rc8b" { }
-		"koth_logwash_rc6a" { }
+		"cp_method_b4" { }
+		"pl_highwood_b20" { }
 	}
 
 	"Attack & Defend"
@@ -28,7 +27,7 @@
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
-		"cp_method_b3" { }
+		"cp_method_b4" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
@@ -110,6 +109,7 @@
 		"pl_farmstead_rc4" { }
 		"pl_fountain_b3" { }
 		"pl_frontier_final" { }
+		"pl_highwood_b20" { }
 		"pl_jinn_rc2a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
