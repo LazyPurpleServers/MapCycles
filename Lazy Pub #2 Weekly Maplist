@@ -89,7 +89,7 @@
 		"cp_longhaul_a3" { }
 		"cp_lushbowl_final" { }
 		"cp_marienwerder_rc" { }
-		"cp_method_b3" { }
+		"cp_method_b4" { }
 		"cp_minery_a12" { }
 		"cp_mojave_b2" { }
 		"cp_neighbor_b3" { }
@@ -177,7 +177,7 @@
 		"ctf_2fort_newfort_b6" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
-		"ctf_applejack_b6" { }
+		"ctf_applejack_b7" { }
 		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
@@ -459,6 +459,7 @@
 		"pl_great_heights_b3" { }
 		"pl_hasslecastle" { }
 		"pl_haywire_rc5" { }
+		"pl_highwood_b20" { }
 		"pl_hydropower_rc4" { }
 		"pl_jinn_rc2a" { }
 		"pl_jungle_a1c" { }
