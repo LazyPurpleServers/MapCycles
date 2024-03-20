@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"cp_copperhead_b2c" { }
-		"cp_method_b4" { }
+		"cp_method_b4b" { }
 		"pl_highwood_b20" { }
 	}
 
@@ -27,7 +27,7 @@
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
-		"cp_method_b4" { }
+		"cp_method_b4b" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
