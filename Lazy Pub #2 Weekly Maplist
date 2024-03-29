@@ -120,6 +120,7 @@
 	"maps_invote" "1"
 
 		"cp_abyss_b81" { }
+		"cp_ancient_b3" { }
 		"cp_antiquity_rc1" { }
 		"cp_axle_rc1" { }
 		"cp_bellas_roomz_v3" { }
@@ -461,6 +462,7 @@
 		"pl_haywire_rc5" { }
 		"pl_highwood_b20" { }
 		"pl_hydropower_rc4" { }
+		"pl_jerrycan_rc4" { }
 		"pl_jinn_rc2a" { }
 		"pl_jungle_a1c" { }
 		"pl_manngrove_rc5" { }
