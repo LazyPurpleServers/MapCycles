@@ -131,6 +131,7 @@
 	{
         "maps_invote" "1"
 
+		"cp_vehkon2_v1" { }
 		"dom_cliffhanger_b11" { }
 		"pass_brickyard" { }
 		"pass_district" { }
