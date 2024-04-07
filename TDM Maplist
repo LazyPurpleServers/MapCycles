@@ -6,7 +6,7 @@
         
 		"cp_abyss_b81" { }
 		"cp_supermariobros3_b4" { }
-		"ctf_applejack_b7" { }
+		"ctf_applejack_b8" { }
 		"ctf_lavatech_rc2" { }
 		"ctf_rift_rc1a" { }
 		"dom_cliffhanger_b81" { }
@@ -34,7 +34,7 @@
 	{
         "maps_invote" "1"
 
-		"ctf_applejack_b7" { }
+		"ctf_applejack_b8" { }
 		"ctf_badwater_b2" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
