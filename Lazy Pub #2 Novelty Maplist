@@ -204,6 +204,7 @@
 		"plr_highmillbine" { }
 		"plr_hightower_dontjumptoohigh" { }
 		"plr_whalerace_a4a" { }
+		"ql_harvest" { }
 		"sd_rumrun_a1" { }
 		"tc_ordyh" { }
 		"tfp_tf2party_b2" { }
