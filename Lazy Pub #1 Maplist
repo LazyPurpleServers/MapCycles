@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"pl_eruption_b14" { }
 		"pl_highwood_b20" { }
 		"pl_jerrycan_rc4" { }
 	}
@@ -101,7 +102,7 @@
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
 		"pl_enclosure_final" { }
-		"pl_eruption_b13" { }
+		"pl_eruption_b14" { }
 		"pl_escarpment_rc1" { }
 		"pl_extinction_rc2" { }
 		"pl_farmstead_rc4" { }
