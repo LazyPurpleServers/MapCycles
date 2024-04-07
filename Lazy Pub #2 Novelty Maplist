@@ -35,6 +35,8 @@
 		"cp_frantic_factory" { }
 		"cp_granary_storm_v1" { }
 		"cp_marioblast_2011" { }
+		"cp_moneybowl_a3" { }
+		"cp_nuh_uh_a4" { }
 		"cp_ohho" { }
 		"cp_peachs_castle_v1" { }
 		"cp_pirateship_v3" { }
@@ -98,6 +100,7 @@
 		"pl_casserole_rc3" { }
 		"pl_donkeykong_final" { }
 		"pl_dbheights_b5" { }
+		"pl_dnalydnac_a1" { }
 		"pl_drawpu_rc1" { }
 		"pl_fastwater" { }
 		"pl_frontiiiiiiiiiieeeeeeeeer" { }
@@ -130,6 +133,7 @@
 		"koth_diabolical_final1" { }
 		"koth_directional_dinosaurs_gravfix" { }
 		"koth_dropdeadfred_v3" { }
+		"koth_fbsightline" { }
 		"koth_flood" { }
 		"koth_foolsgrid" { }
 		"koth_Framework" { }
@@ -156,6 +160,7 @@
 		"koth_skybox_rc2" { }
 		"koth_skyfall_a7a" { }
 		"koth_skywalker1" { }
+		"koth_slimy_springs_a1" { }
 		"koth_sneeter" { }
 		"koth_space_pizza" { }
 		"koth_tf2craps_b1" { }
@@ -177,6 +182,7 @@
 		"arena_floorofglass_V1" { }
 		"arena_hammertimer_a1" { }
 		"arena_ravine_randomly_b1" { }
+		"arena_resupply_a2" { }
 		"arena_watchtowerrrrrrrrr_b1" { }
 		"balloon_race_v2b" { }
 		"balloon_race_v3_t7" { }
