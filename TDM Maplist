@@ -4,16 +4,13 @@
 	{
         "maps_invote" "1"
         
-		"cp_abyss_b81" { }
 		"cp_supermariobros3_b4" { }
-		"ctf_applejack_b8" { }
-		"ctf_lavatech_rc2" { }
-		"ctf_rift_rc1a" { }
-		"dom_cliffhanger_b81" { }
-		"koth_icetower_rc6" { }
-		"koth_railbridge_rc2" { }
-		"koth_undergrove_rc1" { }
-		"pd_galleria" { }
+		"cp_vehkon2_v1" { }
+		"ctf_applejack_rc1" { }
+		"pkmn_goldenrodcity_b5" { }
+		"plr_hacksaw" { }
+		"plr_upward_rc3" { }
+		"sd_toucan_rc3" { }
 	}
 
 	"Control Points "
@@ -34,7 +31,7 @@
 	{
         "maps_invote" "1"
 
-		"ctf_applejack_b8" { }
+		"ctf_applejack_rc1" { }
 		"ctf_badwater_b2" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
@@ -149,6 +146,7 @@
 		"plr_hacksaw" { }
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
+		"plr_upward_rc3" { }
 		"sd_toucan_rc3" { }
 		"tdm_overtopolis_a5" { }
 	}
