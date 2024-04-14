@@ -4,8 +4,6 @@
 	{
         "maps_invote" "1"
         
-		"cp_supermariobros3_b4" { }
-		"cp_vehkon2_v1" { }
 		"ctf_applejack_rc1" { }
 		"pkmn_goldenrodcity_b5" { }
 		"plr_hacksaw" { }
@@ -102,7 +100,6 @@
 		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
-		"koth_occult_rc6" { }
 		"koth_octothorpe_classic_beta02" { }
 		"koth_preposterous_rc2" { }
 		"koth_railbridge_rc2" { }
