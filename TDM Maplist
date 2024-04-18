@@ -5,6 +5,7 @@
         "maps_invote" "1"
         
 		"ctf_applejack_rc1" { }
+		"koth_jamram_rc2" { }
 		"pkmn_goldenrodcity_b5" { }
 		"plr_hacksaw" { }
 		"plr_upward_rc3" { }
@@ -92,7 +93,7 @@
 		"koth_hoax_rc3" { }
 		"koth_icetower_rc6" { }
 		"koth_illinois_a16a" { }
-		"koth_jamram_rc1b" { }
+		"koth_jamram_rc2" { }
 		"koth_kemptown_rc3a" { }
 		"koth_king" { }
 		"koth_krampus" { }
