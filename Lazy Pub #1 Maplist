@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"koth_jamram_rc2" { }
 		"pl_eruption_b14" { }
 		"pl_highwood_b20" { }
 		"pl_jerrycan_rc4" { }
