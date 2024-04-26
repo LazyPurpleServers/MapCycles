@@ -4,7 +4,10 @@
 	{
         "maps_invote" "1"
         
-		"farts" { }
+		"gg_backfort_v9a2" { }
+		"gg_forgecall_v8dev2a_yo1" { }
+		"gg_poolparty_b2c" { }
+		"gg_razorpoint_v9" { }
 	}
 
 	"Versus Saxton Hale "
@@ -12,7 +15,10 @@
         "maps_invote" "1"
         
 		"vsh_distillery" { }
+		"vsh_facility_rc2" { }
+		"vsh_graygravelhq_rc0" { }
 		"vsh_nucleus" { }
+		"vsh_outlook_v2a4a" { }
 		"vsh_skirmish" { }
 		"vsh_tinyrock" { }
 	}
@@ -25,6 +31,14 @@
 		"zi_devesation_final1" { }
 		"zi_murky" { }
 		"zi_sanitarium" { }
+		"zi_stronghold_b3a" { }
 		"zi_woods" { }
+	}
+
+	"Miscellaneous "
+	{
+        "maps_invote" "1"
+        
+		"zi_atoll" { }
 	}
 }
