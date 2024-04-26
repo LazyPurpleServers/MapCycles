@@ -1,2 +1,30 @@
 "umc_mapcycle"
 {
+	"Gungame "
+	{
+        "maps_invote" "1"
+        
+		"farts" { }
+	}
+
+	"Versus Saxton Hale "
+	{
+        "maps_invote" "1"
+        
+		"vsh_distillery" { }
+		"vsh_nucleus" { }
+		"vsh_skirmish" { }
+		"vsh_tinyrock" { }
+	}
+
+	"Zombie Infection "
+	{
+        "maps_invote" "1"
+        
+		"zi_atoll" { }
+		"zi_devesation_final1" { }
+		"zi_murky" { }
+		"zi_sanitarium" { }
+		"zi_woods" { }
+	}
+}
