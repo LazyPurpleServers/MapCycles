@@ -39,6 +39,10 @@
 	{
         "maps_invote" "1"
         
-		"zi_atoll" { }
+		"bomberman_battle_game" { }
+		"cp_john_gutter_b2" { }
+		"mg_smash_cannonsz" { }
+		"mg_testing_complex_v4_4" { }
+		"mg_buses_from_hell_redux" { }
 	}
 }
