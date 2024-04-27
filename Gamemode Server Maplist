@@ -42,7 +42,9 @@
 		"mg_smash_cannonsz" { }
 		"mg_testing_complex_v4_4" { }
 		"mg_buses_from_hell_redux" { }
+		"nintendo_land_b8" { }
 		"oitc_nuketown_dmvm" { }
+		"tf2_twister_race" { }
 		"wega_challenge_a1" { }
 	}
 }
