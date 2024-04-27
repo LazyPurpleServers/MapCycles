@@ -2,6 +2,7 @@
 {
 	"Gungame "
 	{
+		"command" "exec gamemode/gg"
         
 		"gg_backfort_v9a2" { }
 		"gg_forgecall_v8dev2a_yo1" { }
@@ -11,6 +12,7 @@
 
 	"Versus Saxton Hale "
 	{
+		"command" "exec gamemode/vsh"
         
 		"vsh_distillery" { }
 		"vsh_facility_rc2" { }
@@ -23,6 +25,7 @@
 
 	"Zombie Infection "
 	{
+		"command" "exec gamemode/zi"
         
 		"zi_atoll" { }
 		"zi_devesation_final1" { }
@@ -33,6 +36,7 @@
 
 	"Miscellaneous "
 	{
+		"command" "exec gamemode/misc"
         
 		"bomberman_battle_game" { }
 		"cp_john_gutter_b2" { }
