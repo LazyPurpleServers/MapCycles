@@ -2,7 +2,6 @@
 {
 	"Gungame "
 	{
-        "maps_invote" "1"
         
 		"gg_backfort_v9a2" { }
 		"gg_forgecall_v8dev2a_yo1" { }
@@ -12,7 +11,6 @@
 
 	"Versus Saxton Hale "
 	{
-        "maps_invote" "1"
         
 		"vsh_distillery" { }
 		"vsh_facility_rc2" { }
@@ -25,7 +23,6 @@
 
 	"Zombie Infection "
 	{
-        "maps_invote" "1"
         
 		"zi_atoll" { }
 		"zi_devesation_final1" { }
@@ -36,11 +33,11 @@
 
 	"Miscellaneous "
 	{
-        "maps_invote" "1"
         
 		"bomberman_battle_game" { }
 		"cp_john_gutter_b2" { }
 		"cp_vehkon2_v1" { }
+		"is_simply_spyskate_v2" { }
 		"koth_megacrazycar" { }
 		"mg_smash_cannonsz" { }
 		"mg_testing_complex_v4_4" { }
