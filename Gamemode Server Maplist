@@ -39,6 +39,7 @@
 		"command" "exec gamemode/misc"
         
 		"bomberman_battle_game" { }
+		"bowling_alley_v1" { }
 		"cp_john_gutter_b2" { }
 		"cp_vehkon2_v1" { }
 		"is_simply_spyskate_v2" { }
