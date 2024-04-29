@@ -104,6 +104,7 @@
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowlodge_b5" { }
+		"cp_sobek_b1" { }
 		"cp_steel_aftermath" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_subway_final" { }
@@ -476,6 +477,7 @@
 		"pl_mountainside_rc2" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
+		"pl_odyssey_b1a" { }
 		"pl_pharaoh_rc1" { }
 		"pl_phoenix" { }
 		"pl_pit" { }
