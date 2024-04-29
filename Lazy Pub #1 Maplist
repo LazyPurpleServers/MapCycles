@@ -4,9 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"koth_jamram_rc2" { }
-		"pl_eruption_b14" { }
-		"pl_highwood_b20" { }
+		"cp_sobek_b1" { }
+		"pl_odyssey_b1a" { }
 		"pl_jerrycan_rc4" { }
 	}
 
@@ -38,6 +37,7 @@
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
+		"cp_sobek_b1" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_steel" { }
 		"cp_sulfur" { }
@@ -115,6 +115,7 @@
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
+		"pl_odyssey_b1a" { }
 		"pl_phoenix" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
