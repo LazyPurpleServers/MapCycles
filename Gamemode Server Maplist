@@ -5,8 +5,9 @@
 		"command" "exec gamemode/gg"
         
 		"gg_backfort_v9a2" { }
-		"gg_forgecall_v8dev2a_yo1" { }
-		"gg_poolparty_b2c" { }
+		"gg_forgecall_v8dev2b_yo1" { }
+		"gg_hydro_v10a" { }
+		"gg_poolparty_b3" { }
 		"gg_razorpoint_v9" { }
 	}
 
