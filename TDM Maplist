@@ -6,6 +6,7 @@
         
 		"ctf_applejack_rc1" { }
 		"koth_jamram_rc2" { }
+		"koth_shorelight_rc8" { }
 		"pkmn_goldenrodcity_b5" { }
 		"plr_hacksaw" { }
 		"plr_upward_rc3" { }
@@ -113,7 +114,7 @@
 		"koth_schneestadt_b2a" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
-		"koth_shorelight_rc7" { }
+		"koth_shorelight_rc8" { }
 		"koth_slaughter_b2a" { }
 		"koth_spillway_rc3a" { }
 		"koth_stallone_b2" { }
