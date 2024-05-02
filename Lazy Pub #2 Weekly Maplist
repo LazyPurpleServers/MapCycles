@@ -219,6 +219,7 @@
 		"ctf_lavatech_rc2" { }
 		"ctf_lostcity" { }
 		"ctf_mercy" { }
+		"ctf_monkeynaut_b5" { }
 		"ctf_nuclide_rc8d" { }
 		"ctf_overlook_b1" { }
 		"ctf_parabolic_a10" { }
@@ -336,6 +337,7 @@
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
+		"koth_megaton_b1" { }
 		"koth_mill_rc4" { }
 		"koth_missilebase_b5" { }
 		"koth_montane_b3" { }
@@ -372,7 +374,7 @@
 		"koth_sherman_rc1" { }
 		"koth_shirouma_b1" { }
 		"koth_shirouma_medieval_b1" { }
-		"koth_shorelight_rc7" { }
+		"koth_shorelight_rc8" { }
 		"koth_sky_lock_b2" { }
 		"koth_skylab_rc1" { }
 		"koth_skymill_b3" { }
