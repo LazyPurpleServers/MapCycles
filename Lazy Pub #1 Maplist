@@ -5,6 +5,7 @@
         "maps_invote" "1"
         
 		"cp_sobek_b2a" { }
+		"koth_shorelight_rc8" { }
 		"pl_odyssey_b2" { }
 		"pl_patagonia_b2" { }
 		"pl_jerrycan_rc4" { }
@@ -81,7 +82,7 @@
 		"koth_sawmill" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
-		"koth_shorelight_rc7" { }
+		"koth_shorelight_rc8" { }
 		"koth_slaughter_b2a" { }
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
