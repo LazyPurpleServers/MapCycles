@@ -5,6 +5,7 @@
         "maps_invote" "1"
         
 		"ctf_applejack_rc1" { }
+		"ctf_sidewinder_rc4a" { }
 		"koth_jamram_rc2" { }
 		"koth_shorelight_rc8" { }
 		"pkmn_goldenrodcity_b5" { }
@@ -50,7 +51,7 @@
 		"ctf_pelican_peak" { }
 		"ctf_rift_rc1a" { }
 		"ctf_routegs" { }
-		"ctf_sidewinder_rc3b" { }
+		"ctf_sidewinder_rc4a" { }
 		"ctf_turbine_winter" { }
 		"ctf_vikings_final" { }
 		"ctf_well_snowy_b4" { }
