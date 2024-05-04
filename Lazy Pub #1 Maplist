@@ -6,8 +6,9 @@
         
 		"cp_sobek_b2a" { }
 		"koth_shorelight_rc8" { }
+		"pd_salvador_b2" { }
 		"pl_odyssey_b2" { }
-		"pl_patagonia_b2" { }
+		"pl_patagonia_b4d" { }
 		"pl_jerrycan_rc4" { }
 	}
 
@@ -118,7 +119,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_odyssey_b2" { }
-		"pl_patagonia_b2" { }
+		"pl_patagonia_b4d" { }
 		"pl_phoenix" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
@@ -147,6 +148,7 @@
 		"pd_galleria" { }
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
+		"pd_salvador_b2" { }
 		"pd_selbyen" { }
 		"pd_standin_b1" { }
 		"pd_street_rc2b" { }
