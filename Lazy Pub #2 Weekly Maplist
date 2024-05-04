@@ -203,6 +203,7 @@
 		"ctf_extraction_b6" { }
 		"ctf_facility_build62" { }
 		"ctf_factory" { }
+		"ctf_favela_b14" { }
 		"ctf_flakey_b3" { }
 		"ctf_free2fort" { }
 		"ctf_geothermal_b2" { }
@@ -453,6 +454,7 @@
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
 		"pl_emerge" { }
+		"pl_embargo_b3" { }
 		"pl_eruption_b14" { }
 		"pl_extinction_rc2" { }
 		"pl_escarpment_rc1" { }
@@ -480,7 +482,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_odyssey_b2" { }
-		"pl_patagonia_b2" { }
+		"pl_patagonia_b4d" { }
 		"pl_pharaoh_rc1" { }
 		"pl_phoenix" { }
 		"pl_pit" { }
@@ -526,6 +528,7 @@
 		"pd_mannsylvania_rc1" { }
 		"pd_nucleus_event_b4" { }
 		"pd_pipeline_rc6" { }
+		"pd_salvador_b2" { }
 		"pd_selbyen" { }
 		"pd_standin_b1" { }
 		"pd_static_rc1c" { }
