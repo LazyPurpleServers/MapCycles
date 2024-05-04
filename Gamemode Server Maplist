@@ -5,6 +5,8 @@
 		"command" "exec gamemode/gg"
         
 		"gg_backfort_v12" { }
+		"gg_deadlock_v13a" { }
+		"gg_forgecall_rc1b" { }
 		"gg_hydro_v12" { }
 		"gg_razorpoint_v12" { }
 		"gg_supermariobros3_v12" { }
