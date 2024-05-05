@@ -4,7 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"cp_sobek_b2a" { }
+		"cp_sobek_b4" { }
 		"koth_shorelight_rc8" { }
 		"pd_salvador_b2" { }
 		"pl_odyssey_b2" { }
@@ -40,7 +40,7 @@
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
-		"cp_sobek_b2a" { }
+		"cp_sobek_b4" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_steel" { }
 		"cp_sulfur" { }
