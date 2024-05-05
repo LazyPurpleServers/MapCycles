@@ -31,7 +31,7 @@
 		"command" "exec gamemode/zi"
         
 		"zi_atoll" { }
-		"zi_devesation_final1" { }
+		"zi_devastation_final1" { }
 		"zi_murky" { }
 		"zi_sanitarium" { }
 		"zi_woods" { }
