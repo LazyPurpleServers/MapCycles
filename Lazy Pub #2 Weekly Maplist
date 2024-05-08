@@ -101,6 +101,7 @@
 		"cp_france_rc4c" { }
 		"cp_rocketforge_b3" { }
 		"cp_rotary_a0" { }
+		"cp_sandswept_b13" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowlodge_b5" { }
@@ -272,6 +273,7 @@
 		"koth_brickyard_v2_a8" { }
 		"koth_brine_rc3a" { }
 		"koth_butte_b1a" { }
+		"koth_cachoeira" { }
 		"koth_camp_saxton_b1" { }
 		"koth_canada_rc1" { }
 		"koth_cannery_b11c" { }
@@ -307,6 +309,7 @@
 		"koth_flurry_rc5" { }
 		"koth_forge_b5a" { }
 		"koth_former_cornfield_b1" { }
+		"koth_fragile_rc1" { }
 		"koth_friction_a4" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
@@ -411,6 +414,7 @@
 		"koth_undergrowth_b2a" { }
 		"koth_valor_rc1" { }
 		"koth_verso_a2" { }
+		"koth_vice_rc1" { }
 		"koth_warehouse" { }
 		"koth_warehouse_a1" { }
 		"koth_warehouse_canal" { }
@@ -482,7 +486,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_odyssey_b2" { }
-		"pl_patagonia_b4d" { }
+		"pl_patagonia_b6" { }
 		"pl_pharaoh_rc1" { }
 		"pl_phoenix" { }
 		"pl_pit" { }
