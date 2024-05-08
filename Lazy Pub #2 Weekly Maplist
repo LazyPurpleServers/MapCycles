@@ -551,12 +551,6 @@
 		"tc_meridian_rc3" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
-		"vsh_distillery" { }
-		"vsh_facility_b3c" { }
-		"vsh_nucleus" { }
-		"vsh_outlook_rc2" { }
-		"vsh_skirmish" { }
-		"vsh_tinyrock" { }
 	}
 
 	"Deathmatch"
