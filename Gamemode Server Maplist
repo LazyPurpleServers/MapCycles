@@ -4,13 +4,13 @@
 	{
 		"command" "exec gamemode/gg"
         
-		"gg_backfort_v12" { }
-		"gg_badworks_v13a" { }
-		"gg_deadlock_v13a" { }
-		"gg_forgecall_rc1b" { }
+		"gg_backfort_v14a" { }
+		"gg_badworks_v14" { }
+		"gg_deadlock_v14" { }
+		"gg_forgecall_v14" { }
 		"gg_hydro_v14a" { }
 		"gg_razorpoint_v14" { }
-		"gg_supermariobros3_v12" { }
+		"gg_supermariobros3_v14a" { }
 	}
 
 	"Versus Saxton Hale "
