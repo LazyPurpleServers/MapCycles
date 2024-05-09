@@ -8,6 +8,7 @@
 		"ctf_sidewinder_rc4a" { }
 		"koth_jamram_rc2" { }
 		"koth_shorelight_rc8" { }
+		"koth_vice_rc1" { }
 		"pkmn_goldenrodcity_b5" { }
 		"plr_hacksaw" { }
 		"plr_upward_rc3" { }
@@ -123,6 +124,7 @@
 		"koth_synthetic_rc6a" { }
 		"koth_undergrove_rc1" { }
 		"koth_valor_rc1" { }
+		"koth_vice_rc1" { }
 		"koth_ye_olde_harveste_v4" { }
 	}
 
