@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "91"
+		"count" "92"
 		
 		"1"
 		{
@@ -459,6 +459,11 @@
 		{
 			"map" "mvm_greekrock_rc1"
 			"popfile" "mvm_greekrock_rc1_the_last_mission"
+		}
+		"92"
+		{
+			"map" "mvm_hellburg_final2"
+			"popfile" "mvm_hellburg_Final2"
 		}
 	}
 }
