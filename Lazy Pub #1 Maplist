@@ -4,16 +4,7 @@
 	{
         "maps_invote" "1"
         
-		"cp_sandswept_b13" { }
-		"cp_sobek_b4" { }
-		"koth_cachoeira" { }
-		"koth_fragile_rc1" { }
-		"koth_shorelight_rc8" { }
-		"koth_vice_rc1" { }
-		"pd_salvador_b2" { }
-		"pl_odyssey_b2" { }
-		"pl_patagonia_b6" { }
-		"pl_jerrycan_rc4" { }
+		"koth_bagel_rc9" { }
 	}
 
 	"Attack & Defend"
@@ -57,7 +48,7 @@
         "maps_invote" "1"
         
 		"koth_anthem_b4" { }
-		"koth_bagel_rc8" { }
+		"koth_bagel_rc9" { }
 		"koth_brine_rc3a" { }
 		"koth_cachoeira" { }
 		"koth_camp_saxton_b1" { }
