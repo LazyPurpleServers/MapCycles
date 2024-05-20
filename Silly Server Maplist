@@ -389,7 +389,7 @@
 		"koth_aquaticruin_final" { }
 		"koth_ashville_rc1" { }
 		"koth_autumn_twilight_rc2" { }
-		"koth_bagel_rc8" { }
+		"koth_bagel_rc9" { }
 		"koth_basalt_rc2" { }
 		"koth_beachlands_a1" { }
 		"koth_brine_rc3a" { }
@@ -690,6 +690,7 @@
 		"trade_mmm_v1" { }
 		"trade_minecraft_fishbond_j_f15" { }
 		"trade_minecraft_hans_v71b" { }
+		"trade_minecraft_neon_v162" { }
 		"trade_minecraft_village_f23" { }
 		"trade_minecraft_village_w21" { }
 		"trade_mumbos_mountain_v2" { }
