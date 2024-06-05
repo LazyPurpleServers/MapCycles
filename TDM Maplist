@@ -6,7 +6,7 @@
         
 		"ctf_applejack_rc1" { }
 		"ctf_sidewinder_rc4a" { }
-		"koth_jamram_rc2" { }
+		"koth_icetower_rc7" { }
 		"koth_shorelight_rc8" { }
 		"koth_vice_rc1" { }
 		"pkmn_goldenrodcity_b5" { }
@@ -95,7 +95,7 @@
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_hoax_rc3" { }
-		"koth_icetower_rc6" { }
+		"koth_icetower_rc7" { }
 		"koth_illinois_a16a" { }
 		"koth_jamram_rc2" { }
 		"koth_kemptown_rc3a" { }
