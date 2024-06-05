@@ -57,14 +57,13 @@
 		"koth_conveyance_rc3b" { }
 		"koth_databank_rc3" { }
 		"koth_empire_rc2" { }
-		"koth_eros_rc2" { }
 		"koth_forge_b5a" { }
-		"koth_fragile_rc1" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_highpass" { }
 		"koth_hoax_rc3" { }
 		"koth_horizon" { }
+		"koth_icetower_rc7" { }
 		"koth_jamram_rc2" { }
 		"koth_kemptown_rc3a" { }
 		"koth_king" { }
