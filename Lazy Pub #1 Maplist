@@ -5,6 +5,7 @@
         "maps_invote" "1"
         
 		"koth_bagel_rc9b" { }
+		"koth_county_b7" { }
 		"koth_jamram_rc2b" { }
 		"pl_extinction_rc3" { }
 	}
@@ -56,6 +57,7 @@
 		"koth_cascade" { }
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
+		"koth_county_b7" { }
 		"koth_databank_rc3" { }
 		"koth_empire_rc2" { }
 		"koth_forge_b5a" { }
