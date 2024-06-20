@@ -407,6 +407,7 @@
 		"koth_coldlands_rc2" { }
 		"koth_combustion_b1" { }
 		"koth_coulee_b4_fix" { }
+		"koth_county_b7" { }
 		"koth_crevice_b5" { }
 		"koth_daenam_b11" { }
 		"koth_databank_rc1" { }
@@ -693,6 +694,7 @@
 		"trade_minecraft_village_f23" { }
 		"trade_minecraft_village_w21" { }
 		"trade_mumbos_mountain_v2" { }
+		"trade_pso_pioneer2_v2" { }
 		"trade_resort_v12b" { }
 		"trade_riverwood_b6_yelldowfix" { }
 		"trade_rogueport" { }
@@ -791,6 +793,7 @@
 		"sm64_lethal_lava_land" { }
 		"sm64_star_road_b2" { }
 		"sm64_whomps_fortress" { }
+		"srb2_gfz_act_1_v7" { }
 		"tf_doom_e1m1_v01" { }
 		"tf_yelldowsforest_v8f" { }
 		"tower_of_power_v5" { }
@@ -811,5 +814,6 @@
 		"vsh_traincross_b2" { }
 		"wacky_alley_rc6" { }
 		"woodland_valley_a1" { }
+		"wuhu_town" { }
     }
 }
