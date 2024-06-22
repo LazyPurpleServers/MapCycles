@@ -8,6 +8,7 @@
 	{
 		"maps_invote" "1"
 
+		"arena_3008v1" { }
 		"arena_backlot_rc2" { }
 		"arena_betteryard_rc1" { }
 		"arena_below_zero" { }
@@ -207,6 +208,7 @@
 		"ctf_pool" { }
 		"ctf_powerhouse_final" { }
 		"ctf_quarry_v2" { }
+		"ctf_ravelin" { }
 		"ctf_retreat_b1" { }
 		"ctf_rift_rc1a" { }
 		"ctf_royal_b3" { }
@@ -695,6 +697,7 @@
 		"trade_minecraft_village_w21" { }
 		"trade_mumbos_mountain_v2" { }
 		"trade_pso_pioneer2_v2" { }
+		"trade_purrgatory_a1" { }
 		"trade_resort_v12b" { }
 		"trade_riverwood_b6_yelldowfix" { }
 		"trade_rogueport" { }
@@ -813,6 +816,7 @@
 		"vsh_stargate_v3" { }
 		"vsh_traincross_b2" { }
 		"wacky_alley_rc6" { }
+		"worldmachine_wd_dev03" { }
 		"woodland_valley_a1" { }
 		"wuhu_town" { }
     }
