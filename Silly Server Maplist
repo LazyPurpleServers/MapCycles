@@ -286,7 +286,6 @@
 		"dm_bridge_dingusfix" { }
 		"dm_cloudcity" { }
 		"dm_island17" { }
-		"eft_legoland_v1" { }
 		"freespace06_v2-1" { }
 		"gm_1950s_bowlingalley" { }
 		"gm_1950s_turnpike" { }
@@ -452,7 +451,6 @@
 		"koth_logwash_rc6a" { }
 		"koth_luigis_mansion_v3_yelldowfix" { }
 		"koth_nerve" { }
-		"Koth_Mad_Monster_Mansion" { }
 		"koth_market_b2_yelldowfix" { }
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
