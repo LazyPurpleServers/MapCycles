@@ -52,7 +52,6 @@
 		"cp_clue_b1" { }
 		"cp_collis_b1" { }
 		"cp_coilblaze_rc8" { }
-		"cp_construct_a3" { }
 		"cp_container" { }
 		"cp_copperhead_b2c" { }
 		"cp_croissant_rc6" { }
@@ -128,7 +127,6 @@
 		"cp_subway_final" { }
 		"cp_sulfur" { }
 		"cp_switchback_b5" { }
-		"cp_thebiomes_v1" { }
 		"cp_toy_fort_alt3" { }
 		"cp_toy_fort_tbr_v6" { }
 		"cp_toys_v2" { }
@@ -146,7 +144,6 @@
 	{
 		"maps_invote" "1"
 
-		"ctf_2009_xmas_rc1" { }
 		"ctf_2castle" { }
 		"ctf_2fort_frostyV47" { }
 		"ctf_2fort_mine_craft_bd4" { }
@@ -228,7 +225,6 @@
 		"ctf_well_classic_b3" { }
 		"ctf_well_event_rc4a" { }
 		"ctf_well_snowy_b4" { }
-		"ctf_well2" { }
 		"ctf_wild_west_final" { }
 		"ctf_wildfire_rc" { }
 	}
@@ -349,15 +345,12 @@
 		"rp_jedivssith" { }
 		"rp_richlandday" { }
 		"rp_richlandnight" { }
-		"rp_tb_city45_v02n" { }
 		"sandbox_ttt_lego" { }
 		"sb_atlantis_b14a" { }
 		"ttt_alstoybarn" { }
 		"ttt_at_lie_ntis" { }
 		"ttt_bb_teenroom_b2" { }
 		"ttt_byperbasedome_v1" { }
-		"ttt_clubtitiboo" { }
-		"ttt_fallingwater" { }
 		"ttt_glaciation_idaaar" { }
 		"ttt_gunkanjima_v2" { }
 		"ttt_lego_treasureisland" { }
@@ -507,7 +500,6 @@
 		"koth_syphon_b3e" { }
 		"koth_temper_rc2" { }
 		"koth_tfot_watchtower_d" { }
-		"koth_thunder" { }
 		"koth_tombtown_rc6" { }
 		"koth_trainfalls_v5" { }
 		"koth_twinfalls" { }
@@ -663,7 +655,6 @@
 		"trade_balloonfarm_event" { }
 		"trade_bubblegloop_swamp_a2" { }
 		"trade_clocktown_v1b" { }
-		"trade_combine_v18" { }
 		"trade_ctc_freezeezy_peak_a1c" { }
 		"trade_cyberpunk_v1a" { }
 		"trade_delirium" { }
@@ -805,7 +796,6 @@
 		"vsh_ravenholm" { }
 		"vsh_scp_3008" { }
 		"vsh_stargate_v3" { }
-		"vsh_traincross_b2" { }
 		"wacky_alley_rc6" { }
 		"worldmachine_wd_dev03" { }
 		"woodland_valley_a1" { }
