@@ -162,29 +162,123 @@
 		"wuhu_town" { }
 	}
 
-	"Arena "
+	"Deathmatch"
 	{
 		"maps_invote" "1"
 
-		"arena_3008v1" { }
-		"arena_backlot_rc2" { }
-		"arena_betteryard_rc1" { }
-		"arena_below_zero" { }
-		"arena_chounai_b2" { }
-		"arena_courtyard_a3" { }
-		"arena_discovery_rc2" { }
-		"arena_haul_b4" { }
-		"arena_kolob" { }
-		"arena_maccyf_72_b4" { }
-		"arena_phantom_b3" { }
-		"arena_shockwave_b1" { }
-		"arena_snowcastle_b2" { }
-		"arena_snowy_watchtower" { }
-		"arena_steeple_b3" { }
-		"arena_swampbridge_a3" { }
-		"arena_temper_rc1" { }
-		"arena_watchtower_event" { }
-		"arena_waterfort_winter" { }
+		"dm_ashina_shrine_b1" { }
+		"dm_backfort_event_b2" { }
+		"dm_backfort_gravfix3" { }
+		"dm_boostertower" { }
+		"dm_congo" { }
+		"dm_directional_dinosaurs_gravfix" { }
+		"dm_gyros_gravfix" { }
+		"dm_horyuji_v1_spy" { }
+		"dm_hydro_gravfix" { }
+		"dm_mariokart2_b3" { }
+		"dm_mariokart3_v1" { }
+		"dm_market_b2" { }
+		"dm_mountainlake2" { }
+		"dm_moving_in" { }
+		"dm_museum_final" { }
+		"dm_newhorizon_v3" { }
+		"dm_newyork_gravfix3" { }
+		"dm_sdm_final" { }
+		"dm_threed_festive_yelldowfix" { }
+		"dm_towerleap" { }
+		"dm_station_morozovo_v1" { }
+		"cp_supermariobros3_b4" { }
+		"dm_warrock_marien_v8" { }
+		"dm_winter_park_v1" { }
+		"dm_woodland_b1" { }
+	}
+
+	"Capture the Flag"
+	{
+		"maps_invote" "1"
+
+		"ctf_2castle" { }
+		"ctf_2fort_frostyV47" { }
+		"ctf_2fort_invasion" { }
+		"ctf_2fort_time_tstorm_b1" { }
+		"ctf_2fooooooooooooooooort_rc3" { }
+		"ctf_2fort_unleashed_night" { }
+		"ctf_2villa_a11" { }
+		"ctf_above_a7" { }
+		"ctf_aerospace_b4" { }
+		"ctf_applejack_b7" { }
+		"ctf_assault_sk" { }
+		"ctf_atrophy_b4" { }
+		"ctf_aurora_rc" { }
+		"ctf_backwards_b1" { }
+		"ctf_bedrooms3" { }
+		"ctf_biomass_rc1" { }
+		"ctf_boneyard" { }
+		"ctf_collisionroutev1f" { }
+		"ctf_collisionroutev1f_event" { }
+		"ctf_convoy_v2" { }
+		"ctf_cruise_b4b" { }
+		"ctf_Decker_b1" { }
+		"ctf_deliverance_b3" { }
+		"ctf_discover_b59" { }
+		"ctf_extraction_b6" { }
+		"ctf_facility_build62" { }
+		"ctf_facing_worlds_2011" { }
+		"ctf_fishy_b4" { }
+		"ctf_flakey_b3" { }
+		"ctf_free2fort" { }
+		"ctf_frosty" { }
+		"ctf_geothermal_b2" { }
+		"ctf_giants_rc3" { }
+		"ctf_greystone_b2" { }
+		"ctf_hades_b5" { }
+		"ctf_halo_bloodgulch" { }
+		"ctf_hearth_event_rc5" { }
+		"ctf_hellpower" { }
+		"ctf_helltrain_event" { }
+		"ctf_hydro_v2" { }
+		"ctf_hotspring_b3a" { }
+		"ctf_installation_v2" { }
+		"ctf_lavatech_rc2" { }
+		"ctf_lonepine_xmas_rc4" { }
+		"ctf_lostcity" { }
+		"ctf_mercy" { }
+		"ctf_minecraft_b8" { }
+		"ctf_minecraftland_v2b3-3_sg2-1" { }
+		"ctf_moonwalk_v2" { }
+		"ctf_morocco_coast" { }
+		"ctf_newbine_rc1" { }
+		"ctf_nordhaven_special_b3" { }
+		"ctf_np_blake_fusion" { }
+		"ctf_operative_b1" { }
+		"ctf_overlook_b1" { }
+		"ctf_pelican_peak" { }
+		"ctf_pool" { }
+		"ctf_powerhouse_final" { }
+		"ctf_quarry_v2" { }
+		"ctf_ravelin" { }
+		"ctf_retreat_b1" { }
+		"ctf_rift_rc1a" { }
+		"ctf_royal_b3" { }
+		"ctf_scorched_final" { }
+		"ctf_shuangcheng" { }
+		"ctf_smooth_b2" { }
+		"ctf_snowfort" { }
+		"ctf_stronghold_b5" { }
+		"ctf_swamp" { }
+		"ctf_system_rc1" { }
+		"ctf_totalwar_v2" { }
+		"ctf_theskatingrink_b3" { }
+		"ctf_turbheim" { }
+		"ctf_turbine_upsidedown_02" { }
+		"ctf_turbine_winter" { }
+		"ctf_urbanbrook" { }
+		"ctf_vikings_final" { }
+		"ctf_well_classic_b3" { }
+		"ctf_well_event_rc4a" { }
+		"ctf_well_snowy_b4" { }
+		"ctf_wild_west_final" { }
+		"ctf_wildfire_rc" { }
 	}
 
 	"Control Points & AD"
@@ -296,125 +390,6 @@
 		"cp_viper_industries" { }
 		"cp_wetcoal_b1" { }
 		"cp_zinkenite_b3a" { }
-	}
-    
-	"Capture the Flag"
-	{
-		"maps_invote" "1"
-
-		"ctf_2castle" { }
-		"ctf_2fort_frostyV47" { }
-		"ctf_2fort_invasion" { }
-		"ctf_2fort_time_tstorm_b1" { }
-		"ctf_2fooooooooooooooooort_rc3" { }
-		"ctf_2fort_unleashed_night" { }
-		"ctf_2villa_a11" { }
-		"ctf_above_a7" { }
-		"ctf_aerospace_b4" { }
-		"ctf_applejack_b7" { }
-		"ctf_assault_sk" { }
-		"ctf_atrophy_b4" { }
-		"ctf_aurora_rc" { }
-		"ctf_backwards_b1" { }
-		"ctf_bedrooms3" { }
-		"ctf_biomass_rc1" { }
-		"ctf_boneyard" { }
-		"ctf_collisionroutev1f" { }
-		"ctf_collisionroutev1f_event" { }
-		"ctf_convoy_v2" { }
-		"ctf_cruise_b4b" { }
-		"ctf_Decker_b1" { }
-		"ctf_deliverance_b3" { }
-		"ctf_discover_b59" { }
-		"ctf_extraction_b6" { }
-		"ctf_facility_build62" { }
-		"ctf_facing_worlds_2011" { }
-		"ctf_fishy_b4" { }
-		"ctf_flakey_b3" { }
-		"ctf_free2fort" { }
-		"ctf_frosty" { }
-		"ctf_geothermal_b2" { }
-		"ctf_giants_rc3" { }
-		"ctf_greystone_b2" { }
-		"ctf_hades_b5" { }
-		"ctf_halo_bloodgulch" { }
-		"ctf_hearth_event_rc5" { }
-		"ctf_hellpower" { }
-		"ctf_helltrain_event" { }
-		"ctf_hydro_v2" { }
-		"ctf_hotspring_b3a" { }
-		"ctf_installation_v2" { }
-		"ctf_lavatech_rc2" { }
-		"ctf_lonepine_xmas_rc4" { }
-		"ctf_lostcity" { }
-		"ctf_mercy" { }
-		"ctf_minecraft_b8" { }
-		"ctf_minecraftland_v2b3-3_sg2-1" { }
-		"ctf_moonwalk_v2" { }
-		"ctf_morocco_coast" { }
-		"ctf_newbine_rc1" { }
-		"ctf_nordhaven_special_b3" { }
-		"ctf_np_blake_fusion" { }
-		"ctf_operative_b1" { }
-		"ctf_overlook_b1" { }
-		"ctf_pelican_peak" { }
-		"ctf_pool" { }
-		"ctf_powerhouse_final" { }
-		"ctf_quarry_v2" { }
-		"ctf_ravelin" { }
-		"ctf_retreat_b1" { }
-		"ctf_rift_rc1a" { }
-		"ctf_royal_b3" { }
-		"ctf_scorched_final" { }
-		"ctf_shuangcheng" { }
-		"ctf_smooth_b2" { }
-		"ctf_snowfort" { }
-		"ctf_stronghold_b5" { }
-		"ctf_swamp" { }
-		"ctf_system_rc1" { }
-		"ctf_totalwar_v2" { }
-		"ctf_theskatingrink_b3" { }
-		"ctf_turbheim" { }
-		"ctf_turbine_upsidedown_02" { }
-		"ctf_turbine_winter" { }
-		"ctf_urbanbrook" { }
-		"ctf_vikings_final" { }
-		"ctf_well_classic_b3" { }
-		"ctf_well_event_rc4a" { }
-		"ctf_well_snowy_b4" { }
-		"ctf_wild_west_final" { }
-		"ctf_wildfire_rc" { }
-	}
-
-	"Deathmatch"
-	{
-		"maps_invote" "1"
-
-		"dm_ashina_shrine_b1" { }
-		"dm_backfort_event_b2" { }
-		"dm_backfort_gravfix3" { }
-		"dm_boostertower" { }
-		"dm_congo" { }
-		"dm_directional_dinosaurs_gravfix" { }
-		"dm_gyros_gravfix" { }
-		"dm_horyuji_v1_spy" { }
-		"dm_hydro_gravfix" { }
-		"dm_mariokart2_b3" { }
-		"dm_mariokart3_v1" { }
-		"dm_market_b2" { }
-		"dm_mountainlake2" { }
-		"dm_moving_in" { }
-		"dm_museum_final" { }
-		"dm_newhorizon_v3" { }
-		"dm_newyork_gravfix3" { }
-		"dm_sdm_final" { }
-		"dm_threed_festive_yelldowfix" { }
-		"dm_towerleap" { }
-		"dm_station_morozovo_v1" { }
-		"cp_supermariobros3_b4" { }
-		"dm_warrock_marien_v8" { }
-		"dm_winter_park_v1" { }
-		"dm_woodland_b1" { }
 	}
 
 	"Garrys Mod "
@@ -798,5 +773,31 @@
         "pl_vigil_rc7" { }
         "pl_volcanic_a26" { }
         "pl_yamashiro_b3" { }
+	}
+
+	"Arena "
+	{
+		"maps_invote" "1"
+
+		"arena_3008v1" { }
+		"arena_backlot_rc2" { }
+		"arena_betteryard_rc1" { }
+		"arena_below_zero" { }
+		"arena_chounai_b2" { }
+		"arena_courtyard_a3" { }
+		"arena_discovery_rc2" { }
+		"arena_haul_b4" { }
+		"arena_kolob" { }
+		"arena_maccyf_72_b4" { }
+		"arena_phantom_b3" { }
+		"arena_shockwave_b1" { }
+		"arena_snowcastle_b2" { }
+		"arena_snowy_watchtower" { }
+		"arena_steeple_b3" { }
+		"arena_swampbridge_a3" { }
+		"arena_temper_rc1" { }
+		"arena_watchtower_event" { }
+		"arena_waterfort_winter" { }
+	}
     }
 }
