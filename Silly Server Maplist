@@ -146,7 +146,7 @@
 
 		"ctf_2castle" { }
 		"ctf_2fort_frostyV47" { }
-		"ctf_2fort_mine_craft_bd4" { }
+		"ctf_2fort_invasion" { }
 		"ctf_2fort_time_tstorm_b1" { }
 		"ctf_2fooooooooooooooooort_rc3" { }
 		"ctf_2fort_unleashed_night" { }
@@ -733,6 +733,7 @@
 		"manor_of_fun_fix" { }
 		"manor_of_mischief_v4" { }
 		"mario_kart_2008_v3" { }
+		"mario_kart_deluxe_v3" { }
 		"mcwallmart_g6_winter" { }
 		"mercs_paradise_v2" { }
 		"mpl_losthorizon_b10" { }
