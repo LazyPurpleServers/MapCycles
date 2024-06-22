@@ -288,8 +288,6 @@
 		"dm_island17" { }
 		"freespace06_v2-1" { }
 		"gm_1950s_bowlingalley" { }
-		"gm_1950s_turnpike" { }
-		"gm_1950s_turnpike_rollercoastertycoon" { }
 		"gm_7eleven_v6_ctcfix" { }
 		"gm_abandoned_canal" { }
 		"gm_asqueon_city" { }
@@ -477,7 +475,6 @@
 		"koth_jamram_rc1b" { }
 		"koth_rats_office_b1_2" { }
 		"koth_relic_rc3" { }
-		"koth_RETRO_PIT" { }
 		"koth_riverbed_v2" { }
 		"koth_rooftop_b1" { }
 		"koth_rotunda" { }
@@ -508,7 +505,6 @@
 		"koth_Sprawl" { }
 		"koth_stallone_b2" { }
 		"koth_stargate_v3" { }
-		"koth_sunset_saloon_b1r1" { }
 		"koth_sunset_saloon_r2_2" { }
 		"koth_swamphouse_v10_final" { }
 		"koth_syphon_b3e" { }
