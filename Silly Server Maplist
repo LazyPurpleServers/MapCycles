@@ -2,6 +2,166 @@
 
 "umc_mapcycle" // SILLY SERVER MAPCYCLE
 {
+
+	"Trade"
+	{
+		"maps_invote" "1"
+
+		"trade_3d_land_v3" { }
+		"trade_appleloosa_v2" { }
+		"trade_badsand_rc8" { }
+		"trade_balloonfarm" { }
+		"trade_balloonfarm_event" { }
+		"trade_bubblegloop_swamp_a2" { }
+		"trade_clocktown_v1b" { }
+		"trade_ctc_freezeezy_peak_a1c" { }
+		"trade_cyberpunk_v1a" { }
+		"trade_delirium" { }
+		"trade_echidna_shrine" { }
+		"trade_facility_v7" { }
+		"trade_finalfantasy_town" { }
+		"trade_forest_realms_a3" { }
+		"trade_frantic_factory_v4a" { }
+		"trade_icerink_b3a" { }
+		"trade_imagination_figment_a10b" { }
+		"trade_industry" { }
+		"trade_jollyrogerbay_v3" { }
+		"trade_jsrf_garage_v5" { }
+		"trade_manhatten" { }
+		"trade_mcdonalds_b2" { }
+		"trade_mega" { }
+		"trade_mmm_v1" { }
+		"trade_minecraft_fishpond_j_f15" { }
+		"trade_minecraft_hans_v71b" { }
+		"trade_minecraft_neon_v162" { }
+		"trade_minecraft_village_f23" { }
+		"trade_minecraft_village_w21" { }
+		"trade_mumbos_mountain_v2" { }
+		"trade_pso_pioneer2_v2" { }
+		"trade_purrgatory_a1" { }
+		"trade_resort_v12b" { }
+		"trade_riverwood_b6_yelldowfix" { }
+		"trade_rogueport" { }
+		"trade_slider_shore_v4" { }
+		"trade_smsdelfinoplaza_a4" { }
+		"trade_space_v1" { }
+		"trade_speed_highway_v1" { }
+		"trade_spiral_mountain_b3" { }
+		"trade_stardust" { }
+		"trade_templeofdonger_v17" { }
+		"trade_templeofdonger_v69_h" { }
+		"trade_tfot_tbgsatelliteV5F" { }
+		"trade_treasure_trove_cove_b3" { }
+	}
+
+	"Miscellaneous"
+	{
+		"maps_invote" "1"
+
+		"achievement_apg_r16c" { }
+		"achievement_turbo_rhobv4_fall" { }
+		"ach_villains_city_fall_v3" { }
+		"ach_villains_city_winter_v3" { }
+		"ba_jailfort_b1" { }
+		"ba_jail_hopjb_b4" { }
+		"ba_space_jail_v7" { }
+		"buzzies_dream_box_v1a_lazypurple" { }
+		"captains_custom_final" { }
+		"chill_cabin_final" { }
+		"cm_stantonmoor_u4" { }
+		"cyberpunk2_a" { }
+		"de_canals_for_tf2" { }
+		"dom_canalzone2_b4" { }
+		"dom_cliffhanger_b11" { }
+		"drudtown_028" { }
+		"ennui_box" { }
+		"gm_temple_v8" { }
+		"goldenmachinegun_v1b_night" { }
+		"hgss_goldenrodcity_b2" { }
+		"hikikomori_mall_a4" { }
+		"hotandcold_mattie" { }
+		"ice_veilstone_b3" { }
+		"idle_trade_inkopolis_b1" { }
+		"inandout_mattie" { }
+		"intercosmic_terminal_e1" { }
+		"jb_bricks_v3c" { }
+		"jb_famous_final" { }
+		"jb_minecraft_nightfall_final" { }
+		"jb_supermario_v13" { }
+		"lethargy_pools_a2" { }
+		"lunar_arboretum_d4" { }
+		"mannor_of_horrors" { }
+		"manor_of_fun_fix" { }
+		"manor_of_mischief_v4" { }
+		"mario_kart_2008_v3" { }
+		"mario_kart_deluxe_v3" { }
+		"mcwallmart_g6_winter" { }
+		"mercs_paradise_v2" { }
+		"mpl_losthorizon_b10" { }
+		"oot3d_hyrule_ctcfix1" { }
+		"pd_galleria" { }
+		"pd_selbyen" { }
+		"pd_sfoth_a6" { }
+		"pianta_village_a2" { }
+		"pk_bigcity_tf" { }
+		"pkmn_applewoods_b3f" { }
+		"pkmn_ecruteakcity_v4f" { }
+		"pkmn_goldenrodcity_b6" { }
+		"pkmn_lilycovecity_b1" { }
+		"pkmn_mountsilver_b2f" { }
+		"pkmn_olivinecity_b3f" { }
+		"pkmn_route119_b1a" { }
+		"pkmn_sootopoliscity_b4f" { }
+		"pkmn_victoryroad_pl" { }
+		"pkmn_violetcity_b1" { }
+		"pkmn_vermillioncity_b1" { }
+		"plr_2xhighertower_v2" { }
+		"plr_cutter_b3" { }
+		"plr_fishladder3" { }
+		"plr_hacksaw_b10" { }
+		"plr_hierarch_rc2b" { }
+		"plr_highertower" { }
+		"plr_hothouse_72" { }
+		"plr_lushtower" { }
+		"plr_sidetracked_rc3" { }
+		"rats_tequila_b01" { }
+		"rp_elite_deathstar" { }
+		"rusty_bucket_bay" { }
+		"sb_rockbottom" { }
+		"sd_toucan_rc3" { }
+		"sd_turbine_a3a" { }
+		"silver_valley_c1" { }
+		"sky_archive_v2" { }
+		"sky_plaza_f2" { }
+		"sm64_big_boos_haunt" { }
+		"sm64_hazy_maze_cave" { }
+		"sm64_lethal_lava_land" { }
+		"sm64_star_road_b2" { }
+		"sm64_whomps_fortress" { }
+		"srb2_gfz_act_1_v7" { }
+		"tf_doom_e1m1_v01" { }
+		"tf_yelldowsforest_v8f" { }
+		"tower_of_power_v5" { }
+		"vsh_abandoned_facility_a4_argil_v2" { }
+		"vsh_arktown_v4" { }
+		"vsh_bianco_hills_v5_argil" { }
+		"vsh_dust_showdown_final1" { }
+		"vsh_egyptyspot_reworked_b2c" { }
+		"vsh_estate_v1" { }
+		"vsh_hale_field_v2" { }
+		"vsh_jungle_beach_v3" { }
+		"vsh_jurassic_v2" { }
+		"vsh_lake_b3" { }
+		"vsh_nebula_rc1" { }
+		"vsh_ravenholm" { }
+		"vsh_scp_3008" { }
+		"vsh_stargate_v3" { }
+		"wacky_alley_rc6" { }
+		"worldmachine_wd_dev03" { }
+		"woodland_valley_a1" { }
+		"wuhu_town" { }
+	}
+
 	"Arena "
 	{
 		"maps_invote" "1"
@@ -638,164 +798,5 @@
         "pl_vigil_rc7" { }
         "pl_volcanic_a26" { }
         "pl_yamashiro_b3" { }
-    }
-
-	"Trade"
-	{
-		"maps_invote" "1"
-
-		"trade_3d_land_v3" { }
-		"trade_appleloosa_v2" { }
-		"trade_badsand_rc8" { }
-		"trade_balloonfarm" { }
-		"trade_balloonfarm_event" { }
-		"trade_bubblegloop_swamp_a2" { }
-		"trade_clocktown_v1b" { }
-		"trade_ctc_freezeezy_peak_a1c" { }
-		"trade_cyberpunk_v1a" { }
-		"trade_delirium" { }
-		"trade_echidna_shrine" { }
-		"trade_facility_v7" { }
-		"trade_finalfantasy_town" { }
-		"trade_forest_realms_a3" { }
-		"trade_frantic_factory_v4a" { }
-		"trade_icerink_b3a" { }
-		"trade_imagination_figment_a10b" { }
-		"trade_industry" { }
-		"trade_jollyrogerbay_v3" { }
-		"trade_jsrf_garage_v5" { }
-		"trade_manhatten" { }
-		"trade_mcdonalds_b2" { }
-		"trade_mega" { }
-		"trade_mmm_v1" { }
-		"trade_minecraft_fishpond_j_f15" { }
-		"trade_minecraft_hans_v71b" { }
-		"trade_minecraft_neon_v162" { }
-		"trade_minecraft_village_f23" { }
-		"trade_minecraft_village_w21" { }
-		"trade_mumbos_mountain_v2" { }
-		"trade_pso_pioneer2_v2" { }
-		"trade_purrgatory_a1" { }
-		"trade_resort_v12b" { }
-		"trade_riverwood_b6_yelldowfix" { }
-		"trade_rogueport" { }
-		"trade_slider_shore_v4" { }
-		"trade_smsdelfinoplaza_a4" { }
-		"trade_space_v1" { }
-		"trade_speed_highway_v1" { }
-		"trade_spiral_mountain_b3" { }
-		"trade_stardust" { }
-		"trade_templeofdonger_v17" { }
-		"trade_templeofdonger_v69_h" { }
-		"trade_tfot_tbgsatelliteV5F" { }
-		"trade_treasure_trove_cove_b3" { }
-	}
-
-	"Miscellaneous"
-	{
-		"maps_invote" "1"
-
-		"achievement_apg_r16c" { }
-		"achievement_turbo_rhobv4_fall" { }
-		"ach_villains_city_fall_v3" { }
-		"ach_villains_city_winter_v3" { }
-		"ba_jailfort_b1" { }
-		"ba_jail_hopjb_b4" { }
-		"ba_space_jail_v7" { }
-		"buzzies_dream_box_v1a_lazypurple" { }
-		"captains_custom_final" { }
-		"chill_cabin_final" { }
-		"cm_stantonmoor_u4" { }
-		"cyberpunk2_a" { }
-		"de_canals_for_tf2" { }
-		"dom_canalzone2_b4" { }
-		"dom_cliffhanger_b11" { }
-		"drudtown_028" { }
-		"ennui_box" { }
-		"gm_temple_v8" { }
-		"goldenmachinegun_v1b_night" { }
-		"hgss_goldenrodcity_b2" { }
-		"hikikomori_mall_a4" { }
-		"hotandcold_mattie" { }
-		"ice_veilstone_b3" { }
-		"idle_trade_inkopolis_b1" { }
-		"inandout_mattie" { }
-		"intercosmic_terminal_e1" { }
-		"jb_bricks_v3c" { }
-		"jb_famous_final" { }
-		"jb_minecraft_nightfall_final" { }
-		"jb_supermario_v13" { }
-		"lethargy_pools_a2" { }
-		"lunar_arboretum_d4" { }
-		"mannor_of_horrors" { }
-		"manor_of_fun_fix" { }
-		"manor_of_mischief_v4" { }
-		"mario_kart_2008_v3" { }
-		"mario_kart_deluxe_v3" { }
-		"mcwallmart_g6_winter" { }
-		"mercs_paradise_v2" { }
-		"mpl_losthorizon_b10" { }
-		"oot3d_hyrule_ctcfix1" { }
-		"pd_galleria" { }
-		"pd_selbyen" { }
-		"pd_sfoth_a6" { }
-		"pianta_village_a2" { }
-		"pk_bigcity_tf" { }
-		"pkmn_applewoods_b3f" { }
-		"pkmn_ecruteakcity_v4f" { }
-		"pkmn_goldenrodcity_b6" { }
-		"pkmn_lilycovecity_b1" { }
-		"pkmn_mountsilver_b2f" { }
-		"pkmn_olivinecity_b3f" { }
-		"pkmn_route119_b1a" { }
-		"pkmn_sootopoliscity_b4f" { }
-		"pkmn_victoryroad_pl" { }
-		"pkmn_violetcity_b1" { }
-		"pkmn_vermillioncity_b1" { }
-		"plr_2xhighertower_v2" { }
-		"plr_cutter_b3" { }
-		"plr_fishladder3" { }
-		"plr_hacksaw_b10" { }
-		"plr_hierarch_rc2b" { }
-		"plr_highertower" { }
-		"plr_hothouse_72" { }
-		"plr_lushtower" { }
-		"plr_sidetracked_rc3" { }
-		"rats_tequila_b01" { }
-		"rp_elite_deathstar" { }
-		"rusty_bucket_bay" { }
-		"sb_rockbottom" { }
-		"sd_toucan_rc3" { }
-		"sd_turbine_a3a" { }
-		"silver_valley_c1" { }
-		"sky_archive_v2" { }
-		"sky_plaza_f2" { }
-		"sm64_big_boos_haunt" { }
-		"sm64_hazy_maze_cave" { }
-		"sm64_lethal_lava_land" { }
-		"sm64_star_road_b2" { }
-		"sm64_whomps_fortress" { }
-		"srb2_gfz_act_1_v7" { }
-		"tf_doom_e1m1_v01" { }
-		"tf_yelldowsforest_v8f" { }
-		"tower_of_power_v5" { }
-		"vsh_abandoned_facility_a4_argil_v2" { }
-		"vsh_arktown_v4" { }
-		"vsh_bianco_hills_v5_argil" { }
-		"vsh_dust_showdown_final1" { }
-		"vsh_egyptyspot_reworked_b2c" { }
-		"vsh_estate_v1" { }
-		"vsh_hale_field_v2" { }
-		"vsh_jungle_beach_v3" { }
-		"vsh_jurassic_v2" { }
-		"vsh_lake_b3" { }
-		"vsh_nebula_rc1" { }
-		"vsh_ravenholm" { }
-		"vsh_scp_3008" { }
-		"vsh_stargate_v3" { }
-		"wacky_alley_rc6" { }
-		"worldmachine_wd_dev03" { }
-		"woodland_valley_a1" { }
-		"wuhu_town" { }
     }
 }
