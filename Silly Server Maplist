@@ -191,7 +191,6 @@
 		"ctf_lostcity" { }
 		"ctf_mercy" { }
 		"ctf_minecraft_b8" { }
-		"ctf_minecraft_tunnel_finalV2" { }
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_moonwalk_v2" { }
 		"ctf_morocco_coast" { }
@@ -641,7 +640,6 @@
         "pl_vigil_rc7" { }
         "pl_volcanic_a26" { }
         "pl_yamashiro_b3" { }
-        "pl_yosai_b3a" { }
     }
 
 	"Trade"
