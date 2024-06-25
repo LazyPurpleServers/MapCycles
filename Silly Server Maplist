@@ -170,6 +170,7 @@
 		"dm_backfort_event_b2" { }
 		"dm_backfort_gravfix3" { }
 		"dm_boostertower" { }
+		"dm_cloudsdale_b9" { }
 		"dm_congo" { }
 		"dm_directional_dinosaurs_gravfix" { }
 		"dm_gyros_gravfix" { }
@@ -300,6 +301,7 @@
 		"cp_buzzards_canyon_winter" { }
 		"cp_cardinal_rc1a" { }
 		"cp_conifer_rc3a" { }
+		"cp_canterlot_wg_b2" { }
 		"cp_carthage_b1" { }
 		"cp_clue_b1" { }
 		"cp_collis_b1" { }
