@@ -7,6 +7,7 @@
 		"koth_bagel_rc9b" { }
 		"koth_county_b7" { }
 		"koth_jamram_rc2b" { }
+		"koth_megaton_b3" { }
 		"pl_extinction_rc3" { }
 	}
 
@@ -75,6 +76,7 @@
 		"koth_logwash_rc6a" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_megasnow_rc1" { }
+		"koth_megaton_b3" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
 		"koth_relic_rc3" { }
