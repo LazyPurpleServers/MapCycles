@@ -261,6 +261,7 @@
 		"ctf_rift_rc1a" { }
 		"ctf_royal_b3" { }
 		"ctf_scorched_final" { }
+		"ctf_sewer" { }
 		"ctf_shuangcheng" { }
 		"ctf_smooth_b2" { }
 		"ctf_snowfort" { }
@@ -575,6 +576,7 @@
 		"koth_market_b2_yelldowfix" { }
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
+		"koth_megaton_b3" { }
 		"koth_mill_rc4" { }
 		"koth_minecraft_canyon_a4" { }
 		"koth_moonshine_rc" { }
