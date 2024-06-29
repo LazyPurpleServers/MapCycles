@@ -234,6 +234,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_scorched_final" { }
+		"ctf_sewer" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -343,7 +344,7 @@
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
-		"koth_megaton_b1" { }
+		"koth_megaton_b3" { }
 		"koth_mill_rc4" { }
 		"koth_missilebase_b5" { }
 		"koth_montane_b3" { }
