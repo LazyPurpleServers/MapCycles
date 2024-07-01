@@ -4,10 +4,9 @@
 	{
         "maps_invote" "1"
         
-		"ctf_applejack_rc1" { }
-		"ctf_sidewinder_rc4a" { }
-		"koth_icetower_rc7" { }
+		"ctf_doublecross_snowy" { }
 		"koth_shorelight_rc8" { }
+		"koth_suijin" { }
 		"koth_vice_rc1" { }
 		"pkmn_goldenrodcity_b6" { }
 		"plr_hacksaw" { }
