@@ -234,7 +234,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_scorched_final" { }
-		"ctf_sewer" { }
+		"ctf_sewer_v1" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -489,7 +489,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_odyssey_b2" { }
-		"pl_patagonia_b6" { }
+		"pl_patagonia_rc1b" { }
 		"pl_pharaoh_rc1" { }
 		"pl_phoenix" { }
 		"pl_pit" { }
@@ -545,6 +545,7 @@
 		"pd_watergate" { }
 		"pl_longboy_b8a" { }
 		"plr_cutter_b3" { }
+		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_a7b" { }
 		"plr_hacksaw_rc1b" { }
