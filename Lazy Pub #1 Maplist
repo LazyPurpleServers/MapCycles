@@ -4,11 +4,11 @@
 	{
         "maps_invote" "1"
         
-		"koth_bagel_rc9b" { }
+		"koth_cachoeira_rc0v5" { }
 		"koth_county_b7" { }
 		"koth_jamram_rc2b" { }
 		"koth_megaton_b3" { }
-		"pl_extinction_rc3" { }
+		"pd_salvador_b3c" { }
 		"pl_patagonia_rc1b" { }
 	}
 
@@ -55,7 +55,7 @@
 		"koth_anthem_b4" { }
 		"koth_bagel_rc9b" { }
 		"koth_brine_rc3a" { }
-		"koth_cachoeira" { }
+		"koth_cachoeira_rc0v5" { }
 		"koth_cascade" { }
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
@@ -153,7 +153,7 @@
 		"pd_galleria" { }
 		"pd_hightower_b3" { }
 		"pd_pipeline_rc6" { }
-		"pd_salvador_b2" { }
+		"pd_salvador_b3c" { }
 		"pd_selbyen" { }
 		"pd_standin_b1" { }
 		"pd_street_rc2b" { }
