@@ -9,6 +9,7 @@
 		"koth_jamram_rc2b" { }
 		"koth_megaton_b3" { }
 		"pl_extinction_rc3" { }
+		"pl_patagonia_rc1b" { }
 	}
 
 	"Attack & Defend"
@@ -122,7 +123,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_odyssey_b2" { }
-		"pl_patagonia_b6" { }
+		"pl_patagonia_rc1b" { }
 		"pl_phoenix" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
