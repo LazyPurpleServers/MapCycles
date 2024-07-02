@@ -275,7 +275,7 @@
 		"koth_brickyard_v2_a8" { }
 		"koth_brine_rc3a" { }
 		"koth_butte_b1a" { }
-		"koth_cachoeira" { }
+		"koth_cachoeira_rc0v5" { }
 		"koth_camp_saxton_b1" { }
 		"koth_canada_rc1" { }
 		"koth_cannery_b11c" { }
@@ -535,11 +535,12 @@
 		"pd_mannsylvania_rc1" { }
 		"pd_nucleus_event_b4" { }
 		"pd_pipeline_rc6" { }
-		"pd_salvador_b2" { }
+		"pd_salvador_b3c" { }
 		"pd_selbyen" { }
 		"pd_standin_b1" { }
 		"pd_static_rc1c" { }
 		"pd_street_rc2b" { }
+		"pd_suijin_event_void_a1d" { }
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
