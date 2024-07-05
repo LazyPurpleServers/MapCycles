@@ -12,7 +12,7 @@
 		"pkmn_goldenrodcity_b6" { }
 		"plr_hacksaw" { }
 		"plr_upward_rc3" { }
-		"sd_toucan_rc3" { }
+		"sd_toucan_final" { }
 	}
 
 	"Control Points "
@@ -152,6 +152,6 @@
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
 		"plr_upward_rc3" { }
-		"sd_toucan_rc3" { }
+		"sd_toucan_final" { }
 	}
 }
