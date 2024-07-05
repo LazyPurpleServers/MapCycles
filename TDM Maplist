@@ -12,6 +12,7 @@
 		"pkmn_goldenrodcity_b6" { }
 		"plr_hacksaw" { }
 		"plr_upward_rc3" { }
+		"sd_doomsday" { }
 		"sd_toucan_final" { }
 	}
 
@@ -152,6 +153,7 @@
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
 		"plr_upward_rc3" { }
+		"sd_doomsday" { }
 		"sd_toucan_final" { }
 	}
 }
