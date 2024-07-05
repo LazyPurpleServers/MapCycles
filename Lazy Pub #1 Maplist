@@ -6,9 +6,8 @@
         
 		"koth_cachoeira_rc0v5" { }
 		"koth_county_b7" { }
-		"koth_jamram_rc2b" { }
-		"koth_megaton_b3" { }
 		"pd_salvador_b3c" { }
+		"pl_odyssey_b4" { }
 		"pl_patagonia_rc1b" { }
 	}
 
@@ -122,7 +121,7 @@
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
-		"pl_odyssey_b2" { }
+		"pl_odyssey_b4" { }
 		"pl_patagonia_rc1b" { }
 		"pl_phoenix" { }
 		"pl_pier" { }
