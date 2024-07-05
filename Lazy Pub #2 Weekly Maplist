@@ -488,7 +488,7 @@
 		"pl_mountainside_rc2" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
-		"pl_odyssey_b2" { }
+		"pl_odyssey_b4" { }
 		"pl_patagonia_rc1b" { }
 		"pl_pharaoh_rc1" { }
 		"pl_phoenix" { }
@@ -556,7 +556,7 @@
 		"plr_sidetracked_rc3" { }
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
-		"sd_toucan_rc3" { }
+		"sd_toucan_final" { }
 		"tc_meridian_rc3" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
