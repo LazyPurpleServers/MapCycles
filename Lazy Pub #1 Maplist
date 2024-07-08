@@ -9,6 +9,7 @@
 		"pd_salvador_b3c" { }
 		"pl_odyssey_b4" { }
 		"pl_patagonia_rc1b" { }
+		"pl_shatter_rc3b" { }
 	}
 
 	"Attack & Defend"
@@ -128,6 +129,7 @@
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
+		"pl_shatter_rc3b" { }
 		"pl_shoreleave_rc2" { }
 		"pl_sludgepit_final4" { }
 		"pl_snowycoast" { }
