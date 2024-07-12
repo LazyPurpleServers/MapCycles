@@ -444,7 +444,6 @@
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
 		"pl_cactuscanyon_redux_final2" { }
-		"pl_camber" { }
 		"pl_candyland_test4b" { }
 		"pl_cashworks" { }
 		"pl_cliffsedge_b1" { }
@@ -460,7 +459,6 @@
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
-		"pl_emerge" { }
 		"pl_embargo_b3" { }
 		"pl_eruption_b14" { }
 		"pl_extinction_rc3" { }
@@ -612,7 +610,9 @@
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
+		"pl_camber" { }
 		"pl_enclosure_final" { }
+		"pl_emerge" { }
 		"pl_frontier_final" { }
 		"pl_goldrush" { }
 		“pl_pier” { }
