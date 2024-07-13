@@ -46,6 +46,7 @@
 		"trade_slider_shore_v4" { }
 		"trade_smsdelfinoplaza_a4" { }
 		"trade_space_v1" { }
+		"trade_spacefort_a7_fix" { }
 		"trade_speed_highway_v1" { }
 		"trade_spiral_mountain_b3" { }
 		"trade_stardust" { }
@@ -181,11 +182,13 @@
 		"dm_mariokart2_b3" { }
 		"dm_mariokart3_v1" { }
 		"dm_market_b2" { }
+		"dm_mentles_ponyville_b2" { }
 		"dm_mountainlake2" { }
 		"dm_moving_in" { }
 		"dm_museum_final" { }
 		"dm_newhorizon_v3" { }
 		"dm_newyork_gravfix3" { }
+		"dm_ponyville_g3" { }
 		"dm_sdm_final" { }
 		"dm_threed_festive_yelldowfix" { }
 		"dm_towerleap" { }
@@ -347,6 +350,7 @@
 		"cp_japan_v2" { }
 		"cp_lair_a6" { }
 		"cp_logjam_rc5" { }
+		"cp_luigis_mansion" { }
 		"cp_lushbowl_final" { }
 		"cp_lwobtsud" { }
 		"cp_method_b4b" { }
@@ -384,6 +388,7 @@
 		"cp_subway_final" { }
 		"cp_sulfur" { }
 		"cp_switchback_b5" { }
+		"cp_thalassophobia_b4c" { }
 		"cp_toy_fort_alt3" { }
 		"cp_toy_fort_tbr_v6" { }
 		"cp_toys_v2" { }
