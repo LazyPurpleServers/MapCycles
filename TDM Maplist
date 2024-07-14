@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"ctf_doublecross_snowy" { }
-		"ctf_locomotion_b1" { }
+		"ctf_locomotion_b2" { }
 		"koth_shorelight_rc8" { }
 		"koth_suijin" { }
 		"koth_vice_rc1" { }
@@ -47,7 +47,7 @@
 		"ctf_hotspring_b3a" { }
 		"ctf_landfall" { }
 		"ctf_lavatech_rc2" { }
-		"ctf_locomotion_b1" { }
+		"ctf_locomotion_b2" { }
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_nuclide_rc8d" { }
 		"ctf_parabolic_a10" { }
