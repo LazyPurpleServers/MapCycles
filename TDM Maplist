@@ -9,6 +9,7 @@
 		"koth_shorelight_rc8" { }
 		"koth_suijin" { }
 		"koth_vice_rc1" { }
+		"pd_atom_smash" { }
 		"pd_tomb_rc2b" { }
 		"pkmn_goldenrodcity_b6" { }
 		"plr_hacksaw" { }
@@ -35,7 +36,7 @@
 	{
         "maps_invote" "1"
 
-		"ctf_applejack_rc1" { }
+		"ctf_applejack" { }
 		"ctf_badwater_b2" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
@@ -109,6 +110,7 @@
 		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
+		"koth_megaton" { }
 		"koth_octothorpe_classic_beta02" { }
 		"koth_preposterous_rc2" { }
 		"koth_railbridge_rc2" { }
@@ -141,6 +143,7 @@
 		"pass_district" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
+		"pd_atom_smash" { }
 		"pd_galleria" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania_rc1" { }
