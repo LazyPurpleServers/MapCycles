@@ -212,7 +212,7 @@
 		"ctf_2villa_a11" { }
 		"ctf_above_a7" { }
 		"ctf_aerospace_b4" { }
-		"ctf_applejack_b7" { }
+		"ctf_applejack" { }
 		"ctf_assault_sk" { }
 		"ctf_atrophy_b4" { }
 		"ctf_aurora_rc" { }
@@ -342,7 +342,7 @@
 		"cp_groynes_b1" { }
 		"cp_gothic_event" { }
 		"cp_gydan" { }
-		"cp_hadal_b13a" { }
+		"cp_hadal" { }
 		"cp_haddou_rc2" { }
 		"cp_heaven_rc" { }
 		"cp_imbricatus_a5" { }
@@ -585,7 +585,7 @@
 		"koth_market_b2_yelldowfix" { }
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
-		"koth_megaton_b3" { }
+		"koth_megaton" { }
 		"koth_mill_rc4" { }
 		"koth_minecraft_canyon_a4" { }
 		"koth_moonshine_rc" { }
