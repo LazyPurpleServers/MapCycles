@@ -58,6 +58,7 @@
 		"cp_bloodcrystal_event" { }
 		"cp_brew" { }
 		"cp_broma" { }
+		"cp_burghausen" { }
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
 		"cp_copperhead_b2c" { }
@@ -78,7 +79,7 @@
 		"cp_gothic_event" { }
 		"cp_gravelpit_snowy" { }
 		"cp_gydan" { }
-		"cp_hadal_rc1" { }
+		"cp_hadal" { }
 		"cp_haddou_rc2" { }
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
@@ -97,7 +98,7 @@
 		"cp_no_mercy_b1" { }
 		"cp_omen_b6" { }
 		"cp_osiris_b27" { }
-		"cp_overgrown_rc8" { }
+		"cp_overgrown" { }
 		"cp_france_rc4c" { }
 		"cp_rocketforge_b3" { }
 		"cp_rotary_a0" { }
@@ -129,7 +130,7 @@
 		"cp_bellas_roomz_v3" { }
 		"cp_biodome_b1" { }
 		"cp_buzzards_canyon_winter" { }
-		"cp_canaveral_rc5c" { }
+		"cp_canaveral_5cp" { }
 		"cp_cardinal_rc1a" { }
 		"cp_coilblaze_rc8" { }
 		"cp_collis_b1" { }
@@ -182,7 +183,7 @@
 		"ctf_2fort_newfort_b6" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
-		"ctf_applejack_rc1" { }
+		"ctf_applejack" { }
 		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
@@ -277,7 +278,7 @@
 		"koth_brickyard_v2_a8" { }
 		"koth_brine_rc3a" { }
 		"koth_butte_b1a" { }
-		"koth_cachoeira_rc0v5" { }
+		"koth_cachoeira" { }
 		"koth_camp_saxton_b1" { }
 		"koth_canada_rc1" { }
 		"koth_cannery_b11c" { }
@@ -346,7 +347,7 @@
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
-		"koth_megaton_b3" { }
+		"koth_megaton" { }
 		"koth_mill_rc4" { }
 		"koth_missilebase_b5" { }
 		"koth_montane_b3" { }
@@ -488,7 +489,7 @@
 		"pl_mountainside_rc2" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
-		"pl_odyssey_b4" { }
+		"pl_odyssey" { }
 		"pl_patagonia_rc1b" { }
 		"pl_pharaoh_rc1" { }
 		"pl_phoenix" { }
@@ -529,7 +530,7 @@
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
-		"pd_atom_smash_b1" { }
+		"pd_atom_smash" { }
 		"pd_galleria" { }
 		"pd_hightower_b3" { }
 		"pd_infestation_b5" { }
