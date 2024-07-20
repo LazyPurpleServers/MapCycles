@@ -36,6 +36,7 @@
 	{
         "maps_invote" "1"
 
+		"ctf_1fort_rc1" { }
 		"ctf_applejack" { }
 		"ctf_badwater_b2" { }
 		"ctf_doublecross_snowy" { }
