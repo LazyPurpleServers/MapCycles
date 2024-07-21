@@ -4,14 +4,15 @@
 	{
         "maps_invote" "1"
         
+		"ctf_applejack" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_locomotion_b2" { }
+		"cp_canaveral_5cp" { }
+		"koth_cachoeira" { }
+		"koth_megaton" { }
 		"koth_suijin" { }
 		"pd_atom_smash" { }
-		"pd_tomb_rc2b" { }
 		"pkmn_goldenrodcity_b6" { }
-		"plr_hacksaw" { }
-		"plr_upward_rc3" { }
 		"sd_doomsday" { }
 		"sd_toucan_final" { }
 	}
@@ -21,7 +22,7 @@
         "maps_invote" "1"
         
 		"cp_abyss_b81" { }
-		"cp_canaveral_rc5c" { }
+		"cp_canaveral_5cp" { }
 		"cp_marioblast_2011" { }
 		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
