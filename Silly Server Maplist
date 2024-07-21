@@ -20,7 +20,7 @@
 		"trade_echidna_shrine" { }
 		"trade_facility_v7" { }
 		"trade_finalfantasy_town" { }
-		"trade_forest_realms_a3" { }
+		"trade_forest_realms_a4" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_icerink_b3a" { }
 		"trade_imagination_figment_a10b" { }
@@ -247,7 +247,7 @@
 		"ctf_hotspring_b3a" { }
 		"ctf_installation_v2" { }
 		"ctf_lavatech_rc2" { }
-		"ctf_locomotion_b2" { }
+		"ctf_locomotion_b3" { }
 		"ctf_lonepine_xmas_rc4" { }
 		"ctf_lostcity" { }
 		"ctf_mercy" { }
