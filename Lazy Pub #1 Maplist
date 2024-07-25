@@ -6,6 +6,7 @@
         
 		"cp_hadal" { }
 		"cp_overgrown" { }
+		"koth_bagel_rc10" { }
 		"koth_cachoeira" { }
 		"koth_megaton" { }
 		"pd_atom_smash" { }
@@ -56,7 +57,7 @@
         "maps_invote" "1"
         
 		"koth_anthem_b4" { }
-		"koth_bagel_rc9b" { }
+		"koth_bagel_rc10" { }
 		"koth_brine_rc3a" { }
 		"koth_cachoeira" { }
 		"koth_cascade" { }
