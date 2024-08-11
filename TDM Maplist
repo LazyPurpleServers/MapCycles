@@ -4,7 +4,6 @@
 	{
         "maps_invote" "1"
         
-		"ctf_applejack" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_locomotion_b3" { }
 		"cp_canaveral_5cp" { }
@@ -14,7 +13,7 @@
 		"pd_atom_smash" { }
 		"pkmn_goldenrodcity_b6" { }
 		"sd_doomsday" { }
-		"sd_toucan_final" { }
+		"sd_toucan_final2" { }
 	}
 
 	"Control Points "
@@ -127,6 +126,7 @@
 		"koth_stallone_b2" { }
 		"koth_suijin" { }
 		"koth_synthetic_rc6a" { }
+		"koth_toxic_event_b2a" { }
 		"koth_undergrove_rc1" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
@@ -158,6 +158,6 @@
 		"plr_hightower" { }
 		"plr_upward_rc3" { }
 		"sd_doomsday" { }
-		"sd_toucan_final" { }
+		"sd_toucan_final2" { }
 	}
 }
