@@ -133,7 +133,7 @@
 		"rp_elite_deathstar" { }
 		"rusty_bucket_bay" { }
 		"sb_rockbottom" { }
-		"sd_toucan_final" { }
+		"sd_toucan_final2" { }
 		"sd_turbine_a3a" { }
 		"silver_valley_c1" { }
 		"sky_archive_v2" { }
@@ -646,6 +646,7 @@
 		"koth_temper_rc2" { }
 		"koth_tfot_watchtower_d" { }
 		"koth_tombtown_rc6" { }
+		"koth_toxic_event_b2a" { }
 		"koth_trainfalls_v5" { }
 		"koth_twinfalls" { }
 		"koth_undergrove_event_rc3e" { }
