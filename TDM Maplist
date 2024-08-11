@@ -70,7 +70,7 @@
 		"dm_backfort_event_b2" { }
 		"dm_backfort_gravfix3" { }
 		"dm_congo_b1" { }
-		"dm_directional_dinosaurs_gravfix2" { }
+		"dm_directional_dinosaurs_gravfix3" { }
 		"dm_gyros_gravfix" { }
 		"dm_hangar" { }
 		"dm_hydro_gravfix" { }
@@ -151,6 +151,7 @@
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pkmn_goldenrodcity_b6" { }
+		"pkmn_lilycovecity_b1" { }
 		"plr_bananabay" { }
 		"plr_cutter_b3" { }
 		"plr_hacksaw" { }
