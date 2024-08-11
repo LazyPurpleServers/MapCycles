@@ -411,6 +411,7 @@
 		"koth_timbrr_b2" { }
 		"koth_tomb_b3" { }
 		"koth_tombtown_rc6" { }
+		"koth_toxic_event_b2a" { }
 		"koth_trainfalls_v5" { }
 		"koth_trenchfoot_ab1" { }
 		"koth_triplet_b1" { }
@@ -558,7 +559,7 @@
 		"plr_sidetracked_rc3" { }
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
-		"sd_toucan_final" { }
+		"sd_toucan_final2" { }
 		"tc_meridian_rc3" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
