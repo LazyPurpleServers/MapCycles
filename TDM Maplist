@@ -6,8 +6,7 @@
         
 		"ctf_doublecross_snowy" { }
 		"ctf_locomotion_b3" { }
-		"cp_canaveral_5cp" { }
-		"koth_cachoeira" { }
+		"koth_brokenhills_b3" { }
 		"koth_megaton" { }
 		"koth_suijin" { }
 		"pd_atom_smash" { }
@@ -85,6 +84,7 @@
 
 		"koth_aquaticruin_final" { }
 		"koth_brine_rc3a" { }
+		"koth_brokenhills_b3" { }
 		"koth_cachoeira" { }
 		"koth_cascade" { }
 		"koth_chasm_b1" { }
@@ -105,6 +105,7 @@
 		"koth_king" { }
 		"koth_krampus" { }
 		"koth_lakeside_final" { }
+		"koth_lifesnatcher_b4a" { }
 		"koth_logwash_rc6a" { }
 		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
@@ -126,7 +127,7 @@
 		"koth_stallone_b2" { }
 		"koth_suijin" { }
 		"koth_synthetic_rc6a" { }
-		"koth_toxic_event_b2a" { }
+		"koth_toxic_event_rc2b" { }
 		"koth_undergrove_rc1" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
@@ -160,5 +161,6 @@
 		"plr_upward_rc3" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
+		"tow_dynamite_rc1a" { }
 	}
 }
