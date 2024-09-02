@@ -277,6 +277,7 @@
 		"koth_boxes_a10" { }
 		"koth_brickyard_v2_a8" { }
 		"koth_brine_rc3a" { }
+		"koth_brokenhills_b3" { }
 		"koth_butte_b1a" { }
 		"koth_cachoeira" { }
 		"koth_camp_saxton_b1" { }
@@ -338,6 +339,7 @@
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_rc3a" { }
 		"koth_krampus_rc1" { }
+		"koth_lifesnatcher_b4a" { }
 		"koth_loader_v2" { }
 		"koth_logwash_rc6a" { }
 		"koth_luftangriff_b5a" { }
@@ -411,7 +413,7 @@
 		"koth_timbrr_b2" { }
 		"koth_tomb_b3" { }
 		"koth_tombtown_rc6" { }
-		"koth_toxic_event_b2a" { }
+		"koth_toxic_event_rc2b" { }
 		"koth_trainfalls_v5" { }
 		"koth_trenchfoot_ab1" { }
 		"koth_triplet_b1" { }
@@ -507,6 +509,7 @@
 		"pl_shatter_rc3b" { }
 		"pl_shenmue_release" { }
 		"pl_shoreleave_rc2" { }
+		"pl_silverline_rc11c" { }
 		"pl_sludgepit_final4" { }
 		"pl_spectre_a5_dew10" { }
 		"pl_spineyard_rc1a" { }
@@ -563,6 +566,7 @@
 		"tc_meridian_rc3" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
+		"tow_dynamite_rc1a" { }
 	}
 
 	"Deathmatch"
