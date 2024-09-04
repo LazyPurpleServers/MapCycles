@@ -7,12 +7,15 @@
 		"ctf_doublecross_snowy" { }
 		"ctf_locomotion_b3" { }
 		"koth_brokenhills_b3" { }
+		"koth_lifesnatcher_b4a" { }
 		"koth_megaton" { }
 		"koth_suijin" { }
+		"koth_toxic_event_rc2b" { }
 		"pd_atom_smash" { }
 		"pkmn_goldenrodcity_b6" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
+		"tow_dynamite_rc1a" { }
 	}
 
 	"Control Points "
