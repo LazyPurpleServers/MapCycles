@@ -4,18 +4,18 @@
 	{
         "maps_invote" "1"
         
-		"ctf_doublecross_snowy" { }
 		"ctf_locomotion_b3" { }
-		"koth_brokenhills_b3" { }
-		"koth_lifesnatcher_b4a" { }
+		"koth_brokenhills_b3a" { }
+		"koth_lifesnatcher_b5" { }
 		"koth_megaton" { }
 		"koth_suijin" { }
 		"koth_toxic_event_rc2b" { }
-		"pd_atom_smash" { }
+		"koth_undermine_b3" { }
+		"pd_static_rc2b" { }
 		"pkmn_goldenrodcity_b6" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
-		"tow_dynamite_rc1a" { }
+		"tow_dynamite_rc1c" { }
 	}
 
 	"Control Points "
@@ -87,7 +87,7 @@
 
 		"koth_aquaticruin_final" { }
 		"koth_brine_rc3a" { }
-		"koth_brokenhills_b3" { }
+		"koth_brokenhills_b3a" { }
 		"koth_cachoeira" { }
 		"koth_cascade" { }
 		"koth_chasm_b1" { }
@@ -108,7 +108,7 @@
 		"koth_king" { }
 		"koth_krampus" { }
 		"koth_lakeside_final" { }
-		"koth_lifesnatcher_b4a" { }
+		"koth_lifesnatcher_b5" { }
 		"koth_logwash_rc6a" { }
 		"koth_los_muertos" { }
 		"koth_megaman6_rc1" { }
@@ -132,6 +132,7 @@
 		"koth_synthetic_rc6a" { }
 		"koth_toxic_event_rc2b" { }
 		"koth_undergrove_rc1" { }
+		"koth_undermine_b3" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
 		"koth_ye_olde_harveste_v4" { }
@@ -152,6 +153,7 @@
 		"pd_infestation_b5" { }
 		"pd_mannsylvania_rc1" { }
 		"pd_selbyen" { }
+		"pd_static_rc2b" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pkmn_goldenrodcity_b6" { }
@@ -164,6 +166,6 @@
 		"plr_upward_rc3" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
-		"tow_dynamite_rc1a" { }
+		"tow_dynamite_rc1c" { }
 	}
 }
