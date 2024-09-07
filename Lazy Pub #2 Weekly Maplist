@@ -58,7 +58,6 @@
 		"cp_bloodcrystal_event" { }
 		"cp_brew" { }
 		"cp_broma" { }
-		"cp_burghausen" { }
 		"cp_caldera_rc3" { }
 		"cp_carthage_b1" { }
 		"cp_copperhead_b2c" { }
@@ -79,7 +78,6 @@
 		"cp_gothic_event" { }
 		"cp_gravelpit_snowy" { }
 		"cp_gydan" { }
-		"cp_hadal" { }
 		"cp_haddou_rc2" { }
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
@@ -98,7 +96,6 @@
 		"cp_no_mercy_b1" { }
 		"cp_omen_b6" { }
 		"cp_osiris_b27" { }
-		"cp_overgrown" { }
 		"cp_france_rc4c" { }
 		"cp_rocketforge_b3" { }
 		"cp_rotary_a0" { }
@@ -130,7 +127,6 @@
 		"cp_bellas_roomz_v3" { }
 		"cp_biodome_b1" { }
 		"cp_buzzards_canyon_winter" { }
-		"cp_canaveral_5cp" { }
 		"cp_cardinal_rc1a" { }
 		"cp_coilblaze_rc8" { }
 		"cp_collis_b1" { }
@@ -183,7 +179,6 @@
 		"ctf_2fort_newfort_b6" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
-		"ctf_applejack" { }
 		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
@@ -279,7 +274,6 @@
 		"koth_brine_rc3a" { }
 		"koth_brokenhills_b3a" { }
 		"koth_butte_b1a" { }
-		"koth_cachoeira" { }
 		"koth_camp_saxton_b1" { }
 		"koth_canada_rc1" { }
 		"koth_cannery_b11c" { }
@@ -348,7 +342,6 @@
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
-		"koth_megaton" { }
 		"koth_mill_rc4" { }
 		"koth_missilebase_b5" { }
 		"koth_montane_b3" { }
@@ -465,7 +458,6 @@
 		"pl_divulgence_b4b" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
-		"pl_embargo_b3" { }
 		"pl_eruption_b14" { }
 		"pl_extinction_rc3" { }
 		"pl_escarpment_rc1" { }
@@ -495,7 +487,6 @@
 		"pl_odyssey" { }
 		"pl_patagonia_rc1b" { }
 		"pl_pharaoh_rc1" { }
-		"pl_phoenix" { }
 		"pl_pit" { }
 		"pl_promotion_b5" { }
 		"pl_rebirth_rc1" { }
@@ -535,7 +526,6 @@
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
-		"pd_atom_smash" { }
 		"pd_galleria" { }
 		"pd_hightower_b3" { }
 		"pd_infestation_b5" { }
@@ -543,7 +533,6 @@
 		"pd_nucleus_event_b4" { }
 		"pd_pipeline_rc6" { }
 		"pd_salvador_b3c" { }
-		"pd_selbyen" { }
 		"pd_standin_b1" { }
 		"pd_static_rc2b" { }
 		"pd_street_rc2b" { }
@@ -589,18 +578,22 @@
 	}
 
 
-	"Valve's Greatest Hits"
+	"Valve Casual Rotation"
 	{
 	"maps_invote" "1"
 
 		"cp_altitude" { }
 		"cp_badlands" { }
+		"cp_burghausen" { }
+		"cp_canaveral_5cp" { }
 		"cp_coldfront" { }
 		"cp_degrootkeep" { }
 		“cp_gorge” { }
 		"cp_granary" { }
 		“cp_gravelpit” { }
 		"cp_gullywash_final1" { }
+		"cp_hadal" { }
+		"cp_overgrown" { }
 		"cp_powerhouse" { }
 		"cp_process" { }
 		"cp_well" { }
@@ -611,19 +604,25 @@
 		"cp_snowplow" { }
 		"cp_steel" { }
 		"ctf_2fort" { }
+		"ctf_applejack" { }
 		"ctf_doublecross" { }
 		"ctf_frosty" { }
 		"ctf_landfall" { }
 		"ctf_turbine" { }
 		"ctf_well" { }
+		"pd_atom_smash" { }
+		"pd_selbyen" { }
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
 		"pl_camber" { }
 		"pl_enclosure_final" { }
+		"pl_embargo" { }
 		"pl_emerge" { }
 		"pl_frontier_final" { }
 		"pl_goldrush" { }
+		"pl_odyssey" { }
+		"pl_phoenix" { }
 		“pl_pier” { }
 		“pl_snowycoast” { }
 		"pl_swiftwater_final1" { }
@@ -632,12 +631,14 @@
 		"plr_hightower" { }
 		"koth_badlands" { }
 		"koth_brazil" { }
+		"koth_cachoeira" { }
 		"koth_cascade" { }
 		"koth_harvest_final" { }
 		“koth_highpass” { }
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
+		"koth_megaton" { }
 		"koth_nucleus" { }
 		"koth_sawmill" { }
 		"koth_suijin" { }
