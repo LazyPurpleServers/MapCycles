@@ -10,12 +10,12 @@
 		"koth_megaton" { }
 		"koth_suijin" { }
 		"koth_toxic_event_rc2b" { }
-		"koth_undermine_b3" { }
-		"pd_static_rc2b" { }
+		"koth_undermine_b3b" { }
+		"pd_static_rc2c" { }
 		"pkmn_goldenrodcity_b6" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
-		"tow_dynamite_rc1c" { }
+		"tow_dynamite_rc1t" { }
 	}
 
 	"Control Points "
@@ -131,7 +131,7 @@
 		"koth_synthetic_rc6a" { }
 		"koth_toxic_event_rc2b" { }
 		"koth_undergrove_rc1" { }
-		"koth_undermine_b3" { }
+		"koth_undermine_b3b" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
 		"koth_ye_olde_harveste_v4" { }
@@ -152,7 +152,7 @@
 		"pd_infestation_b5" { }
 		"pd_mannsylvania_rc1" { }
 		"pd_selbyen" { }
-		"pd_static_rc2b" { }
+		"pd_static_rc2c" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pkmn_goldenrodcity_b6" { }
@@ -165,6 +165,6 @@
 		"plr_upward_rc3" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
-		"tow_dynamite_rc1c" { }
+		"tow_dynamite_rc1t" { }
 	}
 }
