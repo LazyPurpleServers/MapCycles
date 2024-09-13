@@ -413,7 +413,7 @@
 		"koth_undergrove_event" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
-		"koth_undermine_b3" { }
+		"koth_undermine_b3b" { }
 		"koth_valor_rc1" { }
 		"koth_verso_a2" { }
 		"koth_vice_rc1" { }
@@ -534,7 +534,7 @@
 		"pd_pipeline_rc6" { }
 		"pd_salvador_b3c" { }
 		"pd_standin_b1" { }
-		"pd_static_rc2b" { }
+		"pd_static_rc2c" { }
 		"pd_street_rc2b" { }
 		"pd_suijin_event_void_a1d" { }
 		"pd_suijin_matsuri_rc4" { }
@@ -556,7 +556,7 @@
 		"tc_meridian_rc3" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
-		"tow_dynamite_rc1c" { }
+		"tow_dynamite_rc1t" { }
 	}
 
 	"Deathmatch"
