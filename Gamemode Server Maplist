@@ -21,6 +21,7 @@
 		"vsh_facility_rc2" { }
 		"vsh_graygravelhq_rc1" { }
 		"vsh_nucleus" { }
+		"vsh_outburst" { }
 		"vsh_outlook_rc2b" { }
 		"vsh_skirmish" { }
 		"vsh_tinyrock" { }
@@ -31,6 +32,7 @@
 		"command" "exec gamemode/zi"
         
 		"zi_atoll" { }
+		"zi_blazehattan" { }
 		"zi_devastation_final1" { }
 		"zi_murky" { }
 		"zi_sanitarium" { }
@@ -44,6 +46,7 @@
         
 		"bomberman_battle_game" { }
 		"bowling_alley_v1" { }
+		"cp_freaky_fair" { }
 		"cp_john_gutter_b2" { }
 		"cp_vehkon2_v1" { }
 		"is_simply_spyskate_v2" { }
