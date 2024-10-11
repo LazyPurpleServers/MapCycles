@@ -9,13 +9,13 @@
 		"koth_lifesnatcher_b5" { }
 		"koth_megaton" { }
 		"koth_suijin" { }
-		"koth_toxic_event_rc2b" { }
+		"koth_toxic" { }
 		"koth_undermine_b3b" { }
 		"pd_static_rc2c" { }
 		"pkmn_goldenrodcity_b6" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
-		"tow_dynamite_rc1t" { }
+		"tow_dynamite" { }
 	}
 
 	"Control Points "
@@ -24,6 +24,7 @@
         
 		"cp_abyss_b81" { }
 		"cp_canaveral_5cp" { }
+		"cp_freaky_fair" { }
 		"cp_marioblast_2011" { }
 		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
@@ -129,7 +130,7 @@
 		"koth_stallone_b2" { }
 		"koth_suijin" { }
 		"koth_synthetic_rc6a" { }
-		"koth_toxic_event_rc2b" { }
+		"koth_toxic" { }
 		"koth_undergrove_rc1" { }
 		"koth_undermine_b3b" { }
 		"koth_valor_rc1" { }
@@ -165,6 +166,6 @@
 		"plr_upward_rc3" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
-		"tow_dynamite_rc1t" { }
+		"tow_dynamite" { }
 	}
 }
