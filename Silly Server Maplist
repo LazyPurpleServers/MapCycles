@@ -38,7 +38,9 @@
 		"trade_minecraft_village_f23" { }
 		"trade_minecraft_village_w21" { }
 		"trade_mumbos_mountain_v2" { }
+		"trade_oot_forest_temple" { }
 		"trade_pso_pioneer2_v2" { }
+		"trade_pumpkinhillsa2fix" { }
 		"trade_purrgatory_a1" { }
 		"trade_resort_v12b" { }
 		"trade_riverwood_b6_yelldowfix" { }
@@ -50,6 +52,7 @@
 		"trade_speed_highway_v1" { }
 		"trade_spiral_mountain_b3" { }
 		"trade_stardust" { }
+		"trade_submarine_station_a1" { }
 		"trade_templeofdonger_v17" { }
 		"trade_templeofdonger_v69_h" { }
 		"trade_tfot_tbgsatelliteV5F" { }
@@ -102,6 +105,7 @@
 		"mpl_losthorizon_b10" { }
 		"oot3d_hyrule_ctcfix1" { }
 		"osen_online" { }
+		"pd_azureworld_b2" { }
 		"pd_galleria" { }
 		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
@@ -166,6 +170,7 @@
 		"vsh_scp_3008" { }
 		"vsh_stargate_v3" { }
 		"wacky_alley_rc6" { }
+		"walmart_bettermeme_v13b" { }
 		"woodland_valley_a1" { }
 		"wuhu_town" { }
 	}
@@ -178,6 +183,7 @@
 		"dm_backfort_event_b2" { }
 		"dm_backfort_gravfix3" { }
 		"dm_boostertower" { }
+		"dm_cloudsdale_ultimate_b1" { }
 		"dm_congo" { }
 		"dm_directional_dinosaurs_gravfix3" { }
 		"dm_gyros_gravfix" { }
@@ -207,6 +213,7 @@
 		"maps_invote" "1"
 
 		"ctf_2castle" { }
+		"ctf_2fort_classic_redux" { }
 		"ctf_2fort_frostyV47" { }
 		"ctf_2fort_invasion" { }
 		"ctf_2fort_time_tstorm_b1" { }
@@ -217,6 +224,7 @@
 		"ctf_aerospace_b4" { }
 		"ctf_applejack" { }
 		"ctf_assault_sk" { }
+		"ctf_asteroid_redux" { }
 		"ctf_atrophy_b4" { }
 		"ctf_aurora_rc" { }
 		"ctf_backwards_b1" { }
