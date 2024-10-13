@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"ctf_2fort_classic_redux" { }
 		"ctf_locomotion_b3" { }
 		"koth_brokenhills_b3a" { }
 		"koth_lifesnatcher_b5" { }
@@ -38,6 +39,7 @@
         "maps_invote" "1"
 
 		"ctf_1fort_rc1" { }
+		"ctf_2fort_classic_redux" { }
 		"ctf_applejack" { }
 		"ctf_badwater_b2" { }
 		"ctf_doublecross_snowy" { }
@@ -72,6 +74,7 @@
 		"dm_ashina_shrine_b1_mm" { }
 		"dm_backfort_event_b2" { }
 		"dm_backfort_gravfix3" { }
+		"dm_cloudsdale_ultimate_b1" { }
 		"dm_congo_b1" { }
 		"dm_directional_dinosaurs_gravfix3" { }
 		"dm_gyros_gravfix" { }
@@ -149,6 +152,7 @@
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
 		"pd_atom_smash" { }
+		"pd_azureworld_b2" { }
 		"pd_circus" { }
 		"pd_galleria" { }
 		"pd_infestation_b5" { }
