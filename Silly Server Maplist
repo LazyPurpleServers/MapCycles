@@ -23,7 +23,6 @@
 		"trade_forest_realms_a4" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_icerink_b3a" { }
-		"trade_imagination_figment_a10b" { }
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
@@ -80,6 +79,7 @@
 		"dom_cliffhanger_b11" { }
 		"drudtown_028" { }
 		"ennui_box" { }
+		"explore_imagination_a1b" { }
 		"gm_temple_v8" { }
 		"goldenmachinegun_v1b_night" { }
 		"hgss_goldenrodcity_b2" { }
@@ -134,6 +134,7 @@
 		"plr_lushtower" { }
 		"plr_sidetracked_rc3" { }
 		"rats_tequila_b01" { }
+		"restless_plaza_b1" { }
 		"rp_elite_deathstar" { }
 		"rusty_bucket_bay" { }
 		"sb_rockbottom" { }
@@ -171,7 +172,6 @@
 		"vsh_stargate_v3" { }
 		"wacky_alley_rc6" { }
 		"walmart_bettermeme_v13b" { }
-		"woodland_valley_a1" { }
 		"wuhu_town" { }
 	}
 
