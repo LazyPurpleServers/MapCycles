@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "92"
+		"count" "91"
 		
 		"1"
 		{
@@ -192,8 +192,8 @@
 		}
 		"38"
 		{
-			"map" "mvm_redstone_ridge_rc5"
-			"popfile" "mvm_redstone_ridge_rc5_adv_armored_apparatus"
+			"map" "mvm_hellburg_final2"
+			"popfile" "mvm_hellburg_Final2"
 		}
 		"39"
 		{
@@ -459,11 +459,6 @@
 		{
 			"map" "mvm_greekrock_rc1"
 			"popfile" "mvm_greekrock_rc1_the_last_mission"
-		}
-		"92"
-		{
-			"map" "mvm_hellburg_final2"
-			"popfile" "mvm_hellburg_Final2"
 		}
 	}
 }
