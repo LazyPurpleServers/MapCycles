@@ -87,8 +87,8 @@
 		}
 		"17"
 		{
-			"map" "mvm_downpour_rc3"
-			"popfile" "mvm_downpour_rc3_int_flash_flood_flurry"
+			"map" "mvm_downpour_rc3a"
+			"popfile" "mvm_downpour_rc3a_int_sodden_slaughter"
 		}
 		"18"
 		{
