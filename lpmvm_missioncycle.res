@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "91"
+		"count" "90"
 		
 		"1"
 		{
@@ -407,8 +407,8 @@
 		}
 		"81"
 		{
-			"map" "mvm_redbrier_b3"
-			"popfile" "mvm_redbrier_b3_666_calamatic_revenge"
+			"map" "mvm_scrapyard_rc1a"
+			"popfile" "mvm_scrapyard_rc1a_adv_techno_treachery"
 		}
 		"82"
 		{
@@ -451,11 +451,6 @@
 			"popfile" "mvm_dusk_rc6_int_ravager_raid"
 		}
 		"90"
-		{
-			"map" "mvm_scrapyard_rc1a"
-			"popfile" "mvm_scrapyard_rc1a_adv_techno_treachery"
-		}
-		"91"
 		{
 			"map" "mvm_greekrock_b5"
 			"popfile" "mvm_greekrock_b5_the_last_mission"
