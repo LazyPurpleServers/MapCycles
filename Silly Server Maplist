@@ -439,7 +439,6 @@
 		"gm_7eleven_v6_ctcfix" { }
 		"gm_abandoned_canal" { }
 		"gm_asqueon_city" { }
-		"gm_atomic" { }
 		"gm_atomsminicompobase_lajron" { }
 		"gm_avalanchbeta" { }
 		"gm_baik_tatooine" { }
@@ -517,7 +516,6 @@
 		"zs_abstraction_night" { }
 		"zs_krusty_krab_large_v5" { }
 		"zs_palace_a1" { }
-		"zs_swimming_pool_v2" { }
 	}
 
 	"King of the Hill"
@@ -558,7 +556,6 @@
 		"koth_denile_b3" { }
 		"koth_dewm_rc1" { }
 		"koth_dewpoint_b5b" { }
-		"koth_disneyworld_b1" { }
 		"koth_drop_b3" { }
 		"koth_dropdeadfred_v3" { }
 		"koth_dropdown_rc1" { }
