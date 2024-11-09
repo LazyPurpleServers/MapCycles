@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "85"
+		"count" "82"
 		
 		"1"
 		{
@@ -122,8 +122,8 @@
 		}
 		"24"
 		{
-			"map" "mvm_hillside_v7"
-			"popfile" "mvm_hillside_v7_adv_outdated_processing"
+			"map" "mvm_sharp_rc9"
+			"popfile" "mvm_sharp_rc9_adv_sudden_equinox"
 		}
 		"25"
 		{
@@ -337,8 +337,8 @@
 		}
 		"67"
 		{
-			"map" "mvm_cargoship_v2a6"
-			"popfile" "mvm_cargoship_v2a6_int_starboard_strike"
+			"map" "mvm_snowflake_b3"
+			"popfile" "mvm_snowflake_b3"
 		}
 		"68"
 		{
@@ -402,8 +402,8 @@
 		}
 		"80"
 		{
-			"map" "mvm_processed_b4"
-			"popfile" "mvm_processed_b4_int_leaking_oilcan"
+			"map" "mvm_shipper_b4"
+			"popfile" "mvm_shipper_b4"
 		}
 		"81"
 		{
@@ -414,21 +414,6 @@
 		{
 			"map" "mvm_seabed_b1"
 			"popfile" "mvm_seabed_b1_advanced1"
-		}
-		"83"
-		{
-			"map" "mvm_sharp_rc9"
-			"popfile" "mvm_sharp_rc9_adv_sudden_equinox"
-		}
-		"84"
-		{
-			"map" "mvm_shipper_b4"
-			"popfile" "mvm_shipper_b4"
-		}
-		"85"
-		{
-			"map" "mvm_snowflake_b3"
-			"popfile" "mvm_snowflake_b3"
 		}
 	}
 }
