@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "82"
+		"count" "75"
 		
 		"1"
 		{
@@ -187,8 +187,8 @@
 		}
 		"37"
 		{
-			"map" "mvm_radar_b10"
-			"popfile" "mvm_radar_b10_int_recursive_reinforcements"
+			"map" "mvm_yiresa_rc5a"
+			"popfile" "mvm_yiresa_rc5a_int_torrent_territory"
 		}
 		"38"
 		{
@@ -292,33 +292,33 @@
 		}
 		"58"
 		{
-			"map" "mvm_jarate_temple_v33"
-			"popfile" "mvm_jarate_temple_v33_kmlp_quickplay"
+			"map" "mvm_pinnacle_a6"
+			"popfile" "mvm_pinnacle_a6_a6_advanced_canadian_crackdown"
 		}
 		"59"
 		{
-			"map" "mvm_mansion_v9"
-			"popfile" "mvm_mansion_v9_kmlp_quickplay"
+			"map" "mvm_overgreen"
+			"popfile" "mvm_overgreen"
 		}
 		"60"
 		{
-			"map" "mvm_purplebrier_v7"
-			"popfile" "mvm_purplebrier_v7_kmlp_branch"
+			"map" "mvm_shipper_b4"
+			"popfile" "mvm_shipper_b4"
 		}
 		"61"
 		{
-			"map" "mvm_seajelly_v29"
-			"popfile" "mvm_seajelly_v29_kmlp_quickplay"
+			"map" "mvm_scrapyard_rc1a"
+			"popfile" "mvm_scrapyard_rc1a_adv_techno_treachery"
 		}
 		"62"
 		{
-			"map" "mvm_siege_mode_v7"
-			"popfile" "mvm_siege_mode_v7_kmlp_quickplay"
+			"map" "mvm_dusk_rc6"
+			"popfile" "mvm_dusk_rc6_int_ravager_raid"
 		}
 		"63"
 		{
-			"map" "mvm_tiny_town_v8"
-			"popfile" "mvm_tiny_town_v8_kmlp_quickplay"
+			"map" "mvm_seabed_b1"
+			"popfile" "mvm_seabed_b1_advanced1"
 		}
 		"64"
 		{
@@ -379,41 +379,6 @@
 		{
 			"map" "mvm_manndarin_final"
 			"popfile" "mvm_manndarin_final_advanced_lamiiedit"
-		}
-		"76"
-		{
-			"map" "mvm_yiresa_rc5a"
-			"popfile" "mvm_yiresa_rc5a_int_torrent_territory"
-		}
-		"77"
-		{
-			"map" "mvm_overgreen"
-			"popfile" "mvm_overgreen"
-		}
-		"78"
-		{
-			"map" "mvm_pinnacle_a6"
-			"popfile" "mvm_pinnacle_a6_a6_advanced_canadian_crackdown"
-		}
-		"79"
-		{
-			"map" "mvm_dusk_rc6"
-			"popfile" "mvm_dusk_rc6_int_ravager_raid"
-		}
-		"80"
-		{
-			"map" "mvm_shipper_b4"
-			"popfile" "mvm_shipper_b4"
-		}
-		"81"
-		{
-			"map" "mvm_scrapyard_rc1a"
-			"popfile" "mvm_scrapyard_rc1a_adv_techno_treachery"
-		}
-		"82"
-		{
-			"map" "mvm_seabed_b1"
-			"popfile" "mvm_seabed_b1_advanced1"
 		}
 	}
 }
