@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "74"
+		"count" "82"
 		
 		"1"
 		{
@@ -107,8 +107,8 @@
 		}
 		"21"
 		{
-			"map" "mvm_goldpit_rc3"
-			"popfile" "mvm_goldpit_rc3_adv_goldrush"
+			"map" "mvm_goldpit_rc4"
+			"popfile" "mvm_goldpit_rc4_adv_goldrush"
 		}
 		"22"
 		{
@@ -374,6 +374,46 @@
 		{
 			"map" "mvm_manncohq_v3"
 			"popfile" "mvm_manncohq_v3"
+		}
+		"75"
+		{
+			"map" "mvm_butcher_rc1b"
+			"popfile" "mvm_butcher_rc1b_norm_killing_floor"
+		}
+		"76"
+		{
+			"map" "mvm_humbridge_rc1"
+			"popfile" "mvm_humbridge_rc1_adv_broken_parts"
+		}
+		"77"
+		{
+			"map" "mvm_robotfactory_b29"
+			"popfile" "mvm_robotfactory_b29_int_industrial_injection"
+		}
+		"78"
+		{
+			"map" "mvm_saxford_rc1"
+			"popfile" "mvm_saxford_rc1_adv_security_review"
+		}
+		"79"
+		{
+			"map" "mvm_scallops_rc2"
+			"popfile" "mvm_scallops_rc2_nor_scalping_skirmish"
+		}
+		"80"
+		{
+			"map" "mvm_trailer"
+			"popfile" "mvm_trailer_adv_first_to_fall"
+		}
+		"81"
+		{
+			"map" "mvm_watermine_rc11"
+			"popfile" "mvm_watermine_rc11_int_hydrophobia"
+		}
+		"82"
+		{
+			"map" "mvm_whitecliff_rc4a"
+			"popfile" "mvm_whitecliff_rc4a_adv_metal_march"
 		}
 	}
 }
