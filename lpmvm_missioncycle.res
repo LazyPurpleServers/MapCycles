@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "75"
+		"count" "74"
 		
 		"1"
 		{
@@ -62,8 +62,8 @@
 		}
 		"12"
 		{
-			"map" "mvm_condemned_b3"
-			"popfile" "mvm_condemned_b3_int_thriller_terror"
+			"map" "mvm_manndarin_final"
+			"popfile" "mvm_manndarin_final_advanced_lamiiedit"
 		}
 		"13"
 		{
@@ -374,11 +374,6 @@
 		{
 			"map" "mvm_manncohq_v3"
 			"popfile" "mvm_manncohq_v3"
-		}
-		"75"
-		{
-			"map" "mvm_manndarin_final"
-			"popfile" "mvm_manndarin_final_advanced_lamiiedit"
 		}
 	}
 }
