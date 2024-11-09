@@ -162,8 +162,8 @@
 		}
 		"32"
 		{
-			"map" "mvm_outlands_rc2"
-			"popfile" "mvm_outlands_rc2_int_rural_roadblock"
+			"map" "mvm_swirl_rc5"
+			"popfile" "mvm_swirl_rc5_advanced"
 		}
 		"33"
 		{
@@ -322,8 +322,8 @@
 		}
 		"64"
 		{
-			"map" "mvm_airdrop_rc3"
-			"popfile" "mvm_airdrop_rc3"
+			"map" "mvm_greekrock_b5"
+			"popfile" "mvm_greekrock_b5_the_last_mission"
 		}
 		"65"
 		{
@@ -367,8 +367,8 @@
 		}
 		"73"
 		{
-			"map" "mvm_logvalley_b9"
-			"popfile" "mvm_logvalley_b9"
+			"map" "mvm_terrorlict_final1"
+			"popfile" "mvm_terrorlict_final1"
 		}
 		"74"
 		{
@@ -382,8 +382,8 @@
 		}
 		"76"
 		{
-			"map" "mvm_memorial_b1"
-			"popfile" "mvm_memorial_b1"
+			"map" "mvm_yiresa_rc5a"
+			"popfile" "mvm_yiresa_rc5a_int_torrent_territory"
 		}
 		"77"
 		{
@@ -397,8 +397,8 @@
 		}
 		"79"
 		{
-			"map" "mvm_potassium_release3"
-			"popfile" "mvm_potassium_release3"
+			"map" "mvm_dusk_rc6"
+			"popfile" "mvm_dusk_rc6_int_ravager_raid"
 		}
 		"80"
 		{
@@ -429,31 +429,6 @@
 		{
 			"map" "mvm_snowflake_b3"
 			"popfile" "mvm_snowflake_b3"
-		}
-		"86"
-		{
-			"map" "mvm_terrorlict_final1"
-			"popfile" "mvm_terrorlict_final1"
-		}
-		"87"
-		{
-			"map" "mvm_yiresa_rc5a"
-			"popfile" "mvm_yiresa_rc5a_int_torrent_territory"
-		}
-		"88"
-		{
-			"map" "mvm_swirl_rc5"
-			"popfile" "mvm_swirl_rc5_advanced"
-		}
-		"89"
-		{
-			"map" "mvm_dusk_rc6"
-			"popfile" "mvm_dusk_rc6_int_ravager_raid"
-		}
-		"90"
-		{
-			"map" "mvm_greekrock_b5"
-			"popfile" "mvm_greekrock_b5_the_last_mission"
 		}
 	}
 }
