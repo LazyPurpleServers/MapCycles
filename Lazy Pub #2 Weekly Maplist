@@ -128,6 +128,7 @@
 		"cp_biodome_b1" { }
 		"cp_buzzards_canyon_winter" { }
 		"cp_cardinal_rc1a" { }
+		"cp_chipper_b5" { }
 		"cp_coilblaze_rc8" { }
 		"cp_collis_b1" { }
 		"cp_construct_a3" { }
@@ -291,6 +292,7 @@
 		"koth_conveyance_rc3b" { }
 		"koth_coulee_b4_fix" { }
 		"koth_county_b7" { }
+		"koth_crumble_rc1" { }
 		"koth_daenam_b12" { }
 		"koth_databank_rc3" { }
 		"koth_denile_b3" { }
@@ -307,6 +309,7 @@
 		"koth_empire_rc2" { }
 		"koth_encampment" { }
 		"koth_eros_rc2" { }
+		"koth_etherstate" { }
 		"koth_fission" { }
 		"koth_flake_a11" { }
 		"koth_flurry_rc5" { }
