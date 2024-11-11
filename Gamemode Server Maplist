@@ -18,6 +18,7 @@
 		"command" "exec gamemode/vsh"
         
 		"vsh_distillery" { }
+		"vsh_expedition_rc3" { }
 		"vsh_facility_rc2" { }
 		"vsh_graygravelhq_rc1" { }
 		"vsh_nucleus" { }
