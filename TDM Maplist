@@ -4,18 +4,14 @@
 	{
         "maps_invote" "1"
         
+		"cp_chipper_b5" { }
 		"ctf_2fort_classic_redux" { }
 		"ctf_locomotion_b3" { }
-		"koth_brokenhills_b3a" { }
-		"koth_lifesnatcher_b5" { }
-		"koth_megaton" { }
+		"koth_crumble_rc1" { }
+		"koth_etherstate" { }
 		"koth_suijin" { }
-		"koth_toxic" { }
-		"koth_undermine_b3c" { }
-		"pd_static_rc2c" { }
 		"pkmn_goldenrodcity_b6" { }
 		"sd_doomsday" { }
-		"sd_toucan_final2" { }
 		"tow_dynamite" { }
 	}
 
@@ -25,6 +21,7 @@
         
 		"cp_abyss_b81" { }
 		"cp_canaveral_5cp" { }
+		"cp_chipper_b5" { }
 		"cp_freaky_fair" { }
 		"cp_marioblast_2011" { }
 		"cp_powerhouse" { }
@@ -97,9 +94,11 @@
 		"koth_chasm_b1" { }
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
+		"koth_crumble_rc1" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
 		"koth_dryway_final" { }
+		"koth_etherstate" { }
 		"koth_forge_b5a" { }
 		"koth_gamma_b7" { }
 		"koth_hangar_rc5b" { }
