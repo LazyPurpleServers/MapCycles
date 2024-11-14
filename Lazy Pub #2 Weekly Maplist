@@ -72,6 +72,7 @@
 		"cp_dustcity" { }
 		"cp_ferrum_rc1" { }
 		"cp_fieldworks_a4" { }
+		"cp_fortezza_b14ws" { }
 		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
 		"cp_glacier_rc6" { }
@@ -108,7 +109,7 @@
 		"cp_stoneyridge_rc2" { }
 		"cp_subway_final" { }
 		"cp_sulfur" { }
-		"cp_thalassophobia_b5n" { }
+		"cp_thalassophobia_b5p" { }
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
 		"cp_wetcoal_b1" { }
@@ -311,6 +312,7 @@
 		"koth_eros_rc2" { }
 		"koth_etherstate" { }
 		"koth_fission" { }
+		"koth_fjord_rc0v1" { }
 		"koth_flake_a11" { }
 		"koth_flurry_rc5" { }
 		"koth_forge_b5a" { }
@@ -547,7 +549,7 @@
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pl_longboy_b8a" { }
-		"plr_cutter_b3" { }
+		"plr_cutter_b5" { }
 		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_a7b" { }
