@@ -94,7 +94,7 @@
 		"jb_famous_final" { }
 		"jb_minecraft_nightfall_final" { }
 		"jb_supermario_v13" { }
-		"lethargy_pools_a2" { }
+		"lethargy_pools_a4" { }
 		"lunar_arboretum_d4" { }
 		"mannor_of_horrors" { }
 		"manor_of_fun_fix" { }
@@ -125,7 +125,7 @@
 		"pkmn_violetcity_b1" { }
 		"pkmn_vermillioncity_b1" { }
 		"plr_2xhighertower_v2" { }
-		"plr_cutter_b3" { }
+		"plr_cutter_b5" { }
 		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
 		"plr_hacksaw_b10" { }
@@ -402,7 +402,7 @@
 		"cp_subway_final" { }
 		"cp_sulfur" { }
 		"cp_switchback_b5" { }
-		"cp_thalassophobia_b5n" { }
+		"cp_thalassophobia_b5p" { }
 		"cp_toy_fort_alt3" { }
 		"cp_toy_fort_tbr_v6" { }
 		"cp_toys_v2" { }
