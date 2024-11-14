@@ -11,6 +11,7 @@
 		"koth_etherstate" { }
 		"koth_suijin" { }
 		"pkmn_goldenrodcity_b6" { }
+		"plr_cutter_b5" { }
 		"sd_doomsday" { }
 		"tow_dynamite" { }
 	}
@@ -163,7 +164,7 @@
 		"pkmn_goldenrodcity_b6" { }
 		"pkmn_lilycovecity_b1" { }
 		"plr_bananabay" { }
-		"plr_cutter_b3" { }
+		"plr_cutter_b5" { }
 		"plr_hacksaw" { }
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
