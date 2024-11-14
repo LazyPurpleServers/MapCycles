@@ -4,16 +4,9 @@
 	{
         "maps_invote" "1"
         
-		"cp_hadal" { }
-		"cp_overgrown" { }
+		"cp_thalassophobia_b5p" { }
 		"koth_bagel_rc10" { }
-		"koth_cachoeira" { }
-		"koth_lifesnatcher_b5" { }
-		"koth_megaton" { }
-		"pd_atom_smash" { }
-		"pl_cashworks" { }
-		"pl_enclosure_final" { }
-		"pl_odyssey" { }
+		"koth_fjord_rc0v1" { }
 	}
 
 	"Attack & Defend"
@@ -50,6 +43,7 @@
 		"cp_stoneyridge_rc2" { }
 		"cp_steel" { }
 		"cp_sulfur" { }
+		"cp_thalassophobia_b5p" { }
 		"cp_upland_rc4" { }
 	}
 
@@ -67,6 +61,7 @@
 		"koth_county_b7" { }
 		"koth_databank_rc3" { }
 		"koth_empire_rc2" { }
+		"koth_fjord_rc0v1" { }
 		"koth_forge_b5a" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
