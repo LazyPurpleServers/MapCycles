@@ -7,6 +7,7 @@
 		"cp_thalassophobia_b5p" { }
 		"koth_bagel_rc10" { }
 		"koth_fjord_rc0v1" { }
+		"pl_downunder_b15s" { }
 	}
 
 	"Attack & Defend"
@@ -110,6 +111,7 @@
 		"pl_camber" { }
 		"pl_cashworks" { }
 		"pl_divulgence_b4b" { }
+		"pl_downunder_b15s" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
