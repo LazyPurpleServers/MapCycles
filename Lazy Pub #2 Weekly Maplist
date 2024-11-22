@@ -329,6 +329,7 @@
 		"koth_hangar_rc5b" { }
 		"koth_hardway_72_rc1" { }
 		"koth_harter_rc1" { }
+		"koth_harvest_winter" { }
 		"koth_harvestalpine_v3b" { }
 		"koth_hayheights_a10" { }
 		"koth_hoax_rc3" { }
@@ -463,6 +464,7 @@
 		"pl_curve" { }
 		"pl_deadwood" { }
 		"pl_divulgence_b4b" { }
+		"pl_downunder_b15s" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
 		"pl_eruption_b14" { }
