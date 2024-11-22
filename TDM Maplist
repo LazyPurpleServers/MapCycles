@@ -9,6 +9,7 @@
 		"ctf_locomotion_b3" { }
 		"koth_crumble_rc1" { }
 		"koth_etherstate" { }
+		"koth_harvest_winter" { }
 		"koth_suijin" { }
 		"pkmn_goldenrodcity_b6" { }
 		"plr_cutter_b5" { }
@@ -104,6 +105,7 @@
 		"koth_gamma_b7" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
+		"koth_harvest_winter" { }
 		"koth_hoax_rc3" { }
 		"koth_icetower_rc7" { }
 		"koth_jamram_rc2b" { }
