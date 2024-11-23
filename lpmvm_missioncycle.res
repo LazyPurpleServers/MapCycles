@@ -387,8 +387,8 @@
 		}
 		"77"
 		{
-			"map" "mvm_robotfactory_b29"
-			"popfile" "mvm_robotfactory_b29_int_industrial_injection"
+			"map" "mvm_robotfactory_b30"
+			"popfile" "mvm_robotfactory_b30_expert"
 		}
 		"78"
 		{
