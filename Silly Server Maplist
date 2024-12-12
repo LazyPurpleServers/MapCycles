@@ -124,7 +124,7 @@
 		"pkmn_violetcity_b1" { }
 		"pkmn_vermillioncity_b1" { }
 		"plr_2xhighertower_v2" { }
-		"plr_cutter_b5" { }
+		"plr_cutter" { }
 		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
 		"plr_hacksaw_b10" { }
@@ -271,6 +271,7 @@
 		"ctf_operative_b1" { }
 		"ctf_overlook_b1" { }
 		"ctf_pelican_peak" { }
+		"ctf_penguin_peak" { }
 		"ctf_pool" { }
 		"ctf_powerhouse_final" { }
 		"ctf_quarry_v2" { }
@@ -345,6 +346,7 @@
 		"cp_evergreen_b4" { }
 		"cp_ferrum_rc1" { }
 		"cp_follower" { }
+		"cp_fortezza" { }
 		"cp_frozen_rc4" { }
 		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
@@ -785,6 +787,7 @@
         "pl_mountainside_rc2" { }
         "pl_oasis_b4" { }
         "pl_oasis_event_rc2" { }
+	"pl_patagonia" { }
         "pl_pharaoh_rc1" { }
         "pl_promotion_b5" { }
         "pl_rebirth_rc1" { }
