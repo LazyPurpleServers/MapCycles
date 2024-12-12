@@ -8,6 +8,7 @@
 		"koth_bagel_rc10" { }
 		"koth_fjord_rc0v1" { }
 		"pl_downunder_b15s" { }
+		"pl_patagonia" { }
 	}
 
 	"Attack & Defend"
@@ -128,7 +129,7 @@
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_odyssey" { }
-		"pl_patagonia_rc1b" { }
+		"pl_patagonia" { }
 		"pl_phoenix" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
