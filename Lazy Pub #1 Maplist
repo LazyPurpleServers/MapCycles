@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"cp_fortezza" { }
 		"cp_thalassophobia_b5p" { }
 		"koth_bagel_rc10" { }
 		"koth_fjord_rc0v1" { }
@@ -22,6 +23,7 @@
 		"cp_conifer_rc4" { }
 		"cp_copperhead_b2c" { }
 		"cp_egypt_final" { }
+		"cp_fortezza" { }
 		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
