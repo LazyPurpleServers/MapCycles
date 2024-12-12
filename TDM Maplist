@@ -6,15 +6,13 @@
         
 		"cp_chipper_b5" { }
 		"ctf_2fort_classic_redux" { }
-		"ctf_locomotion_b3" { }
+		"ctf_penguin_peak" { }
 		"koth_crumble_rc1" { }
 		"koth_etherstate" { }
 		"koth_harvest_winter" { }
-		"koth_suijin" { }
 		"pkmn_goldenrodcity_b6" { }
 		"plr_cutter_b5" { }
 		"sd_doomsday" { }
-		"tow_dynamite" { }
 	}
 
 	"Control Points "
@@ -55,7 +53,7 @@
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_nuclide_rc8d" { }
 		"ctf_parabolic_a10" { }
-		"ctf_pelican_peak" { }
+		"ctf_penguin_peak" { }
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
