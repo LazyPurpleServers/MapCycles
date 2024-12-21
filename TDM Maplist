@@ -4,11 +4,9 @@
 	{
         "maps_invote" "1"
         
-		"cp_chipper_b5" { }
-		"ctf_2fort_classic_redux" { }
+		"ctf_1fort_rc1" { }
 		"ctf_penguin_peak" { }
 		"koth_crumble_rc1" { }
-		"koth_etherstate" { }
 		"koth_harvest_winter" { }
 		"pkmn_goldenrodcity_b6" { }
 		"plr_cutter" { }
