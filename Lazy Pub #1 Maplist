@@ -9,6 +9,7 @@
 		"cp_watercourse_b11" { }
 		"koth_bagel_rc10" { }
 		"koth_fjord_rc0v1" { }
+		"koth_overcast_final" { }
 		"pl_downunder_b15s" { }
 		"pl_patagonia" { }
 	}
@@ -86,6 +87,7 @@
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
+		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
