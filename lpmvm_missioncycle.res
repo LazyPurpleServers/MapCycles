@@ -420,6 +420,21 @@
 			"map" "mvm_rancher_b11"
 			"popfile" "mvm_rancher_b11_expert"
 		}
+		"84"
+		{
+			"map" "mvm_cliffside_b7_2"
+			"popfile" "mvm_cliffside_b7_2_adv_cliffhanger"
+		}
+		"85"
+		{
+			"map" "mvm_infuse_b1"
+			"popfile" "mvm_infuse_b1_showcase"
+		}
+		"86"
+		{
+			"map" "mvm_outpost_v9"
+			"popfile" "mvm_outpost_v8_normal_sniff_snort"
+		}
 	}
 }
 
