@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "82"
+		"count" "83"
 		
 		"1"
 		{
@@ -414,6 +414,11 @@
 		{
 			"map" "mvm_whitecliff_rc4a"
 			"popfile" "mvm_whitecliff_rc4a_adv_metal_march"
+		}
+		"83"
+		{
+			"map" "mvm_rancher_b11"
+			"popfile" "mvm_rancher_b11_expert"
 		}
 	}
 }
