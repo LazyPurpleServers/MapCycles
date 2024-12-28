@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "83"
+		"count" "87"
 		
 		"1"
 		{
@@ -434,6 +434,11 @@
 		{
 			"map" "mvm_outpost_v9"
 			"popfile" "mvm_outpost_v8_normal_sniff_snort"
+		}
+		"87"
+		{
+			"map" "mvm_underworld_rc2"
+			"popfile" "mvm_underworld_rc2"
 		}
 	}
 }
