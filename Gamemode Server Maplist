@@ -52,12 +52,13 @@
 		"cp_vehkon2_v1" { }
 		"halo_avalanche_a1" { }
 		"is_simply_spyskate_v2" { }
-		"koth_megacrazycar" { }
+		"koth_kartcarnival_a2" { }
 		"mg_smash_cannonsz" { }
 		"mg_testing_complex_v4_4" { }
 		"mg_buses_from_hell_redux" { }
 		"nintendo_land_b9" { }
 		"oitc_nuketown_dmvm" { }
+		"pk_city_dmbeta" { }
 		"wega_challenge_a1" { }
 	}
 }
