@@ -5,7 +5,9 @@
         "maps_invote" "1"
         
 		"ctf_1fort_rc1" { }
+		"ctf_highball" { }
 		"ctf_penguin_peak" { }
+		"ctf_shipyard_b5" { }
 		"koth_crumble_rc1" { }
 		"koth_harvest_winter" { }
 		"pkmn_goldenrodcity_b6" { }
@@ -44,6 +46,7 @@
 		"ctf_giants_rc3" { }
 		"ctf_hearth_event_rc5" { }
 		"ctf_hades_b5" { }
+		"ctf_highball" { }
 		"ctf_hotspring_b3a" { }
 		"ctf_landfall" { }
 		"ctf_lavatech_rc2" { }
@@ -55,6 +58,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
+		"ctf_shipyard_b5" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_tour_b6c" { }
 		"ctf_turbine_winter" { }
