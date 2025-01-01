@@ -5,12 +5,9 @@
         "maps_invote" "1"
         
 		"cp_fortezza" { }
-		"cp_thalassophobia_b5p" { }
 		"cp_watercourse_b11" { }
-		"koth_bagel_rc10" { }
-		"koth_fjord_rc0v1" { }
 		"koth_overcast_final" { }
-		"pl_downunder_b15s" { }
+		"pl_desolation_rc1b" { }
 		"pl_patagonia" { }
 	}
 
@@ -117,6 +114,7 @@
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_camber" { }
 		"pl_cashworks" { }
+		"pl_desolation_rc1b" { }
 		"pl_divulgence_b4b" { }
 		"pl_downunder_b15s" { }
 		"pl_dryrock_b5" { }
