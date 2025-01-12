@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "87"
+		"count" "94"
 		
 		"1"
 		{
@@ -397,8 +397,8 @@
 		}
 		"79"
 		{
-			"map" "mvm_scallops_rc2"
-			"popfile" "mvm_scallops_rc2_nor_scalping_skirmish"
+			"map" "mvm_scallops_rc4a"
+			"popfile" "mvm_scallops_rc4a_adv_scallywag"
 		}
 		"80"
 		{
@@ -418,7 +418,7 @@
 		"83"
 		{
 			"map" "mvm_rancher_b11"
-			"popfile" "mvm_rancher_b11_expert"
+			"popfile" "mvm_rancher_b11_adv_farm_uproar"
 		}
 		"84"
 		{
@@ -440,7 +440,40 @@
 			"map" "mvm_underworld_rc2"
 			"popfile" "mvm_underworld_rc2"
 		}
+		"88"
+		{
+			"map" "mvm_hurricane_rc3"
+			"popfile" "mvm_int_tempest_in_a_teapot"
+		}
+		"89"
+		{
+			"map" "mvm_spybase_rc8"
+			"popfile" "mvm_spybase_rc8_normal"
+		}
+		"90"
+		{
+			"map" "mvm_skangus_rc9"
+			"popfile" "mvm_skangus_rc9_intermediate"
+		}
+		"91"
+		{
+			"map" "mvm_tensai_rc3"
+			"popfile" "mvm_tensai_rc3_int_kikai_kickdown"
+		}
+		"92"
+		{
+			"map" "mvm_autumnull_rc2"
+			"popfile" "mvm_autumnull_rc2_adv_chemical_ladybug"
+		}
+		"93"
+		{
+			"map" "mvm_nox_b3"
+			"popfile" "mvm_nox_b3_normal_factory_fresh"
+		}
+		"94"
+		{
+			"map" "mvm_bogland_rc8"
+			"popfile" "mvm_bogland_rc8_adv_murky_mayhem"
+		}
 	}
 }
-
-
