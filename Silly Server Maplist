@@ -125,6 +125,7 @@
 		"pkmn_violetcity_b1" { }
 		"pkmn_vermillioncity_b1" { }
 		"plr_2xhighertower_v2" { }
+		"plr_aulli_b2c" { }
 		"plr_cutter" { }
 		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
@@ -217,6 +218,7 @@
 		"ctf_2fort_classic_redux" { }
 		"ctf_2fort_frostyV47" { }
 		"ctf_2fort_invasion" { }
+		"ctf_2fort_np_v2d" { }
 		"ctf_2fort_time_tstorm_b1" { }
 		"ctf_2fooooooooooooooooort_rc3" { }
 		"ctf_2fort_unleashed_night" { }
@@ -244,7 +246,6 @@
 		"ctf_facing_worlds_2011" { }
 		"ctf_fishy_b4" { }
 		"ctf_flakey_b3" { }
-		"ctf_free2fort" { }
 		"ctf_frosty" { }
 		"ctf_geothermal_b2" { }
 		"ctf_giants_rc3" { }
@@ -282,6 +283,7 @@
 		"ctf_royal_b3" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
+		"ctf_shipyard_b5c" { }
 		"ctf_shuangcheng" { }
 		"ctf_smooth_b2" { }
 		"ctf_snowfort" { }
@@ -593,6 +595,7 @@
 		"koth_icetower_rc6" { }
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_b8" { }
+		"koth_keylog_b3" { }
 		"koth_loader_v2" { }
 		"koth_logwash_rc6a" { }
 		"koth_luigis_mansion_v3_yelldowfix" { }
@@ -666,6 +669,7 @@
 		"koth_twinfalls" { }
 		"koth_undergrove_event_rc3e" { }
 		"koth_undergrove_rc1" { }
+		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
 		"koth_warehouse" { }
 		"koth_warehouse_a1" { }
@@ -765,6 +769,7 @@
         "pl_crusoe_a17" { }
         "pl_curve" { }
         "pl_deadwood" { }
+	"pl_downunder_b16" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
@@ -777,6 +782,7 @@
         "pl_highwood_b19" { }
         "pl_humidity_lps" { }
         "pl_hydropower_rc4" { }
+	"pl_jerrycan_rc5" { }
         "pl_jungle_a1c" { }
         "pl_kinder_b17" { }
         "pl_manngrove_rc5" { }
