@@ -4,10 +4,10 @@
 	{
         "maps_invote" "1"
         
-		"cp_fortezza" { }
-		"cp_watercourse_b11" { }
-		"koth_overcast_final" { }
+		"koth_keylog_b3" { }
 		"pl_desolation_rc1b" { }
+		"pl_downunder_b16" { }
+		"pl_jerrycan_rc5" { }
 		"pl_patagonia" { }
 	}
 
@@ -75,6 +75,7 @@
 		"koth_icetower_rc7" { }
 		"koth_jamram_rc2b" { }
 		"koth_kemptown_rc3a" { }
+		"koth_keylog_b3" { }
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
@@ -116,7 +117,7 @@
 		"pl_cashworks" { }
 		"pl_desolation_rc1b" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b15s" { }
+		"pl_downunder_b16" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
@@ -127,7 +128,7 @@
 		"pl_fountain_b3" { }
 		"pl_frontier_final" { }
 		"pl_highwood_b20" { }
-		"pl_jerrycan_rc4" { }
+		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
