@@ -179,6 +179,7 @@
 		"ctf_2fort_desert2" { }
 		"ctf_2fort_spooky_workshop" { }
 		"ctf_2fort_newfort_b6" { }
+		"ctf_2fort_np_v2d" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
 		"ctf_arroyo_b9_fix1" { }
@@ -236,6 +237,7 @@
 		"ctf_routegs" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
+		"ctf_shipyard_b5c" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -339,6 +341,7 @@
 		"koth_illinois_a16a" { }
 		"koth_jinglejam_rc2" { }
 		"koth_kemptown_rc3a" { }
+		"koth_keylog_b3" { }
 		"koth_krampus_rc1" { }
 		"koth_loader_v2" { }
 		"koth_logwash_rc6a" { }
@@ -421,7 +424,7 @@
 		"koth_undergrove_event" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
-		"koth_undermine_b3c" { }
+		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
 		"koth_verso_a2" { }
 		"koth_vice_rc1" { }
@@ -451,7 +454,7 @@
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
 		"pl_cactuscanyon_redux_final2" { }
-		"pl_candyland_test4b" { }
+		"pl_candyland_b1a" { }
 		"pl_cashworks" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
@@ -465,7 +468,7 @@
 		"pl_deadwood" { }
 		"pl_desolation_rc1b" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b15s" { }
+		"pl_downunder_b16" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
 		"pl_eruption_b14" { }
@@ -480,7 +483,7 @@
 		"pl_haywire_rc5" { }
 		"pl_highwood_b20" { }
 		"pl_hydropower_rc4" { }
-		"pl_jerrycan_rc4" { }
+		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
 		"pl_jungle_a1c" { }
 		"pl_manngrove_rc5" { }
@@ -551,6 +554,7 @@
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pl_longboy_b8a" { }
+		"plr_aulli_b2c" { }
 		"plr_cutter" { }
 		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
@@ -567,6 +571,7 @@
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
 		"tow_dynamite_rc1t" { }
+		"tow_impasse_b3c" { }
 	}
 
 	"Deathmatch"
