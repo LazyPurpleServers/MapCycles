@@ -237,7 +237,7 @@
 		"ctf_routegs" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b5c" { }
+		"ctf_shipyard_b7b" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -468,7 +468,7 @@
 		"pl_deadwood" { }
 		"pl_desolation_rc1b" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b16" { }
+		"pl_downunder_b17" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
 		"pl_eruption_b14" { }
@@ -571,7 +571,7 @@
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
 		"tow_dynamite_rc1t" { }
-		"tow_impasse_b3c" { }
+		"tow_impasse_b3d" { }
 	}
 
 	"Deathmatch"
