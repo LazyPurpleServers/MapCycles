@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "94"
+		"count" "95"
 		
 		"1"
 		{
@@ -474,6 +474,11 @@
 		{
 			"map" "mvm_bogland_rc8"
 			"popfile" "mvm_bogland_rc8_adv_murky_mayhem"
+		}
+		"95"
+		{
+			"map" "mvm_slick_v4a"
+			"popfile" "mvm_slick_v4a_int_tank_takedown"
 		}
 	}
 }
