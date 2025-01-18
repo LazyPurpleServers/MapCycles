@@ -7,7 +7,7 @@
 		"ctf_1fort_rc1" { }
 		"ctf_highball" { }
 		"ctf_penguin_peak" { }
-		"ctf_shipyard_b5c" { }
+		"ctf_shipyard_b7b" { }
 		"koth_harvest_winter" { }
 		"koth_keylog_b3" { }
 		"koth_oilchange_b2" { }
@@ -58,7 +58,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b5" { }
+		"ctf_shipyard_b7b" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_tour_b6c" { }
 		"ctf_turbine_winter" { }
