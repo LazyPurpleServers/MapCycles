@@ -11,7 +11,7 @@
 		"koth_harvest_winter" { }
 		"koth_keylog_b3" { }
 		"koth_oilchange_b2" { }
-		"pkmn_goldenrodcity_b6" { }
+		"pkmn_goldenrodcity_b7" { }
 		"plr_aulli_b2c" { }
 	}
 
@@ -168,7 +168,7 @@
 		"pd_static_rc2c" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
-		"pkmn_goldenrodcity_b6" { }
+		"pkmn_goldenrodcity_b7" { }
 		"pkmn_lilycovecity_b1" { }
 		"plr_aulli_b2c" { }
 		"plr_bananabay" { }
