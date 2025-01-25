@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "95"
+		"count" "96"
 		
 		"1"
 		{
@@ -479,6 +479,11 @@
 		{
 			"map" "mvm_slick_v4a"
 			"popfile" "mvm_slick_v4a_int_tank_takedown"
+		}
+		"96"
+		{
+			"map" "mvm_skeleclipse_b7a"
+			"popfile" "mvm_skeleclipse_b7a_exp_spooky_sprockets"
 		}
 	}
 }
