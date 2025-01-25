@@ -59,7 +59,7 @@
 		"oitc_nuketown_dmvm" { }
 		"pk_city_dmbeta" { }
 		"ql_harvest" { }
-		"workshop/tf2ware_ultimate.ugc3413262999" { display "tf2ware_ultimate" }
+		"tf2ware_ultimate" { }
 		"vbd_never_b2" { }
 		"wega_challenge_a1" { }
 	}
