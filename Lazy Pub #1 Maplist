@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"koth_keylog_rc1" { }
-		"pl_downunder_b17" { }
+		"pl_downunder_b19" { }
 		"pl_jerrycan_rc5" { }
 		"pl_patagonia" { }
 	}
@@ -116,7 +116,7 @@
 		"pl_cashworks" { }
 		"pl_desolation_rc1b" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b17" { }
+		"pl_downunder_b19" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
