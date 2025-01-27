@@ -5,6 +5,7 @@
         "maps_invote" "1"
         
 		"koth_keylog_rc1" { }
+		"koth_oilchange_b2" { }
 		"pl_downunder_b19" { }
 		"pl_jerrycan_rc5" { }
 		"pl_patagonia" { }
@@ -84,6 +85,7 @@
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
+		"koth_oilchange_b2" { }
 		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
