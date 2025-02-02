@@ -58,6 +58,8 @@
 		"nintendo_land_b9" { }
 		"oitc_nuketown_dmvm" { }
 		"pk_city_dmbeta" { }
+		"pk_construct" { }
+		"pk_secretlaboratory_dmbeta" { }
 		"ql_harvest" { }
 		"tf2ware_ultimate" { }
 		"vbd_never_b2" { }
