@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "96"
+		"count" "97"
 		
 		"1"
 		{
@@ -418,7 +418,7 @@
 		"83"
 		{
 			"map" "mvm_rancher_b11"
-			"popfile" "mvm_rancher_b11_adv_farm_uproar"
+			"popfile" "mvm_rancher_b11_adv_photon_farm"
 		}
 		"84"
 		{
@@ -447,8 +447,8 @@
 		}
 		"89"
 		{
-			"map" "mvm_spybase_rc8"
-			"popfile" "mvm_spybase_rc8_normal"
+			"map" "mvm_spybase_rc8fix"
+			"popfile" "mvm_spybase_rc8fix_normal"
 		}
 		"90"
 		{
@@ -484,6 +484,11 @@
 		{
 			"map" "mvm_skeleclipse_b7a"
 			"popfile" "mvm_skeleclipse_b7a_exp_spooky_sprockets"
+		}
+		"97"
+		{
+			"map" "mvm_maelstrom_rc3fix"
+			"popfile" "mvm_maelstrom_rc3fix_adv_mannstorm"
 		}
 	}
 }
