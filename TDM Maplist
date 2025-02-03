@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"cp_freaky_fair" { }
 		"ctf_1fort_rc1" { }
 		"ctf_highball" { }
 		"ctf_penguin_peak" { }
@@ -22,6 +23,7 @@
 		"cp_abyss_b81" { }
 		"cp_canaveral_5cp" { }
 		"cp_chipper_b5" { }
+		"cp_freaky_fair" { }
 		"cp_marioblast_2011" { }
 		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
