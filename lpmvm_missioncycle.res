@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "97"
+		"count" "98"
 		
 		"1"
 		{
@@ -478,7 +478,7 @@
 		"95"
 		{
 			"map" "mvm_slick_v4a"
-			"popfile" "mvm_slick_v4a_int_tank_takedown"
+			"popfile" "mvm_slick_v4a_exp_tank_takedown"
 		}
 		"96"
 		{
@@ -489,6 +489,11 @@
 		{
 			"map" "mvm_maelstrom_rc3fix"
 			"popfile" "mvm_maelstrom_rc3fix_adv_mannstorm"
+		}
+		"98"
+		{
+			"map" "mvm_radar_b10"
+			"popfile" "mvm_radar_b10_int_recursive_reinforcements"
 		}
 	}
 }
