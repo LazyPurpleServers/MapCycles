@@ -5,6 +5,7 @@
         "maps_invote" "1"
         
 		"cp_cold_era_rc2c" { }
+		"cp_nixie_b1" { }
 		"koth_oilchange_b2" { }
 		"pl_downunder_b19" { }
 		"pl_patagonia" { }
@@ -34,6 +35,7 @@
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
+		"cp_nixie_b1" { }
 		"cp_osiris_b27" { }
 		"cp_overgrown" { }
 		"cp_france_rc4c" { }
