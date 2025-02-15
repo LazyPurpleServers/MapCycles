@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "98"
+		"count" "102"
 		
 		"1"
 		{
@@ -494,6 +494,26 @@
 		{
 			"map" "mvm_radar_b10"
 			"popfile" "mvm_radar_b10_int_recursive_reinforcements"
+		}
+		"99"
+		{
+			"map" "mvm_flowerfield_rc4"
+			"popfile" "mvm_flowerfield_rc4_int_botanical_beat_em_up"
+		}
+		"100"
+		{
+			"map" "mvm_jungleworks_rc1"
+			"popfile" "mvm_jungleworks_rc1_int_rainforest_fire"
+		}
+		"101"
+		{
+			"map" "mvm_outlands_rc2"
+			"popfile" "mvm_outlands_rc2_int_rural_roadblock"
+		}
+		"102"
+		{
+			"map" "mvm_redridge_b3b"
+			"popfile" "mvm_redridge_b3b"
 		}
 	}
 }
