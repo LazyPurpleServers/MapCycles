@@ -8,9 +8,7 @@
 		"ctf_highball" { }
 		"ctf_penguin_peak" { }
 		"ctf_shipyard_b7b" { }
-		"koth_harvest_winter" { }
-		"koth_keylog_b3" { }
-		"koth_oilchange_b2" { }
+		"koth_winter_ridge_b2" { }
 		"pkmn_goldenrodcity_b7" { }
 		"plr_aulli_b2c" { }
 	}
@@ -144,6 +142,7 @@
 		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
+		"koth_winter_ridge_b2" { }
 		"koth_ye_olde_harveste_v4" { }
 	}
 
@@ -167,6 +166,7 @@
 		"pd_static_rc2c" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
+		"pipeball_linedrive_rc2" { }
 		"pkmn_goldenrodcity_b7" { }
 		"pkmn_lilycovecity_b1" { }
 		"plr_aulli_b2c" { }
