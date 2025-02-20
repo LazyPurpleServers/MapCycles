@@ -6,6 +6,7 @@
         
 		"cp_cold_era_rc2c" { }
 		"cp_nixie_b1" { }
+		"koth_gamma_b8b" { }
 		"koth_oilchange_b2" { }
 		"pl_downunder_b19" { }
 		"pl_patagonia" { }
@@ -68,6 +69,7 @@
 		"koth_empire_rc2" { }
 		"koth_fjord_rc0v1" { }
 		"koth_forge_b5a" { }
+		"koth_gamma_b8b" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_highpass" { }
