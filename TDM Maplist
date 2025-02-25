@@ -4,13 +4,14 @@
 	{
         "maps_invote" "1"
         
-		"ctf_1fort_rc1" { }
-		"ctf_highball" { }
-		"ctf_penguin_peak" { }
-		"ctf_shipyard_b7b" { }
-		"koth_winter_ridge_b2" { }
+		"ctf_sidewinder_rc4a" { }
+		"koth_aquaticruin_final" { }
+		"koth_county_b7" { }
+		"koth_gamma_rc1" { }
+		"koth_winter_ridge_b3" { }
 		"pkmn_goldenrodcity_b7" { }
-		"plr_aulli_b2c" { }
+		"pl_longboy_b9" { }
+		"tow_dynamite" { }
 	}
 
 	"Control Points "
@@ -95,13 +96,14 @@
 		"koth_chasm_b1" { }
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
+		"koth_county_b7" { }
 		"koth_crumble_rc1" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
 		"koth_dryway_final" { }
 		"koth_etherestate" { }
 		"koth_forge_b5a" { }
-		"koth_gamma_b8b" { }
+		"koth_gamma_rc1" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
 		"koth_harvest_winter" { }
@@ -142,7 +144,7 @@
 		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
-		"koth_winter_ridge_b2" { }
+		"koth_winter_ridge_b3" { }
 		"koth_ye_olde_harveste_v4" { }
 	}
 
@@ -177,6 +179,7 @@
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
 		"plr_upward_rc3" { }
+		"pl_longboy_b9" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
 		"tow_dynamite" { }
