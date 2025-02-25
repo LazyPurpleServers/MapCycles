@@ -32,6 +32,7 @@
 		"arena_perks" { }
 		"arena_phantom_b3" { }
 		"arena_ravine" { }
+		"arena_sawdust_72_b1" { }
 		"arena_sawmill" { }
 		"arena_scorched_final" { }
 		"arena_seashore_rc1d" { }
@@ -85,6 +86,7 @@
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
 		"cp_heaven_rc" { }
+		"cp_holdour_rc1d" { }
 		"cp_intrusion_b4" { }
 		"cp_longhaul_a3" { }
 		"cp_lushbowl_final" { }
@@ -271,7 +273,7 @@
 		"koth_ashville_rc1" { }
 		"koth_ashwood_night_b8" { }
 		"koth_badlands_event" { }
-		"koth_bagel_rc10" { }
+		"koth_bagel_rc11" { }
 		"koth_basalt_rc2" { }
 		"koth_betteryard_rc1" { }
 		"koth_bound_rc1b" { }
@@ -323,7 +325,7 @@
 		"koth_friction_a4" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
-		"koth_gamma_b6" { }
+		"koth_gamma_rc1" { }
 		"koth_garbage_day" { }
 		"koth_gladstone_b8" { }
 		"koth_gravelstone_event" { }
@@ -436,6 +438,7 @@
 		"koth_watertown_a9" { }
 		"koth_whitecreek_rc2" { }
 		"koth_winter_ridge_b2_yelldowfix" { }
+		"koth_winter_ridge_b3" { }
 		"koth_workstation" { }
 		"koth_xuanya_b2" { }
 		"koth_ye_olde_harveste_v4" { }
@@ -467,7 +470,7 @@
 		"pl_crusoe_a17b" { }
 		"pl_curve" { }
 		"pl_deadwood" { }
-		"pl_desolation_rc1b" { }
+		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
 		"pl_downunder_b19" { }
 		"pl_downward_b2" { }
@@ -481,6 +484,7 @@
 		"pl_frostcliff" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
+		"pl_greenwood_b6" { }
 		"pl_hasslecastle" { }
 		"pl_haywire_rc5" { }
 		"pl_highwood_b20" { }
@@ -536,6 +540,7 @@
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
 		"koth_lifesnatcher_b5" { }
+		"koth_splinter_b4" { }
 		"pass_brickyard" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
@@ -555,7 +560,7 @@
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
-		"pl_longboy_b8a" { }
+		"pl_longboy_b9" { }
 		"plr_aulli_b2c" { }
 		"plr_cutter" { }
 		"plr_dustbowl_s1_v1" { }
