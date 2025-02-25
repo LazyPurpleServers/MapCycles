@@ -4,12 +4,12 @@
 	{
         "maps_invote" "1"
         
-		"cp_cold_era_rc2c" { }
-		"cp_nixie_b1" { }
-		"koth_gamma_b8b" { }
-		"koth_oilchange_b2" { }
-		"pl_downunder_b19" { }
-		"pl_patagonia" { }
+		"cp_holdout_rc1d" { }
+		"koth_bagel_rc11" { }
+		"koth_gamma_rc1" { }
+		"koth_splinter_b4" { }
+		"pl_desolation_rc1c" { }
+		"pl_longboy_b9" { }
 	}
 
 	"Attack & Defend"
@@ -32,6 +32,7 @@
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
+		"cp_holdout_rc1d" { }
 		"cp_method_b4b" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
@@ -58,7 +59,7 @@
         "maps_invote" "1"
         
 		"koth_anthem_b4" { }
-		"koth_bagel_rc10" { }
+		"koth_bagel_rc11" { }
 		"koth_brine_rc3a" { }
 		"koth_cachoeira" { }
 		"koth_cascade" { }
@@ -119,7 +120,7 @@
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_camber" { }
 		"pl_cashworks" { }
-		"pl_desolation_rc1b" { }
+		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
 		"pl_downunder_b19" { }
 		"pl_dryrock_b5" { }
@@ -131,6 +132,7 @@
 		"pl_farmstead_rc4" { }
 		"pl_fountain_b3" { }
 		"pl_frontier_final" { }
+		"pl_greenwood_b6" { }
 		"pl_highwood_b20" { }
 		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
@@ -162,6 +164,7 @@
         
 		"cp_caper_rc7" { }
 		"ctf_nuclide_rc8d" { }
+		"koth_splinter_b4" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
@@ -176,5 +179,6 @@
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
+		"pl_longboy_b9" { }
 	}
 }
