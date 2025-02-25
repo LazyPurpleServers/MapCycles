@@ -4,7 +4,6 @@
 	{
         "maps_invote" "1"
         
-		"cp_holdout_rc1d" { }
 		"koth_bagel_rc11" { }
 		"koth_gamma_rc1" { }
 		"koth_splinter_b4" { }
@@ -32,7 +31,6 @@
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
-		"cp_holdout_rc1d" { }
 		"cp_method_b4b" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
