@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "102"
+		"count" "104"
 		
 		"1"
 		{
@@ -514,6 +514,16 @@
 		{
 			"map" "mvm_redridge_b3b"
 			"popfile" "mvm_redridge_b3b"
+		}
+		"103"
+		{
+			"map" "mvm_lotus_b6"
+			"popfile" "mvm_lotus_b6_adv_mud"
+		}
+		"104"
+		{
+			"map" "mvm_wharf_s76"
+			"popfile" "mvm_wharf_s76_norm_cargo_assault"
 		}
 	}
 }
