@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "104"
+		"count" "105"
 		
 		"1"
 		{
@@ -524,6 +524,11 @@
 		{
 			"map" "mvm_wharf_s76"
 			"popfile" "mvm_wharf_s76_norm_cargo_assault"
+		}
+		"105"
+		{
+			"map" "mvm_gravelpass_b3"
+			"popfile" "mvm_gravelpass_b3_exp_mannslaughter"
 		}
 	}
 }
