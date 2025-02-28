@@ -19,6 +19,7 @@
 		"arena_granary" { }
 		"arena_lumberyard_event" { }
 		"arena_hardhat_b2a" { }
+		"arena_harvest" { }
 		"arena_haul_b4" { }
 		"arena_hydrothunder_final" { }
 		"arena_lumberyard" { }
