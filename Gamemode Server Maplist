@@ -41,28 +41,35 @@
 		"zi_woods" { }
 	}
 
-	"Miscellaneous "
+	"Misc (Party) "
 	{
-		"command" "exec gamemode/misc"
+		"command" "exec gamemode/misc_party"
         
 		"bomberman_battle_game" { }
-		"cp_freaky_fair" { }
-		"cp_john_gutter_b2" { }
-		"cp_vehkon2_v1" { }
-		"gg_razorpoint_v18" { }
 		"halo_avalanche_a1" { }
-		"is_simply_spyskate_v2" { }
-		"koth_kartcarnival_a2" { }
 		"mg_smash_cannonsz" { }
 		"mg_testing_complex_v4_4" { }
 		"mg_buses_from_hell_redux" { }
 		"nintendo_land_b9" { }
+		"quiz_millionaire_v3" { }
+		"tf2ware_ultimate" { }
+		"wega_challenge_a2" { }
+	}
+
+	"Misc (Versus) "
+	{
+		"command" "exec gamemode/misc_versus"
+
+		"cp_freaky_fair" { }
+		"cp_john_gutter_b2" { }
+		"cp_vehkon2_v1" { }
+		"gg_razorpoint_v18" { }
+		"is_simply_spyskate_v2" { }
+		"koth_kartcarnival_a2" { }
 		"oitc_nuketown_dmvm" { }
 		"pk_city_dmbeta" { }
 		"pk_construct" { }
 		"pk_secretlaboratory_dmbeta" { }
 		"ql_harvest" { }
-		"tf2ware_ultimate" { }
-		"wega_challenge_a1" { }
 	}
 }
