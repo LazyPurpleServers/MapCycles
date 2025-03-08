@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "105"
+		"count" "106"
 		
 		"1"
 		{
@@ -529,6 +529,11 @@
 		{
 			"map" "mvm_gravelpass_b3"
 			"popfile" "mvm_gravelpass_b3_exp_mannslaughter"
+		}
+		"106"
+		{
+			"map" "mvm_scream_tv"
+			"popfile" "mvm_scream_tv_extermination"
 		}
 	}
 }
