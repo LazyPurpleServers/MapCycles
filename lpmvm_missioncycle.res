@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "112"
+		"count" "113"
 		
 		"1"
 		{
@@ -564,6 +564,11 @@
 		{
 			"map" "mvm_hillside_v7"
 			"popfile" "mvm_hillside_v7_adv_outdated_processing"
+		}
+		"113"
+		{
+			"map" "mvm_bruck_a5"
+			"popfile" "mvm_bruck_a5_advanced1"
 		}
 	}
 }
