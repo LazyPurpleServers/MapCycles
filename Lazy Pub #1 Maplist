@@ -3,11 +3,9 @@
 	"Newest Maps "
 	{
         "maps_invote" "1"
-        
-		"koth_bagel_rc11" { }
-		"koth_gamma_rc1" { }
+
+		"koth_shorelight_rc9" { }
 		"koth_splinter_b4" { }
-		"pl_desolation_rc1c" { }
 		"pl_longboy_b9" { }
 	}
 
@@ -95,7 +93,7 @@
 		"koth_sawmill" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
-		"koth_shorelight_rc8" { }
+		"koth_shorelight_rc9" { }
 		"koth_slaughter_b2a" { }
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
