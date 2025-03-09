@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "106"
+		"count" "112"
 		
 		"1"
 		{
@@ -534,6 +534,36 @@
 		{
 			"map" "mvm_scream_tv"
 			"popfile" "mvm_scream_tv_extermination"
+		}
+		"107"
+		{
+			"map" "mvm_potassium_release3"
+			"popfile" "mvm_potassium_release3_normal_but_doable"
+		}
+		"108"
+		{
+			"map" "mvm_airdrop_rc3"
+			"popfile" "mvm_airdrop_rc3_advanced"
+		}
+		"109"
+		{
+			"map" "mvm_condemned_b3"
+			"popfile" "mvm_condemned_b3_int_thriller_terror"
+		}
+		"110"
+		{
+			"map" "mvm_memorial_b1"
+			"popfile" "mvm_memorial_b1"
+		}
+		"111"
+		{
+			"map" "mvm_redstone_ridge_rc5"
+			"popfile" "mvm_redstone_ridge_rc5_adv_armored_apparatus"
+		}
+		"112"
+		{
+			"map" "mvm_hillside_v7"
+			"popfile" "mvm_hillside_v7_adv_outdated_processing"
 		}
 	}
 }
