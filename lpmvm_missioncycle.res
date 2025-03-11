@@ -247,8 +247,8 @@
 		}
 		"49"
 		{
-			"map" "mvm_transmission_rc6c"
-			"popfile" "mvm_transmission_rc6c_int_binary_broadcast"
+			"map" "mvm_transmission_rc7a"
+			"popfile" "mvm_transmission_rc7a_int_binary_broadcast"
 		}
 		"50"
 		{
