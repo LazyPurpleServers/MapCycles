@@ -567,8 +567,8 @@
 		}
 		"113"
 		{
-			"map" "mvm_bruck_a5"
-			"popfile" "mvm_bruck_a5_advanced1"
+			"map" "mvm_bruck_a6"
+			"popfile" "mvm_bruck_a6_advanced1"
 		}
 	}
 }
