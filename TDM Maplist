@@ -10,7 +10,7 @@
 		"koth_gamma_rc1" { }
 		"koth_winter_ridge_b3" { }
 		"pkmn_goldenrodcity_b7" { }
-		"pl_longboy_b9" { }
+		"pl_longboy_b10" { }
 		"tow_dynamite" { }
 	}
 
@@ -179,7 +179,7 @@
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
 		"plr_upward_rc3" { }
-		"pl_longboy_b9" { }
+		"pl_longboy_b10" { }
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
 		"tow_dynamite" { }
