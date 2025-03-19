@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "113"
+		"count" "114"
 		
 		"1"
 		{
@@ -569,6 +569,11 @@
 		{
 			"map" "mvm_bruck_a6"
 			"popfile" "mvm_bruck_a6_advanced1"
+		}
+		"114"
+		{
+			"map" "mvm_retribution_ep1"
+			"popfile" "mvm_retribution_ep1"
 		}
 	}
 }
