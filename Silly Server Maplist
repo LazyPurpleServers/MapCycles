@@ -26,8 +26,9 @@
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
-		"trade_masscc_h1_krowfix" { }
+		"trade_mall" { }
 		"trade_manhatten" { }
+		"trade_masscc_h1_krowfix" { }
 		"trade_mcdonalds_b2" { }
 		"trade_mega" { }
 		"trade_mmm_v1" { }
@@ -130,6 +131,7 @@
 		"plr_fishladder3" { }
 		"plr_hacksaw_b10" { }
 		"plr_hierarch_rc2b" { }
+		"plr_hightower_roblox1" { }
 		"plr_highertower" { }
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
@@ -242,6 +244,7 @@
 		"ctf_cruise_b4b" { }
 		"ctf_Decker_b1" { }
 		"ctf_deliverance_b3" { }
+		"ctf_depth_b4" { }
 		"ctf_discover_b59" { }
 		"ctf_extraction_b6" { }
 		"ctf_facility_build62" { }
