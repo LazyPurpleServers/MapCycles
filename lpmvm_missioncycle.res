@@ -572,8 +572,8 @@
 		}
 		"114"
 		{
-			"map" "mvm_retribution_ep1.1"
-			"popfile" "mvm_retribution_ep1.1"
+			"map" "mvm_retribution_ep1"
+			"popfile" "mvm_retribution_ep1"
 		}
 	}
 }
