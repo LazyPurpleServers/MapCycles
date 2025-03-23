@@ -185,6 +185,7 @@
 	{
 		"maps_invote" "1"
 
+		"arenagate_b1" { }
 		"dm_ashina_shrine_b1" { }
 		"dm_backfort_event_b2" { }
 		"dm_backfort_gravfix3" { }
@@ -327,6 +328,7 @@
 		"cp_bloodcrystal_event" { }
 		"cp_broma" { }
 		"cp_buzzards_canyon_winter" { }
+		"cp_canterlot_wg_b2" { }
 		"cp_cardinal_rc1a" { }
 		"cp_conifer_rc3a" { }
 		"cp_canterlot_wg_b2" { }
@@ -394,6 +396,7 @@
 		"cp_overgrown" { }
 		"cp_pall_mall_d9" { }
 		"cp_peachs_castle_v1" { }
+		"cp_pony_fortress_rc3" { }
 		"cp_powerground_b3" { }
 		"cp_priderock_b2" { }
 		"cp_propaganda_b19" { }
@@ -539,6 +542,7 @@
 		"koth_alpinedepo" { }
 		"koth_anthem_b4" { }
 		"koth_aperture_science_iiia" { }
+		"koth_appleacres_b3" { }
 		"koth_aquaticruin_final" { }
 		"koth_ashville_rc1" { }
 		"koth_autumn_twilight_rc2" { }
