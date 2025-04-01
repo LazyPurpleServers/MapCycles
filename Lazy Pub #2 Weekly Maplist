@@ -107,7 +107,7 @@
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowlodge_b5" { }
-		"cp_sobek_b4" { }
+		"cp_sobek_rc1a" { }
 		"cp_steel_aftermath" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_subway_final" { }
@@ -259,7 +259,7 @@
 		"ctf_well_classic_b3" { }
 		"ctf_well_snowy_b4" { }
 		"ctf_wildfire_rc" { }
-		"ctf_winter_ridge_b1" { }
+		"ctf_winter_ridge_b6" { }
 		"ctf_wiretap_b3" { }
 	}
 
@@ -368,6 +368,7 @@
 		"koth_northbound_b2" { }
 		"koth_occult_rc6" { }
 		"koth_octothorpe_classic_beta02" { }
+		"koth_oilchange_rc1" { }
 		"koth_oilfield" { }
 		"koth_orbit_final" { }
 		"koth_overgrowth" { }
@@ -474,7 +475,7 @@
 		"pl_deadwood" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b20" { }
+		"pl_downunder_b20a" { }
 		"pl_downward_b2" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
