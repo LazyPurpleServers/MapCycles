@@ -3,11 +3,11 @@
 	"Newest Maps "
 	{
         "maps_invote" "1"
-
-		"koth_shorelight_rc9" { }
-		"koth_splinter_b4" { }
-		"pl_downunder_b20" { }
-		"pl_longboy_b10" { }
+        
+		"cp_sobek_rc1a" { }
+		"koth_oilchange_rc1" { }
+		"koth_winter_ridge_b6" { }
+		"pl_downunder_b20a" { }
 	}
 
 	"Attack & Defend"
@@ -42,7 +42,7 @@
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowplow" { }
-		"cp_sobek_b4" { }
+		"cp_sobek_rc1a" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_steel" { }
 		"cp_sulfur" { }
@@ -86,7 +86,7 @@
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
-		"koth_oilchange_b2" { }
+		"koth_oilchange_rc1" { }
 		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
@@ -105,6 +105,8 @@
 		"koth_valor_rc1" { }
 		"koth_viaduct" { }
 		"koth_vice_rc1" { }
+		"koth_winter_ridge_b6" { }
+
 	}
 
 	"Payload "
@@ -119,7 +121,7 @@
 		"pl_cashworks" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b20" { }
+		"pl_downunder_b20a" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
