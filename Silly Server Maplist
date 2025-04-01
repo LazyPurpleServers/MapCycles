@@ -410,6 +410,7 @@
 		"cp_smbcastle2" { }
 		"cp_snowlodge_b5" { }
 		"cp_snowlodge_event_rc5a" { }
+		"cp_sobek_rc1a" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
 		"cp_stoneyridge_rc1" { }
@@ -780,7 +781,7 @@
         "pl_crusoe_a17" { }
         "pl_curve" { }
         "pl_deadwood" { }
-	"pl_downunder_b20" { }
+	"pl_downunder_b20a" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
