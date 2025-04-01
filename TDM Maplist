@@ -9,7 +9,8 @@
 		"koth_aquaticruin_final" { }
 		"koth_county_b7" { }
 		"koth_gamma_rc1" { }
-		"koth_winter_ridge_b3" { }
+		"koth_oilchange_rc1" { }
+		"koth_winter_ridge_b6" { }
 		"pkmn_goldenrodcity_b7" { }
 		"pl_longboy_b10" { }
 		"tow_dynamite" { }
@@ -124,7 +125,7 @@
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
 		"koth_octothorpe_classic_beta02" { }
-		"koth_oilchange_b2" { }
+		"koth_oilchange_rc1" { }
 		"koth_overcast_final" { }
 		"koth_preposterous_rc2" { }
 		"koth_railbridge_rc2" { }
