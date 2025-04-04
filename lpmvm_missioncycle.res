@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "114"
+		"count" "121"
 		
 		"1"
 		{
@@ -574,6 +574,41 @@
 		{
 			"map" "mvm_retribution_ep1"
 			"popfile" "mvm_retribution_ep1"
+		}
+		"115"
+		{
+			"map" "mvm_depot_b4"
+			"popfile" "mvm_depot_b4_adv_cottonwood_canyon"
+		}
+		"116"
+		{
+			"map" "mvm_estate_rc1"
+			"popfile" "mvm_estate_rc1_int_tectonic_factory"
+		}
+		"117"
+		{
+			"map" "mvm_shadows_b3"
+			"popfile" "mvm_shadows_b3_shadows"
+		}
+		"118"
+		{
+			"map" "mvm_sludge_b6"
+			"popfile" "mvm_sludge_b6"
+		}
+		"119"
+		{
+			"map" "mvm_thematic_rc2"
+			"popfile" "mvm_thematic_rc2_int_snakewater"
+		}
+		"120"
+		{
+			"map" "mvm_bonk_plant_rc3"
+			"popfile" "mvm_bonk_plant_rc3_int_sugar_overdose"
+		}
+		"121"
+		{
+			"map" "mvm_bronx_rc2"
+			"popfile" "mvm_bronx_rc2_int_construction_raid"
 		}
 	}
 }
