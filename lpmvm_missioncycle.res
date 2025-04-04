@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "121"
+		"count" "120"
 		
 		"1"
 		{
@@ -604,11 +604,6 @@
 		{
 			"map" "mvm_bonk_plant_rc3"
 			"popfile" "mvm_bonk_plant_rc3_int_sugar_overdose"
-		}
-		"121"
-		{
-			"map" "mvm_bronx_rc2"
-			"popfile" "mvm_bronx_rc2_int_construction_raid"
 		}
 	}
 }
