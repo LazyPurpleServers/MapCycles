@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "120"
+		"count" "119"
 		
 		"1"
 		{
@@ -599,11 +599,6 @@
 		{
 			"map" "mvm_thematic_rc2"
 			"popfile" "mvm_thematic_rc2_int_snakewater"
-		}
-		"120"
-		{
-			"map" "mvm_bonk_plant_rc3"
-			"popfile" "mvm_bonk_plant_rc3_int_sugar_overdose"
 		}
 	}
 }
