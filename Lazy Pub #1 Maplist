@@ -6,8 +6,8 @@
         
 		"cp_sobek_rc1a" { }
 		"koth_oilchange_rc1" { }
-		"koth_winter_ridge_b6" { }
-		"pl_downunder_b20a" { }
+		"koth_winter_ridge_rc1" { }
+		"pl_downunder_b21a" { }
 	}
 
 	"Attack & Defend"
@@ -105,7 +105,7 @@
 		"koth_valor_rc1" { }
 		"koth_viaduct" { }
 		"koth_vice_rc1" { }
-		"koth_winter_ridge_b6" { }
+		"koth_winter_ridge_rc1" { }
 
 	}
 
@@ -121,7 +121,7 @@
 		"pl_cashworks" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b20a" { }
+		"pl_downunder_b21a" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
