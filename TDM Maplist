@@ -10,7 +10,7 @@
 		"koth_county_b7" { }
 		"koth_gamma_rc1" { }
 		"koth_oilchange_rc1" { }
-		"koth_winter_ridge_b6" { }
+		"koth_winter_ridge_rc1" { }
 		"pkmn_goldenrodcity_b7" { }
 		"pl_longboy_b10" { }
 		"tow_dynamite" { }
@@ -147,7 +147,7 @@
 		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
-		"koth_winter_ridge_b3" { }
+		"koth_winter_ridge_rc1" { }
 		"koth_ye_olde_harveste_v4" { }
 	}
 
