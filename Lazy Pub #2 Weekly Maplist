@@ -259,7 +259,7 @@
 		"ctf_well_classic_b3" { }
 		"ctf_well_snowy_b4" { }
 		"ctf_wildfire_rc" { }
-		"ctf_winter_ridge_b6" { }
+		"ctf_winter_ridge_rc1" { }
 		"ctf_wiretap_b3" { }
 	}
 
@@ -475,7 +475,7 @@
 		"pl_deadwood" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b20a" { }
+		"pl_downunder_b21a" { }
 		"pl_downward_b2" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
