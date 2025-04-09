@@ -691,6 +691,7 @@
 		"koth_whitecreek_rc2" { }
 		"koth_wildwater_a11" { }
 		"koth_winter_ridge_b2_yelldowfix" { }
+		"koth_winter_ridge_rc1" { }
 		"koth_yammoe_rc3_d" { }
 	}
 
@@ -781,7 +782,7 @@
         "pl_crusoe_a17" { }
         "pl_curve" { }
         "pl_deadwood" { }
-	"pl_downunder_b20a" { }
+	"pl_downunder_b21a" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
