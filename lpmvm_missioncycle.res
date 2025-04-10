@@ -567,8 +567,8 @@
 		}
 		"113"
 		{
-			"map" "mvm_bruck_a6"
-			"popfile" "mvm_bruck_a6_advanced1"
+			"map" "mvm_bruck_a11"
+			"popfile" "mvm_bruck_a11_20p_brucker_botbash"
 		}
 		"114"
 		{
