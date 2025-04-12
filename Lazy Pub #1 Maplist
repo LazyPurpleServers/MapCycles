@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"cp_sobek_rc1a" { }
-		"koth_oilchange_rc1" { }
+		"koth_oilchange_rc1a" { }
 		"koth_winter_ridge_rc1" { }
 		"pl_downunder_b21a" { }
 	}
@@ -86,7 +86,7 @@
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
-		"koth_oilchange_rc1" { }
+		"koth_oilchange_rc1a" { }
 		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
