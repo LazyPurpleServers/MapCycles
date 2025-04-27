@@ -4,10 +4,12 @@
 	{
         "maps_invote" "1"
         
-		"cp_sobek_rc1a" { }
-		"koth_oilchange_rc1a" { }
+		"cp_artillery_b4a" { }
+		"cp_wildcat_rc1" { }
+		"koth_dryfield_rc2" { }
 		"koth_winter_ridge_rc1" { }
-		"pl_downunder_b21a" { }
+		"pl_bridgeway_b2" { }
+		"pl_downunder_b22" { }
 	}
 
 	"Attack & Defend"
@@ -16,6 +18,7 @@
         
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
+		"cp_artillery_b4a" { }
 		"cp_brew" { }
 		"cp_cold_era_rc2c" { }
 		"cp_conifer_rc4" { }
@@ -48,6 +51,7 @@
 		"cp_sulfur" { }
 		"cp_upland_rc4" { }
 		"cp_watercourse_b11" { }
+		"cp_wildcat_rc1" { }
 	}
 
 	"King of the Hill"
@@ -63,6 +67,7 @@
 		"koth_conveyance_rc3b" { }
 		"koth_county_b7" { }
 		"koth_databank_rc3" { }
+		"koth_dryfield_rc2" { }
 		"koth_empire_rc2" { }
 		"koth_fjord_rc0v1" { }
 		"koth_forge_b5a" { }
@@ -115,12 +120,13 @@
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
+		"pl_bridgeway_b2" { }
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_camber" { }
 		"pl_cashworks" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b21a" { }
+		"pl_downunder_b22" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
