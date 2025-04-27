@@ -7,6 +7,7 @@
 		"cp_artillery_b4a" { }
 		"cp_wildcat_rc1" { }
 		"koth_dryfield_rc2" { }
+		"koth_oilchange_rc2" { }
 		"koth_winter_ridge_rc1" { }
 		"pl_bridgeway_b2" { }
 		"pl_downunder_b22" { }
@@ -90,7 +91,7 @@
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
 		"koth_nucleus" { }
-		"koth_oilchange_rc1a" { }
+		"koth_oilchange_rc2" { }
 		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
