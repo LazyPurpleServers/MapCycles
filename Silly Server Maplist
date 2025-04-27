@@ -159,6 +159,7 @@
 		"tf_yelldowsforest_v8f" { }
 		"tower_of_power_v5" { }
 		"tow_dynamite" { }
+		"tow_impasse_b4" { }
 		"vsh_abandoned_facility_a4_argil_v2" { }
 		"vsh_arktown_v4" { }
 		"vsh_bianco_hills_v5_argil" { }
@@ -318,6 +319,8 @@
 		"cp_27points" { }
 		"cp_2Skyscraper_b3" { }
 		"cp_abyss_b81" { }
+		"cp_albany_b7" { }
+		"cp_artillery_b4a" { }
 		"cp_backwoods_b3" { }
 		"cp_alloy_rc3" { }
 		"cp_antiquity_rc1" { }
@@ -428,6 +431,8 @@
 		"cp_villa_b15b" { }
 		"cp_viper_industries" { }
 		"cp_wetcoal_b1" { }
+		"cp_wildcat_rc1" { }
+		"cp_wildlife_rc2" { }
 		"cp_zinkenite_b3a" { }
 	}
 
@@ -775,6 +780,7 @@
         "pl_blastpitt_rc3" { }
         "pl_borax_rc2" { }
         "pl_boundary_final" { }
+	"pl_cattower_b0" { }
         "pl_cashworks" { }
         "pl_cliffsedge_b1" { }
         "pl_coldrush_rc1" { }
@@ -783,7 +789,7 @@
         "pl_crusoe_a17" { }
         "pl_curve" { }
         "pl_deadwood" { }
-	"pl_downunder_b21a" { }
+	"pl_downunder_b22" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
