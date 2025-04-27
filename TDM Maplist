@@ -5,15 +5,14 @@
         "maps_invote" "1"
         
 		"koth_appleacres_b3" { }
-		"ctf_sidewinder_rc4a" { }
 		"koth_aquaticruin_final" { }
-		"koth_county_b7" { }
+		"koth_dryfield_rc2" { }
 		"koth_gamma_rc1" { }
 		"koth_oilchange_rc1a" { }
 		"koth_winter_ridge_rc1" { }
 		"pkmn_goldenrodcity_b7" { }
 		"pl_longboy_b10" { }
-		"tow_dynamite" { }
+		"tow_impasse_b4" { }
 	}
 
 	"Control Points "
@@ -103,6 +102,7 @@
 		"koth_crumble_rc1" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
+		"koth_dryfield_rc2" { }
 		"koth_dryway_final" { }
 		"koth_etherestate" { }
 		"koth_forge_b5a" { }
@@ -186,5 +186,6 @@
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
 		"tow_dynamite" { }
+		"tow_impasse_b4" { }
 	}
 }
