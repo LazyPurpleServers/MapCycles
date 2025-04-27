@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "119"
+		"count" "122"
 		
 		"1"
 		{
@@ -599,6 +599,21 @@
 		{
 			"map" "mvm_thematic_rc2"
 			"popfile" "mvm_thematic_rc2_int_snakewater"
+		}
+		"120"
+		{
+			"map" "mvm_crown_rc1"
+			"popfile" "mvm_crown_rc1_adv_op_deforestation"
+		}
+		"121"
+		{
+			"map" "mvm_desert_landscape"
+			"popfile" "mvm_desert_landscape"
+		}
+		"122"
+		{
+			"map" "mvm_valhalla_night"
+			"popfile" "mvm_valhalla_night_soulkiller"
 		}
 	}
 }
