@@ -57,6 +57,7 @@
 		"cp_alloy_rc3" { }
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
+		"cp_artillery_b4a" { }
 		"cp_bloodcrystal_event" { }
 		"cp_brew" { }
 		"cp_broma" { }
@@ -115,6 +116,7 @@
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
 		"cp_wetcoal_b1" { }
+		"cp_wildcat_rc1" { }
 		"cp_zephyr_a3" { }
 		"cp_zinkenite_b3a" { }
 	}
@@ -124,6 +126,7 @@
 	"maps_invote" "1"
 
 		"cp_abyss_b81" { }
+		"cp_albany_b7" { }
 		"cp_ancient_b4" { }
 		"cp_antiquity_rc1" { }
 		"cp_axle_rc1" { }
@@ -170,6 +173,7 @@
 		"cp_toy_fort_tbr_v6" { }
 		"cp_toys_v2" { }
 		"cp_undercrypt_b9" { }
+		"cp_wildlife_rc2" { }
 	}
 
 	"Capture The Flag"
@@ -309,6 +313,7 @@
 		"koth_dredge_b3" { }
 		"koth_drop_b3" { }
 		"koth_dropdown_rc1" { }
+		"koth_dryfield_rc2" { }
 		"koth_dryway_final" { }
 		"koth_dusty_b1" { }
 		"koth_egan_72_a5_fix1" { }
@@ -459,9 +464,11 @@
 		"pl_borax_rc2" { }
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
+		"pl_bridgeway_b2" { }
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_candyland_b1a" { }
 		"pl_cashworks" { }
+		"pl_cattower_b0" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
 		"pl_cornfarm_rc" { }
@@ -474,7 +481,7 @@
 		"pl_deadwood" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b21a" { }
+		"pl_downunder_b22" { }
 		"pl_downward_b2" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
@@ -581,7 +588,7 @@
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
 		"tow_dynamite_rc1t" { }
-		"tow_impasse_b3d" { }
+		"tow_impasse_b4" { }
 	}
 
 	"Deathmatch"
