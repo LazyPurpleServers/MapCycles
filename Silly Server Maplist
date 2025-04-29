@@ -440,6 +440,7 @@
 	{
 	"maps_invote" "1"
 
+		"gm_adventurers" { }
 		"gm_buildnation_v3_2" { }
 		"gm_canals" { }
 		"gm_chata" { }
