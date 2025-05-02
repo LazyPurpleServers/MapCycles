@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"dm_mariokart3_v1" { }
 		"koth_appleacres_b3" { }
 		"koth_aquaticruin_final" { }
 		"koth_dryfield_rc2" { }
