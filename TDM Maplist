@@ -132,6 +132,7 @@
 		"koth_preposterous_rc2" { }
 		"koth_railbridge_rc2" { }
 		"koth_relic_rc3" { }
+		"koth_rio_rc7a" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
 		"koth_sawmill" { }
@@ -159,6 +160,9 @@
 
 		"cp_vehkon2_v1" { }
 		"dom_cliffhanger_b11" { }
+		"kotc_petrichor" { }
+		"kotc_speghetti" { }
+		"kotc_strait" { }
 		"pass_brickyard" { }
 		"pass_district" { }
 		"pass_gridiron_rc1a" { }
