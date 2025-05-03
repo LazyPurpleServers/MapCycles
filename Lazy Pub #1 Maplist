@@ -16,6 +16,7 @@
 		"koth_oilchange_rc2" { }
 		"koth_rio_rc7a" { }
 		"koth_winter_ridge_rc1" { }
+		"pass_gigantic_b5" { }
 		"pl_bridgeway_b2" { }
 		"pl_citadel_b2" { }
 		"pl_downunder_b22" { }
@@ -190,7 +191,7 @@
 		"kotc_speghetti" { }
 		"kotc_strait" { }
 		"koth_splinter_b4" { }
-		"pass_gigantic_b4" { }
+		"pass_gigantic_b5" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
 		"pd_atom_smash" { }
