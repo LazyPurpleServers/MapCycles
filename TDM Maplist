@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"ctf_shipyard_b9" { }
 		"dm_mariokart3_v1" { }
 		"koth_appleacres_b3" { }
 		"koth_aquaticruin_final" { }
@@ -12,7 +13,6 @@
 		"koth_oilchange_rc2" { }
 		"koth_winter_ridge_rc1" { }
 		"pkmn_goldenrodcity_b7" { }
-		"pl_longboy_b10" { }
 		"tow_impasse_b4" { }
 	}
 
@@ -59,7 +59,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b7b" { }
+		"ctf_shipyard_b9" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_tour_b6c" { }
 		"ctf_turbine_winter" { }
@@ -165,6 +165,7 @@
 		"kotc_strait" { }
 		"pass_brickyard" { }
 		"pass_district" { }
+		"pass_gigantic_b5" { }
 		"pass_gridiron_rc1a" { }
 		"pass_smalltime_rc1a" { }
 		"pd_atom_smash" { }
