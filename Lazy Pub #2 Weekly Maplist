@@ -48,6 +48,7 @@
 		"arena_well" { }
 		"arena_yunshu_rc1" { }
 		"ctf_exsmol_rc1" { }
+		"tfdb_waluigi_pinball" { }
 	}
 
 	"Attack & Defend "
@@ -57,7 +58,7 @@
 		"cp_alloy_rc3" { }
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
-		"cp_artillery_b4a" { }
+		"cp_artillery_b4b" { }
 		"cp_bloodcrystal_event" { }
 		"cp_brew" { }
 		"cp_broma" { }
@@ -76,6 +77,7 @@
 		"cp_dustcity" { }
 		"cp_ferrum_rc1" { }
 		"cp_fieldworks_a4" { }
+		"cp_forsaken_downpour_rc1" { }
 		"cp_fortezza" { }
 		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
@@ -281,6 +283,7 @@
 		"koth_bagel_rc11" { }
 		"koth_basalt_rc2" { }
 		"koth_betteryard_rc1" { }
+		"koth_blowout_b3" { }
 		"koth_bound_rc1b" { }
 		"koth_boxes_a10" { }
 		"koth_brickyard_v2_a8" { }
@@ -367,6 +370,7 @@
 		"koth_moonshine_rc" { }
 		"koth_muertos_b2" { }
 		"koth_namicott_rc4" { }
+		"koth_naptha_b2" { }
 		"koth_nebula" { }
 		"koth_nerve" { }
 		"koth_northbound_b2" { }
@@ -384,6 +388,7 @@
 		"koth_qonk_a10" { }
 		"koth_quarry_rc5" { }
 		"koth_railbridge_rc2" { }
+		"koth_rio_rc7a" { }
 		"koth_jamram_rc2b" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
@@ -459,6 +464,7 @@
 		"pl_alpine_forest_rc2" { }
 		"pl_angkor_rc2" { }
 		"pl_bloodwater" { }
+		"pl_blastforge_rc1" { }
 		"pl_badwater_snowy" { }
 		"pl_barnblitz_pro_rc2" { }
 		"pl_borax_rc2" { }
@@ -469,6 +475,7 @@
 		"pl_candyland_b1a" { }
 		"pl_cashworks" { }
 		"pl_cattower_b0" { }
+		"pl_citadel_b2" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
 		"pl_cornfarm_rc" { }
@@ -488,7 +495,7 @@
 		"pl_eruption_b14" { }
 		"pl_extinction_rc3" { }
 		"pl_escarpment_rc1" { }
-		"pl_farmstead_rc4" { }
+		"pl_farmstead_rc6" { }
 		"pl_fountain_b3" { }
 		"pl_frostcliff" { }
 		"pl_frostfell_b2" { }
@@ -503,6 +510,7 @@
 		"pl_jinn_rc2a" { }
 		"pl_jungle_a1c" { }
 		"pl_manngrove_rc5" { }
+		"pl_mariposa_b5a" { }
 		"pl_mesa_b1" { }
 		"pl_mesaworks_final" { }
 		"pl_metropolis_b5" { }
@@ -547,8 +555,12 @@
 		"maps_invote" "1"
 
 		"cp_caper_rc7" { }
+		"cp_sunnyside" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
+		"kotc_petrichor" { }
+		"kotc_speghetti" { }
+		"kotc_strait" { }
 		"koth_lifesnatcher_b5" { }
 		"koth_splinter_b4" { }
 		"pass_brickyard" { }
