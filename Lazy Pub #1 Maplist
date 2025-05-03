@@ -4,13 +4,23 @@
 	{
         "maps_invote" "1"
         
-		"cp_artillery_b4a" { }
+		"cp_artillery_b4b" { }
+		"cp_sunnyside" { }
 		"cp_wildcat_rc1" { }
+		"kotc_petrichor" { }
+		"kotc_speghetti" { }
+		"kotc_strait" { }
+		"koth_blowout_b3" { }
 		"koth_dryfield_rc2" { }
+		"koth_naptha_b2" { }
 		"koth_oilchange_rc2" { }
+		"koth_rio_rc7a" { }
 		"koth_winter_ridge_rc1" { }
 		"pl_bridgeway_b2" { }
+		"pl_citadel_b2" { }
 		"pl_downunder_b22" { }
+		"pl_farmstead_rc6" { }
+		"pl_mariposa_b5a" { }
 	}
 
 	"Attack & Defend"
@@ -19,7 +29,7 @@
         
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
-		"cp_artillery_b4a" { }
+		"cp_artillery_b4b" { }
 		"cp_brew" { }
 		"cp_cold_era_rc2c" { }
 		"cp_conifer_rc4" { }
@@ -61,6 +71,7 @@
         
 		"koth_anthem_b4" { }
 		"koth_bagel_rc11" { }
+		"koth_blowout_b3" { }
 		"koth_brine_rc3a" { }
 		"koth_cachoeira" { }
 		"koth_cascade" { }
@@ -90,10 +101,12 @@
 		"koth_megasnow_rc1" { }
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
+		"koth_naptha_b2" { }
 		"koth_nucleus" { }
 		"koth_oilchange_rc2" { }
 		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
+		"koth_rio_rc7a" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
 		"koth_sawmill" { }
@@ -120,11 +133,13 @@
         
 		"pl_badwater" { }
 		"pl_barnblitz" { }
+		"pl_blastforge_rc1" { }
 		"pl_borneo" { }
 		"pl_bridgeway_b2" { }
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_camber" { }
 		"pl_cashworks" { }
+		"pl_citadel_b2" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
 		"pl_downunder_b22" { }
@@ -134,13 +149,14 @@
 		"pl_eruption_b14" { }
 		"pl_escarpment_rc1" { }
 		"pl_extinction_rc3" { }
-		"pl_farmstead_rc4" { }
+		"pl_farmstead_rc6" { }
 		"pl_fountain_b3" { }
 		"pl_frontier_final" { }
 		"pl_greenwood_b6" { }
 		"pl_highwood_b20" { }
 		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
+		"pl_mariposa_b5a" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
@@ -168,7 +184,11 @@
         "maps_invote" "1"
         
 		"cp_caper_rc7" { }
+		"cp_sunnyside" { }
 		"ctf_nuclide_rc8d" { }
+		"kotc_petrichor" { }
+		"kotc_speghetti" { }
+		"kotc_strait" { }
 		"koth_splinter_b4" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
