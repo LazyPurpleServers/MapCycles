@@ -320,7 +320,7 @@
 		"cp_2Skyscraper_b3" { }
 		"cp_abyss_b81" { }
 		"cp_albany_b7" { }
-		"cp_artillery_b4a" { }
+		"cp_artillery_b4b" { }
 		"cp_backwoods_b3" { }
 		"cp_alloy_rc3" { }
 		"cp_antiquity_rc1" { }
@@ -783,6 +783,7 @@
         "pl_boundary_final" { }
 	"pl_cattower_b0" { }
         "pl_cashworks" { }
+        "pl_citadel_b2" { }
         "pl_cliffsedge_b1" { }
         "pl_coldrush_rc1" { }
         "pl_cornfarm_rc" { }
@@ -794,7 +795,7 @@
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
-        "pl_farmstead_rc1" { }
+        "pl_farmstead_rc6" { }
         "pl_freeupward" { }
         "pl_frostward" { }
         "pl_great_heights_b3" { }
