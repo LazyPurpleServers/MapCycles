@@ -7,11 +7,9 @@
 		"ctf_shipyard_b9" { }
 		"dm_mariokart3_v1" { }
 		"koth_appleacres_b3" { }
-		"koth_aquaticruin_final" { }
+		"koth_boardwalk_b2" { }
 		"koth_dryfield_rc2" { }
-		"koth_gamma_rc1" { }
 		"koth_oilchange_rc2" { }
-		"koth_winter_ridge_rc1" { }
 		"pkmn_goldenrodcity_b7" { }
 		"tow_impasse_b4" { }
 	}
@@ -93,6 +91,7 @@
 
 		"koth_aquaticruin_final" { }
 		"koth_appleacres_b3" { }
+		"koth_boardwalk_b2" { }
 		"koth_brine_rc3a" { }
 		"koth_brokenhills_b3a" { }
 		"koth_cachoeira" { }
@@ -140,7 +139,6 @@
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
 		"koth_shorelight_rc9" { }
-		"koth_slaughter_b2a" { }
 		"koth_spillway_rc3a" { }
 		"koth_stallone_b2" { }
 		"koth_suijin" { }
