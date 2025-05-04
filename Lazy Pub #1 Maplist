@@ -5,12 +5,13 @@
         "maps_invote" "1"
         
 		"cp_artillery_b4b" { }
-		"cp_sunnyside" { }
+		"cp_sunnyside_final" { }
 		"cp_wildcat_rc1" { }
 		"kotc_petrichor" { }
 		"kotc_speghetti" { }
 		"kotc_strait" { }
 		"koth_blowout_b3" { }
+		"koth_boardwalk_b2" { }
 		"koth_dryfield_rc2" { }
 		"koth_naptha_b2" { }
 		"koth_oilchange_rc2" { }
@@ -21,6 +22,7 @@
 		"pl_citadel_b2" { }
 		"pl_downunder_b22" { }
 		"pl_farmstead_rc6" { }
+		"pl_guzzle_b18" { }
 		"pl_mariposa_b5a" { }
 	}
 
@@ -73,6 +75,7 @@
 		"koth_anthem_b4" { }
 		"koth_bagel_rc11" { }
 		"koth_blowout_b3" { }
+		"koth_boardwalk_b2" { }
 		"koth_brine_rc3a" { }
 		"koth_cachoeira" { }
 		"koth_cascade" { }
@@ -114,7 +117,6 @@
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
 		"koth_shorelight_rc9" { }
-		"koth_slaughter_b2a" { }
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
 		"koth_suijin" { }
@@ -154,6 +156,7 @@
 		"pl_fountain_b3" { }
 		"pl_frontier_final" { }
 		"pl_greenwood_b6" { }
+		"pl_guzzle_b18" { }
 		"pl_highwood_b20" { }
 		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
@@ -185,7 +188,7 @@
         "maps_invote" "1"
         
 		"cp_caper_rc7" { }
-		"cp_sunnyside" { }
+		"cp_sunnyside_final" { }
 		"ctf_nuclide_rc8d" { }
 		"kotc_petrichor" { }
 		"kotc_speghetti" { }
