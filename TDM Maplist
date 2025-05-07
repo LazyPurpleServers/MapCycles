@@ -13,7 +13,7 @@
 		"koth_dryfield_rc2" { }
 		"koth_oilchange_rc2" { }
 		"pkmn_goldenrodcity_b7" { }
-		"tow_impasse_b4" { }
+		"tow_tetsudo_b4" { }
 	}
 
 	"Control Points "
@@ -196,5 +196,6 @@
 		"sd_toucan_final2" { }
 		"tow_dynamite" { }
 		"tow_impasse_b4" { }
+		"tow_tetsudo_b4" { }
 	}
 }
