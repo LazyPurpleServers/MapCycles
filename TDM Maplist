@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
         
+		"ctf_bluefort_rc1" { }
 		"ctf_shipyard_b9" { }
 		"cp_sunnyside_final" { }
 		"dm_mariokart3_v1" { }
@@ -40,6 +41,7 @@
 		"ctf_2castle" { }
 		"ctf_applejack" { }
 		"ctf_badwater_b2" { }
+		"ctf_bluefort_rc1" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
 		"ctf_extraction_b6" { }
