@@ -107,7 +107,7 @@
 		"mpl_losthorizon_b10" { }
 		"oot3d_hyrule_ctcfix1" { }
 		"osen_online" { }
-		"pd_azureworld_b2" { }
+		"pd_azureworld_rc1" { }
 		"pd_galleria" { }
 		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
@@ -284,6 +284,7 @@
 		"ctf_penguin_peak" { }
 		"ctf_pool" { }
 		"ctf_powerhouse_final" { }
+		"ctf_pressure_b9" { }
 		"ctf_quarry_v2" { }
 		"ctf_ravelin" { }
 		"ctf_retreat_b1" { }
@@ -778,6 +779,7 @@
         "maps_invote" "1"
 
         "pl_alpine_forest_rc2" { }
+	"pl_aquarius_b3" { }
         "pl_badlands_winter" { }
         "pl_beerbowl_rc1" { }
         "pl_blastpitt_rc3" { }
@@ -785,7 +787,7 @@
         "pl_boundary_final" { }
 	"pl_cattower_b0" { }
         "pl_cashworks" { }
-        "pl_citadel_b2" { }
+        "pl_citadel_b2d" { }
         "pl_cliffsedge_b1" { }
         "pl_coldrush_rc1" { }
         "pl_cornfarm_rc" { }
@@ -793,7 +795,7 @@
         "pl_crusoe_a17" { }
         "pl_curve" { }
         "pl_deadwood" { }
-	"pl_downunder_b22" { }
+	"pl_downunder_b24" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
