@@ -13,17 +13,18 @@
 		"koth_blowout_b3" { }
 		"koth_boardwalk_b2" { }
 		"koth_dryfield_rc2" { }
+		"koth_mannhole_b1" { }
 		"koth_naptha_b2" { }
 		"koth_oilchange_rc2" { }
 		"koth_rio_rc7a" { }
-		"koth_winter_ridge_rc1" { }
-		"pass_gigantic_b5" { }
+		"pd_recycler_b7b" { }
 		"pl_bridgeway_b2" { }
-		"pl_citadel_b2" { }
-		"pl_downunder_b22" { }
+		"pl_citadel_b2d" { }
+		"pl_downunder_b24" { }
 		"pl_farmstead_rc6" { }
 		"pl_guzzle_b18" { }
 		"pl_mariposa_b5a" { }
+		"tow_tetsude_b6" { }
 	}
 
 	"Attack & Defend"
@@ -101,6 +102,7 @@
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
 		"koth_logwash_rc6a" { }
+		"koth_mannhole_b1" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_megasnow_rc1" { }
 		"koth_megaton" { }
@@ -134,6 +136,7 @@
 	{
         "maps_invote" "1"
         
+		"pl_aquarius_b3" { }
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_blastforge_rc1" { }
@@ -142,10 +145,10 @@
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_camber" { }
 		"pl_cashworks" { }
-		"pl_citadel_b2" { }
+		"pl_citadel_b2d" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b22" { }
+		"pl_downunder_b24" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
@@ -200,11 +203,13 @@
 		"pd_atom_smash" { }
 		"pd_galleria" { }
 		"pd_pipeline_rc6" { }
+		"pd_recycler_b7b" { }
 		"pd_selbyen" { }
 		"pd_street_rc2b" { }
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pl_longboy_b10" { }
+		"tow_tetsude_b6" { }
 	}
 }
