@@ -220,6 +220,7 @@
 	{
 		"maps_invote" "1"
 
+		"ctf_1fort_rc1" { }
 		"ctf_2castle" { }
 		"ctf_2fort_classic_redux" { }
 		"ctf_2fort_fall_rc5" { }
