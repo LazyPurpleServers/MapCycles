@@ -7,17 +7,15 @@
 		"cp_artillery_b4b" { }
 		"cp_sunnyside_final" { }
 		"cp_wildcat_rc1" { }
-		"kotc_petrichor" { }
-		"kotc_speghetti" { }
-		"kotc_strait" { }
 		"koth_blowout_b3" { }
 		"koth_boardwalk_b2" { }
 		"koth_dryfield_rc2" { }
 		"koth_mannhole_b1" { }
-		"koth_naptha_b2" { }
+		"koth_naphtha_b4" { }
 		"koth_oilchange_rc2" { }
 		"koth_rio_rc7a" { }
 		"pd_recycler_b7b" { }
+		"pl_aquarius_b10" { }
 		"pl_bridgeway_b2" { }
 		"pl_citadel_b2d" { }
 		"pl_downunder_b24" { }
@@ -107,7 +105,7 @@
 		"koth_megasnow_rc1" { }
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
-		"koth_naptha_b2" { }
+		"koth_naphtha_b4" { }
 		"koth_nucleus" { }
 		"koth_oilchange_rc2" { }
 		"koth_overcast_final" { }
@@ -136,7 +134,7 @@
 	{
         "maps_invote" "1"
         
-		"pl_aquarius_b3" { }
+		"pl_aquarius_b10" { }
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_blastforge_rc1" { }
@@ -210,6 +208,6 @@
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pl_longboy_b10" { }
-		"tow_tetsude_b6" { }
+		"tow_tetsude_b7" { }
 	}
 }
