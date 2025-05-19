@@ -372,7 +372,7 @@
 		"koth_moonshine_rc" { }
 		"koth_muertos_b2" { }
 		"koth_namicott_rc4" { }
-		"koth_naptha_b2" { }
+		"koth_naphtha_b4" { }
 		"koth_nebula" { }
 		"koth_nerve" { }
 		"koth_northbound_b2" { }
@@ -465,7 +465,7 @@
 		"pl_abandoned_upward" { }
 		"pl_alpine_forest_rc2" { }
 		"pl_angkor_rc2" { }
-		"pl_aquarius_b3" { }
+		"pl_aquarius_b10" { }
 		"pl_blastforge_rc1" { }
 		"pl_blocked_b13" { }
 		"pl_bloodwater" { }
@@ -607,7 +607,7 @@
 		"tc_strata_b1c" { }
 		"tow_dynamite_rc1t" { }
 		"tow_impasse_b4" { }
-		"tow_tetsudo_b6" { }
+		"tow_tetsudo_b7" { }
 	}
 
 	"Deathmatch"
