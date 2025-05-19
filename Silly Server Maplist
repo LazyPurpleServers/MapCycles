@@ -63,6 +63,7 @@
 	{
 		"maps_invote" "1"
 
+		"2002" { }
 		"achievement_apg_r16c" { }
 		"achievement_turbo_rhobv4_fall" { }
 		"ach_villains_city_fall_v3" { }
@@ -780,7 +781,7 @@
         "maps_invote" "1"
 
         "pl_alpine_forest_rc2" { }
-	"pl_aquarius_b3" { }
+	"pl_aquarius_b10" { }
         "pl_badlands_winter" { }
         "pl_beerbowl_rc1" { }
         "pl_blastpitt_rc3" { }
