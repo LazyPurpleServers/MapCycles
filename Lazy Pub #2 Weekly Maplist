@@ -610,25 +610,6 @@
 		"tow_tetsudo_b7" { }
 	}
 
-	"Deathmatch"
-	{
-		"maps_invote" "1"
-
-		"dm_ashina_shrine_b1" { }
-		"dm_ashina_shrine_b1_mm" { }
-		"dm_backfort_event_b2" { }
-		"dm_backfort_gravfix3" { }
-		"dm_flux_b8" { }
-		"dm_halo_bloodgulch" { }
-		"dm_lockdown_tf" { }
-		"dm_longest_yard" { }
-		"dm_moving_in" { }
-		"dm_newyork_gravfix3" { }
-		"dm_towerleap" { }
-		"dm_towerleap_v2_final2" { }
-	}
-
-
 	"Valve Casual Rotation"
 	{
 	"maps_invote" "1"
