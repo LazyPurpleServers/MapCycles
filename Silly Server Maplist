@@ -63,7 +63,7 @@
 	{
 		"maps_invote" "1"
 
-		"2002" { }
+		"2002_julyupdate" { }
 		"achievement_apg_r16c" { }
 		"achievement_turbo_rhobv4_fall" { }
 		"ach_villains_city_fall_v3" { }
@@ -435,7 +435,7 @@
 		"cp_viper_industries" { }
 		"cp_wetcoal_b1" { }
 		"cp_wildcat_rc1" { }
-		"cp_wildlife_rc2" { }
+		"cp_wildlife_rc3" { }
 		"cp_zinkenite_b3a" { }
 	}
 
@@ -789,7 +789,7 @@
         "pl_boundary_final" { }
 	"pl_cattower_b0" { }
         "pl_cashworks" { }
-        "pl_citadel_b2d" { }
+        "pl_citadel_b3" { }
         "pl_cliffsedge_b1" { }
         "pl_coldrush_rc1" { }
         "pl_cornfarm_rc" { }
@@ -797,7 +797,7 @@
         "pl_crusoe_a17" { }
         "pl_curve" { }
         "pl_deadwood" { }
-	"pl_downunder_b24" { }
+	"pl_downunder_b25" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
