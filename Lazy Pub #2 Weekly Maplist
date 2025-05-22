@@ -174,7 +174,7 @@
 		"cp_toy_fort_tbr_v6" { }
 		"cp_toys_v2" { }
 		"cp_undercrypt_b9" { }
-		"cp_wildlife_rc2" { }
+		"cp_wildlife_rc3" { }
 	}
 
 	"Capture The Flag"
@@ -479,7 +479,7 @@
 		"pl_candyland_b1a" { }
 		"pl_cashworks" { }
 		"pl_cattower_b0" { }
-		"pl_citadel_b2d" { }
+		"pl_citadel_b3" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
 		"pl_cornfarm_rc" { }
@@ -492,7 +492,7 @@
 		"pl_deadwood" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b24" { }
+		"pl_downunder_b25" { }
 		"pl_downward_b2" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
