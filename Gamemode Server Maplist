@@ -47,6 +47,7 @@
 		"command" "exec gamemode/misc_party"
         
 		"bomberman_battle_game" { }
+		"car_fall_dmg" { }
 		"dr_minigames_b2" { }
 		"halo_avalanche_a1" { }
 		"mg_smash_cannonsz" { }
