@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "122"
+		"count" "123"
 		
 		"1"
 		{
@@ -614,6 +614,11 @@
 		{
 			"map" "mvm_valhalla_night"
 			"popfile" "mvm_valhalla_night_soulkiller"
+		}
+		"123"
+		{
+			"map" "mvm_starcoast_a1"
+			"popfile" "mvm_starcoast_a1_adv_brokenparts"
 		}
 	}
 }
