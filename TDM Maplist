@@ -11,6 +11,7 @@
 		"koth_boardwalk_b2" { }
 		"koth_dryfield_rc2" { }
 		"pd_azureworld_rc1" { }
+		"pd_zinc_b4" { }
 		"pkmn_goldenrodcity_b7" { }
 		"tow_tetsudo_b6" { }
 	}
@@ -181,6 +182,7 @@
 		"pd_static_rc2c" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
+		"pd_zinc_b4" { }
 		"pipeball_linedrive_rc2" { }
 		"pkmn_goldenrodcity_b7" { }
 		"pkmn_lilycovecity_b1" { }
