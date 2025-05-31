@@ -8,18 +8,14 @@
 		"cp_wildcat_rc1a" { }
 		"koth_blowout_b3" { }
 		"koth_boardwalk_b2" { }
-		"koth_dryfield_rc2" { }
 		"koth_mannhole_b1" { }
-		"koth_naphtha_b4" { }
-		"koth_oilchange_rc2" { }
 		"koth_rio_rc7a" { }
 		"pd_recycler_b7b" { }
 		"pl_bridgeway_b2" { }
-		"pl_citadel_b3" { }
-		"pl_downunder_b25" { }
+		"pl_citadel_b3c" { }
+		"pl_downunder_b26" { }
 		"pl_farmstead_rc6" { }
-		"pl_guzzle_b18" { }
-		"pl_mariposa_b5a" { }
+		"pl_mariposa_b5c" { }
 		"tow_tetsude_b6" { }
 	}
 
