@@ -4,9 +4,8 @@
 	{
         "maps_invote" "1"
         
-		"cp_artillery_b4b" { }
 		"cp_sunnyside_final" { }
-		"cp_wildcat_rc1" { }
+		"cp_wildcat_rc1a" { }
 		"koth_blowout_b3" { }
 		"koth_boardwalk_b2" { }
 		"koth_dryfield_rc2" { }
@@ -63,7 +62,7 @@
 		"cp_sulfur" { }
 		"cp_upland_rc4" { }
 		"cp_watercourse_b11" { }
-		"cp_wildcat_rc1" { }
+		"cp_wildcat_rc1a" { }
 	}
 
 	"King of the Hill"
@@ -99,6 +98,7 @@
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
 		"koth_logwash_rc6a" { }
+		"koth_lowtide_b8a" { }
 		"koth_mannhole_b1" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_megasnow_rc1" { }
@@ -144,7 +144,7 @@
 		"pl_citadel_b3" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b25" { }
+		"pl_downunder_b26" { }
 		"pl_dryrock_b5" { }
 		"pl_emerge" { }
 		"pl_enclosure_final" { }
@@ -159,7 +159,7 @@
 		"pl_highwood_b20" { }
 		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
-		"pl_mariposa_b5a" { }
+		"pl_mariposa_b5c" { }
 		"pl_midwest_rc1a" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
@@ -205,6 +205,7 @@
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
+		"pd_zinc_b4" { }
 		"pl_longboy_b10" { }
 		"tow_tetsude_b7" { }
 	}
