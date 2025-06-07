@@ -376,7 +376,7 @@
 		"koth_moonshine_rc" { }
 		"koth_muertos_b2" { }
 		"koth_namicott_rc4" { }
-		"koth_naphtha_b4" { }
+		"koth_naphtha_b5c" { }
 		"koth_nebula" { }
 		"koth_nerve" { }
 		"koth_northbound_b2" { }
@@ -496,7 +496,7 @@
 		"pl_deadwood" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
-		"pl_downunder_b26" { }
+		"pl_downunder_b27a" { }
 		"pl_downward_b2" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
@@ -583,7 +583,7 @@
 		"pd_midway_a3" { }
 		"pd_nucleus_event_b4" { }
 		"pd_pipeline_rc6" { }
-		"pd_recycler_b7b" { }
+		"pd_recycler_b8" { }
 		"pd_salvador_b3c" { }
 		"pd_standin_b1" { }
 		"pd_static_rc2c" { }
