@@ -11,6 +11,7 @@
 		"koth_boardwalk_b2" { }
 		"koth_dryfield_rc2" { }
 		"pd_azureworld_rc1" { }
+		"pd_recycler_b8" { }
 		"pd_zinc_b4" { }
 		"pkmn_goldenrodcity_b7" { }
 		"tow_tetsudo_b6" { }
@@ -177,6 +178,7 @@
 		"pd_galleria" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania" { }
+		"pd_recycler_b8" { }
 		"pd_salvador_b3c" { }
 		"pd_selbyen" { }
 		"pd_static_rc2c" { }
