@@ -286,7 +286,7 @@
 		"ctf_penguin_peak" { }
 		"ctf_pool" { }
 		"ctf_powerhouse_final" { }
-		"ctf_pressure_b9" { }
+		"ctf_pressure_b9" { "workshopid" "3480634190" }
 		"ctf_quarry_v2" { }
 		"ctf_ravelin" { }
 		"ctf_retreat_b1" { }
