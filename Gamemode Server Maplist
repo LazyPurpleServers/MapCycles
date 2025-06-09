@@ -55,7 +55,7 @@
 		"mg_buses_from_hell_redux" { }
 		"nintendo_land_b9" { }
 		"quiz_millionaire_v3" { }
-		"tf2ware_ultimate" { }
+		"tf2ware_ultimate" { "workshopid" "3413262999" }
 		"wega_challenge_a3" { }
 	}
 
