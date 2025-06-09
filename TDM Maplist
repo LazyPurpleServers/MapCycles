@@ -5,7 +5,7 @@
         "maps_invote" "1"
         
 		"ctf_bluefort_rc1" { }
-		"ctf_pressure_b9" { }
+		"ctf_pressure_b9" { "workshopid" "3480634190" }
 		"cp_sunnyside_final" { }
 		"dm_mariokart3_v1" { }
 		"koth_boardwalk_b2" { }
