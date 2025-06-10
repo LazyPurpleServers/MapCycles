@@ -249,7 +249,7 @@
 		"ctf_cruise_b4b" { }
 		"ctf_Decker_b1" { }
 		"ctf_deliverance_b3" { }
-		"ctf_depth_b4" { }
+		"ctf_depth_b4" { "workshopid" "3439505706" }
 		"ctf_discover_b59" { }
 		"ctf_extraction_b6" { }
 		"ctf_facility_build62" { }
