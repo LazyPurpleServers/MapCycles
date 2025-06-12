@@ -9,7 +9,7 @@ Main Website: https://lazypurple.com/
 
 Discord invite: https://discord.gg/XG9Vm4rJuA
 
-Server Fastdl: https://lazypurple.com/tf/fastdl/ 
+Server Fastdl: https://lazypurple.com/tf/fastdl/
 
 
 
