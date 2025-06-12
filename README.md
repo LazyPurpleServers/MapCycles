@@ -18,6 +18,7 @@ Server Fastdl: https://lazypurple.com/tf/fastdl/
 
 
 How to add a Workshop Map to a rotation;
+
 To add a map from the Steam Workshop to a rotation, first find the page for the map you want in question. You will need to do two things; both Subscribe to the map and get the Workshop ID for the map. When you Subscribe to the map, make sure your Steam Client is open, and you will be able to find the newly downloaded map in your directory; Steam\steamapps\workshop\content\440. The number 440 is the game ID for Team Fortress 2. If you sort this folder by date modified, the most recent folder should contain the map you just Subscribed to.
 
 Open the folder for the map you wish to add to the servers, and write down the file name for the map. This will be necessary to put it on rotation. As well, the name of the folder for the map you just Subscribed to is the Workshop ID. This is the first method of finding it. The second method is by looking at the link to the map itself. In the link, there should be a ten digit code that will also be the Workshop ID. Remember that the workshop ID will never contain any letters or special characters, ONLY numbers.
@@ -28,4 +29,5 @@ Remember to try to keep the maps in rotation categories in alphabetical order wh
 
 
 How to add a FastDL Map to a rotation;
+
 Coming Soon...
