@@ -529,15 +529,20 @@
 	{
 		"maps_invote" "1"
 
+		"pkmn_victoryroad_pl" { }
 		"pl_abandoned_upward" { }
 		"pl_alpine_forest_rc2" { }
 		"pl_angkor_rc2" { }
 		"pl_aquarius_b25" { }
+		"pl_badcoastbarnward_a5" { }
+		"pl_badwater_rainy" { }
+		"pl_badwater_tilt" { }
 		"pl_blastforge_rc1" { }
 		"pl_blocked_b13" { }
 		"pl_bloodwater" { }
 		"pl_badwater_snowy" { }
 		"pl_barnblitz_pro_rc2" { }
+		"pl_boostwater" { }
 		"pl_borax_rc2" { }
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
@@ -545,6 +550,7 @@
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_candyland_b1a" { }
 		"pl_cashworks" { }
+		"pl_casserole_rc3" { }
 		"pl_cattower_b0" { }
 		"pl_citadel_b3c" { }
 		"pl_cliffsedge_b1" { }
@@ -556,18 +562,24 @@
 		"pl_crash_72_2" { }
 		"pl_crusoe_a17b" { }
 		"pl_curve" { }
+		"pl_dbheights_b5" { }
 		"pl_deadwood" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
+		"pl_dnalydnac_a1" { }
+		"pl_donkeykong_final" { }
 		"pl_downunder_b28" { }
 		"pl_downward_b2" { }
+		"pl_drawpu_rc1" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
 		"pl_eruption_b14" { }
 		"pl_extinction_rc3" { }
 		"pl_escarpment_rc1" { }
 		"pl_farmstead_rc6" { }
+		"pl_fastwater" { }
 		"pl_fountain_b3" { }
+		"pl_frontiiiiiiiiiieeeeeeeeer" { }
 		"pl_frostcliff" { }
 		"pl_frostfell_b2" { }
 		"pl_great_heights_b3" { }
@@ -576,6 +588,7 @@
 		"pl_hasslecastle" { }
 		"pl_haywire_rc5" { }
 		"pl_highwood_b20" { }
+		"pl_hsurdlog" { }
 		"pl_hydropower_rc4" { }
 		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
@@ -587,17 +600,22 @@
 		"pl_metropolis_b5" { }
 		"pl_midwest_rc1a" { }
 		"pl_mill_b5" { }
+		"pl_minepit" { }
+		"pl_minewoods" { }
 		"pl_moonbase_rc1" { }
 		"pl_morrigan_alley_b3" { }
 		"pl_mountainside_rc2" { }
 		"pl_munitions_b3" { }
 		"pl_oasis_rc3" { }
 		"pl_odyssey" { }
+		"pl_offcenter_stage1a" { }
 		"pl_patagonia" { }
 		"pl_pharaoh_rc1" { }
 		"pl_pit" { }
 		"pl_promotion_b5" { }
+		"pl_rainbowride_b7e" { }
 		"pl_rebirth_rc1" { }
+		"pl_retawdab" { }
 		"pl_ridgetech_rc1a" { }
 		"pl_rivercrossing_rc2a" { }
 		"pl_rocketravine_b6" { }
@@ -608,17 +626,23 @@
 		"pl_shatter_rc3b" { }
 		"pl_shenmue_release" { }
 		"pl_shoreleave_rc2" { }
+		"pl_siegemachine_a6" { }
 		"pl_silverline_rc11c" { }
+		"pl_skirmish_b3" { }
+		"pl_slopandslime_b2" { }
 		"pl_sludgepit_final4" { }
 		"pl_spectre_a5_dew10" { }
 		"pl_spineyard_rc1a" { }
 		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
+		"pl_tsaocywons_b1" { }
+		"pl_upwater" { }
 		"pl_venice" { }
 		"pl_vigil_rc10" { }
 		"pl_vineyard_rc8b" { }
 		"pl_volcanic_a26" { }
 		"pl_yamashiro_b3" { }
+		"pl_ztilbnrab" { }
 	}
 
 	"Miscellaneous"
@@ -657,6 +681,7 @@
 		"pd_watergate" { }
 		"pd_zinc_b4" { }
 		"pl_longboy_b10" { }
+		"pl_nat20_b2b" { }
 		"plr_aulli_b2c" { }
 		"plr_cutter" { }
 		"plr_dustbowl_s1_v1" { }
