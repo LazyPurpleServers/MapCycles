@@ -58,11 +58,14 @@
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
 		"cp_artillery_b4b" { }
+		"cp_battlefortress_b8c" { }
+		"cp_beachassault_v3" { } 
 		"cp_bloodcrystal_event" { }
 		"cp_brew" { }
 		"cp_broma" { }
 		"cp_cargo_b6" { }
 		"cp_carthage_b1" { }
+		"cp_cheesefire" { }
 		"cp_cold_era_rc2c" { }
 		"cp_copperhead_b2c" { }
 		"cp_conifer_rc4" { }
@@ -81,6 +84,7 @@
 		"cp_fortezza" { }
 		"cp_fulgur_rc3" { }
 		"cp_furnace_rc" { }
+		"cp_george_rc7" { }
 		"cp_glacier_rc6" { }
 		"cp_gothic_event" { }
 		"cp_gravelpit_snowy" { }
@@ -89,12 +93,18 @@
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
+		"cp_helmsdeep_v2" { }
 		"cp_heaven_rc" { }
 		"cp_holdour_rc1d" { }
+		"cp_hotelhell" { }
 		"cp_intrusion_b4" { }
+		"cp_invisibowl_krowfix" { }
+		"cp_kakariko_a3" { }
 		"cp_longhaul_a3" { }
 		"cp_lushbowl_final" { }
+		"cp_lwobtsud" { }
 		"cp_marienwerder_rc" { }
+		"cp_mario_bros_beta8" { }
 		"cp_method_b4b" { }
 		"cp_minery_a12" { }
 		"cp_mojave_b2" { }
@@ -103,6 +113,7 @@
 		"cp_no_mercy_b1" { }
 		"cp_omen_b6" { }
 		"cp_osiris_b27" { }
+		"cp_pall_mall_d9" { }
 		"cp_france_rc4c" { }
 		"cp_rocketforge_b3" { }
 		"cp_rotary_a0" { }
@@ -110,14 +121,19 @@
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowlodge_b5" { }
+		"cp_smallbowl" { }
+		"cp_smbcastle_2" { }
 		"cp_sobek_rc1a" { }
 		"cp_steel_aftermath" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_subway_final" { }
 		"cp_sulfur" { }
+		"tfc_avanti" { }
+		"cp_tiplevarg" { }
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
 		"cp_wetcoal_b1" { }
+		"cp_widebowl" { }
 		"cp_wildcat_rc1a" { }
 		"cp_zephyr_a3" { }
 		"cp_zinkenite_b3a" { }
