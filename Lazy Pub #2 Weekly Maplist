@@ -53,6 +53,7 @@
 		"arena_well" { }
 		"arena_yunshu_rc1" { }
 		"ctf_exsmol_rc1" { }
+		"games_minecraft_v4" { }
 		"tfdb_waluigi_pinball" { }
 	}
 
@@ -702,32 +703,45 @@
 
 		"af_bananarama" { }
 		"balloon_race_v3_t7" { }
+		"billiards" { }
 		"boss_sealchamber_v2" { }
+		"cp_arena_trains_b2" { }
 		"cp_caper_rc7" { }
 		"cp_sunnyside_final" { }
 		"dom_canalzone2_b4" { }
 		"dom_cliffhanger_b11" { }
+		"dom_presidents_a1" { }
+		"dom_seaplant_b0a" { }
+		"ds_extractum" { }
+		"falling_cp" { }
 		"kotc_petrichor" { }
 		"kotc_speghetti" { }
 		"kotc_strait" { }
 		"koth_lifesnatcher_b5" { }
+		"kothandball_torture_a1d" { }
 		"koth_splinter_b4" { }
 		"pass_brickyard" { }
 		"pass_gigantic_b4" { }
 		"pass_gridiron_rc1a" { }
+		"pass_jam_a1b" { }
 		"pass_smalltime_rc1a" { }
 		"pd_azureworld_rc1" { }
+		"pd_blastoff_rc7" { }
+		"pd_carousel_b2a" { }
 		"pd_galleria" { }
 		"pd_hightower_b3" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania_rc1" { }
+		"pd_meme_machine_rc4" { }
 		"pd_midway_a3" { }
 		"pd_nucleus_event_b4" { }
 		"pd_pipeline_rc6" { }
 		"pd_recycler_b8" { }
 		"pd_salvador_b3c" { }
+		"pd_sfoth_a6" { }
 		"pd_standin_b1" { }
 		"pd_static_rc2c" { }
+		"pd_steamed_hams_final" { }
 		"pd_street_rc2b" { }
 		"pd_suijin_event_void_a1d" { }
 		"pd_suijin_matsuri_rc4" { }
@@ -736,26 +750,39 @@
 		"pd_zinc_b4" { }
 		"pl_longboy_b10" { }
 		"pl_nat20_b2b" { }
+		"plr_2cart" { }
 		"plr_aulli_b2c" { }
 		"plr_cutter" { }
+		"plr_desertbus_rc2" { }
+		"plr_dogbread_b3" { }
 		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
 		"plr_guavagulf_a7b" { }
 		"plr_hacksaw_rc1b" { }
 		"plr_hierarch_rc2b" { }
+		"plr_highmillbine" { }
+		"plr_hightower_dontjumptoohigh" { }
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
 		"plr_sidetracked_rc3" { }
+		"plr_upward_rc3" { }
 		"plr_valentine_b2" { }
+		"plr_whalerace_a4a" { }
+		"ql_harvest" { }
+		"sd_laserfight" { }
 		"sd_push_b1" { }
+		"sd_rumrun_a1" { }
 		"sd_toucan_final2" { }
 		"steamboat_race_v5e" { }
 		"tc_meridian_rc3" { }
+		"tc_ordyh" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
+		"tfp_tf2party_b2" { }
 		"tow_dynamite_rc1t" { }
 		"tow_impasse_b4" { }
 		"tow_tetsudo_b7" { }
+		"vip_tfc_hunted" { }
 		"wacky_races_v2"  { }
 	}
 
