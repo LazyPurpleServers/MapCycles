@@ -336,10 +336,15 @@
 	{
 		"maps_invote" "1"
 
+		"bot_rockpaperglitter_b3_fix" { }
+		"koth_af_formula_a2" { }
+		"koth_ahoball_b1" { }
 		"koth_airborne_a5" { }
 		"koth_airfield_b7" { }
 		"koth_alpinedepo" { }
+		"koth_ant_fortress_a2" { }
 		"koth_anthem_b4" { }
+		"koth_aperture_science_iiia" { }
 		"koth_aquaticruin_final" { }
 		"koth_ashville_rc1" { }
 		"koth_ashwood_night_b8" { }
@@ -368,11 +373,13 @@
 		"koth_coalplant_b7" { }
 		"koth_combustion_b1" { }
 		"koth_conveyance_rc3b" { }
+		"koth_conveyor_v2" { }
 		"koth_coulee_b4_fix" { }
 		"koth_county_b7" { }
 		"koth_crumble_rc1" { }
 		"koth_daenam_b12" { }
 		"koth_databank_rc3" { }
+		"koth_deep13_b1" { }
 		"koth_denile_b3" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
@@ -380,6 +387,7 @@
 		"koth_diabolical_final1" { }
 		"koth_dredge_b3" { }
 		"koth_drop_b3" { }
+		"koth_dropdeadfred_v3" { }
 		"koth_dropdown_rc1" { }
 		"koth_dryfield_rc2" { }
 		"koth_dryway_final" { }
@@ -389,22 +397,28 @@
 		"koth_encampment" { }
 		"koth_eros_rc2" { }
 		"koth_etherstate" { }
+		"koth_fbsightline" { }
 		"koth_fission" { }
 		"koth_fjord_rc0v1" { }
 		"koth_flake_a11" { }
+		"koth_flood" { }
 		"koth_flurry_rc5" { }
+		"koth_foolsgrid" { }
 		"koth_forge_b5a" { }
 		"koth_former_cornfield_b1" { }
 		"koth_fragile_rc1" { }
+		"koth_Framework" { }
 		"koth_frequency" { }
 		"koth_friction_a4" { }
 		"koth_frostmoon_event_rc2b" { }
 		"koth_gallows_b1b" { }
 		"koth_gamma_rc1" { }
 		"koth_garbage_day" { }
+		"koth_gatehouse_b1a" { }
 		"koth_gladstone_b8" { }
 		"koth_gravelstone_event" { }
 		"koth_gray_co_rc1" { }
+		"koth_green_hill" { }
 		"koth_hangar_rc5b" { }
 		"koth_hardway_72_rc1" { }
 		"koth_harter_rc1" { }
@@ -418,11 +432,13 @@
 		"koth_iglesia_b3b" { }
 		"koth_illinois_a16a" { }
 		"koth_jinglejam_rc2" { }
+		"koth_kaboom_a4" { }
 		"koth_kemptown_rc3a" { }
 		"koth_keylog_rc1" { }
 		"koth_krampus_rc1" { }
 		"koth_loader_v2" { }
 		"koth_logwash_rc6a" { }
+		"koth_lolcano_b3" { }
 		"koth_lovely_b1" { }
 		"koth_lowtide_b8a" { }
 		"koth_luftangriff_b5a" { }
@@ -434,7 +450,9 @@
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
 		"koth_mill_rc4" { }
+		"koth_minefest_b1" { }
 		"koth_missilebase_b5" { }
+		"koth_monopoly_v1fix" { }
 		"koth_montane_b3" { }
 		"koth_moonshine_rc" { }
 		"koth_muertos_b2" { }
@@ -442,13 +460,19 @@
 		"koth_naphtha_b5c" { }
 		"koth_nebula" { }
 		"koth_nerve" { }
+		"koth_neurotoxin_s7" { }
+		"koth_nippletwister_a3" { }
 		"koth_northbound_b2" { }
+		"koth_nyan_b1" { }
 		"koth_occult_rc6" { }
 		"koth_octothorpe_classic_beta02" { }
 		"koth_oilchange_rc2" { }
 		"koth_oilfield" { }
+		"koth_oofbay_v1" { }
 		"koth_orbit_final" { }
 		"koth_overgrowth" { }
+		"koth_pacman_wtf_b2" { }
+		"koth_partyisland_v10" { }
 		"koth_peaks_b6a" { }
 		"koth_powercore_v1" { }
 		"koth_precipice_b5" { }
@@ -457,15 +481,22 @@
 		"koth_qonk_a10" { }
 		"koth_quarry_rc5" { }
 		"koth_railbridge_rc2" { }
+		"koth_ravine_pro_rc1" { }
+		"koth_RETRO_pit" { }
 		"koth_rio_rc7a" { }
 		"koth_jamram_rc2b" { }
 		"koth_relic_rc3" { }
 		"koth_rocktop_rc2" { }
+		"koth_rolled_up_viaduct" { }
 		"koth_rotunda" { }
 		"koth_roughshod_rc2" { }
 		"koth_runoff_b2" { }
 		"koth_sandstone_rc5" { }
+		"koth_sandvich_b1" { }
+		"koth_saturnvalley" { }
+		"koth_saw_final" { }
 		"koth_sawmill_event" { }
+		"koth_schism_a26" { }
 		"koth_schneestadt_b2a" { }
 		"koth_sekhmet_b4" { }
 		"koth_sharkbay" { }
@@ -474,18 +505,24 @@
 		"koth_shirouma_medieval_b1" { }
 		"koth_shorelight_rc9" { }
 		"koth_sky_lock_b2" { }
+		"koth_skybox_rc2" { }
+		"koth_skyfall_a7a" { }
 		"koth_skylab_rc1" { }
 		"koth_skymill_b3" { }
 		"koth_skyscraper" { }
+		"koth_skywalker1" { }
 		"koth_skyward_b2" { }
 		"koth_slaughter_b2a" { }
 		"koth_slime" { }
+		"koth_slimy_springs_a1" { }
 		"koth_sludge_puddle" { }
+		"koth_sneeter" { }
 		"koth_snowcliff_b1" { }
 		"koth_snowtown_a7" { }
 		"koth_solar_rc1a" { }
 		"koth_sollytude" { }
 		"koth_soot_b5" { }
+		"koth_space_pizza" { }
 		"koth_spillway_rc3a" { }
 		"koth_stallone_b2" { }
 		"koth_stargate_v3" { }
@@ -497,14 +534,20 @@
 		"koth_syphon_b3e" { }
 		"koth_temper_rc2" { }
 		"koth_templegrounds_a2" { }
+		"koth_tf2craps_b1" { }
 		"koth_timbrr_b2" { }
 		"koth_tomb_b3" { }
 		"koth_tombtown_rc6" { }
 		"koth_toxic_event_rc2b" { }
 		"koth_trainfalls_v5" { }
+		"koth_traingrid_b2" { }
+		"koth_trainsawlaser_rc2" { }
+		"koth_trainwreck_b8" { }
 		"koth_trenchfoot_ab1" { }
 		"koth_triplet_b1" { }
+		"koth_tug_o_war_a7" { }
 		"koth_twinfalls" { }
+		"koth_twisted_v5" { }
 		"koth_undergrove_event" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
@@ -517,9 +560,11 @@
 		"koth_warehouse_canal" { }
 		"koth_watermill_final" { }
 		"koth_watertown_a9" { }
+		"koth_weeeeeeeeeeeeeeeeell_rc2" { }
 		"koth_whitecreek_rc2" { }
 		"koth_winter_ridge_b2_yelldowfix" { }
 		"koth_winter_ridge_b3" { }
+		"koth_working_class_b4" { }
 		"koth_workstation" { }
 		"koth_xuanya_b2" { }
 		"koth_ye_olde_harveste_v4" { }
