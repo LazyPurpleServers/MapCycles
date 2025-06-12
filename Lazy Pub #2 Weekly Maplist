@@ -156,6 +156,7 @@
 		"cp_coilblaze_rc8" { }
 		"cp_collis_b1" { }
 		"cp_construct_a3" { }
+		"cp_cowpath_b3" { }
 		"cp_croissant_final" { }
 		"cp_crossroads_b5" { }
 		"cp_crossroads_event_rc10" { }
@@ -164,24 +165,36 @@
 		"cp_entropy" { }
 		"cp_evergreen_b4" { }
 		"cp_follower" { }
+		"cp_floorislava_rc2" { }
+		"cp_frantic_factory" { }
+		"cp_freaky_fair" { }
 		"cp_frozen_rc4" { }
 		"cp_geomance_rc1" { }
 		"cp_glassworks_rc6a" { }
+		"cp_granary_storm_v1" { }
 		"cp_holyhell_rc1" { }
 		"cp_indulge" { }
 		"cp_japan_v2" { }
 		"cp_logjam_rc12f" { }
 		"cp_malgam_g4" { }
+		"cp_marioblast_2011" { }
+		"cp_moneybowl_a3" { }
+		"cp_nuh_uh_a4" { }
 		"cp_oceanside_a4b" { }
+		"cp_ohho" { }
 		"cp_oranges_rc1" { }
 		"cp_overflow_2" { }
 		"cp_cowerhouse_b1" { }
+		"cp_peachs_castle_v1" { }
+		"cp_pirateship_v3" { }
 		"cp_powerground_b3" { }
 		"cp_priderock_b2" { }
 		"cp_propaganda_b19" { }
+		"cp_recloak_a2" { }
 		"cp_reckoner" { }
 		"cp_redstone_b2" { }
 		"cp_rooftop_b6" { }
+		"cp_sdnaldab" { }
 		"cp_shelter_rc4" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
@@ -191,7 +204,9 @@
 		"cp_toy_fort_tbr_v6" { }
 		"cp_toys_v2" { }
 		"cp_undercrypt_b9" { }
+		"cp_vehkon2_v1" { }
 		"cp_wildlife_rc3" { }
+		"rats_tequila_b01" { }
 	}
 
 	"Capture The Flag"
