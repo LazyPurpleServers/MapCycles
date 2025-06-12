@@ -6,6 +6,7 @@
 	{
 		"maps_invote" "1"
 
+		"af_arena_idolon" { }
 		"arena_backlot_rc2" { }
 		"arena_badlands" { }
 		"arena_betteryard_rc1" { }
@@ -15,9 +16,11 @@
 		"arena_chounai_b2" { }
 		"arena_discovery_rc2" { }
 		"arena_dropdown_rc1" { }
+		"arena_floorofglass_V1" { }
 		"arena_fortfrolic_a3" { }
 		"arena_granary" { }
 		"arena_lumberyard_event" { }
+		"arena_hammertimer_a1" { }
 		"arena_hardhat_b2a" { }
 		"arena_harvest" { }
 		"arena_haul_b4" { }
@@ -32,6 +35,8 @@
 		"arena_perks" { }
 		"arena_phantom_b3" { }
 		"arena_ravine" { }
+		"arena_ravine_randomly_b1" { }
+		"arena_resupply_a2" { }
 		"arena_sawdust_72_b1" { }
 		"arena_sawmill" { }
 		"arena_scorched_final" { }
@@ -44,6 +49,7 @@
 		"arena_temper_rc1" { }
 		"arena_tinyrock" { }
 		"arena_voltage_a1" { }
+		"arena_watchtowerrrrrrrrr_b1" { }
 		"arena_well" { }
 		"arena_yunshu_rc1" { }
 		"ctf_exsmol_rc1" { }
@@ -694,6 +700,9 @@
 	{
 		"maps_invote" "1"
 
+		"af_bananarama" { }
+		"balloon_race_v3_t7" { }
+		"boss_sealchamber_v2" { }
 		"cp_caper_rc7" { }
 		"cp_sunnyside_final" { }
 		"dom_canalzone2_b4" { }
@@ -740,12 +749,14 @@
 		"plr_valentine_b2" { }
 		"sd_push_b1" { }
 		"sd_toucan_final2" { }
+		"steamboat_race_v5e" { }
 		"tc_meridian_rc3" { }
 		"tc_spectre_b5" { }
 		"tc_strata_b1c" { }
 		"tow_dynamite_rc1t" { }
 		"tow_impasse_b4" { }
 		"tow_tetsudo_b7" { }
+		"wacky_races_v2"  { }
 	}
 
 	"Valve Casual Rotation"
