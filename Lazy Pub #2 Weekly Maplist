@@ -214,6 +214,7 @@
 		"maps_invote" "1"
 
 		"ctf_2castle" { }
+		"ctf_2fort_breakable" { }
 		"ctf_2fort_classic_redux" { }
 		"ctf_2fort_dark" { }
 		"ctf_2fort_desert2" { }
@@ -222,6 +223,7 @@
 		"ctf_2fort_np_v2d" { }
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
+		"ctf_2fort_twisted" { }
 		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
@@ -235,6 +237,7 @@
 		"ctf_boneyard" { }
 		"ctf_converge_b3" { }
 		"ctf_convoy_v2" { }
+		"ctf_crasher" { }
 		"ctf_cruise_b4b" { }
 		"ctf_decker_rc1" { }
 		"ctf_deliverance_b3" { }
@@ -243,9 +246,12 @@
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
 		"ctf_downtown_final" { }
+		"ctf_eggwar_b2" { }
+		"ctf_enibrut_b2" { }
 		"ctf_epicenter" { }
 		"ctf_extraction_b6" { }
 		"ctf_facility_build62" { }
+		"ctf_facing_worlds_2011" { }
 		"ctf_factory" { }
 		"ctf_favela_b14" { }
 		"ctf_flakey_b3" { }
@@ -255,17 +261,26 @@
 		"ctf_graveshift_rc3" { }
 		"ctf_greystone_b2" { }
 		"ctf_hades_b5" { }
+		"ctf_half2fort_halfturbine" { }
 		"ctf_hallofdeath_2_rc1" { }
+		"ctf_halo_bloodgulch" { }
 		"ctf_hearth_event_rc5" { }
 		"ctf_hotspring_b3a" { }
 		"ctf_hydro_v2" { }
 		"ctf_installation_v2" { }
+		"ctf_lavapit_72h_b2" { }
 		"ctf_lavatech_rc2" { }
 		"ctf_locomotion_b3" { }
 		"ctf_lostcity" { }
+		"ctf_mandrillmaze_b2" { }
 		"ctf_mercy" { }
+		"ctf_minecraft_b8" { }
 		"ctf_monkeynaut_b5" { }
+		"ctf_nocross" { }
+		"ctf_nordhaven_special_b3" { }
+		"ctf_np_blake_fusion" { }
 		"ctf_nuclide_rc8d" { }
+		"ctf_ocean_machine" { }
 		"ctf_overlook_b1" { }
 		"ctf_parabolic_a10" { }
 		"ctf_pelican_peak" { }
@@ -277,6 +292,8 @@
 		"ctf_retreat_b1" { }
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
+		"ctf_royal_b3" { }
+		"ctf_sawmill_rainy" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
 		"ctf_shipyard_b9" { }
@@ -286,18 +303,33 @@
 		"ctf_system_rc1" { }
 		"ctf_tailrace_b10" { }
 		"ctf_terminus_event_b3a" { }
+		"ctf_theskatingrink" { }
+		"ctf_theundergroundwar_a4" { }
 		"ctf_totalwar_v2" { }
+		"ctf_trof2" { }
 		"ctf_turbine2_a6" { }
+		"ctf_turbine_crocodile" { }
+		"ctf_turbine_everything_is_big" { }
 		"ctf_turbine_expanded" { }
+		"ctf_turbine_extended_final" { }
+		"ctf_turbine_flood" { }
+		"ctf_turbine_maze_noleaks" { }
+		"ctf_turbine_tilted" { }
+		"ctf_turbine_upsidedown_02" { }
 		"ctf_turbine_winter" { }
 		"ctf_turbine2_a6" { }
+		"ctf_turrrrrrrrrrrrrrrrrbine_fix3" { }
+		"ctf_underside_1_1" { }
+		"ctf_unturbine" { }
 		"ctf_urbanbrook" { }
 		"ctf_vector_v1" { }
+		"ctf_vikings_final" { }
 		"ctf_well_classic_b3" { }
 		"ctf_well_snowy_b4" { }
 		"ctf_wildfire_rc" { }
 		"ctf_winter_ridge_rc1" { }
 		"ctf_wiretap_b3" { }
+		"ctf_xpress_2012_b1" { }
 	}
 
 	"King of the Hill"
