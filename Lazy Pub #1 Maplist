@@ -11,7 +11,7 @@
 		"koth_mannhole_b1" { }
 		"koth_naphtha_b5c" { }
 		"koth_rio_rc7a" { }
-		"pd_recycler_b8" { }
+		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pl_bridgeway_b2" { }
 		"pl_citadel_b3c" { }
 		"pl_downunder_b28" { }
@@ -196,7 +196,7 @@
 		"pd_atom_smash" { }
 		"pd_galleria" { }
 		"pd_pipeline_rc6" { }
-		"pd_recycler_b8" { }
+		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_selbyen" { }
 		"pd_street_rc2b" { }
 		"pd_suijin_matsuri_rc4" { }
