@@ -241,6 +241,7 @@
 		"ctf_meltdown_b6" { }
 		"ctf_backwards_b1" { }
 		"ctf_biomass_rc1" { }
+		"ctf_bluefort_rc1" { "workshopid" "3474743673" }
 		"ctf_boneyard" { }
 		"ctf_converge_b3" { }
 		"ctf_convoy_v2" { }
