@@ -9,9 +9,9 @@
 		"cp_sunnyside_final" { }
 		"dm_mariokart3_v1" { }
 		"koth_boardwalk_b2" { }
-		"koth_dryfield_rc2" { }
+		"koth_dryfield_rc2" { "workshopid" "3462326252" }
 		"pd_azureworld_rc1" { }
-		"pd_recycler_b8" { }
+		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_zinc_b4" { }
 		"pkmn_goldenrodcity_b7" { }
 		"tow_tetsudo_b6" { }
@@ -109,7 +109,7 @@
 		"koth_crumble_rc1" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
-		"koth_dryfield_rc2" { }
+		"koth_dryfield_rc2" { "workshopid" "3462326252" }
 		"koth_dryway_final" { }
 		"koth_etherestate" { }
 		"koth_forge_b5a" { }
@@ -178,7 +178,7 @@
 		"pd_galleria" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania" { }
-		"pd_recycler_b8" { }
+		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_salvador_b3c" { }
 		"pd_selbyen" { }
 		"pd_static_rc2c" { }
