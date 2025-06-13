@@ -77,7 +77,7 @@
 		"koth_conveyance_rc3b" { }
 		"koth_county_b7" { }
 		"koth_databank_rc3" { }
-		"koth_dryfield_rc2" { }
+		"koth_dryfield_rc2" { "workshopid" "3462326252" }
 		"koth_empire_rc2" { }
 		"koth_fjord_rc0v1" { }
 		"koth_forge_b5a" { }
