@@ -396,7 +396,7 @@
 		"koth_drop_b3" { }
 		"koth_dropdeadfred_v3" { }
 		"koth_dropdown_rc1" { }
-		"koth_dryfield_rc2" { }
+		"koth_dryfield_rc2" { "workshopid" "3462326252" }
 		"koth_dryway_final" { }
 		"koth_dusty_b1" { }
 		"koth_egan_72_a5_fix1" { }
@@ -736,7 +736,7 @@
 		"pd_midway_a3" { }
 		"pd_nucleus_event_b4" { }
 		"pd_pipeline_rc6" { }
-		"pd_recycler_b8" { }
+		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_salvador_b3c" { }
 		"pd_sfoth_a6" { }
 		"pd_standin_b1" { }
