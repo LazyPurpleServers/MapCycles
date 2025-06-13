@@ -472,7 +472,6 @@
 		"gm_baik_tatooine" { }
 		"gm_baik_frontline" { }
 		"gm_bay" { }
-		// "gm_bigcitysideways" { } off of rotation until i can fix the spawn points
 		"gm_buttes2" { } 
 		"gm_carconstruct_b1-8" { }
 		"gm_cliffhanger" { }
@@ -505,7 +504,6 @@
 		"gm_outpost_omega" { }
 		"gm_peyote" { }
 		"gm_rats_nest" { }
-		// "gm_red_keep" { } off rotation until fixed
 		"gm_rockbottom" { }
 		"gm_seabase_alpha" { }
 		"gm_securityzone" { }
