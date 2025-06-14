@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "123"
+		"count" "127"
 		
 		"1"
 		{
@@ -443,7 +443,7 @@
 		"88"
 		{
 			"map" "mvm_hurricane_rc3"
-			"popfile" "mvm_int_tempest_in_a_teapot"
+			"popfile" "mvm_hurricane_rc3_adv_purple_rain"
 		}
 		"89"
 		{
@@ -619,6 +619,31 @@
 		{
 			"map" "mvm_starcoast_a1"
 			"popfile" "mvm_starcoast_a1_adv_brokenparts"
+		}
+		"124"
+		{
+			"map" "mvm_bronx_rc2fix"
+			"popfile" "mvm_bronx_rc2fix_adv_brawl"
+		}
+		"125"
+		{
+			"map" "mvm_charon_b8"
+			"popfile" "mvm_charon_b8_int_crash_landing"
+		}
+		"126"
+		{
+			"map" "mvm_faza_rc4"
+			"popfile" "mvm_faza_rc4_Chemical_Metal_Composition"
+		}
+		"123"
+		{
+			"map" "mvm_sand_rc1a"
+			"popfile" "mvm_sand_rc1a_newadv-1"
+		}
+		"127"
+		{
+			"map" "mvm_sewer_invasion"
+			"popfile" "mvm_sewer_invasion_b7"
 		}
 	}
 }
