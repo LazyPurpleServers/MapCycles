@@ -642,7 +642,7 @@
 		}
 		"128"
 		{
-			"map" "mvm_sewer_invasion"
+			"map" "mvm_sewer_invasion_b7"
 			"popfile" "mvm_sewer_invasion_b7"
 		}
 	}
