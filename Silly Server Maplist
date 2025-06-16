@@ -247,7 +247,7 @@
 		"ctf_boneyard" { }
 		"ctf_collisionroutev1f" { }
 		"ctf_collisionroutev1f_event" { }
-		"ctf_convoy_v2" { }
+		"ctf_convoy_v4" { }
 		"ctf_cruise_b4b" { }
 		"ctf_Decker_b1" { }
 		"ctf_deliverance_b3" { }
