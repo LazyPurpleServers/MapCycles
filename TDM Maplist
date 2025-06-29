@@ -4,15 +4,14 @@
 	{
         "maps_invote" "1"
         
-		"ctf_bluefort_rc1" { "workshopid" "3474743673" }
+		"cp_marioblast_2011" { }
+		"ctf_applejack" { }
 		"ctf_pressure_b9" { "workshopid" "3480634190" }
 		"cp_sunnyside_final" { }
+		"dm_backfort_gravfix3" { }
 		"dm_mariokart3_v1" { }
-		"koth_boardwalk_b2" { }
-		"koth_dryfield_rc2" { "workshopid" "3462326252" }
-		"pd_azureworld_rc1" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
-		"pd_zinc_b4" { }
+		"pipeball_linedrive_rc2" { }
 		"pkmn_goldenrodcity_b7" { }
 		"tow_tetsudo_b6" { }
 	}
