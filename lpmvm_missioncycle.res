@@ -617,8 +617,8 @@
 		}
 		"123"
 		{
-			"map" "mvm_starcoast_a1"
-			"popfile" "mvm_starcoast_a1_adv_brokenparts"
+			"map" "mvm_starcoast_b1"
+			"popfile" "mvm_starcoast_b1_adv_brokenparts"
 		}
 		"124"
 		{
