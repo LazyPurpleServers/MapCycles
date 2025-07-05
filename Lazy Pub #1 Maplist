@@ -17,7 +17,7 @@
 		"pl_downunder_b28" { }
 		"pl_farmstead_rc6" { }
 		"pl_mariposa_b5c" { }
-		"tow_tetsude_b6" { }
+		"tow_tetsude_b8" { }
 	}
 
 	"Attack & Defend"
@@ -204,6 +204,6 @@
 		"pd_watergate" { }
 		"pd_zinc_b4" { }
 		"pl_longboy_b10" { }
-		"tow_tetsude_b7" { }
+		"tow_tetsude_b8" { }
 	}
 }
