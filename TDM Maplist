@@ -13,7 +13,7 @@
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pipeball_linedrive_rc2" { }
 		"pkmn_goldenrodcity_b7" { }
-		"tow_tetsudo_b7" { }
+		"tow_tetsudo_b8" { }
 	}
 
 	"Control Points "
@@ -122,7 +122,6 @@
 		"koth_kemptown_rc3a" { }
 		"koth_keylog_b3" { }
 		"koth_king" { }
-		"koth_krampus" { }
 		"koth_lakeside_final" { }
 		"koth_lifesnatcher_b5" { }
 		"koth_los_muertos" { }
@@ -199,6 +198,6 @@
 		"sd_toucan_final2" { }
 		"tow_dynamite" { }
 		"tow_impasse_b4a" { }
-		"tow_tetsudo_b7" { }
+		"tow_tetsudo_b8" { }
 	}
 }
