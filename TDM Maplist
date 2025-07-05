@@ -13,7 +13,7 @@
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pipeball_linedrive_rc2" { }
 		"pkmn_goldenrodcity_b7" { }
-		"tow_tetsudo_b6" { }
+		"tow_tetsudo_b7" { }
 	}
 
 	"Control Points "
@@ -199,6 +199,6 @@
 		"sd_toucan_final2" { }
 		"tow_dynamite" { }
 		"tow_impasse_b4a" { }
-		"tow_tetsudo_b6" { }
+		"tow_tetsudo_b7" { }
 	}
 }
