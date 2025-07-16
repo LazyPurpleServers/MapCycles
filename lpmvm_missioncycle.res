@@ -527,8 +527,8 @@
 		}
 		"105"
 		{
-			"map" "mvm_gravelpass_b3"
-			"popfile" "mvm_gravelpass_b3_exp_mannslaughter"
+			"map" "mvm_gravelpass_b4"
+			"popfile" "mvm_gravelpass_b4_exp_mannslaughter"
 		}
 		"106"
 		{
@@ -617,8 +617,8 @@
 		}
 		"123"
 		{
-			"map" "mvm_starcoast_b2"
-			"popfile" "mvm_starcoast_b2_adv_brokenparts"
+			"map" "mvm_starcoast_b3b"
+			"popfile" "mvm_starcoast_b3b_adv_brokenparts"
 		}
 		"124"
 		{
@@ -645,5 +645,9 @@
 			"map" "mvm_sewer_invasion_b7"
 			"popfile" "mvm_sewer_invasion_b7"
 		}
+		"129"
+		{
+			"map" "mvm_bonk_plant_rc3"
+			"popfile" "mvm_bonk_plant_rc3_adv_colamity"
 	}
 }
