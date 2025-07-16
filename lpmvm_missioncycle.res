@@ -649,5 +649,6 @@
 		{
 			"map" "mvm_bonk_plant_rc3"
 			"popfile" "mvm_bonk_plant_rc3_adv_colamity"
+		}
 	}
 }
