@@ -130,6 +130,7 @@
 		"pkmn_vermillioncity_b1" { }
 		"plr_2xhighertower_v2" { }
 		"plr_aulli_b2c" { }
+		"plr_bananabay" { }
 		"plr_cutter" { }
 		"plr_dustbowl_s1_v1" { }
 		"plr_fishladder3" { }
@@ -291,7 +292,7 @@
 		"ctf_penguin_peak" { }
 		"ctf_pool" { }
 		"ctf_powerhouse_final" { }
-		"ctf_pressure_b9" { "workshopid" "3480634190" }
+		"ctf_pressure" { }
 		"ctf_quarry_v2" { }
 		"ctf_ravelin" { }
 		"ctf_retreat_b1" { }
@@ -341,8 +342,8 @@
 		"cp_buzzards_canyon_winter" { }
 		"cp_canterlot_wg_b2" { }
 		"cp_cardinal_rc1a" { }
-		"cp_cargo_b6" { }
-		"cp_conifer_rc3a" { }
+		"cp_cargo" { }
+		"cp_conifer" { }
 		"cp_canterlot_wg_b2" { }
 		"cp_carthage_b1" { }
 		"cp_chipper_b5" { }
@@ -372,7 +373,7 @@
 		"cp_follower" { }
 		"cp_fortezza" { }
 		"cp_frozen_rc4" { }
-		"cp_fulgur_rc3" { }
+		"cp_fulgur" { }
 		"cp_furnace_rc" { }
 		"cp_geomance_rc1" { }
 		"cp_ghastlane_event_rc2" { }
@@ -563,7 +564,8 @@
 		"koth_bagel_rc11" { }
 		"koth_basalt_rc2" { }
 		"koth_beachlands_a1" { }
-		"koth_boardwalk_b2" { }
+		"koth_blowout" { }
+		"koth_boardwalk" { }
 		"koth_brine_rc3a" { }
 		"koth_brokenhills_b3" { }
 		"koth_canada_rc1" { }
@@ -586,6 +588,7 @@
 		"koth_crumble_rc1" { }
 		"koth_daenam_b11" { }
 		"koth_databank_rc1" { }
+		"koth_demolition" { }
 		"koth_denile_b3" { }
 		"koth_dewm_rc1" { }
 		"koth_dewpoint_b5b" { }
@@ -627,6 +630,7 @@
 		"koth_logwash_rc6a" { }
 		"koth_luigis_mansion_v3_yelldowfix" { }
 		"koth_nerve" { }
+		"koth_mannhole" { }
 		"koth_market_b2_yelldowfix" { }
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
@@ -785,7 +789,7 @@
         "maps_invote" "1"
 
         "pl_alpine_forest_rc2" { }
-	"pl_aquarius_b25" { }
+	"pl_aquarius" { }
         "pl_badlands_winter" { }
         "pl_beerbowl_rc1" { }
         "pl_blastpitt_rc3" { }
@@ -793,7 +797,7 @@
         "pl_boundary_final" { }
 	"pl_cattower_b0" { }
         "pl_cashworks" { }
-        "pl_citadel_b4a" { }
+        "pl_citadel" { }
         "pl_cliffsedge_b1" { }
         "pl_coldrush_rc1" { }
         "pl_cornfarm_rc" { }
