@@ -4,20 +4,14 @@
 	{
         "maps_invote" "1"
         
-		"cp_sunnyside_final" { }
-		"cp_wildcat_rc1a" { }
-		"koth_blowout_b3" { }
-		"koth_boardwalk_b2" { }
-		"koth_mannhole_b1" { }
-		"koth_naphtha_b5c" { }
-		"koth_rio_rc7a" { }
-		"pd_recycler_b10" { "workshopid" "3496824760" }
-		"pl_bridgeway_b2" { }
-		"pl_citadel_b4a" { }
-		"pl_downunder_b28" { }
-		"pl_farmstead_rc6" { }
-		"pl_mariposa_b5c" { }
-		"tow_tetsudo_b8" { }
+		"cp_cargo" { }
+		"cp_conifer" { }
+		"cp_fortezza" { }
+		"cp_fulgur" { }
+		"koth_blowout" { }
+		"koth_boardwalk" { }
+		"koth_mannhole" { }
+		"pl_citadel" { }
 	}
 
 	"Attack & Defend"
@@ -28,12 +22,13 @@
 		"cp_altitude" { }
 		"cp_artillery_b4b" { }
 		"cp_brew" { }
+		"cp_cargo" { }
 		"cp_cold_era_rc2c" { }
-		"cp_conifer_rc4" { }
+		"cp_conifer" { }
 		"cp_copperhead_b2c" { }
 		"cp_egypt_final" { }
 		"cp_fortezza" { }
-		"cp_fulgur_rc3" { }
+		"cp_fulgur" { }
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
 		"cp_gravelpit" { }
@@ -68,8 +63,8 @@
         
 		"koth_anthem_b4" { }
 		"koth_bagel_rc11" { }
-		"koth_blowout_b3" { }
-		"koth_boardwalk_b2" { }
+		"koth_blowout" { }
+		"koth_boardwalk" { }
 		"koth_brine_rc3a" { }
 		"koth_cachoeira" { }
 		"koth_cascade" { }
@@ -96,7 +91,7 @@
 		"koth_lazarus" { }
 		"koth_logwash_rc6a" { }
 		"koth_lowtide_b8a" { }
-		"koth_mannhole_b1" { }
+		"koth_mannhole" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_megasnow_rc1" { }
 		"koth_megaton" { }
@@ -138,7 +133,7 @@
 		"pl_cactuscanyon_redux_final2" { }
 		"pl_camber" { }
 		"pl_cashworks" { }
-		"pl_citadel_b4a" { }
+		"pl_citadel" { }
 		"pl_desolation_rc1c" { }
 		"pl_divulgence_b4b" { }
 		"pl_downunder_b28" { }
