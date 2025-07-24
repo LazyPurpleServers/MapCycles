@@ -70,12 +70,12 @@
 		"cp_bloodcrystal_event" { }
 		"cp_brew" { }
 		"cp_broma" { }
-		"cp_cargo_b6" { }
+		"cp_cargo" { }
 		"cp_carthage_b1" { }
 		"cp_cheesefire" { }
 		"cp_cold_era_rc2c" { }
 		"cp_copperhead_b2c" { }
-		"cp_conifer_rc4" { }
+		"cp_conifer" { }
 		"cp_crater_b24" { }
 		"cp_daytrip_rc4" { }
 		"cp_degrootkeep_rats" { }
@@ -89,7 +89,7 @@
 		"cp_fieldworks_a4" { }
 		"cp_forsaken_downpour_rc1" { }
 		"cp_fortezza" { }
-		"cp_fulgur_rc3" { }
+		"cp_fulgur" { }
 		"cp_furnace_rc" { }
 		"cp_george_rc7" { }
 		"cp_glacier_rc6" { }
@@ -294,7 +294,7 @@
 		"ctf_pelican_peak" { }
 		"ctf_penguin_peak" { }
 		"ctf_pool" { }
-		"ctf_pressure_b9" { "workshopid" "3480634190" }
+		"ctf_pressure" { }
 		"ctf_quarry_v2" { }
 		"ctf_raveravine_beta03" { }
 		"ctf_retreat_b1" { }
@@ -360,8 +360,8 @@
 		"koth_bagel_rc11" { }
 		"koth_basalt_rc2" { }
 		"koth_betteryard_rc1" { }
-		"koth_blowout_b3" { }
-		"koth_boardwalk_b2" { }
+		"koth_blowout" { }
+		"koth_boardwalk" { }
 		"koth_bound_rc1b" { }
 		"koth_boxes_a10" { }
 		"koth_brickyard_v2_a8" { }
@@ -388,6 +388,7 @@
 		"koth_daenam_b12" { }
 		"koth_databank_rc3" { }
 		"koth_deep13_b1" { }
+		"koth_demolition" { }
 		"koth_denile_b3" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
@@ -450,7 +451,7 @@
 		"koth_lovely_b1" { }
 		"koth_lowtide_b8a" { }
 		"koth_luftangriff_b5a" { }
-		"koth_mannhole_b1" { }
+		"koth_mannhole" { }
 		"koth_maple_ridge_event" { }
 		"koth_maple_ridge_rc2" { }
 		"koth_mars" { }
@@ -586,7 +587,7 @@
 		"pl_abandoned_upward" { }
 		"pl_alpine_forest_rc2" { }
 		"pl_angkor_rc2" { }
-		"pl_aquarius_b25" { }
+		"pl_aquarius" { }
 		"pl_badcoastbarnward_a5" { }
 		"pl_badwater_rainy" { }
 		"pl_badwater_tilt" { }
@@ -605,7 +606,7 @@
 		"pl_cashworks" { }
 		"pl_casserole_rc3" { }
 		"pl_cattower_b0" { }
-		"pl_citadel_b4a" { }
+		"pl_citadel" { }
 		"pl_cliffsedge_b1" { }
 		"pl_coldrush_rc1" { }
 		"pl_cornfarm_rc" { }
