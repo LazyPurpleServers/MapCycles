@@ -6,7 +6,7 @@
         
 		"cp_marioblast_2011" { }
 		"ctf_applejack" { }
-		"ctf_pressure_b9" { "workshopid" "3480634190" }
+		"ctf_pressure" { }
 		"cp_sunnyside_final" { }
 		"dm_backfort_gravfix3" { }
 		"dm_mariokart3_v1" { }
@@ -96,7 +96,8 @@
 
 		"koth_aquaticruin_final" { }
 		"koth_appleacres_b3" { }
-		"koth_boardwalk_b2" { }
+		"koth_boardwalk" { }
+		"koth_blowout" { }
 		"koth_brine_rc3a" { }
 		"koth_brokenhills_b3a" { }
 		"koth_cachoeira" { }
@@ -125,6 +126,7 @@
 		"koth_lakeside_final" { }
 		"koth_lifesnatcher_b5" { }
 		"koth_los_muertos" { }
+		"koth_mannhole" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
 		"koth_megaton" { }
