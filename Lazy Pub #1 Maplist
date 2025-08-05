@@ -6,7 +6,6 @@
         
 		"cp_cargo" { }
 		"cp_conifer" { }
-		"cp_fortezza" { }
 		"cp_fulgur" { }
 		"koth_blowout" { }
 		"koth_boardwalk" { }
@@ -27,7 +26,6 @@
 		"cp_conifer" { }
 		"cp_copperhead_b2c" { }
 		"cp_egypt_final" { }
-		"cp_fortezza" { }
 		"cp_fulgur" { }
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
