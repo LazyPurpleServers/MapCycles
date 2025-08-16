@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "133"
+		"count" "134"
 		
 		"1"
 		{
@@ -670,6 +670,12 @@
 			"map" "mvm_marsbase_rc5"
 			"popfile" "mvm_marsbase_rc5_adv_secret_struggle"
 		}
+		"134"
+		{
+			"map" "mvm_degrootkeep_b1"
+			"popfile" "mvm_degrootkeep_b1_adv_crusading_catastrophe"
+		}
 	}
 }
+
 
