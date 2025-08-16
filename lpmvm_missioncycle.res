@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "129"
+		"count" "133"
 		
 		"1"
 		{
@@ -317,8 +317,8 @@
 		}
 		"63"
 		{
-			"map" "mvm_seabed_b1"
-			"popfile" "mvm_seabed_b1_advanced1"
+			"map" "mvm_seabed_b6"
+			"popfile" "mvm_seabed_b6_advanced1"
 		}
 		"64"
 		{
@@ -650,5 +650,26 @@
 			"map" "mvm_bonk_plant_rc3"
 			"popfile" "mvm_bonk_plant_rc3_adv_colamity"
 		}
+		"130"
+		{
+			"map" "mvm_mansion_rc1d"
+			"popfile" "mvm_mansion_rc1d_adv_property_inspection"
+		}
+		"131"
+		{
+			"map" "mvm_chopper_rc1d"
+			"popfile" "mvm_chopper_rc1d_adv_blackout_backwoods"
+		}
+		"132"
+		{
+			"map" "mvm_legerdemain_a6e"
+			"popfile" "mvm_legerdemain_a6e_adv_midnight_patrol"
+		}
+		"133"
+		{
+			"map" "mvm_marsbase_rc5"
+			"popfile" "mvm_marsbase_rc5_adv_secret_struggle"
+		}
 	}
 }
+
