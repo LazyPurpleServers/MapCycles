@@ -139,6 +139,7 @@
 		"cp_tiplevarg" { }
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
+		"cp_watercourse_b12" { }
 		"cp_wetcoal_b1" { }
 		"cp_widebowl" { }
 		"cp_wildcat_rc1a" { }
@@ -304,7 +305,7 @@
 		"ctf_sawmill_rainy" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b10a" { }
+		"ctf_shipyard_b11a" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -749,7 +750,7 @@
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
-		"pd_zinc_b4" { }
+		"pd_zinc_b4b" { }
 		"pl_longboy_b10" { }
 		"pl_nat20_b2b" { }
 		"plr_2cart" { }
