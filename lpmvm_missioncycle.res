@@ -197,8 +197,8 @@
 		}
 		"39"
 		{
-			"map" "mvm_rustvalley_rc4"
-			"popfile" "mvm_rustvalley_rc4_int_restless_robotics"
+			"map" "mvm_rustvalley_rc6"
+			"popfile" "mvm_rustvalley_rc6_int_restless_robotics"
 		}
 		"40"
 		{
@@ -602,8 +602,8 @@
 		}
 		"120"
 		{
-			"map" "mvm_crown_rc1"
-			"popfile" "mvm_crown_rc1_adv_op_deforestation"
+			"map" "mvm_crown_rc4b"
+			"popfile" "mvm_crown_rc4b_adv_op_deforestation"
 		}
 		"121"
 		{
@@ -675,8 +675,99 @@
 			"map" "mvm_degrootkeep_b1"
 			"popfile" "mvm_degrootkeep_b1_adv_crusading_catastrophe"
 		}
+		"135"
+		{
+			"map" "mvm_salvage_rc3a"
+			"popfile" "mvm_salvage_rc3a_normal_mild_meltdown"
+		}
+		"136"
+		{
+			"map" "mvm_paradigm_rc5"
+			"popfile" "mvm_paradigm_rc5_normal_bush_trial"
+		}
+		"137"
+		{
+			"map" "mvm_overrun_b2"
+			"popfile" "mvm_overrun_b2_overloaded"
+		}
+		"138"
+		{
+			"map" "mvm_november_rc1a"
+			"popfile" "mvm_november_rc1a"
+		}
+		"139"
+		{
+			"map" "mvm_midtown_b3"
+			"popfile" "mvm_midtown_b3_adv_streetlight_signal"
+		}
+		"140"
+		{
+			"map" "mvm_mannkara_b3"
+			"popfile" "mvm_mannkara_b3_mannslaughter"
+		}
+		"141"
+		{
+			"map" "mvm_goldbend_b11"
+			"popfile" "mvm_goldbend_b11_normal_mining_camp"
+		}
+		"142"
+		{
+			"map" "mvm_flowerfield_rc8"
+			"popfile" "mvm_flowerfield_rc8_nor_flowering_day"
+		}
+		"143"
+		{
+			"map" "mvm_facade_b1"
+			"popfile" "mvm_facade_b1_adv_outlawed"
+		}
+		"144"
+		{
+			"map" "mvm_dionysus_b5a"
+			"popfile" "mvm_dionysus_b5a_adv_aristaeus_accept"
+		}
+		"145"
+		{
+			"map" "mvm_crossguard_b2"
+			"popfile" "mvm_crossguard_b2_normal_automated_apprenticeship"
+		}
+		"146"
+		{
+			"map" "mvm_comstock_rc1b"
+			"popfile" "mvm_comstock_rc1b_int_miner_orexvation"
+		}
+		"147"
+		{
+			"map" "mvm_atomic_ascent_b1"
+			"popfile" "mvm_atomic_ascent_b1"
+		}
+		"148"
+		{
+			"map" "mvm_apex_b5"
+			"popfile" "mvm_apex_b5_adv_critical_cold"
+		}
+		"149"
+		{
+			"map" "mvm_ancient_grease_b1b"
+			"popfile" "mvm_ancient_grease_b1b_int_greek_fire"
+		}
+		"150"
+		{
+			"map" "mvm_akure_rc2a"
+			"popfile" "mvm_akure_rc2a_int_coldfront_conflict"
+		}
+		"151"
+		{
+			"map" "mvm_ventus_rc2"
+			"popfile" "mvm_ventus_rc2_adv_barnacle_beatdown"
+		}
+		"152"
+		{
+			"map" "mvm_solaris_final1"
+			"popfile" "mvm_solaris_final1_adv_sinister_sabotage"
+		}
 	}
 }
+
 
 
 
