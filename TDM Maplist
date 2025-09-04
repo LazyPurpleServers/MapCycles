@@ -7,7 +7,7 @@
 		"cp_marioblast_2011" { }
 		"ctf_applejack" { }
 		"ctf_pressure" { }
-		"ctf_shipyard_b10a" { }
+		"ctf_shipyard_b11a" { }
 		"dm_backfort_gravfix3" { }
 		"dm_mariokart3_v1" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
@@ -60,7 +60,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b10a" { }
+		"ctf_shipyard_b11a" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_tour_b6c" { }
 		"ctf_turbine_winter" { }
@@ -183,7 +183,7 @@
 		"pd_static_rc2c" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
-		"pd_zinc_b4" { }
+		"pd_zinc_b4b" { }
 		"pipeball_linedrive_rc2" { }
 		"pkmn_goldenrodcity_b7" { }
 		"pkmn_lilycovecity_b1" { }
