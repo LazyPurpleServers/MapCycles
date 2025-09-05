@@ -7,7 +7,7 @@
 		"cp_marioblast_2011" { }
 		"ctf_applejack" { }
 		"ctf_pressure" { }
-		"ctf_shipyard_b11a" { }
+		"ctf_shipyard_b11b" { }
 		"dm_backfort_gravfix3" { }
 		"dm_mariokart3_v1" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
@@ -60,7 +60,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b11a" { }
+		"ctf_shipyard_b11b" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_tour_b6c" { }
 		"ctf_turbine_winter" { }
