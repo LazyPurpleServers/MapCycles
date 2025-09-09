@@ -47,8 +47,8 @@
 		}
 		"9"
 		{
-			"map" "mvm_calico_b1a"
-			"popfile" "mvm_calico_b1a_adv_scabby_subordination"
+			"map" "mvm_calico_rc2b"
+			"popfile" "mvm_calico_rc2b_adv_scabby_subordination"
 		}
 		"10"
 		{
@@ -747,6 +747,7 @@
 		}
 	}
 }
+
 
 
 
