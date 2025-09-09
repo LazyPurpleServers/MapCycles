@@ -37,8 +37,8 @@
 		}
 		"7"
 		{
-			"map" "mvm_area_52_rc3"
-			"popfile" "mvm_area_52_rc3_int_gatebot_apocalypse"
+			"map" "mvm_area_52_rc4"
+			"popfile" "mvm_area_52_rc4_int_gatebot_apocalypse"
 		}
 		"8"
 		{
@@ -52,8 +52,8 @@
 		}
 		"10"
 		{
-			"map" "mvm_casino_city_b7c"
-			"popfile" "mvm_casino_city_b7c_int_poker_pummel"
+			"map" "mvm_casino_city_rc2b"
+			"popfile" "mvm_casino_city_rc2b_int_poker_pummel"
 		}
 		"11"
 		{
@@ -242,13 +242,13 @@
 		}
 		"48"
 		{
-			"map" "mvm_trainyard_rc3d"
-			"popfile" "mvm_trainyard_rc3d_int_driving_training"
+			"map" "mvm_trainyard_rc9"
+			"popfile" "mvm_trainyard_rc9_int_driving_training"
 		}
 		"49"
 		{
-			"map" "mvm_transmission_rc7a"
-			"popfile" "mvm_transmission_rc7a_int_binary_broadcast"
+			"map" "mvm_transmission"
+			"popfile" "mvm_transmission_advanced1"
 		}
 		"50"
 		{
@@ -442,8 +442,8 @@
 		}
 		"88"
 		{
-			"map" "mvm_spybase_rc8fix"
-			"popfile" "mvm_spybase_rc8fix_normal"
+			"map" "mvm_spybase_rc16"
+			"popfile" "mvm_spybase_rc16_normal"
 		}
 		"89"
 		{
@@ -747,6 +747,7 @@
 		}
 	}
 }
+
 
 
 
