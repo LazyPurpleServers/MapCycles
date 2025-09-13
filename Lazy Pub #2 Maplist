@@ -551,7 +551,7 @@
 		"koth_toxic_event_rc2b" { }
 		"koth_trainfalls_v5" { }
 		"koth_traingrid_b2" { }
-		"koth_trainsawlaser_rc2" { }
+		"koth_trainsawlaser_v2" { "workshopid" "3566434696" }
 		"koth_trainwreck_b8" { }
 		"koth_trenchfoot_ab1" { }
 		"koth_triplet_b1" { }
