@@ -10,6 +10,7 @@
 		"ctf_shipyard_b11b" { }
 		"dm_backfort_gravfix3" { }
 		"dm_mariokart3_v1" { }
+		"koth_trainsawlaser_v2" { "workshopid" "3566434696" }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pkmn_goldenrodcity_b7" { }
 	}
@@ -150,6 +151,7 @@
 		"koth_suijin" { }
 		"koth_synthetic_rc6a" { }
 		"koth_toxic" { }
+		"koth_trainsawlaser_v2" { "workshopid" "3566434696" }
 		"koth_undergrove_rc1" { }
 		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
