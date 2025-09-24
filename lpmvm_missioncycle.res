@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "148"
+		"count" "158"
 		
 		"1"
 		{
@@ -790,8 +790,14 @@
             "map" "mvm_thunderstorm_rc10"
             "popfile" "mvm_thunderstorm_rc10"
         }
+		"158"
+        {
+            "map" "mvm_havana_b3"
+            "popfile" "mvm_havana_b3"
+        }
 	}
 }
+
 
 
 
