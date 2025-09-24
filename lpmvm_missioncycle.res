@@ -117,8 +117,8 @@
 		}
 		"23"
 		{
-			"map" "mvm_hideout_b3"
-			"popfile" "mvm_hideout_b3_int_covert_compromise"
+			"map" "mvm_hideout_rc1"
+			"popfile" "mvm_hideout_rc1_int_covert_compromise"
 		}
 		"24"
 		{
@@ -257,8 +257,8 @@
 		}
 		"51"
 		{
-			"map" "mvm_waterfront_rc3"
-			"popfile" "mvm_waterfront_rc3_int_short_circuit"
+			"map" "mvm_waterfront_rc4"
+			"popfile" "mvm_waterfront_rc4_int_short_circuit"
 		}
 		"52"
 		{
@@ -357,8 +357,8 @@
 		}
 		"71"
 		{
-			"map" "mvm_havana_b3"
-			"popfile" "mvm_havana_b3"
+			"map" "mvm_havana_rc3b"
+			"popfile" "mvm_havana_rc3b"
 		}
 		"72"
 		{
@@ -387,8 +387,8 @@
 		}
 		"77"
 		{
-			"map" "mvm_robotfactory_b30"
-			"popfile" "mvm_robotfactory_b30_expert"
+			"map" "mvm_robotfactory_rc8"
+			"popfile" "mvm_robotfactory_rc8_expert"
 		}
 		"78"
 		{
@@ -745,8 +745,54 @@
 			"map" "mvm_solaris_final1"
 			"popfile" "mvm_solaris_final1_adv_sinister_sabotage"
 		}
+		"149"
+		{
+			"map" "mvm_cloudpiercer_b3"
+			"popfile" "mvm_cloudpiercer_b3_adv_operation_skyhook"
+		}
+		"150"
+		{
+            "map" "mvm_dome_rc3a"
+            "popfile" "mvm_dome_rc3a"
+        }
+		"151"
+		{
+            "map" "mvm_electricavenue_rc7"
+            "popfile" "mvm_electricavenue_rc7_adv_dismal_demolition"
+        }
+		"152"
+		{
+            "map" "mvm_highland_rc3"
+            "popfile" "mvm_highland_rc3"
+        }
+		"153"
+		{
+            "map" "mvm_lainos_rc12"
+            "popfile" "mvm_lainos_rc12_intermediate"
+        }
+		"154"
+		{
+            "map" "mvm_postal_rc1b"
+            "popfile" "mvm_postal_rc1b_adv_red_letter_day"
+        }
+		"155"
+		{
+            "map" "mvm_silesia"
+            "popfile" "mvm_silesia_adv_coalconundrum"
+        }
+		"156"
+		{
+            "map" "mvm_smog_b3b"
+            "popfile" "mvm_smog_b3b_adv_respiration_restriction"
+        }
+		"157"
+		{
+            "map" "mvm_thunderstorm_rc10"
+            "popfile" "mvm_thunderstorm_rc10"
+        }
 	}
 }
+
 
 
 
