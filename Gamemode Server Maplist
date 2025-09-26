@@ -26,6 +26,7 @@
 		"vsh_outburst" { }
 		"vsh_outlook_rc2b" { }
 		"vsh_skirmish" { }
+		"vsh_thorne_b8" { "workshopid" "3562259083" }
 		"vsh_tinyrock" { }
 	}
 
@@ -34,6 +35,7 @@
 		"command" "exec gamemode/zi"
         
 		"zi_atoll" { }
+		"zi_barnlanding" { "workshopid" "3319022503" }
 		"zi_blazehattan" { }
 		"zi_devastation_final1" { }
 		"zi_murky" { }
