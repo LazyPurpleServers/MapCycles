@@ -52,8 +52,8 @@
 		}
 		"10"
 		{
-			"map" "mvm_casino_city_rc2b"
-			"popfile" "mvm_casino_city_rc2b_int_poker_pummel"
+			"map" "mvm_casino_city_b7c"
+			"popfile" "mvm_casino_city_b7c_int_poker_pummel"
 		}
 		"11"
 		{
@@ -797,6 +797,7 @@
         }
 	}
 }
+
 
 
 
