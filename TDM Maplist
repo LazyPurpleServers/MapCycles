@@ -7,9 +7,9 @@
 		"cp_marioblast_2011" { }
 		"ctf_applejack" { }
 		"ctf_pressure" { }
-		"ctf_shipyard_b11b" { }
 		"dm_backfort_gravfix3" { }
 		"dm_mariokart3_v1" { }
+		"koth_lolcano_b3" { }
 		"koth_trainsawlaser_v2" { "workshopid" "3566434696" }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pkmn_goldenrodcity_b7" { }
@@ -124,6 +124,7 @@
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lifesnatcher_b5" { }
+		"koth_lolcano_b3" { }
 		"koth_los_muertos" { }
 		"koth_manners_avenue_b3" { }
 		"koth_mannhole" { }
