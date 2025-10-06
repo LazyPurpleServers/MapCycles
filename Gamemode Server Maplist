@@ -51,6 +51,7 @@
 		"bomberman_battle_game" { }
 		"car_fall_dmg" { }
 		"dr_minigames_b2" { }
+		"jackenstein_challenge_v2" { "workshopid" "3578345105" }
 		"halo_avalanche_a1" { }
 		"mg_smash_cannonsz" { }
 		"mg_testing_complex_v4_4" { }
