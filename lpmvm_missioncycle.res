@@ -357,8 +357,8 @@
 		}
 		"71"
 		{
-			"map" "mvm_havana_rc3b"
-			"popfile" "mvm_havana_rc3b"
+			"map" "mvm_havana_rc4"
+			"popfile" "mvm_havana_rc4"
 		}
 		"72"
 		{
@@ -657,8 +657,8 @@
 		}
 		"131"
 		{
-			"map" "mvm_salvage_rc3a"
-			"popfile" "mvm_salvage_rc3a_normal_mild_meltdown"
+			"map" "mvm_motherland_b37a"
+			"popfile" "mvm_motherland_b37a_adv_tundra_flux"
 		}
 		"132"
 		{
@@ -795,8 +795,14 @@
             "map" "mvm_havana_b3"
             "popfile" "mvm_havana_b3"
         }
+		"159"
+		{
+            "map" "mvm_mannufactured_rc10"
+            "popfile" "mvm_mannufactured_rc10_adv_malicious_machinery"
+        }
 	}
 }
+
 
 
 
