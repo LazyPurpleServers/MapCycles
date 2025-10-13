@@ -139,7 +139,7 @@
 		"cp_tiplevarg" { }
 		"cp_upland_rc4" { }
 		"cp_vertigo_beta3" { }
-		"cp_watercourse_b15b" { }
+		"cp_watercourse_b16b" { }
 		"cp_wetcoal_b1" { }
 		"cp_widebowl" { }
 		"cp_wildcat_rc1a" { }
@@ -305,7 +305,7 @@
 		"ctf_sawmill_rainy" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b11b" { }
+		"ctf_shipyard_b12a" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -623,6 +623,7 @@
 		"pl_divulgence_b4b" { }
 		"pl_dnalydnac_a1" { }
 		"pl_donkeykong_final" { }
+		"pl_downfall_b10" { }
 		"pl_downunder_b28" { }
 		"pl_downward_b2" { }
 		"pl_drawpu_rc1" { }
@@ -690,6 +691,7 @@
 		"pl_spineyard_rc1a" { }
 		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
+		"pl_thundermountain_snowy_b2a" { }
 		"pl_tsaocywons_b1" { }
 		"pl_upwater" { }
 		"pl_venice" { }
@@ -752,7 +754,7 @@
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
 		"pd_zinc_b4b" { }
-		"pl_longboy_b10" { }
+		"pl_longboy_b12" { }
 		"pl_nat20_b2b" { }
 		"plr_2cart" { }
 		"plr_aulli_b2c" { }
