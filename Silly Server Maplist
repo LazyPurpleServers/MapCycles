@@ -175,6 +175,7 @@
 		"vsh_jungle_beach_v3" { }
 		"vsh_jurassic_v2" { }
 		"vsh_lake_b3" { }
+		"vsh_manncohq_v14" { }
 		"vsh_nebula_rc1" { }
 		"vsh_palanquin_ship_novpk" { }
 		"vsh_ravenholm" { }
@@ -298,7 +299,7 @@
 		"ctf_royal_b3" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b11b" { }
+		"ctf_shipyard_b12a" { }
 		"ctf_shuangcheng" { }
 		"ctf_smooth_b2" { }
 		"ctf_snowfort" { }
@@ -747,7 +748,6 @@
 		"mvm_isolation_rc3" { }
 		"mvm_kelly_rc1b" { }
 		"mvm_logvalley_b9" { }
-		"mvm_manncohq_v3" { }
 		"mvm_manndarin_final" { }
 		"mvm_mannhattan" { }
 		"mvm_mannworks" { }
@@ -803,6 +803,7 @@
         "pl_crusoe_a17" { }
         "pl_curve" { }
         "pl_deadwood" { }
+		"pl_downfall_b10" { }
 	"pl_downunder_b28" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
@@ -841,6 +842,7 @@
         "pl_snowbomb" { }
         "pl_stallberg_rc3" { }
         "pl_stranded_rc9" { }
+		"pl_thundermountain_snowy_b2a" { }
         "pl_vigil_rc7" { }
         "pl_volcanic_a26" { }
         "pl_yamashiro_b3" { }
