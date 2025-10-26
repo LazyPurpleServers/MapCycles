@@ -5,12 +5,12 @@
         "maps_invote" "1"
         
 		"ctf_applejack" { }
-		"ctf_pressure" { }
-		"ctf_shipyard_b12a" { }
-		"cp_stormbreaker_b15" { }
+		"ctf_shipyard_b12c" { }
+		"cp_stormbreaker_b16" { }
 		"dm_backfort_gravfix3" { }
 		"koth_lolcano_b3" { }
 		"koth_trainsawlaser_v2" { "workshopid" "3566434696" }
+		"pd_nutcracker_b6" { }
 		"pkmn_goldenrodcity_b7" { }
 	}
 
@@ -26,7 +26,7 @@
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
 		"cp_standin_final" { }
-		"cp_stormbreaker_b15" { }
+		"cp_stormbreaker_b16" { }
 		"cp_sunnyside_final" { }
 		"cp_supermariobros3_b4" { }
 	}
@@ -61,7 +61,7 @@
 		"ctf_rift_rc3" { }
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b12a" { }
+		"ctf_shipyard_b12c" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_tour_b6c" { }
 		"ctf_turbine_winter" { }
@@ -180,6 +180,7 @@
 		"pd_galleria" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania" { }
+		"pd_nutcracker_b6" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_salvador_b3c" { }
 		"pd_selbyen" { }
