@@ -64,7 +64,7 @@
 		"cp_alloy_rc3" { }
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
-		"cp_artillery_b4b" { }
+		"cp_artillery_b5" { }
 		"cp_battlefortress_b8c" { }
 		"cp_beachassault_v3" { } 
 		"cp_bloodcrystal_event" { }
@@ -206,7 +206,7 @@
 		"cp_shelter_rc4" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
-		"cp_stormbreaker_b15" { }
+		"cp_stormbreaker_b16" { }
 		"cp_sultry_b8" { }
 		"cp_supermariobros3_b4" { }
 		"cp_toy_fort_alt3" { }
@@ -306,7 +306,7 @@
 		"ctf_sawmill_rainy" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b12a" { }
+		"ctf_shipyard_b12c" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -468,7 +468,7 @@
 		"koth_moonshine_rc" { }
 		"koth_muertos_b2" { }
 		"koth_namicott_rc4" { }
-		"koth_naphtha_b5c" { }
+		"koth_naphtha_rc2b" { }
 		"koth_nebula" { }
 		"koth_nerve" { }
 		"koth_neurotoxin_s7" { }
@@ -620,7 +620,7 @@
 		"pl_curve" { }
 		"pl_dbheights_b5" { }
 		"pl_deadwood" { }
-		"pl_desolation_rc1c" { }
+		"pl_desolation_rc2_test2" { }
 		"pl_divulgence_b4b" { }
 		"pl_dnalydnac_a1" { }
 		"pl_donkeykong_final" { }
@@ -692,7 +692,7 @@
 		"pl_spineyard_rc1a" { }
 		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
-		"pl_thundermountain_snowy_b2a" { }
+		"pl_thundermountain_snowy_b2b" { }
 		"pl_tsaocywons_b1" { }
 		"pl_upwater" { }
 		"pl_venice" { }
@@ -742,6 +742,7 @@
 		"pd_meme_machine_rc4" { }
 		"pd_midway_a3" { }
 		"pd_nucleus_event_b4" { }
+		"pd_nutcracker_b6" { }
 		"pd_pipeline_rc6" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_salvador_b3c" { }
