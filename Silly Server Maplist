@@ -112,6 +112,7 @@
 		"osen_online" { }
 		"pd_azureworld_rc1" { }
 		"pd_galleria" { }
+		"pd_nutcracker_b6" { }
 		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
 		"pd_suijin_event_void_a1d" { }
@@ -300,7 +301,7 @@
 		"ctf_royal_b3" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b12a" { }
+		"ctf_shipyard_b12c" { }
 		"ctf_shuangcheng" { }
 		"ctf_smooth_b2" { }
 		"ctf_snowfort" { }
@@ -329,7 +330,7 @@
 		"cp_2Skyscraper_b3" { }
 		"cp_abyss_b81" { }
 		"cp_albany_b7" { }
-		"cp_artillery_b4b" { }
+		"cp_artillery_b5" { }
 		"cp_backwoods_b3" { }
 		"cp_alloy_rc3" { }
 		"cp_antiquity_rc1" { }
@@ -427,7 +428,7 @@
 		"cp_sobek_rc1a" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
-		"cp_stormbreaker_b15" { }
+		"cp_stormbreaker_b16" { }
 		"cp_stoneyridge_rc1" { }
 		"cp_submerged_b1" { }
 		"cp_subway_final" { }
@@ -845,7 +846,7 @@
         "pl_snowbomb" { }
         "pl_stallberg_rc3" { }
         "pl_stranded_rc9" { }
-		"pl_thundermountain_snowy_b2a" { }
+		"pl_thundermountain_snowy_b2b" { }
         "pl_vigil_rc7" { }
         "pl_volcanic_a26" { }
         "pl_yamashiro_b3" { }
