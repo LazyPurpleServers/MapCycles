@@ -3,8 +3,10 @@
 	"Newest Maps "
 	{
         "maps_invote" "1"
-        
+
+		"cp_artillery_b5" { }
 		"cp_watercourse_b16b" { }
+		"koth_naphtha_rc2b" { }
 		"pl_downfall_b10" { }
 		"pl_longboy_b12" { }
 	}
@@ -15,7 +17,7 @@
         
 		"cp_alloy_rc3" { }
 		"cp_altitude" { }
-		"cp_artillery_b4b" { }
+		"cp_artillery_b5" { }
 		"cp_brew" { }
 		"cp_cargo" { }
 		"cp_cold_era_rc2c" { }
@@ -91,7 +93,7 @@
 		"koth_megasnow_rc1" { }
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
-		"koth_naphtha_b5c" { }
+		"koth_naphtha_rc2b" { }
 		"koth_nucleus" { }
 		"koth_oilchange_rc2" { }
 		"koth_overcast_final" { }
@@ -188,6 +190,7 @@
 		"pass_smalltime_rc1a" { }
 		"pd_atom_smash" { }
 		"pd_galleria" { }
+		"pd_nutcracker_b6" { }
 		"pd_pipeline_rc6" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_selbyen" { }
