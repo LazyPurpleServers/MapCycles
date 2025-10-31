@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "158"
+		"count" "172"
 		
 		"1"
 		{
@@ -795,8 +795,79 @@
             "map" "mvm_mannufactured_rc10"
             "popfile" "mvm_mannufactured_rc10_adv_malicious_machinery"
         }
+		"159"
+		{
+            "map" "mvm_bloodlust_b6"
+            "popfile" "mvm_bloodlust_b6_adv_reanimation"
+        }
+		"160"
+		{
+            "map" "mvm_bloodmoon_b8"
+            "popfile" "mvm_bloodmoon_b8_adv_spooky_spiral"
+        }
+		"161"
+		{
+            "map" "mvm_creepside_b2"
+            "popfile" "mvm_creepside_b2_adv_catastrophic_conjuring"
+        }
+		"162"
+		{
+            "map" "mvm_deathpour_rc1"
+            "popfile" "mvm_deathpour_rc1_int_technical_terror"
+        }
+		"163"
+		{
+            "map" "mvm_decompose_rc7"
+            "popfile" "mvm_decompose_rc7_adv_ghoulish_genesis"
+        }
+		"164"
+		{
+            "map" "mvm_heatrock_rc6a"
+            "popfile" "mvm_heatrock_rc6a_adv_heated_argument"
+        }
+		"165"
+		{
+            "map" "mvm_lostvalley_b5"
+            "popfile" "mvm_lostvalley_b5_int_haunted_hills"
+        }
+		"166"
+		{
+            "map" "mvm_madhattan_rc5a"
+            "popfile" "mvm_madhattan_rc5a_adv_apocalyptic_assault"
+        }
+		"167"
+		{
+            "map" "mvm_nightsky_rc4d"
+            "popfile" "mvm_nightsky_rc4d_int_mountain_of_fear"
+        }
+		"168"
+		{
+            "map" "mvm_null_b9c"
+            "popfile" "mvm_null_b9c_adv_baneful_harvest"
+        }
+		"169"
+		{
+            "map" "mvm_shank_rc4"
+            "popfile" "mvm_shank_rc4_int_pumpkin_panic"
+        }
+		"170"
+		{
+            "map" "mvm_swirl_event_rc8a"
+            "popfile" "mvm_swirl_event_rc8a_advanced"
+        }
+		"171"
+		{
+            "map" "mvm_villa_b12"
+            "popfile" "mvm_villa_b12_adv_forgotten"
+        }
+		"172"
+		{
+            "map" "mvm_whitecliff_event_rc2"
+            "popfile" "mvm_whitecliff_event_rc2_adv_coastal_cadaver"
+        }
 	}
 }
+
 
 
 
