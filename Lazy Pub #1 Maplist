@@ -4,9 +4,10 @@
 	{
         "maps_invote" "1"
 
-		"cp_artillery_b5" { }
+		"cp_artillery_b6" { }
 		"cp_watercourse_b16b" { }
 		"koth_naphtha_rc2b" { }
+		"koth_winter_ridge_rc2" { }
 		"pd_nutcracker_b6" { }
 		"pl_downfall_b10" { }
 		"pl_longboy_b12" { }
@@ -116,7 +117,7 @@
 		"koth_valor_rc1" { }
 		"koth_viaduct" { }
 		"koth_vice_rc1" { }
-		"koth_winter_ridge_rc1" { }
+		"koth_winter_ridge_rc2" { }
 
 	}
 
