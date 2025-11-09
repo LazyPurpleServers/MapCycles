@@ -166,7 +166,7 @@
 		"tower_of_power_v5" { }
 		"tow_dynamite" { }
 		"tow_impasse_b4" { }
-		"tow_tetsudo_b8" { }
+		"tow_tetsudo_b9a" { }
 		"vsh_abandoned_facility_a4_argil_v2" { }
 		"vsh_arktown_v4" { }
 		"vsh_bianco_hills_v5_argil" { }
@@ -301,7 +301,7 @@
 		"ctf_royal_b3" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b12c" { }
+		"ctf_shipyard_rc1" { }
 		"ctf_shuangcheng" { }
 		"ctf_smooth_b2" { }
 		"ctf_snowfort" { }
@@ -330,7 +330,7 @@
 		"cp_2Skyscraper_b3" { }
 		"cp_abyss_b81" { }
 		"cp_albany_b7" { }
-		"cp_artillery_b5" { }
+		"cp_artillery_b6" { }
 		"cp_backwoods_b3" { }
 		"cp_alloy_rc3" { }
 		"cp_antiquity_rc1" { }
@@ -428,7 +428,7 @@
 		"cp_sobek_rc1a" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
-		"cp_stormbreaker_b16" { }
+		"cp_stormbreaker_b26" { }
 		"cp_stoneyridge_rc1" { }
 		"cp_submerged_b1" { }
 		"cp_subway_final" { }
@@ -622,7 +622,7 @@
 		"koth_hangar_rc2" { }
 		"koth_hardway_72_rc1" { }
 		"koth_harter_rc1" { }
-		"koth_harvest_winter" { }
+		"koth_harvest_winter_v2" { }
 		"koth_harvestalpine_v3b" { }
 		"koth_hole_alpha" { }
 		"koth_icetower_rc6" { }
@@ -714,7 +714,7 @@
 		"koth_whitecreek_rc2" { }
 		"koth_wildwater_a11" { }
 		"koth_winter_ridge_b2_yelldowfix" { }
-		"koth_winter_ridge_rc1" { }
+		"koth_winter_ridge_rc2" { }
 		"koth_yammoe_rc3_d" { }
 	}
 
