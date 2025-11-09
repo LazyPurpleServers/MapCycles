@@ -64,7 +64,7 @@
 		"cp_alloy_rc3" { }
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
-		"cp_artillery_b5" { }
+		"cp_artillery_b6" { }
 		"cp_battlefortress_b8c" { }
 		"cp_beachassault_v3" { } 
 		"cp_bloodcrystal_event" { }
@@ -206,7 +206,7 @@
 		"cp_shelter_rc4" { }
 		"cp_stag" { }
 		"cp_standin_event" { }
-		"cp_stormbreaker_b16" { }
+		"cp_stormbreaker_b26" { }
 		"cp_sultry_b8" { }
 		"cp_supermariobros3_b4" { }
 		"cp_toy_fort_alt3" { }
@@ -306,7 +306,7 @@
 		"ctf_sawmill_rainy" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_b12c" { }
+		"ctf_shipyard_rc1" { }
 		"ctf_sidewinder_rc4a" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -433,7 +433,7 @@
 		"koth_hangar_rc5b" { }
 		"koth_hardway_72_rc1" { }
 		"koth_harter_rc1" { }
-		"koth_harvest_winter" { }
+		"koth_harvest_winter_v2" { }
 		"koth_harvestalpine_v3b" { }
 		"koth_hayheights_a10" { }
 		"koth_hoax_rc3" { }
@@ -574,7 +574,7 @@
 		"koth_weeeeeeeeeeeeeeeeell_rc2" { }
 		"koth_whitecreek_rc2" { }
 		"koth_winter_ridge_b2_yelldowfix" { }
-		"koth_winter_ridge_b3" { }
+		"koth_winter_ridge_rc2" { }
 		"koth_working_class_b4" { }
 		"koth_workstation" { }
 		"koth_xuanya_b2" { }
@@ -692,7 +692,7 @@
 		"pl_spineyard_rc1a" { }
 		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
-		"pl_thundermountain_snowy_b2b" { }
+		"pl_thundermountain_snowy_b3b" { }
 		"pl_tsaocywons_b1" { }
 		"pl_upwater" { }
 		"pl_venice" { }
@@ -789,7 +789,7 @@
 		"tfp_tf2party_b2" { }
 		"tow_dynamite" { }
 		"tow_impasse_b4" { }
-		"tow_tetsudo_b8" { }
+		"tow_tetsudo_b9a" { }
 		"vip_tfc_hunted" { }
 		"wacky_races_v2"  { }
 	}
