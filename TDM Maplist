@@ -3,13 +3,14 @@
 	"TDM's Choice "
 	{
         "maps_invote" "1"
-        
+
+		"2koth_abbey_b1b" { }
+		"ctf_oldwood_b7a" { }
 		"ctf_shipyard_rc1" { }
 		"cp_stormbreaker_b26" { }
 		"dm_backfort_gravfix3" { }
 		"koth_harvest_winter_v2" { }
-		"koth_winter_ridge_rc2" { }
-		"pd_nutcracker_b6" { }
+		"koth_sawdust_festive_b1" { }
 		"pkmn_goldenrodcity_b7" { }
 		"tow_tetsudo_b9a" { }
 	}
@@ -93,6 +94,7 @@
 	{
         "maps_invote" "1"
 
+		"2koth_abbey_b1b" { }
 		"koth_aquaticruin_final" { }
 		"koth_appleacres_b3" { }
 		"koth_boardwalk" { }
@@ -141,6 +143,7 @@
 		"koth_rio_rc7a" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
+		"koth_sawdust_festive_b1" { }
 		"koth_sawmill" { }
 		"koth_schneestadt_b2a" { }
 		"koth_sharkbay" { }
