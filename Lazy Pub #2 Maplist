@@ -291,6 +291,7 @@
 		"ctf_np_blake_fusion" { }
 		"ctf_nuclide_rc8d" { }
 		"ctf_ocean_machine" { }
+		"ctf_oldwood_b7a" { }
 		"ctf_overlook_b1" { }
 		"ctf_parabolic_a10" { }
 		"ctf_pelican_peak" { }
@@ -347,6 +348,7 @@
 		"maps_invote" "1"
 
 		"bot_rockpaperglitter_b3_fix" { }
+		"2koth_abbey_b1b" { }
 		"koth_af_formula_a2" { }
 		"koth_ahoball_b1" { }
 		"koth_airborne_a5" { }
@@ -506,6 +508,7 @@
 		"koth_sandvich_b1" { }
 		"koth_saturnvalley" { }
 		"koth_saw_final" { }
+		"koth_sawdust_festive_b1" { }
 		"koth_sawmill_event" { }
 		"koth_schism_a26" { }
 		"koth_schneestadt_b2a" { }
@@ -636,6 +639,7 @@
 		"pl_farmstead_rc6" { }
 		"pl_fastwater" { }
 		"pl_fountain_b3" { }
+		"pl_futura_b19" { }
 		"pl_frontiiiiiiiiiieeeeeeeeer" { }
 		"pl_frostcliff" { }
 		"pl_frostfell_b2" { }
@@ -667,6 +671,7 @@
 		"pl_odyssey" { }
 		"pl_offcenter_stage1a" { }
 		"pl_patagonia" { }
+		"pl_permafrost_rc2a" { }
 		"pl_pharaoh_rc1" { }
 		"pl_pit" { }
 		"pl_promotion_b5" { }
@@ -777,6 +782,7 @@
 		"plr_valentine_b2" { }
 		"plr_whalerace_a4a" { }
 		"ql_harvest" { }
+		"rush_flowerpot" { }
 		"sd_laserfight" { }
 		"sd_push_b1" { }
 		"sd_rumrun_a1" { }
