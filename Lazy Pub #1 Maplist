@@ -4,13 +4,14 @@
 	{
         "maps_invote" "1"
 
+		"2koth_abbey_b1b" { }
 		"cp_artillery_b6" { }
-		"cp_watercourse_b16b" { }
-		"koth_naphtha_rc2b" { }
-		"koth_winter_ridge_rc2" { }
+		"koth_sawdust_festive_b1" { }
 		"pd_nutcracker_b6" { }
 		"pl_downfall_b10" { }
-		"pl_longboy_b12" { }
+		"pl_futura_b19" { }
+		"pl_permafrost_rc2a" { }
+		"rush_flowerpot" { }
 	}
 
 	"Attack & Defend"
@@ -58,7 +59,8 @@
 	"King of the Hill"
 	{
         "maps_invote" "1"
-        
+
+		"2koth_abbey_b1b" { }
 		"koth_anthem_b4" { }
 		"koth_bagel_rc11" { }
 		"koth_blowout" { }
@@ -103,6 +105,7 @@
 		"koth_rio_rc7a" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
+		"koth_sawdust_festive_b1" { }
 		"koth_sawmill" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
@@ -147,6 +150,7 @@
 		"pl_extinction_rc3" { }
 		"pl_farmstead_rc6" { }
 		"pl_fountain_b3" { }
+		"pl_futura_b19" { }
 		"pl_frontier_final" { }
 		"pl_greenwood_b6" { }
 		"pl_guzzle_b18" { }
@@ -159,6 +163,7 @@
 		"pl_oasis_rc3" { }
 		"pl_odyssey" { }
 		"pl_patagonia" { }
+		"pl_permafrost_rc2a" { }
 		"pl_phoenix" { }
 		"pl_pier" { }
 		"pl_rumford_rc2" { }
@@ -202,6 +207,7 @@
 		"pd_watergate" { }
 		"pd_zinc_b4b" { }
 		"pl_longboy_b12" { }
+		"rush_flowerpot" { }
 		"tow_tetsudo_b8" { }
 	}
 }
