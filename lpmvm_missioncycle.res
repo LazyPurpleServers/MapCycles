@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "167"
+		"count" "168"
 		
 		"1"
 		{
@@ -835,8 +835,14 @@
             "map" "mvm_whitecliff_event_rc2"
             "popfile" "mvm_whitecliff_event_rc2_adv_coastal_cadaver"
         }
+		"168"
+		{
+			"map" "mvm_reclaimed_a1a"
+			"popfile" "mvm_reclaimed_a1a_exp_cataclysm"
+		}
 	}
 }
+
 
 
 
