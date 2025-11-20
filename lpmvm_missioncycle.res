@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "172"
+		"count" "167"
 		
 		"1"
 		{
@@ -62,18 +62,13 @@
 		}
 		"12"
 		{
-			"map" "mvm_manndarin_final"
-			"popfile" "mvm_manndarin_final_advanced_lamiiedit"
-		}
-		"13"
-		{
 			"map" "mvm_cyberia_rc6a"
 			"popfile" "mvm_cyberia_rc6a_adv_launch_sequence"
 		}
 		"14"
 		{
-			"map" "mvm_derelict_rc2"
-			"popfile" "mvm_derelict_rc2_int_metallic_breakthrough"
+			"map" "mvm_derelict_rc4"
+			"popfile" "mvm_derelict_rc4_int_metallic_breakthrough"
 		}
 		"15"
 		{
@@ -157,8 +152,8 @@
 		}
 		"31"
 		{
-			"map" "mvm_oilrig_rc5"
-			"popfile" "mvm_oilrig_rc5_int_terrorist_simulation"
+			"map" "mvm_oilrig_rc5d"
+			"popfile" "mvm_oilrig_rc5d_int_terrorist_simulation"
 		}
 		"32"
 		{
@@ -297,576 +292,552 @@
 		}
 		"59"
 		{
-			"map" "mvm_overgreen"
-			"popfile" "mvm_overgreen"
-		}
-		"60"
-		{
 			"map" "mvm_shipper_b4"
 			"popfile" "mvm_shipper_b4"
 		}
-		"61"
+		"60"
 		{
-			"map" "mvm_scrapyard_rc1a"
-			"popfile" "mvm_scrapyard_rc1a_adv_techno_treachery"
+			"map" "mvm_scrapyard_rc2a"
+			"popfile" "mvm_scrapyard_rc2a_adv_techno_treachery"
 		}
-		"62"
+		"61"
 		{
 			"map" "mvm_dusk_rc6"
 			"popfile" "mvm_dusk_rc6_int_ravager_raid"
 		}
-		"63"
+		"62"
 		{
 			"map" "mvm_seabed_b6"
 			"popfile" "mvm_seabed_b6_advanced1"
 		}
-		"64"
+		"63"
 		{
 			"map" "mvm_greekrock_b5"
 			"popfile" "mvm_greekrock_b5_the_last_mission"
 		}
-		"65"
+		"64"
 		{
 			"map" "mvm_badwater_final"
 			"popfile" "mvm_badwater_final"
 		}
-		"66"
+		"65"
 		{
 			"map" "mvm_boogge_rc1"
 			"popfile" "mvm_boogge_rc1"
 		}
-		"67"
+		"66"
 		{
 			"map" "mvm_snowflake_b3"
 			"popfile" "mvm_snowflake_b3"
 		}
-		"68"
+		"67"
 		{
 			"map" "mvm_decay_rc1"
 			"popfile" "mvm_decay_rc1_nightmare"
 		}
-		"69"
+		"68"
 		{
 			"map" "mvm_factory"
 			"popfile" "mvm_factory"
 		}
-		"70"
+		"69"
 		{
 			"map" "mvm_gateway_rc2"
 			"popfile" "mvm_gateway_rc2"
 		}
-		"71"
+		"70"
 		{
 			"map" "mvm_havana_rc4"
 			"popfile" "mvm_havana_rc4"
 		}
-		"72"
+		"71"
 		{
 			"map" "mvm_intersection"
 			"popfile" "mvm_intersection"
 		}
-		"73"
+		"72"
 		{
 			"map" "mvm_terrorlict_final1"
 			"popfile" "mvm_terrorlict_final1"
 		}
-		"74"
+		"73"
 		{
 			"map" "mvm_butcher_rc1b"
 			"popfile" "mvm_butcher_rc1b_norm_killing_floor"
 		}
-		"75"
+		"74"
 		{
 			"map" "mvm_humbridge_rc1"
 			"popfile" "mvm_humbridge_rc1_adv_broken_parts"
 		}
-		"76"
+		"75"
 		{
 			"map" "mvm_robotfactory_rc8"
 			"popfile" "mvm_robotfactory_rc8_expert"
 		}
-		"77"
+		"76"
 		{
 			"map" "mvm_saxford_rc1"
 			"popfile" "mvm_saxford_rc1_adv_security_review"
 		}
-		"78"
+		"77"
 		{
 			"map" "mvm_scallops_rc4a"
 			"popfile" "mvm_scallops_rc4a_adv_scallywag"
 		}
-		"79"
+		"78"
 		{
 			"map" "mvm_trailer"
 			"popfile" "mvm_trailer_adv_first_to_fall"
 		}
-		"80"
+		"79"
 		{
-			"map" "mvm_watermine_rc11"
-			"popfile" "mvm_watermine_rc11_int_hydrophobia"
+			"map" "mvm_watermine_rc12"
+			"popfile" "mvm_watermine_rc12_int_hydrophobia"
 		}
-		"81"
+		"80"
 		{
 			"map" "mvm_whitecliff_rc4a"
 			"popfile" "mvm_whitecliff_rc4a_adv_metal_march"
 		}
-		"82"
+		"81"
 		{
 			"map" "mvm_rancher_b11"
 			"popfile" "mvm_rancher_b11_adv_photon_farm"
 		}
-		"83"
+		"82"
 		{
 			"map" "mvm_cliffside_b7_2"
 			"popfile" "mvm_cliffside_b7_2_adv_cliffhanger"
 		}
-		"84"
+		"83"
 		{
 			"map" "mvm_outpost_v9"
 			"popfile" "mvm_outpost_v8_normal_sniff_snort"
 		}
-		"85"
+		"84"
 		{
 			"map" "mvm_underworld_rc2"
 			"popfile" "mvm_underworld_rc2"
 		}
-		"86"
+		"85"
 		{
 			"map" "mvm_hurricane_rc3"
 			"popfile" "mvm_hurricane_rc3_adv_purple_rain"
 		}
-		"87"
+		"86"
 		{
 			"map" "mvm_spybase_rc16"
 			"popfile" "mvm_spybase_rc16_normal"
 		}
-		"88"
+		"87"
 		{
 			"map" "mvm_skangus_rc25"
 			"popfile" "mvm_skangus_rc25_intermediate"
 		}
-		"89"
+		"88"
 		{
 			"map" "mvm_tensai_rc3"
 			"popfile" "mvm_tensai_rc3_int_kikai_kickdown"
 		}
-		"90"
+		"89"
 		{
 			"map" "mvm_autumnull_rc2"
 			"popfile" "mvm_autumnull_rc2_adv_chemical_ladybug"
 		}
-		"91"
+		"90"
 		{
 			"map" "mvm_nox_b3"
 			"popfile" "mvm_nox_b3_normal_factory_fresh"
 		}
-		"92"
+		"91"
 		{
 			"map" "mvm_bogland_rc12"
 			"popfile" "mvm_bogland_rc12_adv_murky_mayhem"
 		}
-		"93"
+		"92"
 		{
 			"map" "mvm_slick_v4a"
 			"popfile" "mvm_slick_v4a_exp_tank_takedown"
 		}
-		"94"
+		"93"
 		{
 			"map" "mvm_skeleclipse_b7a"
 			"popfile" "mvm_skeleclipse_b7a_exp_spooky_sprockets"
 		}
-		"95"
+		"94"
 		{
 			"map" "mvm_maelstrom_rc3fix"
 			"popfile" "mvm_maelstrom_rc3fix_adv_mannstorm"
 		}
-		"96"
+		"95"
 		{
 			"map" "mvm_radar_b10"
 			"popfile" "mvm_radar_b10_int_recursive_reinforcements"
 		}
-		"97"
+		"96"
 		{
 			"map" "mvm_flowerfield_rc4"
 			"popfile" "mvm_flowerfield_rc4_int_botanical_beat_em_up"
 		}
-		"98"
+		"97"
 		{
-			"map" "mvm_jungleworks_rc1"
-			"popfile" "mvm_jungleworks_rc1_int_rainforest_fire"
+			"map" "mvm_jungleworks_rc2"
+			"popfile" "mvm_jungleworks_rc2_int_rainforest_fire"
 		}
-		"99"
+		"98"
 		{
 			"map" "mvm_outlands_rc2"
 			"popfile" "mvm_outlands_rc2_int_rural_roadblock"
 		}
-		"100"
+		"99"
 		{
 			"map" "mvm_redridge_b3b"
 			"popfile" "mvm_redridge_b3b"
 		}
-		"101"
+		"100"
 		{
 			"map" "mvm_lotus_b6"
 			"popfile" "mvm_lotus_b6_adv_mud"
 		}
-		"102"
+		"101"
 		{
 			"map" "mvm_wharf_s76"
 			"popfile" "mvm_wharf_s76_norm_cargo_assault"
 		}
-		"103"
+		"102"
 		{
 			"map" "mvm_gravelpass_b4"
 			"popfile" "mvm_gravelpass_b4_exp_mannslaughter"
 		}
-		"104"
+		"103"
 		{
 			"map" "mvm_scream_tv"
 			"popfile" "mvm_scream_tv_extermination"
 		}
-		"105"
+		"104"
 		{
 			"map" "mvm_airdrop_rc3"
 			"popfile" "mvm_airdrop_rc3_advanced"
 		}
-		"106"
+		"105"
 		{
 			"map" "mvm_condemned_b3"
 			"popfile" "mvm_condemned_b3_int_thriller_terror"
 		}
-		"107"
+		"106"
 		{
 			"map" "mvm_memorial_b1"
 			"popfile" "mvm_memorial_b1"
 		}
-		"108"
+		"107"
 		{
 			"map" "mvm_redstone_ridge_rc5"
 			"popfile" "mvm_redstone_ridge_rc5_adv_armored_apparatus"
 		}
-		"109"
+		"108"
 		{
 			"map" "mvm_hillside_v7"
 			"popfile" "mvm_hillside_v7_adv_outdated_processing"
 		}
-		"110"
+		"109"
 		{
 			"map" "mvm_retribution_ep1"
 			"popfile" "mvm_retribution_ep1"
 		}
-		"111"
+		"110"
 		{
 			"map" "mvm_depot_b4"
 			"popfile" "mvm_depot_b4_adv_cottonwood_canyon"
 		}
-		"112"
+		"111"
 		{
 			"map" "mvm_estate_rc1"
 			"popfile" "mvm_estate_rc1_int_tectonic_factory"
 		}
-		"113"
+		"112"
 		{
 			"map" "mvm_shadows_b3"
 			"popfile" "mvm_shadows_b3_shadows"
 		}
-		"114"
+		"113"
 		{
 			"map" "mvm_sludge_b6"
 			"popfile" "mvm_sludge_b6"
 		}
-		"115"
+		"114"
 		{
 			"map" "mvm_thematic_rc2"
 			"popfile" "mvm_thematic_rc2_int_snakewater"
 		}
-		"116"
+		"115"
 		{
 			"map" "mvm_crown_rc4b"
 			"popfile" "mvm_crown_rc4b_adv_op_deforestation"
 		}
-		"117"
+		"116"
 		{
 			"map" "mvm_desert_landscape"
 			"popfile" "mvm_desert_landscape"
 		}
-		"118"
+		"117"
 		{
 			"map" "mvm_starcoast_b4"
 			"popfile" "mvm_starcoast_b4_adv_brokenparts"
 		}
-		"119"
+		"118"
 		{
 			"map" "mvm_bronx_rc2fix"
 			"popfile" "mvm_bronx_rc2fix_adv_brawl"
 		}
-		"120"
+		"119"
 		{
-			"map" "mvm_charon_b8"
-			"popfile" "mvm_charon_b8_int_crash_landing"
+			"map" "mvm_charon_b10a"
+			"popfile" "mvm_charon_b10a_int_crash_landing"
 		}
-		"121"
+		"120"
 		{
 			"map" "mvm_faza_rc4"
 			"popfile" "mvm_faza_rc4_Chemical_Metal_Composition"
 		}
-		"122"
+		"121"
 		{
 			"map" "mvm_sand_rc1a"
 			"popfile" "mvm_sand_rc1a_newadv-1"
 		}
-		"123"
-		{
-			"map" "mvm_sewer_invasion_b7"
-			"popfile" "mvm_sewer_invasion_b7"
-		}
-		"124"
+		"122"
 		{
 			"map" "mvm_bonk_plant_rc3"
 			"popfile" "mvm_bonk_plant_rc3_adv_colamity"
 		}
-		"125"
-		{
-			"map" "mvm_mansion_rc1d"
-			"popfile" "mvm_mansion_rc1d_adv_property_inspection"
-		}
-		"126"
+		"123"
 		{
 			"map" "mvm_chopper_rc1d"
 			"popfile" "mvm_chopper_rc1d_adv_blackout_backwoods"
 		}
-		"127"
+		"124"
 		{
 			"map" "mvm_legerdemain_a6e"
 			"popfile" "mvm_legerdemain_a6e_adv_midnight_patrol"
 		}
-		"128"
+		"125"
 		{
 			"map" "mvm_marsbase_rc5"
 			"popfile" "mvm_marsbase_rc5_adv_secret_struggle"
 		}
-		"129"
+		"126"
 		{
 			"map" "mvm_degrootkeep_b1"
 			"popfile" "mvm_degrootkeep_b1_adv_crusading_catastrophe"
 		}
-		"130"
+		"127"
 		{
 			"map" "mvm_motherland_b37a"
 			"popfile" "mvm_motherland_b37a_adv_tundra_flux"
 		}
-		"131"
+		"128"
 		{
 			"map" "mvm_paradigm_rc5"
 			"popfile" "mvm_paradigm_rc5_normal_bush_trial"
 		}
-		"132"
+		"129"
 		{
 			"map" "mvm_overrun_b2"
 			"popfile" "mvm_overrun_b2_overloaded"
 		}
-		"133"
+		"130"
 		{
 			"map" "mvm_november_rc1a"
 			"popfile" "mvm_november_rc1a"
 		}
-		"134"
+		"131"
 		{
 			"map" "mvm_midtown_b3"
 			"popfile" "mvm_midtown_b3_adv_streetlight_signal"
 		}
-		"135"
+		"132"
 		{
 			"map" "mvm_mannkara_b3"
 			"popfile" "mvm_mannkara_b3_mannslaughter"
 		}
-		"136"
+		"133"
 		{
 			"map" "mvm_goldbend_b11"
 			"popfile" "mvm_goldbend_b11_normal_mining_camp"
 		}
-		"137"
+		"134"
 		{
 			"map" "mvm_flowerfield_rc8"
 			"popfile" "mvm_flowerfield_rc8_nor_flowering_day"
 		}
-		"138"
+		"135"
 		{
 			"map" "mvm_facade_b1"
 			"popfile" "mvm_facade_b1_adv_outlawed"
 		}
-		"139"
+		"136"
 		{
 			"map" "mvm_dionysus_b5a"
 			"popfile" "mvm_dionysus_b5a_adv_aristaeus_accept"
 		}
-		"140"
+		"137"
 		{
 			"map" "mvm_crossguard_b2"
 			"popfile" "mvm_crossguard_b2_normal_automated_apprenticeship"
 		}
-		"141"
+		"138"
 		{
 			"map" "mvm_comstock_rc1b"
 			"popfile" "mvm_comstock_rc1b_int_miner_orexvation"
 		}
-		"142"
+		"139"
 		{
 			"map" "mvm_atomic_ascent_b6"
 			"popfile" "mvm_atomic_ascent_b6"
 		}
-		"143"
+		"140"
 		{
 			"map" "mvm_apex_b5"
 			"popfile" "mvm_apex_b5_adv_critical_cold"
 		}
-		"144"
+		"141"
 		{
 			"map" "mvm_ancient_grease_b1b"
 			"popfile" "mvm_ancient_grease_b1b_int_greek_fire"
 		}
-		"145"
+		"142"
 		{
 			"map" "mvm_akure_rc2a"
 			"popfile" "mvm_akure_rc2a_int_coldfront_conflict"
 		}
-		"146"
+		"143"
 		{
 			"map" "mvm_ventus_rc2"
 			"popfile" "mvm_ventus_rc2_adv_barnacle_beatdown"
 		}
-		"147"
+		"144"
 		{
 			"map" "mvm_solaris_final1"
 			"popfile" "mvm_solaris_final1_adv_sinister_sabotage"
 		}
-		"148"
+		"145"
 		{
 			"map" "mvm_cloudpiercer_b4"
 			"popfile" "mvm_cloudpiercer_b4_adv_operation_skyhook"
 		}
-		"149"
+		"146"
 		{
             "map" "mvm_dome_rc4"
             "popfile" "mvm_dome_rc4"
         }
-		"150"
+		"147"
 		{
             "map" "mvm_electricavenue_rc7"
             "popfile" "mvm_electricavenue_rc7_adv_dismal_demolition"
         }
-		"151"
+		"148"
 		{
             "map" "mvm_highland_rc3"
             "popfile" "mvm_highland_rc3"
         }
-		"152"
+		"149"
 		{
-            "map" "mvm_lainos_rc12"
-            "popfile" "mvm_lainos_rc12_intermediate"
+            "map" "mvm_lainos_rc15"
+            "popfile" "mvm_lainos_rc15_intermediate"
         }
-		"153"
+		"150"
 		{
             "map" "mvm_postal_rc1b"
             "popfile" "mvm_postal_rc1b_adv_red_letter_day"
         }
-		"154"
-		{
-            "map" "mvm_silesia"
-            "popfile" "mvm_silesia_adv_coalconundrum"
-        }
-		"155"
+		"151"
 		{
             "map" "mvm_smog_b3b"
             "popfile" "mvm_smog_b3b_adv_respiration_restriction"
         }
-		"156"
+		"152"
 		{
             "map" "mvm_thunderstorm_rc10"
             "popfile" "mvm_thunderstorm_rc10"
         }
-		"157"
+		"153"
         {
-            "map" "mvm_havana_b3"
-            "popfile" "mvm_havana_b3"
+            "map" "mvm_havana_b4a"
+            "popfile" "mvm_havana_b4a"
         }
-		"158"
-		{
-            "map" "mvm_mannufactured_rc10"
-            "popfile" "mvm_mannufactured_rc10_adv_malicious_machinery"
-        }
-		"159"
+		"154"
 		{
             "map" "mvm_bloodlust_b6"
             "popfile" "mvm_bloodlust_b6_adv_reanimation"
         }
-		"160"
+		"155"
 		{
             "map" "mvm_bloodmoon_b8"
             "popfile" "mvm_bloodmoon_b8_adv_spooky_spiral"
         }
-		"161"
+		"156"
 		{
             "map" "mvm_creepside_b2"
             "popfile" "mvm_creepside_b2_adv_catastrophic_conjuring"
         }
-		"162"
+		"157"
 		{
             "map" "mvm_deathpour_rc1"
             "popfile" "mvm_deathpour_rc1_int_technical_terror"
         }
-		"163"
+		"158"
 		{
             "map" "mvm_decompose_rc7"
             "popfile" "mvm_decompose_rc7_adv_ghoulish_genesis"
         }
-		"164"
+		"159"
 		{
             "map" "mvm_heatrock_rc6a"
             "popfile" "mvm_heatrock_rc6a_adv_heated_argument"
         }
-		"165"
+		"160"
 		{
             "map" "mvm_lostvalley_b5"
             "popfile" "mvm_lostvalley_b5_int_haunted_hills"
         }
-		"166"
+		"161"
 		{
             "map" "mvm_madhattan_rc5a"
             "popfile" "mvm_madhattan_rc5a_adv_apocalyptic_assault"
         }
-		"167"
+		"162"
 		{
             "map" "mvm_nightsky_rc4d"
             "popfile" "mvm_nightsky_rc4d_int_mountain_of_fear"
         }
-		"168"
+		"163"
 		{
             "map" "mvm_null_b9c"
             "popfile" "mvm_null_b9c_adv_baneful_harvest"
         }
-		"169"
+		"164"
 		{
             "map" "mvm_shank_rc4"
             "popfile" "mvm_shank_rc4_int_pumpkin_panic"
         }
-		"170"
+		"165"
 		{
             "map" "mvm_swirl_event_rc8a"
             "popfile" "mvm_swirl_event_rc8a_advanced"
         }
-		"171"
+		"166"
 		{
             "map" "mvm_villa_b12"
             "popfile" "mvm_villa_b12_adv_forgotten"
         }
-		"172"
+		"167"
 		{
             "map" "mvm_whitecliff_event_rc2"
             "popfile" "mvm_whitecliff_event_rc2_adv_coastal_cadaver"
         }
 	}
 }
+
 
 
 
