@@ -12,6 +12,7 @@
 		"trade_badsand_rc8" { }
 		"trade_balloonfarm" { }
 		"trade_balloonfarm_event" { }
+		"trade_brutalistic_square" { "workshopid" "3574941263" }
 		"trade_bubblegloop_swamp_a2" { }
 		"trade_clocktown_v1b" { }
 		"trade_ctc_freezeezy_peak_a1c" { }
@@ -22,6 +23,7 @@
 		"trade_finalfantasy_town" { }
 		"trade_forest_realms_a4" { }
 		"trade_frantic_factory_v4a" { }
+		"trade_gingerbread_manor_b2" { "workshopid" "3102613620" }
 		"trade_icerink_b3a" { }
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
@@ -185,6 +187,7 @@
 		"vsh_stargate_v3" { }
 		"wacky_alley_rc6" { }
 		"walmart_bettermeme_v13b" { }
+		"wonka_experience" [ "workshopid" "3230083662" }
 		"wuhu_town" { }
 		"72hr_erk_hotspring" { }
 	}
@@ -796,7 +799,8 @@
         "pl_blastpitt_rc3" { }
         "pl_borax_rc2" { }
         "pl_boundary_final" { }
-	"pl_cattower_b0" { }
+		"candyland_rc1" { "workshopid" "3597952906" }
+		"pl_cattower_b0" { }
         "pl_cashworks" { }
         "pl_citadel" { }
         "pl_cliffsedge_b1" { }
@@ -807,7 +811,7 @@
         "pl_curve" { }
         "pl_deadwood" { }
 		"pl_downfall_b10" { }
-	"pl_downunder_b28" { }
+		"pl_downunder_b28" { }
         "pl_eclipse_rc2" { }
         "pl_edinbowl_b6b" { }
         "pl_escarpment_rc1" { }
@@ -820,11 +824,11 @@
         "pl_highwood_b19" { }
         "pl_humidity_lps" { }
         "pl_hydropower_rc4" { }
-	"pl_jerrycan_rc5" { }
+		"pl_jerrycan_rc5" { }
         "pl_jungle_a1c" { }
         "pl_kinder_b17" { }
         "pl_manngrove_rc5" { }
-	"pl_mariposa_b5c" { }
+		"pl_mariposa_b5c" { }
         "pl_mesa_b1" { }
         "pl_metropolis_b5" { }
         "pl_midwest_b12" { }
@@ -832,7 +836,7 @@
         "pl_mountainside_rc2" { }
         "pl_oasis_b4" { }
         "pl_oasis_event_rc2" { }
-	"pl_patagonia" { }
+		"pl_patagonia" { }
         "pl_pharaoh_rc1" { }
         "pl_promotion_b5" { }
         "pl_rebirth_rc1" { }
