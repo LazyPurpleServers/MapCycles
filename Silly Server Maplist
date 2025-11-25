@@ -187,7 +187,7 @@
 		"vsh_stargate_v3" { }
 		"wacky_alley_rc6" { }
 		"walmart_bettermeme_v13b" { }
-		"wonka_experience" [ "workshopid" "3230083662" }
+		"wonka_experience" { "workshopid" "3230083662" }
 		"wuhu_town" { }
 		"72hr_erk_hotspring" { }
 	}
