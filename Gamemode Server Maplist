@@ -178,6 +178,6 @@
 		"dr_timbercrove_v1" { }
 		"dr_tantrum" { }
 		"dr_pauseahead_v13" { }
-		"dr_junglemines_v7" { "workshopid" "2295233805" }
+		"dr_junglemines_v7" { }
 	}
 }
