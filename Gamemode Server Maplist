@@ -66,7 +66,6 @@
 	{
 		"command" "exec gamemode/misc_versus"
 
-		"cp_freaky_fair" { }
 		"cp_john_gutter_b2" { }
 		"cp_vehkon2_v1" { }
 		"gg_razorpoint_v18" { }
