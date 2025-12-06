@@ -1,17 +1,5 @@
 "umc_mapcycle"
 {
-	"Freeze Tag Arena "
-	{
-		"command" "exec gamemode/arena"
-        
-		"arena_apsen_ft_rc1" { }
-		"arena_cryo_ft_b3" { }
-		"arena_himalaya_ft_b3" { }
-		"arena_melchior_ft_rc1" { }
-		"arena_slaughter_ft_rc1" { }
-		"arena_speleo_ft_rc2" { }
-	}
-
 	"Versus Saxton Hale "
 	{
 		"command" "exec gamemode/vsh"
@@ -79,6 +67,17 @@
 		"pk_construct" { }
 		"pk_secretlaboratory_dmbeta" { }
 		"ql_harvest" { }
+	}
+
+	"Boss Rush "
+	{
+		"command" "exec gamemode/boss"
+
+		"boss_big_shot_v6" { }
+		"boss_jevil_v5" { }
+		"boss_roaring_knight" { "workshopid" "3584370096" }
+		"boss_roaring_knight_sprite_v6" { "workshopid" "3543564358" }
+		"my_world_x9b" { }
 	}
 
 	"Deathrun"
