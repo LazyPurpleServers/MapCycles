@@ -62,6 +62,7 @@
 		"maps_invote" "1"
 
 		"cp_alloy_rc3" { }
+		"cp_altitude" { }
 		"cp_ambush_rc5" { }
 		"cp_aqua" { }
 		"cp_artillery_b6" { }
@@ -156,6 +157,7 @@
 		"cp_ancient_b4" { }
 		"cp_antiquity_rc1" { }
 		"cp_axle_rc1" { }
+		"cp_badlands" { }
 		"cp_bellas_roomz_v3" { }
 		"cp_biodome_b1" { }
 		"cp_buzzards_canyon_winter" { }
@@ -360,6 +362,7 @@
 		"koth_aquaticruin_final" { }
 		"koth_ashville_rc1" { }
 		"koth_ashwood_night_b8" { }
+		"koth_badlands" { }
 		"koth_badlands_event" { }
 		"koth_bagel_rc11" { }
 		"koth_basalt_rc2" { }
@@ -368,17 +371,20 @@
 		"koth_boardwalk" { }
 		"koth_bound_rc1b" { }
 		"koth_boxes_a10" { }
+		"koth_brazil" { }
 		"koth_brickyard_v2_a8" { }
 		"koth_brine_rc3a" { }
 		"koth_brokenhills_b3a" { }
 		"koth_butte_b1a" { }
+		"koth_cachoeira" { }
 		"koth_camp_saxton_b1" { }
 		"koth_canada_rc1" { }
 		"koth_cannery_b11c" { }
 		"koth_canopy_rc2" { }
 		"koth_canyon_v2" { }
-		"koth_caverna_final" { }
 		"koth_chapel_event" { }
+		"koth_cascade" { }
+		"koth_caverna_final" { }
 		"koth_chasm_b1" { }
 		"koth_clearcut_b15d" { }
 		"koth_cloudtop_72_b2" { }
@@ -568,6 +574,7 @@
 		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
 		"koth_verso_a2" { }
+		"koth_viaduct" { }
 		"koth_vice_rc1" { }
 		"koth_warehouse" { }
 		"koth_warehouse_a1" { }
@@ -774,6 +781,7 @@
 		"plr_hacksaw_rc1b" { }
 		"plr_hierarch_rc2b" { }
 		"plr_highmillbine" { }
+		"plr_hightower" { }
 		"plr_hightower_dontjumptoohigh" { }
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
@@ -804,8 +812,7 @@
 	{
 	"maps_invote" "1"
 
-		"cp_altitude" { }
-		"cp_badlands" { }
+
 		"cp_burghausen" { }
 		"cp_canaveral_5cp" { }
 		"cp_coldfront" { }
@@ -850,11 +857,11 @@
 		"pl_swiftwater_final1" { }
 		"pl_thundermountain" { }
 		"pl_upward" { }
-		"plr_hightower" { }
-		"koth_badlands" { }
-		"koth_brazil" { }
-		"koth_cachoeira" { }
-		"koth_cascade" { }
+
+
+
+
+
 		"koth_harvest_final" { }
 		“koth_highpass” { }
 		"koth_king" { }
@@ -864,6 +871,6 @@
 		"koth_nucleus" { }
 		"koth_sawmill" { }
 		"koth_suijin" { }
-		"koth_viaduct" { }
+
 	}
 }
