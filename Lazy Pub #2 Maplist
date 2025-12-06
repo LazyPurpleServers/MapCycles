@@ -71,6 +71,7 @@
 		"cp_bloodcrystal_event" { }
 		"cp_brew" { }
 		"cp_broma" { }
+		"cp_burghausen" { }
 		"cp_cargo" { }
 		"cp_carthage_b1" { }
 		"cp_cheesefire" { }
@@ -79,6 +80,7 @@
 		"cp_conifer" { }
 		"cp_crater_b24" { }
 		"cp_daytrip_rc4" { }
+		"cp_degrootkeep" { }
 		"cp_degrootkeep_rats" { }
 		"cp_desperados_b2" { }
 		"cp_darkmarsh_event_rc4" { }
@@ -94,9 +96,12 @@
 		"cp_furnace_rc" { }
 		"cp_george_rc7" { }
 		"cp_glacier_rc6" { }
+		“cp_gorge” { }
 		"cp_gothic_event" { }
+		“cp_gravelpit” { }
 		"cp_gravelpit_snowy" { }
 		"cp_gydan" { }
+		"cp_hadal" { }
 		"cp_haddou_rc2" { }
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
@@ -116,11 +121,13 @@
 		"cp_method_b4b" { }
 		"cp_minery_a12" { }
 		"cp_mojave_b2" { }
+		"cp_mountainlab" { }
 		"cp_neighbor_b3" { }
 		"cp_nixie_b1" { }
 		"cp_no_mercy_b1" { }
 		"cp_omen_b6" { }
 		"cp_osiris_b27" { }
+		"cp_overgrown" { }
 		"cp_pall_mall_d9" { }
 		"cp_france_rc4c" { }
 		"cp_rocketforge_b3" { }
@@ -129,9 +136,11 @@
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
 		"cp_snowlodge_b5" { }
+		"cp_snowplow" { }
 		"cp_smallbowl" { }
 		"cp_smbcastle_2" { }
 		"cp_sobek_rc1a" { }
+		"cp_steel" { }
 		"cp_steel_aftermath" { }
 		"cp_stoneyridge_rc2" { }
 		"cp_subway_final" { }
@@ -161,9 +170,11 @@
 		"cp_bellas_roomz_v3" { }
 		"cp_biodome_b1" { }
 		"cp_buzzards_canyon_winter" { }
+		"cp_canaveral_5cp" { }
 		"cp_cardinal_rc1a" { }
 		"cp_chipper_b5" { }
 		"cp_coilblaze_rc8" { }
+		"cp_coldfront" { }
 		"cp_collis_b1" { }
 		"cp_construct_a3" { }
 		"cp_cowpath_b3" { }
@@ -181,7 +192,9 @@
 		"cp_frozen_rc4" { }
 		"cp_geomance_rc1" { }
 		"cp_glassworks_rc6a" { }
+		"cp_granary" { }
 		"cp_granary_storm_v1" { }
+		"cp_gullywash_final1" { }
 		"cp_holyhell_rc1" { }
 		"cp_indulge" { }
 		"cp_japan_v2" { }
@@ -198,7 +211,9 @@
 		"cp_peachs_castle_v1" { }
 		"cp_pirateship_v3" { }
 		"cp_powerground_b3" { }
+		"cp_powerhouse" { }
 		"cp_priderock_b2" { }
+		"cp_process" { }
 		"cp_propaganda_b19" { }
 		"cp_recloak_a2" { }
 		"cp_reckoner" { }
@@ -225,6 +240,7 @@
 		"maps_invote" "1"
 
 		"ctf_2castle" { }
+		"ctf_2fort" { }
 		"ctf_2fort_breakable" { }
 		"ctf_2fort_classic_redux" { }
 		"ctf_2fort_dark" { }
@@ -235,6 +251,7 @@
 		"ctf_2fort_unleashed_night" { }
 		"ctf_2fort_time_tstorm_b1" { }
 		"ctf_2fort_twisted" { }
+		"ctf_applejack" { }
 		"ctf_arroyo_b9_fix1" { }
 		"ctf_nightlands" { }
 		"ctf_above_a7" { }
@@ -255,6 +272,7 @@
 		"ctf_deliverance_b3" { }
 		"ctf_depth_b4" { }
 		"ctf_discover_b59" { }
+		"ctf_doublecross" { }
 		"ctf_doublecross_snowy" { }
 		"ctf_downstream_b9a" { }
 		"ctf_downtown_final" { }
@@ -268,6 +286,7 @@
 		"ctf_favela_b14" { }
 		"ctf_flakey_b3" { }
 		"ctf_free2fort" { }
+		"ctf_frosty" { }
 		"ctf_geothermal_b2" { }
 		"ctf_giants_rc3" { }
 		"ctf_graveshift_rc3" { }
@@ -280,6 +299,7 @@
 		"ctf_hotspring_b3a" { }
 		"ctf_hydro_v2" { }
 		"ctf_installation_v2" { }
+		"ctf_landfall" { }
 		"ctf_lavapit_72h_b2" { }
 		"ctf_lavatech_rc2" { }
 		"ctf_locomotion_b3" { }
@@ -320,6 +340,7 @@
 		"ctf_theundergroundwar_a4" { }
 		"ctf_totalwar_v2" { }
 		"ctf_trof2" { }
+		"ctf_turbine" { }
 		"ctf_turbine2_a6" { }
 		"ctf_turbine_crocodile" { }
 		"ctf_turbine_everything_is_big" { }
@@ -337,6 +358,7 @@
 		"ctf_urbanbrook" { }
 		"ctf_vector_v1" { }
 		"ctf_vikings_final" { }
+		"ctf_well" { }
 		"ctf_well_classic_b3" { }
 		"ctf_well_snowy_b4" { }
 		"ctf_wildfire_rc" { }
@@ -441,9 +463,11 @@
 		"koth_hangar_rc5b" { }
 		"koth_hardway_72_rc1" { }
 		"koth_harter_rc1" { }
+		"koth_harvest_final" { }
 		"koth_harvest_winter_v2" { }
 		"koth_harvestalpine_v3b" { }
 		"koth_hayheights_a10" { }
+		“koth_highpass” { }
 		"koth_hoax_rc3" { }
 		"koth_hole_alpha" { }
 		"koth_horizon" { }
@@ -454,7 +478,10 @@
 		"koth_kaboom_a4" { }
 		"koth_kemptown_rc3a" { }
 		"koth_keylog_rc1" { }
+		"koth_king" { }
 		"koth_krampus_rc1" { }
+		"koth_lakeside_final" { }
+		"koth_lazarus" { }
 		"koth_loader_v2" { }
 		"koth_logwash_rc6a" { }
 		"koth_lolcano_b3" { }
@@ -466,6 +493,7 @@
 		"koth_maple_ridge_rc2" { }
 		"koth_mars" { }
 		"koth_megalo_rc6b" { }
+		"koth_megaton" { }
 		"koth_megaman6_rc1" { }
 		"koth_megasnow_rc1" { }
 		"koth_mill_rc4" { }
@@ -482,6 +510,7 @@
 		"koth_neurotoxin_s7" { }
 		"koth_nippletwister_a3" { }
 		"koth_northbound_b2" { }
+		"koth_nucleus" { }
 		"koth_nyan_b1" { }
 		"koth_occult_rc6" { }
 		"koth_octothorpe_classic_beta02" { }
@@ -515,6 +544,7 @@
 		"koth_saturnvalley" { }
 		"koth_saw_final" { }
 		"koth_sawdust_festive_b1" { }
+		"koth_sawmill" { }
 		"koth_sawmill_event" { }
 		"koth_schism_a26" { }
 		"koth_schneestadt_b2a" { }
@@ -548,6 +578,7 @@
 		"koth_stargate_v3" { }
 		"koth_stark_b3" { }
 		"koth_steelmill_b3" { }
+		"koth_suijin" { }
 		"koth_sunset_saloon_r2_2" { }
 		"koth_synthetic_event" { }
 		"koth_synthetic_rc6a" { }
@@ -744,6 +775,7 @@
 		"pass_gridiron_rc1a" { }
 		"pass_jam_a1b" { }
 		"pass_smalltime_rc1a" { }
+		"pd_atom_smash" { }
 		"pd_azureworld_rc1" { }
 		"pd_blastoff_rc7" { }
 		"pd_carousel_b2a" { }
@@ -758,6 +790,7 @@
 		"pd_pipeline_rc6" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_salvador_b3c" { }
+		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
 		"pd_standin_b1" { }
 		"pd_static_rc2c" { }
@@ -813,34 +846,11 @@
 	"maps_invote" "1"
 
 
-		"cp_burghausen" { }
-		"cp_canaveral_5cp" { }
-		"cp_coldfront" { }
-		"cp_degrootkeep" { }
-		“cp_gorge” { }
-		"cp_granary" { }
-		“cp_gravelpit” { }
-		"cp_gullywash_final1" { }
-		"cp_hadal" { }
-		"cp_overgrown" { }
-		"cp_powerhouse" { }
-		"cp_process" { }
 		"cp_well" { }
 		"cp_dustbowl" { }
 		"cp_egypt_final" { }
 		"cp_mossrock" { }
-		"cp_mountainlab" { }
-		"cp_snowplow" { }
-		"cp_steel" { }
-		"ctf_2fort" { }
-		"ctf_applejack" { }
-		"ctf_doublecross" { }
-		"ctf_frosty" { }
-		"ctf_landfall" { }
-		"ctf_turbine" { }
-		"ctf_well" { }
-		"pd_atom_smash" { }
-		"pd_selbyen" { }
+
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_borneo" { }
@@ -857,20 +867,5 @@
 		"pl_swiftwater_final1" { }
 		"pl_thundermountain" { }
 		"pl_upward" { }
-
-
-
-
-
-		"koth_harvest_final" { }
-		“koth_highpass” { }
-		"koth_king" { }
-		"koth_lakeside_final" { }
-		"koth_lazarus" { }
-		"koth_megaton" { }
-		"koth_nucleus" { }
-		"koth_sawmill" { }
-		"koth_suijin" { }
-
 	}
 }
