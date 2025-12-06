@@ -86,8 +86,10 @@
 		"cp_darkmarsh_event_rc4" { }
 		"cp_drag_rc1" { }
 		"cp_drypine_rc1" { }
+		"cp_dustbowl" { }
 		"cp_dustbowl_rainy" { }
 		"cp_dustcity" { }
+		"cp_egypt_final" { }
 		"cp_ferrum_rc1" { }
 		"cp_fieldworks_a4" { }
 		"cp_forsaken_downpour_rc1" { }
@@ -121,6 +123,7 @@
 		"cp_method_b4b" { }
 		"cp_minery_a12" { }
 		"cp_mojave_b2" { }
+		"cp_mossrock" { }
 		"cp_mountainlab" { }
 		"cp_neighbor_b3" { }
 		"cp_nixie_b1" { }
@@ -231,6 +234,7 @@
 		"cp_toys_v2" { }
 		"cp_undercrypt_b9" { }
 		"cp_vehkon2_v1" { }
+		"cp_well" { }
 		"cp_wildlife_rc3" { }
 		"rats_tequila_b01" { }
 	}
@@ -632,19 +636,23 @@
 		"pl_angkor_rc2" { }
 		"pl_aquarius" { }
 		"pl_badcoastbarnward_a5" { }
+		"pl_badwater" { }
 		"pl_badwater_rainy" { }
 		"pl_badwater_tilt" { }
 		"pl_blastforge_rc1" { }
 		"pl_blocked_b13" { }
 		"pl_bloodwater" { }
 		"pl_badwater_snowy" { }
+		"pl_barnblitz" { }
 		"pl_barnblitz_pro_rc2" { }
 		"pl_boostwater" { }
 		"pl_borax_rc2" { }
+		"pl_borneo" { }
 		"pl_boundary_final1" { }
 		"pl_boxcanyon_rc9" { }
 		"pl_bridgeway_b2" { }
 		"pl_cactuscanyon_redux_final2" { }
+		"pl_camber" { }
 		"pl_candyland_b1a" { }
 		"pl_cashworks" { }
 		"pl_casserole_rc3" { }
@@ -671,6 +679,9 @@
 		"pl_drawpu_rc1" { }
 		"pl_dryrock_b5" { }
 		"pl_effigy_rc2" { }
+		"pl_enclosure_final" { }
+		"pl_embargo" { }
+		"pl_emerge" { }
 		"pl_eruption_b14" { }
 		"pl_extinction_rc3" { }
 		"pl_escarpment_rc1" { }
@@ -678,9 +689,11 @@
 		"pl_fastwater" { }
 		"pl_fountain_b3" { }
 		"pl_futura_b19" { }
+		"pl_frontier_final" { }
 		"pl_frontiiiiiiiiiieeeeeeeeer" { }
 		"pl_frostcliff" { }
 		"pl_frostfell_b2" { }
+		"pl_goldrush" { }
 		"pl_great_heights_b3" { }
 		"pl_greenwood_b6" { }
 		"pl_guzzle_b18" { }
@@ -711,6 +724,8 @@
 		"pl_patagonia" { }
 		"pl_permafrost_rc2a" { }
 		"pl_pharaoh_rc1" { }
+		"pl_phoenix" { }
+		“pl_pier” { }
 		"pl_pit" { }
 		"pl_promotion_b5" { }
 		"pl_rainbowride_b7e" { }
@@ -731,12 +746,16 @@
 		"pl_skirmish_b3" { }
 		"pl_slopandslime_b2" { }
 		"pl_sludgepit_final4" { }
+		“pl_snowycoast” { }
 		"pl_spectre_a5_dew10" { }
 		"pl_spineyard_rc1a" { }
 		"pl_stranded_rc9" { }
 		"pl_subzero_a1" { }
+		"pl_swiftwater_final1" { }
+		"pl_thundermountain" { }
 		"pl_thundermountain_snowy_b3b" { }
 		"pl_tsaocywons_b1" { }
+		"pl_upward" { }
 		"pl_upwater" { }
 		"pl_venice" { }
 		"pl_vigil_rc10" { }
@@ -839,33 +858,5 @@
 		"tow_tetsudo_b9a" { }
 		"vip_tfc_hunted" { }
 		"wacky_races_v2"  { }
-	}
-
-	"Valve Casual Rotation"
-	{
-	"maps_invote" "1"
-
-
-		"cp_well" { }
-		"cp_dustbowl" { }
-		"cp_egypt_final" { }
-		"cp_mossrock" { }
-
-		"pl_badwater" { }
-		"pl_barnblitz" { }
-		"pl_borneo" { }
-		"pl_camber" { }
-		"pl_enclosure_final" { }
-		"pl_embargo" { }
-		"pl_emerge" { }
-		"pl_frontier_final" { }
-		"pl_goldrush" { }
-		"pl_odyssey" { }
-		"pl_phoenix" { }
-		“pl_pier” { }
-		“pl_snowycoast” { }
-		"pl_swiftwater_final1" { }
-		"pl_thundermountain" { }
-		"pl_upward" { }
 	}
 }
