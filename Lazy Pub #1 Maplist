@@ -120,7 +120,6 @@
 		"koth_viaduct" { }
 		"koth_vice_rc1" { }
 		"koth_winter_ridge_rc2" { }
-
 	}
 
 	"Payload "
@@ -178,6 +177,19 @@
 		"pl_upward" { }
 		"pl_vigil_rc10" { }
 		"pl_vineyard_rc8b" { }
+	}
+
+	"Freeze Tag Arena "
+	{
+        "maps_invote" "1"
+        
+		"arena_aspen_ft_rc2" { "workshopid" "3361730430" }
+		"arena_cryo_ft_b3" { "workshopid" "3361496763" }
+		"arena_himalaya_ft_b3" { "workshopid" "3360981389" }
+		"arena_lumberyard_snowy_ft_b1" { "workshopid" "3594383593" }
+		"arena_melchior_ft_rc1" { "workshopid" "3361557780" }
+		"arena_slaughter_ft_rc1" { "workshopid" "3361186611" }
+		"arena_speleo_ft_rc2" { "workshopid" "33610332068" }
 	}
 
 	"Alternative "
