@@ -4,10 +4,10 @@
 	{
         "maps_invote" "1"
 
-		"2koth_abbey_b1c" { }
+		"2koth_abbey" { }
 		"cp_artillery_b6" { }
 		"koth_sawdust_festive_b1" { }
-		"pd_nutcracker_b6" { }
+		"pd_nutcracker" { }
 		"pl_downfall_b10" { }
 		"pl_futura_b19" { }
 		"pl_permafrost_rc2a" { }
@@ -59,7 +59,7 @@
 	{
         "maps_invote" "1"
 
-		"2koth_abbey_b1b" { }
+		"2koth_abbey" { }
 		"koth_anthem_b4" { }
 		"koth_bagel_rc11" { }
 		"koth_blowout" { }
@@ -119,7 +119,7 @@
 		"koth_valor_rc1" { }
 		"koth_viaduct" { }
 		"koth_vice_rc1" { }
-		"koth_winter_ridge_rc2" { }
+		"koth_winter_ridge" { }
 	}
 
 	"Payload "
@@ -208,7 +208,7 @@
 		"pass_smalltime_rc1a" { }
 		"pd_atom_smash" { }
 		"pd_galleria" { }
-		"pd_nutcracker_b6" { }
+		"pd_nutcracker" { }
 		"pd_pipeline_rc6" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_selbyen" { }
