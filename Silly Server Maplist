@@ -116,7 +116,7 @@
 		"osen_online" { }
 		"pd_azureworld_rc1" { }
 		"pd_galleria" { }
-		"pd_nutcracker_b6" { }
+		"pd_nutcracker" { }
 		"pd_selbyen" { }
 		"pd_sfoth_a6" { }
 		"pd_suijin_event_void_a1d" { }
@@ -144,7 +144,7 @@
 		"plr_highertower" { }
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
-		"plr_matterhorn_b2" { }
+		"plr_matterhorn" { }
 		"plr_sidetracked_rc3" { }
 		"rats_tequila_b01" { }
 		"restless_plaza_b2" { }
@@ -561,7 +561,7 @@
 	{
 		"maps_invote" "1"
 
-		"2koth_abbey_b1c" { }
+		"2koth_abbey" { }
 		"koth_airfield_b7" { }
 		"koth_alpinedepo" { }
 		"koth_anthem_b4" { }
@@ -720,7 +720,7 @@
 		"koth_whitecreek_rc2" { }
 		"koth_wildwater_a11" { }
 		"koth_winter_ridge_b2_yelldowfix" { }
-		"koth_winter_ridge_rc2" { }
+		"koth_winter_ridge" { }
 		"koth_yammoe_rc3_d" { }
 	}
 
