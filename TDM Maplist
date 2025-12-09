@@ -4,7 +4,7 @@
 	{
         "maps_invote" "1"
 
-		"2koth_abbey_b1c" { }
+		"2koth_abbey" { }
 		"ctf_oldwood_b7a" { }
 		"ctf_shipyard_rc1" { }
 		"cp_stormbreaker_b26" { }
@@ -161,7 +161,7 @@
 		"koth_undermine_b4b" { }
 		"koth_valor_rc1" { }
 		"koth_vice_rc1" { }
-		"koth_winter_ridge_rc2" { }
+		"koth_winter_ridge" { }
 		"koth_ye_olde_harveste_v4" { }
 	}
 
@@ -184,7 +184,7 @@
 		"pd_galleria" { }
 		"pd_infestation_b5" { }
 		"pd_mannsylvania" { }
-		"pd_nutcracker_b6" { }
+		"pd_nutcracker" { }
 		"pd_recycler_b10" { "workshopid" "3496824760" }
 		"pd_salvador_b3c" { }
 		"pd_selbyen" { }
