@@ -6,12 +6,10 @@
 
 		"2koth_abbey" { }
 		"ctf_oldwood_b7a" { }
-		"ctf_shipyard_rc1" { }
+		"ctf_sidewinder" { }
 		"cp_stormbreaker_b26" { }
 		"dm_backfort_gravfix3" { }
-		"koth_harvest_winter_v2" { }
 		"koth_oilchange_rc3" { }
-		"koth_sawdust_festive_b1" { }
 		"pd_zinc_b7" { }
 		"pkmn_goldenrodcity_b7" { }
 		"tow_tetsudo_b9a" { }
@@ -65,7 +63,7 @@
 		"ctf_routegs" { }
 		"ctf_sewer_v1" { }
 		"ctf_shipyard_rc1" { }
-		"ctf_sidewinder_rc4a" { }
+		"ctf_sidewinder" { }
 		"ctf_tour_b6c" { }
 		"ctf_turbine_winter" { }
 		"ctf_vikings_final" { }
