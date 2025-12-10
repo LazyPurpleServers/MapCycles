@@ -14,6 +14,7 @@
 		"vsh_outburst" { }
 		"vsh_outlook_rc2b" { }
 		"vsh_skirmish" { }
+		"vsh_stowaway_rc1" { "workshopid" "3620337948" }
 		"vsh_thorne_b8" { "workshopid" "3562259083" }
 		"vsh_tinyrock" { }
 	}
