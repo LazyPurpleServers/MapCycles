@@ -12,6 +12,7 @@
 		"koth_oilchange_rc3" { }
 		"pd_zinc_b7" { }
 		"pkmn_goldenrodcity_b7" { }
+		"plr_matterhorn" { }
 		"tow_tetsudo_b9a" { }
 	}
 
@@ -199,6 +200,7 @@
 		"plr_hacksaw" { }
 		"plr_hierarch_rc2b" { }
 		"plr_hightower" { }
+		"plr_matterhorn" { }
 		"plr_upward_rc3" { }
 		"pl_longboy_b12" { }
 		"sd_doomsday" { }
