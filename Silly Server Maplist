@@ -54,6 +54,7 @@
 		"trade_speed_highway_v1" { }
 		"trade_spiral_mountain_b3" { }
 		"trade_stardust" { }
+		"trade_strange_desert_v2_a1" { "workshopid" "3596291673" }
 		"trade_submarine_station_a1" { }
 		"trade_templeofdonger_v17" { }
 		"trade_templeofdonger_v69_h" { }
@@ -88,6 +89,7 @@
 		"gm_temple_v8" { }
 		"goldenmachinegun_v1b_night" { }
 		"hgss_goldenrodcity_b2" { }
+		"hereschool" { "workshopid" "3543135139" }
 		"hikikomori_mall_a3" { }
 		"hotandcold_mattie" { }
 		"ice_veilstone_b3" { }
