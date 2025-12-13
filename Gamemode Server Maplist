@@ -146,7 +146,7 @@
 		"dr_pauseahead_v13" { }
 		"dr_pizzarun_v2" { }
 		"dr_playstation_final" { }
-		"dr_pokemon_b3a" { }
+		"dr_pokemon_b3c" { }
 		"dr_portal2_b9" { }
 		"dr_psykopat2_v2" { }
 		"dr_psykopat_fix" { }
@@ -168,16 +168,17 @@
 		"dr_supermonkeyball_v5a" { }
 		"dr_swamp_v2" { }
 		"dr_tantrum" { }
-		"dr_tf2_museum_v5_fix" { }
+		"dr_tf2_museum_v5_ct" { }
 		"dr_tim_allen_v2b" { }
 		"dr_timbercrove_v1" { }
 		"dr_traffic_jam_v2b" { }
 		"dr_trollrun_redux" { }
-		"dr_undertale_finished" { }
+		"dr_undertale_finished_v2fix2" { }
 		"dr_underworld_final" { }
-		"dr_valve_hq_ct_final1" { }
+		"dr_valve_hq_ct_final2" { }
 		"dr_Volvagias_Lair_Beta03" { }
 		"dr_waterworks_v1a" { }
+		"dr_windows_xp_ct" { }
 		"dr_winterhill_beta2" { }
 		"dr_wintervalley_final" { }
 	}
