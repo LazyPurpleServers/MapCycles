@@ -9,11 +9,10 @@
 		"ctf_sidewinder" { }
 		"cp_stormbreaker_b26" { }
 		"dm_backfort_gravfix3" { }
-		"koth_oilchange_rc3" { }
-		"pd_zinc_b7" { }
+		"koth_megaman6_rc1" { }
+		"koth_oilchange_rc3fix" { }
 		"pkmn_goldenrodcity_b7" { }
 		"plr_matterhorn" { }
-		"tow_tetsudo_b9a" { }
 	}
 
 	"Control Points "
@@ -135,7 +134,7 @@
 		"koth_megaton" { }
 		"koth_namicott_rc4" { }
 		"koth_octothorpe_classic_beta02" { }
-		"koth_oilchange_rc3" { }
+		"koth_oilchange_rc3fix" { }
 		"koth_overcast_final" { }
 		"koth_preposterous_rc2" { }
 		"koth_railbridge_rc2" { }
