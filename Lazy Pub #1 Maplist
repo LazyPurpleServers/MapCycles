@@ -6,6 +6,7 @@
 
 		"2koth_abbey" { }
 		"cp_artillery_b6" { }
+		"koth_oilchange_rc3fix" { }
 		"koth_sawdust_festive_b1" { }
 		"pd_nutcracker" { }
 		"pl_downfall_b10" { }
@@ -98,7 +99,7 @@
 		"koth_namicott_rc4" { }
 		"koth_naphtha_rc2b" { }
 		"koth_nucleus" { }
-		"koth_oilchange_rc3" { }
+		"koth_oilchange_rc3fix" { }
 		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
 		"koth_rio_rc7a" { }
