@@ -333,7 +333,7 @@
 		"ctf_sawmill_rainy" { }
 		"ctf_scorched_final" { }
 		"ctf_sewer_v1" { }
-		"ctf_shipyard_rc1" { }
+		"ctf_shipyard_rc1_fix" { }
 		"ctf_sidewinder" { }
 		"ctf_snowfort" { }
 		"ctf_stronghold_b5" { }
@@ -688,7 +688,7 @@
 		"pl_farmstead_rc6" { }
 		"pl_fastwater" { }
 		"pl_fountain_b3" { }
-		"pl_futura_b19" { }
+		"pl_futura_b20" { }
 		"pl_frontier_final" { }
 		"pl_frontiiiiiiiiiieeeeeeeeer" { }
 		"pl_frostcliff" { }
