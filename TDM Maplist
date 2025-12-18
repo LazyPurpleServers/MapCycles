@@ -96,7 +96,7 @@
 	{
         "maps_invote" "1"
 
-		"2koth_abbey_b1c" { }
+		"2koth_abbey" { }
 		"koth_aquaticruin_final" { }
 		"koth_appleacres_b3" { }
 		"koth_boardwalk" { }
