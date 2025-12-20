@@ -7,11 +7,12 @@
 		"2koth_abbey" { }
 		"cp_artillery_b6" { }
 		"cppl_gavle" { }
+		"koth_bagel_rc12" { }
 		"koth_oilchange_rc3fix" { }
 		"koth_sawdust_festive_b1" { }
 		"pd_nutcracker" { }
 		"pl_downfall_b10" { }
-		"pl_futura_b20" { }
+		"pl_futura_b21" { }
 		"pl_permafrost_rc2a" { }
 	}
 
@@ -64,7 +65,7 @@
 
 		"2koth_abbey" { }
 		"koth_anthem_b4" { }
-		"koth_bagel_rc11" { }
+		"koth_bagel_rc12" { }
 		"koth_blowout" { }
 		"koth_boardwalk" { }
 		"koth_brine_rc3a" { }
@@ -151,7 +152,7 @@
 		"pl_extinction_rc3" { }
 		"pl_farmstead_rc6" { }
 		"pl_fountain_b3" { }
-		"pl_futura_b20" { }
+		"pl_futura_b21" { }
 		"pl_frontier_final" { }
 		"pl_greenwood_b6" { }
 		"pl_guzzle_b18" { }
@@ -221,6 +222,6 @@
 		"pd_watergate" { }
 		"pd_zinc_b7" { }
 		"pl_longboy_b12" { }
-		"tow_tetsudo_b8" { }
+		"tow_tetsudo_b10a" { }
 	}
 }
