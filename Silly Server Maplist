@@ -54,7 +54,7 @@
 		"trade_speed_highway_v1" { }
 		"trade_spiral_mountain_b3" { }
 		"trade_stardust" { }
-		"trade_strange_desert_v2_a1" { "workshopid" "3596291673" }
+		"trade_strange_desert_v2_a1" { "workshopid" "3297351082" }
 		"trade_submarine_station_a1" { }
 		"trade_templeofdonger_v17" { }
 		"trade_templeofdonger_v69_h" { }
@@ -153,6 +153,7 @@
 		"rp_elite_deathstar" { }
 		"rusty_bucket_bay" { }
 		"sb_rockbottom" { }
+		"sb_eden" { "workshopid" "3596291673" }
 		"sd_toucan_final2" { }
 		"sd_turbine_a3a" { }
 		"silver_valley_c1" { }
