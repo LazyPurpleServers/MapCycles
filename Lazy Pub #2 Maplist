@@ -391,7 +391,7 @@
 		"koth_ashwood_night_b8" { }
 		"koth_badlands" { }
 		"koth_badlands_event" { }
-		"koth_bagel_rc11" { }
+		"koth_bagel_rc12" { }
 		"koth_basalt_rc2" { }
 		"koth_betteryard_rc1" { }
 		"koth_blowout" { }
@@ -689,7 +689,7 @@
 		"pl_farmstead_rc6" { }
 		"pl_fastwater" { }
 		"pl_fountain_b3" { }
-		"pl_futura_b20" { }
+		"pl_futura_b21" { }
 		"pl_frontier_final" { }
 		"pl_frontiiiiiiiiiieeeeeeeeer" { }
 		"pl_frostcliff" { }
@@ -856,7 +856,7 @@
 		"tfp_tf2party_b2" { }
 		"tow_dynamite" { }
 		"tow_impasse_b4" { }
-		"tow_tetsudo_b9a" { }
+		"tow_tetsudo_b10a" { }
 		"vip_tfc_hunted" { }
 		"wacky_races_v2"  { }
 	}
