@@ -5,15 +5,13 @@
         "maps_invote" "1"
 
 		"2koth_abbey" { }
-		"cp_artillery_b6" { }
 		"cppl_gavle" { }
 		"koth_bagel_rc12" { }
 		"koth_oilchange_rc3fix" { }
 		"koth_sawdust_festive_b1" { }
 		"pd_nutcracker" { }
-		"pl_downfall_b10" { }
 		"pl_futura_b21" { }
-		"pl_permafrost_rc2a" { }
+		"tow_tetsudo_b10a" { }
 	}
 
 	"Attack & Defend"
