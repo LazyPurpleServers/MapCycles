@@ -39,7 +39,7 @@
 
 		"bigdonut_3" { }
 		"bomberman_battle_game" { }
-		"car_fall_dmg" { }
+		"car_fall_nodmg" { }
 		"dr_minigames_b2" { }
 		"jackenstein_challenge_v2" { "workshopid" "3578345105" }
 		"kart_double_deck_v2" { }
