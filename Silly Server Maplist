@@ -220,6 +220,7 @@
 		"dm_newyork_gravfix3" { }
 		"dm_sdm_final" { }
 		"dm_threed_festive_yelldowfix" { }
+		"dm_touhou_guesthouse_v1" { "workshopid" "3628698262"}
 		"dm_towerleap" { }
 		"dm_towerleap_v2_final2" { }
 		"cp_supermariobros3_b4" { }
