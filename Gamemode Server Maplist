@@ -89,6 +89,7 @@
  
 		"dr_4halls_v7" { }
 		"dr_aconian_final" { }
+		"dr_ao_gakko_v1a" { }
 		"dr_ancient_memes" { }
 		"dr_bank_v13" { }
 		"dr_battlecats_v1" { }
@@ -102,6 +103,7 @@
 		"dr_breadland_v3b" { }
 		"dr_castle_steveh_2c" { }
 		"dr_champions_destiny_v2b" { }
+		"dr_chipper_v3" { }
 		"dr_cocainum2_b2_invasion" { }
 		"dr_corridor_v4_final" { }
 		"dr_cryptnecrodancer_v7" { }
@@ -131,7 +133,7 @@
 		"dr_madlabs_final" { }
 		"dr_madness_combat_ne_v3" { }
 		"dr_mario_story_pm64_v1" { }
-		"dr_minecraft_land_v4f" { }
+		"dr_minecraft_land_v5c" { }
 		"dr_minecraft_reduxB9" { }
 		"dr_minigames_b2" { }
 		"dr_missing_redux_beta" { }
@@ -154,7 +156,7 @@
 		"dr_psykopat_fix" { }
 		"dr_pyramid_cat_final1_fix" { }
 		"dr_qubic_v1_1" { }
-		"dr_raiders_b9" { }
+		"dr_raiders_b16" { }
 		"dr_safety_first_final" { }
 		"dr_sawmill_final" { }
 		"dr_siivagunner_v3" { }
@@ -179,7 +181,7 @@
 		"dr_underworld_final" { }
 		"dr_valve_hq_ct_final2" { }
 		"dr_Volvagias_Lair_Beta03" { }
-		"dr_waterworks_v1a" { }
+		"dr_waterworks_v1c" { }
 		"dr_weedfortress_b5b" { }
 		"dr_windows_xp_ct" { }
 		"dr_winterhill_beta2" { }
