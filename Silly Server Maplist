@@ -148,6 +148,7 @@
 		"plr_hothouse_72" { }
 		"plr_lushtower" { }
 		"plr_matterhorn" { }
+		"plr_orangeshot" { "workshopid" "3476037261" }
 		"plr_sidetracked_rc3" { }
 		"rats_tequila_b01" { }
 		"restless_plaza_b2" { }
@@ -801,13 +802,13 @@
         "maps_invote" "1"
 
         "pl_alpine_forest_rc2" { }
-	"pl_aquarius" { }
+		"pl_aquarius" { }
         "pl_badlands_winter" { }
         "pl_beerbowl_rc1" { }
         "pl_blastpitt_rc3" { }
         "pl_borax_rc2" { }
         "pl_boundary_final" { }
-		"candyland_rc1" { "workshopid" "3597952906" }
+		"pl_candyland_rc1" { "workshopid" "3597952906" }
 		"pl_cattower_b0" { }
         "pl_cashworks" { }
         "pl_citadel" { }
