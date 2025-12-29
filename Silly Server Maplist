@@ -28,6 +28,7 @@
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
+		"trade_lost_place_a1" { "workshopid" "3632647291" }
 		"trade_mall" { }
 		"trade_manhatten" { }
 		"trade_masscc_h1_krowfix" { }
