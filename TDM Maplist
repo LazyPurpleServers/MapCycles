@@ -12,7 +12,7 @@
 		"koth_megaman6_rc1" { }
 		"koth_oilchange_rc3fix" { }
 		"koth_winter_ridge" { }
-		"pkmn_goldenrodcity_b7" { }
+		"pd_glasshouse_b8" { "workshopid" "3533816662" }
 		"plr_matterhorn" { }
 	}
 
