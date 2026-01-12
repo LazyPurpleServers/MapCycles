@@ -2,7 +2,6 @@
 {
 	"Deathrun"
 	{
-		"nominate_flags" "g"
 		"command" "exec gamemode/dr"
  
 		"dr_4halls_v7" { }
