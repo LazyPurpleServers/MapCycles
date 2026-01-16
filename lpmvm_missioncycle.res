@@ -357,8 +357,8 @@
 		}
 		"72"
 		{
-			"map" "mvm_terrorlict_final1"
-			"popfile" "mvm_terrorlict_final1"
+			"map" "mvm_terrorlict_final1c5"
+			"popfile" "mvm_terrorlict_final1c5"
 		}
 		"73"
 		{
@@ -842,6 +842,7 @@
 		}
 	}
 }
+
 
 
 
