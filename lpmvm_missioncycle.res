@@ -507,8 +507,8 @@
 		}
 		"102"
 		{
-			"map" "mvm_gravelpass_b4"
-			"popfile" "mvm_gravelpass_b4_exp_mannslaughter"
+			"map" "mvm_gravelpass_b6"
+			"popfile" "mvm_gravelpass_b6_exp_mannslaughter"
 		}
 		"103"
 		{
@@ -837,6 +837,7 @@
 		}
 	}
 }
+
 
 
 
