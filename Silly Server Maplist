@@ -456,6 +456,7 @@
 		"cp_wetcoal_b1" { }
 		"cp_wildcat_rc1a" { }
 		"cp_wildlife_rc3" { }
+		"cp_yellowvalley" { "workshopid" "2860717034" }
 		"cp_zinkenite_b3a" { }
 	}
 
