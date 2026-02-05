@@ -537,6 +537,7 @@
 		"gm_worldwide_tf2_v2" { }
 		"gm_xhs_revolution" { }
 		"gpk_freecity" { }
+		"labyrinth_gmod_v2" { "workshopid" "3655785481" }
 		"mu_alpinnacle" { }
 		"olg_rp-build_v2_fixed" { }
 		"rp_bmsectorc_v2" { }
