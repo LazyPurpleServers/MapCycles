@@ -192,8 +192,8 @@
 		}
 		"39"
 		{
-			"map" "mvm_rustvalley_rc6"
-			"popfile" "mvm_rustvalley_rc6_int_restless_robotics"
+			"map" "mvm_rustvalley_rc6b"
+			"popfile" "mvm_rustvalley_rc6b_int_restless_robotics"
 		}
 		"40"
 		{
@@ -837,6 +837,7 @@
 		}
 	}
 }
+
 
 
 
