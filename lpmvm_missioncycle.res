@@ -197,8 +197,8 @@
 		}
 		"40"
 		{
-			"map" "mvm_sequoia_rc4"
-			"popfile" "mvm_sequoia_rc4_adv_forest_fight"
+			"map" "mvm_sequoia_rc8"
+			"popfile" "mvm_sequoia_rc8_adv_forest_fight"
 		}
 		"41"
 		{
@@ -832,6 +832,7 @@
 		}
 	}
 }
+
 
 
 
