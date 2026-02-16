@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "166"
+		"count" "169"
 		
 		"1"
 		{
@@ -492,8 +492,8 @@
 		}
 		"99"
 		{
-			"map" "mvm_redridge_b3b"
-			"popfile" "mvm_redridge_b3b"
+			"map" "mvm_redridge_b4a"
+			"popfile" "mvm_redridge_b4a"
 		}
 		"100"
 		{
@@ -830,8 +830,24 @@
 			"map" "mvm_reclaimed_a4"
 			"popfile" "mvm_reclaimed_a4_exp_cataclysm"
 		}
+		"167"
+		{
+			"map" "mvm_coldtown_rc1f"
+			"popfile" "mvm_coldtown_rc1f"
+		}
+		"168"
+		{
+			"map" "mvm_doublecross_rc5"
+			"popfile" "mvm_doublecross_rc5_int_golden_hour_circuit_shower"
+		}
+		"169"
+		{
+			"map" "mvm_monsoon_b9"
+			"popfile" "mvm_monsoon_b9_int_weathered_wrecks"
+		}
 	}
 }
+
 
 
 
