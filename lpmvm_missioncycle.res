@@ -707,8 +707,8 @@
 		}
 		"142"
 		{
-			"map" "mvm_ventus_rc2"
-			"popfile" "mvm_ventus_rc2_adv_barnacle_beatdown"
+			"map" "mvm_ventus_rc3"
+			"popfile" "mvm_ventus_rc3_adv_barnacle_beatdown"
 		}
 		"143"
 		{
@@ -847,6 +847,7 @@
 		}
 	}
 }
+
 
 
 
