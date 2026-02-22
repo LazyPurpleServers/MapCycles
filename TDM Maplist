@@ -23,6 +23,7 @@
 		"cp_abyss_b81" { }
 		"cp_canaveral_5cp" { }
 		"cp_marioblast_2011" { }
+		"cp_mos_eisley_b1" { "workshopid" "3593586036" }
 		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
