@@ -411,6 +411,7 @@
 		"cp_minery_a12" { }
 		"cp_mist_rc1d" { }
 		"cp_monopod_a11" { }
+		"cp_mos_eisley_b1" { "workshopid" "3593586036" }
 		"cp_neighbor_b3" { }
 		"cp_no_mercy_b1" { }
 		"cp_okto_beta_2" { }
