@@ -37,6 +37,7 @@
 		"cp_hella_b1" { }
 		"cp_method_b4b" { }
 		"cp_mojave_b2" { }
+		"mos_eisley_b1" { "workshopid" "3593586036" }
 		"cp_mossrock" { }
 		"cp_mountainlab" { }
 		"cp_nixie_b1" { }
