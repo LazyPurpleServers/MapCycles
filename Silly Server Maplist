@@ -856,6 +856,7 @@
         "pl_rocketravine_b6" { }
         "pl_rustbelt_rc1" { }
         "pl_shenmue_release" { }
+		"pl_simpson_house_r_b2" { "workshopid" "3048015216" }
         "pl_slopandslime_b2" { }
         "pl_sludgepit_final4" { }
         "pl_snowbomb" { }
