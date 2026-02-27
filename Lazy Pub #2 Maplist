@@ -562,6 +562,7 @@
 		"koth_skybox_rc2" { }
 		"koth_skyfall_a7a" { }
 		"koth_skylab_rc1" { }
+		"koth_skyline_rc1" { "workshopid" "3644748474" }
 		"koth_skymill_b3" { }
 		"koth_skyscraper" { }
 		"koth_skywalker1" { }
