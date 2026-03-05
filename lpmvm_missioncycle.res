@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "169"
+		"count" "170"
 		
 		"1"
 		{
@@ -845,8 +845,14 @@
 			"map" "mvm_monsoon_b9"
 			"popfile" "mvm_monsoon_b9_int_weathered_wrecks"
 		}
+		"170"
+		{
+			"map" "mvm_hells_gate_rc5"
+			"popfile" "mvm_hells_gate_rc5_adv_brittlebrakes"
+		}
 	}
 }
+
 
 
 
