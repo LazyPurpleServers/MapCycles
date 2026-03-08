@@ -42,6 +42,7 @@
 		"bomberman_battle_game" { }
 		"car_fall_nodmg" { }
 		"dr_minigames_b2" { }
+		"games_minecraft_v4" { }
 		"jackenstein_challenge_v2" { "workshopid" "3578345105" }
 		"kart_double_deck_v2" { }
 		"kart_skyscraper_v2" { }
