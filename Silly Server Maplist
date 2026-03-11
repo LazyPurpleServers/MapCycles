@@ -741,30 +741,42 @@
 		"mvm_area_52_rc3" { }
 		"mvm_barren_final2" { }
 		"mvm_bigrock" { }
+		"mvm_bonk_plant_rc3" { }
 		"mvm_boogge_rc1" { }
 		"mvm_brugge_rc4b" { }
 		"mvm_casino_city_b7c" { }
+		"mvm_cliffside_b7_2" { }
+		"mvm_cloudpiercer_b4" { }
 		"mvm_coaltown" { }
 		"mvm_coastrock_rc1_1" { }
+		"mvm_crown_rc4b" { }
 		"mvm_cyberia_rc3" { }
 		"mvm_damn_r1" { }
 		"mvm_decay_rc1" { }
 		"mvm_decoy" { }
 		"mvm_derelict_b3" { }
 		"mvm_desert_fort" { }
+		"mvm_dionysus_b5a" { }
 		"mvm_diverge_b4" { }
 		"mvm_dockyard_rc6a" { }
+		"mvm_dome_rc4" { }
 		"mvm_doppler_b12" { }
 		"mvm_downtown_final3" { }
 		"mvm_factory" { }
 		"mvm_fiori_b2" { }
+		"mvm_flowerfield_rc8" { }
 		"mvm_gateway_rc2" { }
 		"mvm_ghost_town" { }
 		"mvm_goldpit_rc2" { }
+		"mvm_greekrock_b5" { }
 		"mvm_havana_b3" { }
+		"mvm_havana_rc4" { }
 		"mvm_hideout_b3" { }
+		"mvm_highland_rc3" { }
+		"mvm_humbridge_rc1" { }
 		"mvm_intersection" { }
 		"mvm_isolation_rc3" { }
+		"mvm_jungleworks_rc2" { }
 		"mvm_kelly_rc1b" { }
 		"mvm_logvalley_b9" { }
 		"mvm_manndarin_final" { }
@@ -773,16 +785,25 @@
 		"mvm_meltdown_rc1_4" { }
 		"mvm_memorial_b1" { }
 		"mvm_metro_rc1" { }
+		"mvm_midtown_b3" { }
+		"mvm_nox_b3" { }
+		"mvm_null_b9c" { }
 		"mvm_oilrig_rc3" { }
+		"mvm_outpost_v9" { }
 		"mvm_overgreen" { }
+		"mvm_overrun_b2" { }
 		"mvm_oxidize_rc16" { }
+		"mvm_paradigm_rc5" { }
 		"mvm_pinnacle_a6" { }
 		"mvm_powerplant_rc1" { }
 		"mvm_production_rc4" { }
 		"mvm_quetzal_rc5" { }
+		"mvm_rancher_b11" { }
 		"mvm_redbrier_b3" { }
 		"mvm_rottenburg" { }
 		"mvm_rustvalley_rc2" { }
+		"mvm_sand_rc1a" { }
+		"mvm_scallops_rc4a" { }
 		"mvm_seabed_b1" { }
 		"mvm_sequoia_rc4" { }
 		"mvm_sharp_rc9" { }
@@ -791,12 +812,18 @@
 		"mvm_skullcove_rc1" { }
 		"mvm_snowflake_b3" { }
 		"mvm_spacepost_b4" { }
+		"mvm_spybase_rc16" { }
 		"mvm_steep_rc2" { }
 		"mvm_teien_rc6" { }
+		"mvm_tensai_rc3" { }
+		"mvm_thunderstorm_rc10" { }
 		"mvm_trainyard_rc3d" { }
 		"mvm_underground_rc3" { }
 		"mvm_underworld_rc2" { }
+		"mvm_ventus_rc3" { }
 		"mvm_waterfront_rc3" { }
+		"mvm_whitecliff_event_rc2" { }
+		"mvm_whitecliff_rc4a" { }
 		"mvm_yucatan_rc4" { }
     }
 
