@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "170"
+		"count" "169"
 		
 		"1"
 		{
@@ -492,8 +492,8 @@
 		}
 		"99"
 		{
-			"map" "mvm_redridge_b4a"
-			"popfile" "mvm_redridge_b4a"
+			"map" "mvm_hells_gate_rc5"
+			"popfile" "mvm_hells_gate_rc5_adv_brittlebrakes"
 		}
 		"100"
 		{
@@ -845,13 +845,9 @@
 			"map" "mvm_monsoon_b9"
 			"popfile" "mvm_monsoon_b9_int_weathered_wrecks"
 		}
-		"170"
-		{
-			"map" "mvm_hells_gate_rc5"
-			"popfile" "mvm_hells_gate_rc5_adv_brittlebrakes"
-		}
 	}
 }
+
 
 
 
