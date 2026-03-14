@@ -610,6 +610,7 @@
 		"koth_databank_rc1" { }
 		"koth_demolition" { }
 		"koth_denile_b3" { }
+		"koth_depot_final1" { "workshopid" "2812400076" }
 		"koth_dewm_rc1" { }
 		"koth_dewpoint_b5b" { }
 		"koth_drop_b3" { }
