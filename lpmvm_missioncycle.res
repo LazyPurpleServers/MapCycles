@@ -707,8 +707,8 @@
 		}
 		"142"
 		{
-			"map" "mvm_ventus_rc3"
-			"popfile" "mvm_ventus_rc3_adv_barnacle_beatdown"
+			"map" "mvm_ventus_rc4"
+			"popfile" "mvm_ventus_rc4_intermediate1"
 		}
 		"143"
 		{
@@ -717,8 +717,8 @@
 		}
 		"144"
 		{
-			"map" "mvm_cloudpiercer_b4"
-			"popfile" "mvm_cloudpiercer_b4_adv_operation_skyhook"
+			"map" "mvm_cloudpiercer_b6b"
+			"popfile" "mvm_cloudpiercer_b6b_int_operation_skyhook"
 		}
 		"145"
 		{
