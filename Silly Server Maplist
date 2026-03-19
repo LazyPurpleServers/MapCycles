@@ -748,7 +748,7 @@
 		"mvm_brugge_rc4b" { }
 		"mvm_casino_city_b7c" { }
 		"mvm_cliffside_b7_2" { }
-		"mvm_cloudpiercer_b4" { }
+		"mvm_cloudpiercer_b6b" { }
 		"mvm_coaltown" { }
 		"mvm_coastrock_rc1_1" { }
 		"mvm_crown_rc4b" { }
@@ -822,7 +822,7 @@
 		"mvm_trainyard_rc3d" { }
 		"mvm_underground_rc3" { }
 		"mvm_underworld_rc2" { }
-		"mvm_ventus_rc3" { }
+		"mvm_ventus_rc4" { }
 		"mvm_waterfront_rc3" { }
 		"mvm_whitecliff_event_rc2" { }
 		"mvm_whitecliff_rc4a" { }
