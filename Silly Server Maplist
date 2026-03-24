@@ -295,6 +295,7 @@
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_moonwalk_v2" { }
 		"ctf_morocco_coast" { }
+		"ctf_mwm" { "workshopid" "3543785311" }
 		"ctf_newbine_rc1" { }
 		"ctf_nordhaven_special_b3" { }
 		"ctf_np_blake_fusion" { }
