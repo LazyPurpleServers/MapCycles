@@ -21,6 +21,7 @@
 		"trade_echidna_shrine" { }
 		"trade_facility_v7" { }
 		"trade_finalfantasy_town" { }
+		"trade_floradox" { "workshopid" "3692840219" }
 		"trade_forest_realms_a4" { }
 		"trade_frantic_factory_v4a" { }
 		"trade_gingerbread_manor_b2" { "workshopid" "3102613620" }
