@@ -222,11 +222,11 @@
 		"dm_mountainlake2" { }
 		"dm_moving_in" { }
 		"dm_museum_final" { }
-		"dm_newhorizon_v3" { }
+		"dm_newhorizon_v4b" { "workshopid" "2840122105" }
 		"dm_newyork_gravfix3" { }
 		"dm_sdm_final" { }
 		"dm_threed_festive_yelldowfix" { }
-		"dm_touhou_guesthouse_v1a" { "workshopid" "3628698262"}
+		"dm_touhou_guesthouse_v1a" { "workshopid" "3628698262" }
 		"dm_towerleap" { }
 		"dm_towerleap_v2_final2" { }
 		"cp_supermariobros3_b4" { }
