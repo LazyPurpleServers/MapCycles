@@ -659,6 +659,7 @@
 		"koth_megalo_rc6b" { }
 		"koth_megaman6_rc1" { }
 		"koth_megaton" { }
+		"koth_metrorail" { "workshopid" "3179729718" }
 		"koth_mill_rc4" { }
 		"koth_minecraft_canyon_a4" { }
 		"koth_moonshine_rc" { }
