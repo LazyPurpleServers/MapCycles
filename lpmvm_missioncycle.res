@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "170"
+		"count" "169"
 		
 		"1"
 		{
@@ -837,18 +837,13 @@
 		}
 		"168"
 		{
-			"map" "mvm_doublecross_rc5"
-			"popfile" "mvm_doublecross_rc5_int_golden_hour_circuit_shower"
+			"map" "mvm_grange_rc4"
+			"popfile" "mvm_grange_rc4_expert_deep_freeze"
 		}
 		"169"
 		{
 			"map" "mvm_monsoon_b9"
 			"popfile" "mvm_monsoon_b9_int_weathered_wrecks"
-		}
-		"170"
-		{
-			"map" "mvm_grange_rc4"
-			"popfile" "mvm_grange_rc4_expert_deep_freeze"
 		}
 	}
 }
