@@ -501,6 +501,7 @@
 		"gm_carconstruct_b1-8" { }
 		"gm_cliffhanger" { }
 		"gm_coolsnow" { } 
+		"gm_construct_updated_v2" { "workshopid" "3703404828" } 
 		"GM_Cyclopean" { }
 		"gm_desertfortress" { }
 		"gm_diprip_city" { }
