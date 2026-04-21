@@ -6,6 +6,7 @@
 
 		"2koth_abbey" { }
 		"cp_mirages_rc2" { "workshopid" "3709707905" }
+		"cp_stormbreaker_w" { "workshopid" "3595987419" }
 		"ctf_filter_rc1" { "workshopid" "3709196757" }
 		"ctf_oldwood_b7a" { }
 		"dm_backfort_gravfix3" { }
@@ -27,7 +28,7 @@
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
 		"cp_standin_final" { }
-		"cp_stormbreaker_b26" { }
+		"cp_stormbreaker_w" { "workshopid" "3595987419" }
 		"cp_sunnyside_final" { }
 		"cp_supermariobros3_b4" { }
 	}
