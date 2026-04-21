@@ -97,9 +97,9 @@
 		"cp_furnace_rc" { }
 		"cp_george_rc7" { }
 		"cp_glacier_rc6" { }
-		"cp_gorge” { }
+		"cp_gorge" { }
 		"cp_gothic_event" { }
-		"cp_gravelpit” { }
+		"cp_gravelpit" { }
 		"cp_gravelpit_snowy" { }
 		"cp_gydan" { }
 		"cp_hadal" { }
@@ -471,7 +471,7 @@
 		"koth_harvest_winter_v2" { }
 		"koth_harvestalpine_v3b" { }
 		"koth_hayheights_a10" { }
-		"koth_highpass” { }
+		"koth_highpass" { }
 		"koth_hoax_rc3" { }
 		"koth_hole_alpha" { }
 		"koth_horizon" { }
@@ -747,7 +747,7 @@
 		"pl_skirmish_b3" { }
 		"pl_slopandslime_b2" { }
 		"pl_sludgepit_final4" { }
-		"pl_snowycoast” { }
+		"pl_snowycoast" { }
 		"pl_spectre_a5_dew10" { }
 		"pl_spineyard_rc1a" { }
 		"pl_stranded_rc9" { }
