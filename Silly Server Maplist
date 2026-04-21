@@ -273,6 +273,7 @@
 		"ctf_extraction_b6" { }
 		"ctf_facility_build62" { }
 		"ctf_facing_worlds_2011" { }
+		"ctf_filter_rc1" { "workshopid" "3709196757" }
 		"ctf_fishy_b4" { }
 		"ctf_flakey_b3" { }
 		"ctf_frosty" { }
