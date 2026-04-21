@@ -5,15 +5,13 @@
         "maps_invote" "1"
 
 		"2koth_abbey" { }
+		"cp_mirages_rc2" { "workshopid" "3709707905" }
 		"ctf_oldwood_b7a" { }
-		"ctf_sidewinder" { }
-		"cp_stormbreaker_b26" { }
 		"dm_backfort_gravfix3" { }
 		"koth_megaman6_rc1" { }
 		"koth_oilchange_rc3fix" { }
-		"koth_winter_ridge" { }
-		"pd_glasshouse_b8" { "workshopid" "3533816662" }
-		"plr_matterhorn" { }
+		"koth_icetower_rc7" { }
+		"plr_bananabay" { }
 	}
 
 	"Control Points "
@@ -23,6 +21,7 @@
 		"cp_abyss_b81" { }
 		"cp_canaveral_5cp" { }
 		"cp_marioblast_2011" { }
+		"cp_mirages_rc2" { "workshopid" "3709707905" }
 		"cp_powerhouse" { }
 		"cp_rooftop_b6" { }
 		"cp_shelter_rc4" { }
