@@ -5,13 +5,11 @@
         "maps_invote" "1"
 
 		"2koth_abbey" { }
-		"cppl_gavle" { }
+		"cp_rafters" { "workshopid" "3713887895" }
 		"koth_bagel_rc12" { }
 		"koth_oilchange_rc3fix" { }
-		"koth_sawdust_festive_b1" { }
-		"pd_nutcracker" { }
-		"pl_futura_b21" { }
-		"tow_tetsudo_b10a" { }
+		"koth_reservoir_b2" { "workshopid" "3713890115" }
+		"pd_zinc_b14" { "workshopid" "3713160899" }
 	}
 
 	"Attack & Defend"
@@ -43,6 +41,7 @@
 		"cp_osiris_b27" { }
 		"cp_overgrown" { }
 		"cp_france_rc4c" { }
+		"cp_rafters" { "workshopid" "3713887895" }
 		"cp_sandswept_b13" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
@@ -103,6 +102,7 @@
 		"koth_oilchange_rc3fix" { }
 		"koth_overcast_final" { }
 		"koth_relic_rc3" { }
+		"koth_reservoir_b2" { "workshopid" "3713890115" }
 		"koth_rio_rc7a" { }
 		"koth_rocktop_rc2" { }
 		"koth_rotunda" { }
@@ -218,7 +218,7 @@
 		"pd_suijin_matsuri_rc4" { }
 		"pd_tomb_rc2b" { }
 		"pd_watergate" { }
-		"pd_zinc_b7" { }
+		"pd_zinc_b14" { "workshopid" "3713160899" }
 		"pl_longboy_b12" { }
 		"tow_tetsudo_b10a" { }
 	}
