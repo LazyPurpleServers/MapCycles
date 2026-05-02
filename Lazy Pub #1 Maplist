@@ -4,12 +4,15 @@
 	{
         "maps_invote" "1"
 
-		"2koth_abbey" { }
-		"cp_rafters" { "workshopid" "3713887895" }
-		"koth_bagel_rc12" { }
-		"koth_oilchange_rc3fix" { }
+		"cp_frequency_b1" { "workshopid" "3717118396" }
+		"cp_rafters_b4" { "workshopid" "3713887895" }
+		"koth_descent_rc2" { "workshopid" "3716229024" }
 		"koth_reservoir_b2" { "workshopid" "3713890115" }
+		"koth_swerve_b2a" { "workshopid" "3717177136" }
 		"pd_zinc_b14" { "workshopid" "3713160899" }
+		"pl_aridpass_b6" { "workshopid" "3717196536" }
+		"pl_redwood_b3" { "workshopid" "3717818537" }
+		"tow_phoneyland_b1_14" { "workshopid" "3717723939" }
 	}
 
 	"Attack & Defend"
@@ -25,6 +28,7 @@
 		"cp_conifer" { }
 		"cp_copperhead_b2c" { }
 		"cp_egypt_final" { }
+		"cp_frequency_b1" { "workshopid" "3717118396" }
 		"cp_fulgur" { }
 		"cp_furnace_rc" { }
 		"cp_gorge" { }
@@ -41,7 +45,7 @@
 		"cp_osiris_b27" { }
 		"cp_overgrown" { }
 		"cp_france_rc4c" { }
-		"cp_rafters" { "workshopid" "3713887895" }
+		"cp_rafters_b4" { "workshopid" "3713887895" }
 		"cp_sandswept_b13" { }
 		"cp_scourge_b5" { }
 		"cp_snowbase_b18" { }
@@ -72,6 +76,7 @@
 		"koth_conveyance_rc3b" { }
 		"koth_county_b7" { }
 		"koth_databank_rc3" { }
+		"koth_descent_rc2" { "workshopid" "3716229024" }
 		"koth_dryfield_rc2" { "workshopid" "3462326252" }
 		"koth_empire_rc2" { }
 		"koth_fjord_rc0v1" { }
@@ -81,7 +86,7 @@
 		"koth_harvest_final" { }
 		"koth_highpass" { }
 		"koth_hoax_rc3" { }
-		"koth_horizon" { }
+		"koth_horizon" { "workshopid" "971033772" }
 		"koth_icetower_rc7" { }
 		"koth_jamram_rc2b" { }
 		"koth_kemptown_rc3a" { }
@@ -115,6 +120,7 @@
 		"koth_soot_b5" { }
 		"koth_spillway_rc3a" { }
 		"koth_suijin" { }
+		"koth_swerve_b2a" { "workshopid" "3717177136" }
 		"koth_synthetic_rc6a" { }
 		"koth_undergrove_rc1" { }
 		"koth_undergrowth_b2a" { }
@@ -127,7 +133,8 @@
 	"Payload "
 	{
         "maps_invote" "1"
-        
+
+		"pl_aridpass_b6" { "workshopid" "3717196536" }
 		"pl_badwater" { }
 		"pl_barnblitz" { }
 		"pl_blastforge_rc1" { }
@@ -166,6 +173,7 @@
 		"pl_permafrost_rc2a" { }
 		"pl_phoenix" { }
 		"pl_pier" { }
+		"pl_redwood_b3" { "workshopid" "3717818537" }
 		"pl_rumford_rc2" { }
 		"pl_rust" { }
 		"pl_rustbelt_rc1" { }
@@ -220,6 +228,7 @@
 		"pd_watergate" { }
 		"pd_zinc_b14" { "workshopid" "3713160899" }
 		"pl_longboy_b12" { }
-		"tow_tetsudo_b10a" { }
+		"tow_phoneyland_b1_14" { "workshopid" "3717723939" }
+		"tow_tetsudo_b10c" { "workshopid" "3481396928" }
 	}
 }
