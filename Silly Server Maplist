@@ -892,6 +892,7 @@
         "pl_pharaoh_rc1" { }
         "pl_promotion_b5" { }
         "pl_rebirth_rc1" { }
+		"pl_redwood_b3" { "workshopid" "3717818537" }
         "pl_rivercrossing_rc2a" { }
         "pl_rocketravine_b6" { }
         "pl_rustbelt_rc1" { }
