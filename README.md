@@ -14,7 +14,7 @@ Server Fastdl: https://lazypurple.com/tf/fastdl/
 
 
 
-(The details below are for those with writing permissions, reserved for Community Managers and Staff. You can read this if you don't have those roles if you want insight to how we do things, but you will not be able to apply this knowledge.)
+(The details below are for those with writing permissions, reserved for Community Managers and Staff. You can read this if you don't have those roles if you want insight to how we do things, but you will not be able to apply this knowledge. If you have recently been promoted to Community Manager and want the permission to add maps by Workshop link, reach out to Zaevie!)
 
 
 How to add a Workshop Map to a rotation;
