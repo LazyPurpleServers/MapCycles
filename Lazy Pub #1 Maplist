@@ -11,6 +11,7 @@
 		"koth_swerve_b2a" { "workshopid" "3717177136" }
 		"pd_zinc_b14" { "workshopid" "3713160899" }
 		"pl_aridpass_b6" { "workshopid" "3717196536" }
+		"pl_blackmoose_b11" { "workshopid" "3717196536" }
 		"pl_redwood_b3" { "workshopid" "3717818537" }
 		"tow_phoneyland_b1_14" { "workshopid" "3717723939" }
 	}
@@ -137,6 +138,7 @@
 		"pl_aridpass_b6" { "workshopid" "3717196536" }
 		"pl_badwater" { }
 		"pl_barnblitz" { }
+		"pl_blackmoose_b11" { "workshopid" "3717196536" }
 		"pl_blastforge_rc1" { }
 		"pl_borneo" { }
 		"pl_bridgeway_b2" { }
