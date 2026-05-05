@@ -93,6 +93,7 @@
 		"cp_fieldworks_a4" { }
 		"cp_forsaken_downpour_rc1" { }
 		"cp_fortezza" { }
+		"cp_frequency_b1" { "workshopid" "3717118396" }
 		"cp_fulgur" { }
 		"cp_furnace_rc" { }
 		"cp_george_rc7" { }
@@ -423,10 +424,11 @@
 		"koth_county_b7" { }
 		"koth_crumble_rc1" { }
 		"koth_daenam_b12" { }
-		"koth_databank_rc3" { }
+		"koth_databank_rc4" { "workshopid" "3719980540" }
 		"koth_deep13_b1" { }
 		"koth_demolition" { }
 		"koth_denile_b3" { }
+		"koth_descent_rc2" { "workshopid" "3716229024" }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
 		"koth_dewpoint_b5b" { }
@@ -586,6 +588,7 @@
 		"koth_steelmill_b3" { }
 		"koth_suijin" { }
 		"koth_sunset_saloon_r2_2" { }
+		"koth_swerve_b2a" { "workshopid" "3717177136" }
 		"koth_synthetic_event" { }
 		"koth_synthetic_rc6a" { }
 		"koth_syphon_b3e" { }
@@ -637,10 +640,12 @@
 		"pl_alpine_forest_rc2" { }
 		"pl_angkor_rc2" { }
 		"pl_aquarius" { }
+		"pl_aridpass_b6" { "workshopid" "3717196536" }
 		"pl_badcoastbarnward_a5" { }
 		"pl_badwater" { }
 		"pl_badwater_rainy" { }
 		"pl_badwater_tilt" { }
+		"pl_blackmoose_b11" { "workshopid" "3704524832" }
 		"pl_blastforge_rc1" { }
 		"pl_blocked_b13" { }
 		"pl_bloodwater" { }
@@ -707,6 +712,7 @@
 		"pl_jerrycan_rc5" { }
 		"pl_jinn_rc2a" { }
 		"pl_jungle_a1c" { }
+		"pl_launch_b3" { "workshopid" "3719791801" }
 		"pl_manngrove_rc5" { }
 		"pl_mariposa_b5c" { }
 		"pl_mesa_b1" { }
@@ -732,6 +738,7 @@
 		"pl_promotion_b5" { }
 		"pl_rainbowride_b7e" { }
 		"pl_rebirth_rc1" { }
+		"pl_redwood_b3" { "workshopid" "3717818537" }
 		"pl_retawdab" { }
 		"pl_ridgetech_rc1a" { }
 		"pl_rivercrossing_rc2a" { }
@@ -858,6 +865,7 @@
 		"tfp_tf2party_b2" { }
 		"tow_dynamite" { }
 		"tow_impasse_b4" { }
+		"tow_phoneyland_b1_14" { "workshopid" "3717723939" }
 		"tow_tetsudo_b10a" { }
 		"vip_tfc_hunted" { }
 		"wacky_races_v2"  { }
