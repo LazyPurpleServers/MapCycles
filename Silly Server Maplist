@@ -393,6 +393,7 @@
 		"cp_ferrum_rc1" { }
 		"cp_follower" { }
 		"cp_fortezza" { }
+		"cp_frequency_b1" { "workshopid" "3717118396" }
 		"cp_frozen_rc4" { }
 		"cp_fulgur" { }
 		"cp_furnace_rc" { }
@@ -440,7 +441,7 @@
 		"cp_punts_v1b" { }
 		"cp_reckoner" { }
 		"cp_redstone_b2" { }
-		"cp_rafters" { "workshopid" "3713887895" }
+		"cp_rafters_b4" { "workshopid" "3713887895" }
 		"cp_ritter_rc1" { }
 		"cp_rooftop_b6" { }
 		"cp_sagevalley_rc1" { }
@@ -618,10 +619,11 @@
 		"koth_crevice_b5" { }
 		"koth_crumble_rc1" { }
 		"koth_daenam_b11" { }
-		"koth_databank_rc1" { }
+		"koth_databank_rc4" { "workshopid" "3719980540" }
 		"koth_demolition" { }
 		"koth_denile_b3" { }
 		"koth_depot_final1" { "workshopid" "2812400076" }
+		"koth_descent_rc2" { "workshopid" "3716229024" }
 		"koth_dewm_rc1" { }
 		"koth_dewpoint_b5b" { }
 		"koth_drop_b3" { }
@@ -693,6 +695,7 @@
 		"koth_jamram_rc1b" { }
 		"koth_rats_office_b1_2" { }
 		"koth_relic_rc3" { }
+		"koth_reservoir_b2" { "workshopid" "3713890115" }
 		"koth_riverbed_v2" { }
 		"koth_rooftop_b1" { }
 		"koth_rotunda" { }
@@ -726,6 +729,7 @@
 		"koth_stargate_v3" { }
 		"koth_sunset_saloon_r2_2" { }
 		"koth_swamphouse_v10_final" { }
+		"koth_swerve_b2a" { "workshopid" "3717177136" }
 		"koth_syphon_b3e" { }
 		"koth_temper_rc2" { }
 		"koth_tfot_watchtower_d" { }
@@ -846,6 +850,7 @@
         "maps_invote" "1"
 
         "pl_alpine_forest_rc2" { }
+		"pl_aridpass_b6" { "workshopid" "3717196536" }
 		"pl_aquarius" { }
         "pl_badlands_winter" { }
         "pl_beerbowl_rc1" { }
@@ -881,6 +886,7 @@
 		"pl_jerrycan_rc5" { }
         "pl_jungle_a1c" { }
         "pl_kinder_b17" { }
+		"pl_launch_b3" { "workshopid" "3719791801" }
         "pl_manngrove_rc5" { }
 		"pl_mariposa_b5c" { }
         "pl_mesa_b1" { }
