@@ -23,7 +23,7 @@
 		"trade_facility_v7" { }
 		"trade_finalfantasy_town" { }
 		"trade_floradox" { "workshopid" "3692840219" }
-		"trade_forest_realms_a4" { }
+		"trade_forest_realms_a5_fix" { "workshopid" "3718434433" }
 		"trade_frantic_factory_v4a" { }
 		"trade_gingerbread_manor_b2" { "workshopid" "3102613620" }
 		"trade_icerink_b3a" { }
