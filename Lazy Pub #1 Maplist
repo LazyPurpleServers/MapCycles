@@ -6,7 +6,7 @@
 
 		"cp_frequency_b1" { "workshopid" "3717118396" }
 		"cp_rafters_b4" { "workshopid" "3713887895" }
-		"koth_databank_rc4" { "workshopid" "3719980540" }
+		"koth_databank_rc4a" { "workshopid" "3719980540" }
 		"koth_descent_rc2" { "workshopid" "3716229024" }
 		"koth_reservoir_b2" { "workshopid" "3713890115" }
 		"koth_swerve_b2a" { "workshopid" "3717177136" }
@@ -78,7 +78,7 @@
 		"koth_coalplant_b7" { }
 		"koth_conveyance_rc3b" { }
 		"koth_county_b7" { }
-		"koth_databank_rc4" { "workshopid" "3719980540" }
+		"koth_databank_rc4a" { "workshopid" "3719980540" }
 		"koth_descent_rc2" { "workshopid" "3716229024" }
 		"koth_dryfield_rc2" { "workshopid" "3462326252" }
 		"koth_empire_rc2" { }
