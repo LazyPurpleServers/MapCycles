@@ -115,6 +115,7 @@
 		"cp_intrusion_b4" { }
 		"cp_invisibowl_krowfix" { }
 		"cp_kakariko_a3" { }
+		"cp_kyuko_b1" { "workshopid" "3726377415" }
 		"cp_longhaul_a3" { }
 		"cp_lushbowl_final" { }
 		"cp_lwobtsud" { }
