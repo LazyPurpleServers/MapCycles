@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "170"
+		"count" "171"
 		
 		"1"
 		{
@@ -850,6 +850,10 @@
 			"map" "mvm_doublecross_rc5"
 			"popfile" "mvm_doublecross_rc5_unideal_wavebar"
 		}
+		"171"
+		{
+			"map" "mvm_pitchfork_v3"
+			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
 	}
 }
 
