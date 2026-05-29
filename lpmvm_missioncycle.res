@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "171"
+		"count" "170"
 		
 		"1"
 		{
@@ -827,8 +827,8 @@
         }
 		"166"
 		{
-			"map" "mvm_reclaimed_a4"
-			"popfile" "mvm_reclaimed_a4_exp_cataclysm"
+			"map" "mvm_pitchfork_v3"
+			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
 		}
 		"167"
 		{
@@ -850,10 +850,6 @@
 			"map" "mvm_doublecross_rc5"
 			"popfile" "mvm_doublecross_rc5_unideal_wavebar"
 		}
-		"171"
-		{
-			"map" "mvm_pitchfork_v3"
-			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
 	}
 }
 
