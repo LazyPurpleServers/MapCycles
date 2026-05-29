@@ -11,7 +11,7 @@
 		"koth_megaman6_rc1" { }
 		"koth_reservoir_b2" { "workshopid" "3713890115" }
 		"pd_zinc_b14" { "workshopid" "3713160899" }
-		"tow_phoneyland_b1_14" { "workshopid" "3717723939" }
+		"tow_phoneyland_b1_16" { }
 	}
 
 	"Control Points "
@@ -209,7 +209,7 @@
 		"sd_doomsday" { }
 		"sd_toucan_final2" { }
 		"tow_dynamite" { }
-		"tow_phoneyland_b1_14" { "workshopid" "3717723939" }
+		"tow_phoneyland_b1_16" { }
 		"tow_impasse_b4a" { }
 		"tow_tetsudo_b10a" { }
 	}
