@@ -487,8 +487,8 @@
 		}
 		"98"
 		{
-			"map" "mvm_outlands_rc2"
-			"popfile" "mvm_outlands_rc2_int_rural_roadblock"
+			"map" "mvm_outlands_rc3"
+			"popfile" "mvm_outlands_rc3_int_rural_roadblock"
 		}
 		"99"
 		{
