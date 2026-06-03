@@ -16,7 +16,6 @@
 		"pl_blackmoose_b11" { "workshopid" "3704524832" }
 		"pl_launch_b3" { "workshopid" "3719791801" }
 		"pl_redwood_b3" { "workshopid" "3717818537" }
-		"tow_phoneyland_b1_16" { }
 	}
 
 	"Attack & Defend"
@@ -235,7 +234,6 @@
 		"pd_watergate" { }
 		"pd_zinc_b14" { "workshopid" "3713160899" }
 		"pl_longboy_b12" { }
-		"tow_phoneyland_b1_16" { }
 		"tow_tetsudo_b10c" { "workshopid" "3481396928" }
 	}
 }
