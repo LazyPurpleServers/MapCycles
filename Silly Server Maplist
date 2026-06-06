@@ -73,7 +73,6 @@
 	{
 		"maps_invote" "1"
 
-		"2004" { "workshopid" "3444976217" }
 		"achievement_apg_r16c" { }
 		"achievement_turbo_rhobv4_fall" { }
 		"ach_villains_city_fall_v3" { }
@@ -185,6 +184,7 @@
 		"tow_dynamite" { }
 		"tow_impasse_b4" { }
 		"tow_tetsudo_b10a" { }
+		"two_thousand_b4_patch5" { "workshopid" "3444976217" }
 		"umbra_pools_b3" { "workshopid" "3733003581" }
 		"vsh_arktown_v4" { }
 		"vsh_bianco_hills_v5_argil" { }
@@ -425,7 +425,7 @@
 		"cp_mirages_rc2" { "workshopid" "3709707905" }
 		"cp_mist_rc1d" { }
 		"cp_monopod_a11" { }
-		"cp_mos_eisley_b1" { "workshopid" "3593586036" }
+		"cp_mos_eisley_b2" { "workshopid" "3593586036" }
 		"cp_neighbor_b3" { }
 		"cp_no_mercy_b1" { }
 		"cp_okto_beta_2" { }
