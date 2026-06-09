@@ -42,8 +42,8 @@
 		}
 		"8"
 		{
-			"map" "mvm_barren_final2"
-			"popfile" "mvm_barren_final2_adv_robotic_landscape"
+			"map" "mvm_barren_rc6a"
+			"popfile" "mvm_barren_rc6a_adv_robotic_landscape"
 		}
 		"9"
 		{
@@ -142,8 +142,8 @@
 		}
 		"29"
 		{
-			"map" "mvm_meltdown_rc5"
-			"popfile" "mvm_meltdown_rc5_int_collapsing_cores"
+			"map" "mvm_meltdown_rc7"
+			"popfile" "mvm_meltdown_rc7_int_collapsing_cores"
 		}
 		"30"
 		{
@@ -167,8 +167,8 @@
 		}
 		"34"
 		{
-			"map" "mvm_powerplant_rc1"
-			"popfile" "mvm_powerplant_rc1_int_generator_gambit"
+			"map" "mvm_powerplant_rc3"
+			"popfile" "mvm_powerplant_rc3_int_generator_gambit"
 		}
 		"35"
 		{
@@ -177,8 +177,8 @@
 		}
 		"36"
 		{
-			"map" "mvm_quetzal_rc5"
-			"popfile" "mvm_quetzal_rc5_int_oaxaca_offense"
+			"map" "mvm_quetzal_rc6"
+			"popfile" "mvm_quetzal_rc6_int_oaxaca_offense"
 		}
 		"37"
 		{
@@ -247,8 +247,8 @@
 		}
 		"50"
 		{
-			"map" "mvm_underground_rc3"
-			"popfile" "mvm_underground_rc3_int_mining_machines"
+			"map" "mvm_underground_rc4"
+			"popfile" "mvm_underground_rc4_int_mining_machines"
 		}
 		"51"
 		{
@@ -407,8 +407,8 @@
 		}
 		"82"
 		{
-			"map" "mvm_cliffside_b7_2"
-			"popfile" "mvm_cliffside_b7_2_adv_cliffhanger"
+			"map" "mvm_cliffside_b9"
+			"popfile" "mvm_cliffside_b9_adv_cliffhanger"
 		}
 		"83"
 		{
@@ -437,8 +437,8 @@
 		}
 		"88"
 		{
-			"map" "mvm_tensai_rc3"
-			"popfile" "mvm_tensai_rc3_int_kikai_kickdown"
+			"map" "mvm_tensai_rc5"
+			"popfile" "mvm_tensai_rc5_int_kikai_kickdown"
 		}
 		"89"
 		{
@@ -447,8 +447,8 @@
 		}
 		"90"
 		{
-			"map" "mvm_nox_b3"
-			"popfile" "mvm_nox_b3_normal_factory_fresh"
+			"map" "mvm_nox_b6"
+			"popfile" "mvm_nox_b6_normal_factory_fresh"
 		}
 		"91"
 		{
@@ -467,8 +467,8 @@
 		}
 		"94"
 		{
-			"map" "mvm_maelstrom_rc3fix"
-			"popfile" "mvm_maelstrom_rc3fix_adv_mannstorm"
+			"map" "mvm_sundown_rc1"
+			"popfile" "mvm_sundown_rc1_adv_summers_end"
 		}
 		"95"
 		{
@@ -849,6 +849,11 @@
 		{
 			"map" "mvm_doublecross_rc5"
 			"popfile" "mvm_doublecross_rc5_unideal_wavebar"
+		}
+		"171"
+		{
+			"map" "mvm_hotspot_b3b"
+			"popfile" "mvm_hotspot_b3b_adv_firestorm"
 		}
 	}
 }
