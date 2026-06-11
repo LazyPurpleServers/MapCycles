@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "171"
+		"count" "170"
 		
 		"1"
 		{
@@ -317,8 +317,8 @@
 		}
 		"64"
 		{
-			"map" "mvm_badwater_final"
-			"popfile" "mvm_badwater_final"
+			"map" "mvm_hotspot_b3b"
+			"popfile" "mvm_hotspot_b3b_adv_firestorm"
 		}
 		"65"
 		{
@@ -849,11 +849,6 @@
 		{
 			"map" "mvm_doublecross_rc5"
 			"popfile" "mvm_doublecross_rc5_unideal_wavebar"
-		}
-		"171"
-		{
-			"map" "mvm_hotspot_b3b"
-			"popfile" "mvm_hotspot_b3b_adv_firestorm"
 		}
 	}
 }
