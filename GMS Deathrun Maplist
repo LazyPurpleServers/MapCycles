@@ -32,7 +32,7 @@
 		"dr_division_v1" { }
 		"dr_doom_finished_v2" { }
 		"dr_dungeon_beta" { }
-		"dr_dustgrowl_v1a" { }
+		"dr_dustgrowl" { "workshopid" "3294627075" }
 		"dr_egypt_final_fix2" { }
 		"dr_egypt_v4" { }
 		"dr_express_train_beta2" { }
@@ -49,12 +49,13 @@
 		"dr_madlabs_final" { }
 		"dr_madness_combat_ne_v3" { }
 		"dr_mario_story_pm64_v1" { }
+		"dr_mikumikumikumiku_v1fix" { }
 		"dr_minecraft_land_v5c" { }
 		"dr_minecraft_reduxB9" { }
 		"dr_minigames_b2" { }
 		"dr_missing_redux_beta" { }
 		"dr_mysterious_underground_v11e" { }
-		"dr_neco_arc_v1d" { }
+		"dr_neco_arc" { "workshopid" "3531077433" }
 		"dr_neonoir_impossible_v9x" { }
 		"dr_nermal_v1b_fix" { }
 		"dr_newgrounds_hq_v9b_krowedit" { }
@@ -66,7 +67,7 @@
 		"dr_pauseahead_v13" { }
 		"dr_pizzarun_v2" { }
 		"dr_playstation_final" { }
-		"dr_pokemon_b3c" { }
+		"dr_pokemon" { "workshopid" "3364304959" }
 		"dr_portal2_b9" { }
 		"dr_psykopat2_v2" { }
 		"dr_psykopat_fix" { }
@@ -81,7 +82,7 @@
 		"dr_skibidi_toilet_v3b2" { }
 		"dr_skibidi_toilet_xmas_fix2b1" { }
 		"dr_spiralstove_v1a" { }
-		"dr_squid_game_v2a" { }
+		"dr_squid_game" { "workshopid" "3645070739" }
 		"dr_super_mario_bros_v1e" { }
 		"dr_supermario64_v6b" { }
 		"dr_supermarket_v4" { }
