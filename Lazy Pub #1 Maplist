@@ -5,7 +5,7 @@
         "maps_invote" "1"
 
 		"cp_frequency_b1" { "workshopid" "3717118396" }
-		"cp_kyuko_b1" { "workshopid" "3726377415" }
+		"cp_kyuko_b2b" { "workshopid" "3726377415" }
 		"cp_rafters_b4" { "workshopid" "3713887895" }
 		"koth_databank_rc4a" { "workshopid" "3719980540" }
 		"koth_descent_rc2" { "workshopid" "3716229024" }
@@ -41,7 +41,7 @@
 		"cp_hardwood_final" { }
 		"cp_hazyfort_rc6" { }
 		"cp_hella_b1" { }
-		"cp_kyuko_b1" { "workshopid" "3726377415" }
+		"cp_kyuko_b2b" { "workshopid" "3726377415" }
 		"cp_method_b4b" { }
 		"cp_mojave_b2" { }
 		"cp_mossrock" { }
