@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "170"
+		"count" "167"
 		
 		"1"
 		{
@@ -267,8 +267,8 @@
 		}
 		"54"
 		{
-			"map" "mvm_wizardry"
-			"popfile" "mvm_wizardry_adv_mechanical_magic"
+			"map" "mvm_monsoon_b9"
+			"popfile" "mvm_monsoon_b9_int_weathered_wrecks"
 		}
 		"55"
 		{
@@ -342,8 +342,8 @@
 		}
 		"69"
 		{
-			"map" "mvm_gateway_rc2"
-			"popfile" "mvm_gateway_rc2"
+			"map" "mvm_grange_rc4"
+			"popfile" "mvm_grange_rc4_expert_deep_freeze"
 		}
 		"70"
 		{
@@ -517,8 +517,8 @@
 		}
 		"104"
 		{
-			"map" "mvm_airdrop_rc3"
-			"popfile" "mvm_airdrop_rc3_advanced"
+			"map" "mvm_doublecross_rc5"
+			"popfile" "mvm_doublecross_rc5_unideal_wavebar"
 		}
 		"105"
 		{
@@ -834,21 +834,6 @@
 		{
 			"map" "mvm_coldtown_rc1f"
 			"popfile" "mvm_coldtown_rc1f"
-		}
-		"168"
-		{
-			"map" "mvm_grange_rc4"
-			"popfile" "mvm_grange_rc4_expert_deep_freeze"
-		}
-		"169"
-		{
-			"map" "mvm_monsoon_b9"
-			"popfile" "mvm_monsoon_b9_int_weathered_wrecks"
-		}
-		"170"
-		{
-			"map" "mvm_doublecross_rc5"
-			"popfile" "mvm_doublecross_rc5_unideal_wavebar"
 		}
 	}
 }
