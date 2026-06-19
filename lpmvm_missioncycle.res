@@ -167,8 +167,8 @@
 		}
 		"34"
 		{
-			"map" "mvm_powerplant_rc3"
-			"popfile" "mvm_powerplant_rc3_int_generator_gambit"
+			"map" "mvm_powerplant_rc4"
+			"popfile" "mvm_powerplant_rc4_int_generator_gambit"
 		}
 		"35"
 		{
