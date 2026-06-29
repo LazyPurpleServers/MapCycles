@@ -402,8 +402,8 @@
 		}
 		"81"
 		{
-			"map" "mvm_rancher_b16"
-			"popfile" "mvm_rancher_b16_adv_photon_farm"
+			"map" "mvm_rancher_b17"
+			"popfile" "mvm_rancher_b17_adv_photon_farm"
 		}
 		"82"
 		{
