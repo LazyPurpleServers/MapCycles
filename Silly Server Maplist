@@ -32,6 +32,7 @@
 		"trade_jsrf_garage_v5" { }
 		"trade_lost_place_a1" { "workshopid" "3632647291" }
 		"trade_mall" { }
+		"trade_mallcommcen_v2" { "workshopid" "3744879979" }
 		"trade_manhatten" { }
 		"trade_masscc_h1_krowfix" { }
 		"trade_mcdonalds_b2" { }
