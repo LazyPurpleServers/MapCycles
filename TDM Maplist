@@ -4,13 +4,9 @@
 	{
         "maps_invote" "1"
 
-		"cp_mirages_rc2" { "workshopid" "3709707905" }
-		"cp_stormbreaker_w" { "workshopid" "3595987419" }
-		"ctf_filter_rc1" { "workshopid" "3709196757" }
-		"dm_backfort_gravfix3" { }
-		"koth_megaman6_rc1" { }
-		"koth_reservoir_b2" { "workshopid" "3713890115" }
-		"pd_zinc_b14" { "workshopid" "3713160899" }
+		"koth_camp_saxton" { }
+		"koth_dryfield" { }
+		"koth_shorelight" { }
 	}
 
 	"Control Points "
@@ -100,6 +96,7 @@
 		"koth_brine_rc3a" { }
 		"koth_brokenhills_b3a" { }
 		"koth_cachoeira" { }
+		"koth_camp_saxton" { }
 		"koth_cascade" { }
 		"koth_chasm_b1" { }
 		"koth_coalplant_b7" { }
@@ -108,7 +105,7 @@
 		"koth_crumble_rc1" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
-		"koth_dryfield_rc2" { "workshopid" "3462326252" }
+		"koth_dryfield" { }
 		"koth_dryway_final" { }
 		"koth_empire_rc2" { }
 		"koth_etherestate" { }
@@ -149,7 +146,7 @@
 		"koth_schneestadt_b2a" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
-		"koth_shorelight_rc9" { }
+		"koth_shorelight" { }
 		"koth_skyline_rc1" { "workshopid" "3644748474" }
 		"koth_slums_rc2a" { }
 		"koth_spillway_rc3a" { }
