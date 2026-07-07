@@ -425,6 +425,7 @@
 		"cp_minery_a12" { }
 		"cp_mirages_rc2" { "workshopid" "3709707905" }
 		"cp_mist_rc1d" { }
+		"cp_mojave" { }
 		"cp_monopod_a11" { }
 		"cp_mos_eisley_b2" { "workshopid" "3593586036" }
 		"cp_neighbor_b3" { }
@@ -440,6 +441,7 @@
 		"cp_peachs_castle_v1" { }
 		"cp_pony_fortress_rc3" { }
 		"cp_powerground_b3" { }
+		"cp_premuda" { }
 		"cp_priderock_b2" { }
 		"cp_propaganda_b19" { }
 		"cp_punts_v1b" { }
@@ -606,7 +608,7 @@
 		"koth_brokenhills_b3" { }
 		"koth_canada_rc1" { }
 		"koth_campground_v2" { }
-		"koth_camp_saxton_b1" { }
+		"koth_camp_saxton" { }
 		"koth_cannery_b11c" { }
 		"koth_canopy_rc2" { }
 		"koth_canyon_v2" { }
@@ -633,6 +635,7 @@
 		"koth_drop_b3" { }
 		"koth_dropdeadfred_v3" { }
 		"koth_dropdown_rc1" { }
+		"koth_dryfield" { }
 		"koth_dryway_final" { }
 		"koth_dusty_b1" { }
 		"koth_egan_72_a5_fix1" { }
@@ -714,7 +717,7 @@
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
 		"koth_shirouma_b1" { }
-		"koth_shorelight_rc9" { }
+		"koth_shorelight" { }
 		"koth_sky_fortress_b2" { }
 		"koth_skyfall_a7a" { }
 		"koth_skylab_rc1" { }
@@ -905,7 +908,7 @@
         "pl_pharaoh_rc1" { }
         "pl_promotion_b5" { }
         "pl_rebirth_rc1" { }
-		"pl_redwood_b3" { "workshopid" "3717818537" }
+		"pl_redwood" { }
         "pl_rivercrossing_rc2a" { }
         "pl_rocketravine_b6" { }
         "pl_rustbelt_rc1" { }
