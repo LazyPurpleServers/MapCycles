@@ -217,6 +217,7 @@
 		"dm_backfort_event_b2" { }
 		"dm_backfort_gravfix3" { }
 		"dm_boostertower" { }
+		"dm_cloudsdale_danceclub_v1" { "workshopid" "3752822892" }
 		"dm_cloudsdale_ultimate_b1" { }
 		"dm_congo" { }
 		"dm_directional_dinosaurs_gravfix3" { }
