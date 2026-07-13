@@ -835,6 +835,86 @@
 			"map" "mvm_coldtown_rc1f"
 			"popfile" "mvm_coldtown_rc1f"
 		}
+		"168"
+		{
+			"map" "mvm_bronx_rc2fix"
+			"popfile" "mvm_bronx_rc2fix_666_T_H_E_M"
+		}
+		"169"
+		{
+			"map" "mvm_bronx_rc2fix"
+			"popfile" "mvm_bronx_rc2fix_666_T_H_E_M_superbuff"
+		}
+		"170"
+		{
+			"map" "mvm_bronx_rc2fix"
+			"popfile" "mvm_bronx_rc2fix_exp_brutal"
+		}
+		"171"
+		{
+            "map" "mvm_creepside_b2"
+            "popfile" "mvm_creepside_b2_restless_eternity"
+        }
+		"172"
+		{
+			"map" "mvm_hells_gate_rc5"
+			"popfile" "mvm_hells_gate_rc5_hypmas_made_in_hell"
+		}
+		"173"
+		{
+			"map" "mvm_humbridge_rc1"
+			"popfile" "mvm_humbridge_rc1_hypmas_hackolyte"
+		}
+		"174"
+		{
+			"map" "mvm_hurricane_rc3"
+			"popfile" "mvm_hurricane_rc3_exp_speed_of_light"
+		}
+		"175"
+		{
+			"map" "mvm_hurricane_rc4a"
+			"popfile" "mvm_hurricane_rc4a_exp_speed_of_light"
+		}
+		"176"
+		{
+			"map" "mvm_mannworks"
+			"popfile" "mvm_mannworks_20p_mecha_engie"
+		}
+		"177"
+		{
+			"map" "mvm_mannworks"
+			"popfile" "mvm_mannworks_click_expert1"
+		}
+		"178"
+		{
+			"map" "mvm_rustvalley_rc7"
+			"popfile" "mvm_rustvalley_rc7_adv_rock_bottom"
+		}
+		"179"
+		{
+			"map" "mvm_sand_rc1a"
+			"popfile" "mvm_sand_rc1a_expert_coarse_crusade"
+		}
+		"180"
+		{
+			"map" "mvm_shipper_b4"
+			"popfile" "mvm_shipper_b4_mas_artificial_ascent"
+		}
+		"181"
+		{
+			"map" "mvm_spacepost_rc1"
+			"popfile" "mvm_spacepost_rc1_5VirusInSystem_Hard_Spam"
+		}
+		"182"
+		{
+			"map" "mvm_yucatan_rc4"
+			"popfile" "mvm_yucatan_rc4_invasive_australians"
+		}
+		"183"
+		{
+			"map" "mvm_hotspot_b3b"
+			"popfile" "mvm_hotspot_b3_master_boiling_point"
+		}
 	}
 }
 
