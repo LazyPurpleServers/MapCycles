@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "183"
+		"count" "182"
 		
 		"1"
 		{
@@ -512,8 +512,8 @@
 		}
 		"103"
 		{
-			"map" "mvm_scream_tv"
-			"popfile" "mvm_scream_tv_extermination"
+			"map" "mvm_hotspot_b3b"
+			"popfile" "mvm_hotspot_b3_master_boiling_point"
 		}
 		"104"
 		{
@@ -909,11 +909,6 @@
 		{
 			"map" "mvm_yucatan_rc4"
 			"popfile" "mvm_yucatan_rc4_invasive_australians"
-		}
-		"183"
-		{
-			"map" "mvm_hotspot_b3b"
-			"popfile" "mvm_hotspot_b3_master_boiling_point"
 		}
 	}
 }
