@@ -277,8 +277,8 @@
 		}
 		"56"
 		{
-			"map" "mvm_brugge_rc4b"
-			"popfile" "mvm_brugge_rc4b_adv_funeral_toll"
+			"map" "mvm_brugge_rc6c"
+			"popfile" "mvm_brugge_rc6c_hypmas_major_draft"
 		}
 		"57"
 		{
