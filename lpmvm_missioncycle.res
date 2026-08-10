@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "168"
+		"count" "166"
 		
 		"1"
 		{
@@ -829,16 +829,6 @@
 		{
 			"map" "mvm_pitchfork_v3"
 			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
-		}
-		"167"
-		{
-			"map" "mvm_jarate_temple_v33"
-			"popfile" "mvm_jarate_temple_v33_kmlp_quickplay"
-		}
-		"168"
-		{
-			"map" "mvm_logvalley_b9"
-			"popfile" "mvm_logvalley_b9_normal"
 		}
 	}
 }
