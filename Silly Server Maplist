@@ -30,7 +30,7 @@
 		"trade_industry" { }
 		"trade_jollyrogerbay_v3" { }
 		"trade_jsrf_garage_v5" { }
-		"trade_lost_place_a1" { "workshopid" "3632647291" }
+		"trade_lost_ace_a1" { "workshopid" "3632647291" }
 		"trade_mall" { }
 		"trade_mallcommcen_v2" { "workshopid" "3744879979" }
 		"trade_manhatten" { }
@@ -862,6 +862,7 @@
 		"pl_aridpass_b6" { "workshopid" "3717196536" }
 		"pl_aquarius" { }
         "pl_badlands_winter" { }
+		"pl_badwawbad_lq" { }
         "pl_beerbowl_rc1" { }
 		"pl_blackmoose_b11" { "workshopid" "3704524832" }
         "pl_blastpitt_rc3" { }
