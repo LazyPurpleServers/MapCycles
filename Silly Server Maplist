@@ -52,7 +52,6 @@
 		"trade_pumpkinhillsa2fix" { }
 		"trade_riverwood_b6_yelldowfix" { }
 		"trade_rogueport" { }
-		"trade_skyspace_city_a7_fix3" { }
 		"trade_slider_shore_v4" { }
 //  	"trade_smsdelfinoplaza_a4" { }
 		"trade_space_v1" { }
@@ -218,7 +217,6 @@
 		"dm_backfort_event_b2" { }
 		"dm_backfort_gravfix3" { }
 		"dm_boostertower" { }
-		"dm_cloudsdale_danceclub_v1" { "workshopid" "3752822892" }
 		"dm_cloudsdale_ultimate_b1" { }
 		"dm_congo" { }
 		"dm_directional_dinosaurs_gravfix3" { }
