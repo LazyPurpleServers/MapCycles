@@ -5,6 +5,7 @@
         "maps_invote" "1"
 
 		"dm_directional_dinosaurs_b4" { }
+		"koth_badmoon_b5" { "workshopid" "3778832099" }
 		"koth_camp_saxton" { }
 		"koth_dryfield" { }
 		"koth_shorelight" { }
@@ -92,6 +93,7 @@
 		"2koth_abbey" { }
 		"koth_aquaticruin_final" { }
 		"koth_appleacres_b3" { }
+		"koth_badmoon_b5" { "workshopid" "3778832099" }
 		"koth_boardwalk" { }
 		"koth_blowout" { }
 		"koth_brine_rc3a" { }
