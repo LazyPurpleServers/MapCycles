@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
 
+		"dm_directional_dinosaurs_b4" { }
 		"koth_camp_saxton" { }
 		"koth_dryfield" { }
 		"koth_shorelight" { }
@@ -75,7 +76,7 @@
 		"dm_backfort_gravfix3" { }
 		"dm_cloudsdale_ultimate_b1" { }
 		"dm_congo_b1" { }
-		"dm_directional_dinosaurs_gravfix3" { }
+		"dm_directional_dinosaurs_b4" { }
 		"dm_gyros_gravfix" { }
 		"dm_hydro_gravfix" { }
 		"dm_mariokart2_b3" { }
