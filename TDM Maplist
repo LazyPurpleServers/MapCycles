@@ -5,6 +5,7 @@
         "maps_invote" "1"
 
 		"dm_directional_dinosaurs_b4" { }
+		"dm_process_b1" { }
 		"koth_badmoon_b5" { "workshopid" "3778832099" }
 		"koth_camp_saxton" { }
 		"koth_dryfield" { }
@@ -83,6 +84,7 @@
 		"dm_mariokart2_b3" { }
 		"dm_mariokart3_v1" { }
 		"dm_newyork_gravfix3" { }
+		"dm_process_b1" { }
 		"dm_towerleap_v2_final2" { }
 	}
 
