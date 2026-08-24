@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "166"
+		"count" "162"
 		
 		"1"
 		{
@@ -517,8 +517,8 @@
 		}
 		"104"
 		{
-			"map" "mvm_doublecross_rc5"
-			"popfile" "mvm_doublecross_rc5_unideal_wavebar"
+			"map" "mvm_whitecliff_event_rc2"
+            "popfile" "mvm_whitecliff_event_rc2_adv_coastal_cadaver"
 		}
 		"105"
 		{
@@ -537,13 +537,13 @@
 		}
 		"108"
 		{
-			"map" "mvm_hillside_v7"
-			"popfile" "mvm_hillside_v7_adv_outdated_processing"
+			"map" "mvm_villa_b12"
+            "popfile" "mvm_villa_b12_adv_forgotten"
 		}
 		"109"
 		{
-			"map" "mvm_retribution_ep1"
-			"popfile" "mvm_retribution_ep1"
+			"map" "mvm_pitchfork_v3"
+			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
 		}
 		"110"
 		{
@@ -557,8 +557,8 @@
 		}
 		"112"
 		{
-			"map" "mvm_shadows_b3"
-			"popfile" "mvm_shadows_b3_shadows"
+			"map" "mvm_swirl_event_rc8a"
+            "popfile" "mvm_swirl_event_rc8a_advanced"
 		}
 		"113"
 		{
@@ -810,26 +810,6 @@
             "map" "mvm_shank_rc4"
             "popfile" "mvm_shank_rc4_int_pumpkin_panic"
         }
-		"163"
-		{
-            "map" "mvm_swirl_event_rc8a"
-            "popfile" "mvm_swirl_event_rc8a_advanced"
-        }
-		"164"
-		{
-            "map" "mvm_villa_b12"
-            "popfile" "mvm_villa_b12_adv_forgotten"
-        }
-		"165"
-		{
-            "map" "mvm_whitecliff_event_rc2"
-            "popfile" "mvm_whitecliff_event_rc2_adv_coastal_cadaver"
-        }
-		"166"
-		{
-			"map" "mvm_pitchfork_v3"
-			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
-		}
 	}
 }
 
