@@ -1,4 +1,4 @@
-fc"lpmvm_missioncycle.res"
+"lpmvm_missioncycle.res"
 {	
 	"categories" "1"
 	"1"
