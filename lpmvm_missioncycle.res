@@ -1,4 +1,4 @@
-"lpmvm_missioncycle.res"
+fc"lpmvm_missioncycle.res"
 {	
 	"categories" "1"
 	"1"
@@ -372,8 +372,8 @@
 		}
 		"75"
 		{
-			"map" "mvm_robotfactory_rc8"
-			"popfile" "mvm_robotfactory_rc8_expert"
+			"map" "mvm_robotfactory_rc10"
+			"popfile" "mvm_robotfactory_rc10_expert"
 		}
 		"76"
 		{
@@ -427,8 +427,8 @@
 		}
 		"86"
 		{
-			"map" "mvm_spybase_rc16"
-			"popfile" "mvm_spybase_rc16_normal"
+			"map" "mvm_spybase_rc17"
+			"popfile" "mvm_spybase_rc17_normal"
 		}
 		"87"
 		{
@@ -592,8 +592,8 @@
 		}
 		"119"
 		{
-			"map" "mvm_charon_b10a"
-			"popfile" "mvm_charon_b10a_int_crash_landing"
+			"map" "mvm_charon_b11"
+			"popfile" "mvm_charon_b11_int_crash_landing"
 		}
 		"120"
 		{
