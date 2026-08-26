@@ -372,8 +372,8 @@
 		}
 		"75"
 		{
-			"map" "mvm_robotfactory_rc10"
-			"popfile" "mvm_robotfactory_rc10_expert"
+			"map" "mvm_robotfactory_rc10a"
+			"popfile" "mvm_robotfactory_rc10a_expert"
 		}
 		"76"
 		{
@@ -427,8 +427,8 @@
 		}
 		"86"
 		{
-			"map" "mvm_spybase_rc17"
-			"popfile" "mvm_spybase_rc17_normal"
+			"map" "mvm_spybase_rc17a"
+			"popfile" "mvm_spybase_rc17a_normal"
 		}
 		"87"
 		{
