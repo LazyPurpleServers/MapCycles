@@ -90,7 +90,7 @@
 		"koth_icetower_rc7" { }
 		"koth_jamram_rc2b" { }
 		"koth_kemptown_rc3a" { }
-		"koth_keylog_rc1" { }
+		"koth_keylog_rc2" { "workshopid" "3403215465" }
 		"koth_king" { }
 		"koth_lakeside_final" { }
 		"koth_lazarus" { }
