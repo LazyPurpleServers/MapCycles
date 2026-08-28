@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "162"
+		"count" "161"
 		
 		"1"
 		{
@@ -582,8 +582,8 @@
 		}
 		"117"
 		{
-			"map" "mvm_starcoast_b4"
-			"popfile" "mvm_starcoast_b4_adv_brokenparts"
+			"map" "mvm_shank_rc4"
+            "popfile" "mvm_shank_rc4_int_pumpkin_panic"
 		}
 		"118"
 		{
@@ -804,11 +804,6 @@
 		{
             "map" "mvm_null_b9c"
             "popfile" "mvm_null_b9c_adv_baneful_harvest"
-        }
-		"162"
-		{
-            "map" "mvm_shank_rc4"
-            "popfile" "mvm_shank_rc4_int_pumpkin_panic"
         }
 	}
 }
