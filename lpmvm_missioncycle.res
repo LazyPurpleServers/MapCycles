@@ -372,8 +372,8 @@
 		}
 		"75"
 		{
-			"map" "mvm_robotfactory_rc10a"
-			"popfile" "mvm_robotfactory_rc10a_expert"
+			"map" "mvm_robotfactory_rc10b"
+			"popfile" "mvm_robotfactory_rc10b_expert"
 		}
 		"76"
 		{
