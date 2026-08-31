@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "180"
+		"count" "183"
 
 		// REGULAR MAPS (MvM Servers 1 - 3)
 
@@ -904,6 +904,21 @@
 		{
 			"map" "mvm_mannufactured_rc10"
 			"popfile" "mvm_mannufactured_rc10_adv_malicious_machinery"
+		}
+		"181"
+		{
+			"map" "mvm_cargoship_v2a6"
+			"popfile" "mvm_cargoship_v2a6_int_starboard_strike"
+		}
+		"182"
+		{
+			"map" "mvm_overgreen"
+			"popfile" "mvm_overgreen_advanced1"
+		}
+		"183"
+		{
+			"map" "mvm_wizardry"
+			"popfile" "mvm_wizardry_click"
 		}
 	}
 }
