@@ -4,7 +4,9 @@
 	"1"
 	{
 		"count" "180"
-		
+
+		// REGULAR MAPS (MvM Servers 1 - 3)
+
 		"1"
 		{
 			"map" "mvm_decoy"
@@ -831,7 +833,7 @@
 			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
 		}
 
-		// EXPERIMENTAL MAPS
+		// EXPERIMENTAL MAPS (MvM Server 4)
 
 		"167"
 		{
