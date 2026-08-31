@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "178"
+		"count" "179"
 		
 		"1"
 		{
@@ -889,6 +889,11 @@
 		{
 			"map" "mvm_scream_tv"
 			"popfile" "mvm_scream_tv_extermination"
+		}
+		"179"
+		{
+			"map" "mvm_redridge_b4b"
+			"popfile" "mvm_redridge_b4b"
 		}
 	}
 }
