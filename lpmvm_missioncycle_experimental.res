@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "179"
+		"count" "180"
 		
 		"1"
 		{
@@ -830,6 +830,9 @@
 			"map" "mvm_pitchfork_v3"
 			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
 		}
+
+		// EXPERIMENTAL MAPS
+
 		"167"
 		{
 			"map" "mvm_jarate_temple_v33"
@@ -894,6 +897,11 @@
 		{
 			"map" "mvm_redridge_b4b"
 			"popfile" "mvm_redridge_b4b"
+		}
+		"180"
+		{
+			"map" "mvm_mannufactured_rc10"
+			"popfile" "mvm_mannufactured_rc10_adv_malicious_machinery"
 		}
 	}
 }
