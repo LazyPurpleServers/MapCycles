@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "161"
+		"count" "160"
 		
 		"1"
 		{
@@ -477,8 +477,8 @@
 		}
 		"96"
 		{
-			"map" "mvm_flowerfield_rc4"
-			"popfile" "mvm_flowerfield_rc4_int_botanical_beat_em_up"
+			"map" "mvm_null_b9c"
+            "popfile" "mvm_null_b9c_adv_baneful_harvest"
 		}
 		"97"
 		{
@@ -799,11 +799,6 @@
 		{
             "map" "mvm_nightsky_rc4d"
             "popfile" "mvm_nightsky_rc4d_int_mountain_of_fear"
-        }
-		"161"
-		{
-            "map" "mvm_null_b9c"
-            "popfile" "mvm_null_b9c_adv_baneful_harvest"
         }
 	}
 }
