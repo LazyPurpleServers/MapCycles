@@ -479,8 +479,8 @@
 		}
 		"96"
 		{
-			"map" "mvm_flowerfield_rc4"
-			"popfile" "mvm_flowerfield_rc4_int_botanical_beat_em_up"
+			"map" "mvm_whitecliff_event_rc2"
+            "popfile" "mvm_whitecliff_event_rc2_adv_coastal_cadaver"
 		}
 		"97"
 		{
@@ -559,8 +559,8 @@
 		}
 		"112"
 		{
-			"map" "mvm_shadows_b3"
-			"popfile" "mvm_shadows_b3_shadows"
+			"map" "mvm_pitchfork_v3"
+			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
 		}
 		"113"
 		{
@@ -822,19 +822,19 @@
             "map" "mvm_villa_b12"
             "popfile" "mvm_villa_b12_adv_forgotten"
         }
-		"165"
-		{
-            "map" "mvm_whitecliff_event_rc2"
-            "popfile" "mvm_whitecliff_event_rc2_adv_coastal_cadaver"
-        }
-		"166"
-		{
-			"map" "mvm_pitchfork_v3"
-			"popfile" "mvm_pitchfork_v3_int_hittn_the_hay"
-		}
 
 		// EXPERIMENTAL MAPS (MvM Server 4)
 
+		"165"
+		{
+			"map" "mvm_flowerfield_rc4"
+			"popfile" "mvm_flowerfield_rc4_int_botanical_beat_em_up"
+        }
+		"166"
+		{
+			"map" "mvm_shadows_b3"
+			"popfile" "mvm_shadows_b3_shadows"
+		}
 		"167"
 		{
 			"map" "mvm_jarate_temple_v33"
