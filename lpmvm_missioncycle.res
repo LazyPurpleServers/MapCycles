@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "160"
+		"count" "159"
 		
 		"1"
 		{
@@ -507,8 +507,8 @@
 		}
 		"102"
 		{
-			"map" "mvm_gravelpass_b6"
-			"popfile" "mvm_gravelpass_b6_exp_mannslaughter"
+			"map" "mvm_nightsky_rc4d"
+            "popfile" "mvm_nightsky_rc4d_int_mountain_of_fear"
 		}
 		"103"
 		{
@@ -794,11 +794,6 @@
 		{
             "map" "mvm_madhattan_rc5a"
             "popfile" "mvm_madhattan_rc5a_adv_apocalyptic_assault"
-        }
-		"160"
-		{
-            "map" "mvm_nightsky_rc4d"
-            "popfile" "mvm_nightsky_rc4d_int_mountain_of_fear"
         }
 	}
 }
