@@ -509,8 +509,8 @@
 		}
 		"102"
 		{
-			"map" "mvm_gravelpass_b6"
-			"popfile" "mvm_gravelpass_b6_exp_mannslaughter"
+			"map" "mvm_villa_b12"
+            "popfile" "mvm_villa_b12_adv_forgotten"
 		}
 		"103"
 		{
@@ -817,14 +817,14 @@
             "map" "mvm_swirl_event_rc8a"
             "popfile" "mvm_swirl_event_rc8a_advanced"
         }
-		"164"
-		{
-            "map" "mvm_villa_b12"
-            "popfile" "mvm_villa_b12_adv_forgotten"
-        }
 
 		// EXPERIMENTAL MAPS (MvM Server 4)
 
+		"164"
+		{
+            "map" "mvm_gravelpass_b6"
+			"popfile" "mvm_gravelpass_b6_exp_mannslaughter"
+        }
 		"165"
 		{
 			"map" "mvm_flowerfield_rc4"
