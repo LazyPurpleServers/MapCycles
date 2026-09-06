@@ -4,6 +4,7 @@
 	{
         "maps_invote" "1"
 
+		"ctf_medi_evil_b1" { "workshopid" "3795568883" }
 		"dm_directional_dinosaurs_b4" { }
 		"dm_process_b2" { }
 		"koth_badmoon_b5" { "workshopid" "3778832099" }
@@ -52,6 +53,7 @@
 		"ctf_landfall" { }
 		"ctf_lavatech_rc2" { }
 		"ctf_locomotion_b3" { }
+		"ctf_medi_evil_b1" { "workshopid" "3795568883" }
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_nuclide_rc8d" { }
 		"ctf_parabolic_a10" { }
