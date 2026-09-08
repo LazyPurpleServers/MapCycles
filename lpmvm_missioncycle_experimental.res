@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "183"
+		"count" "182"
 
 		// REGULAR MAPS (MvM Servers 1 - 3)
 
@@ -897,8 +897,8 @@
 		}
 		"179"
 		{
-			"map" "mvm_redridge_b4b"
-			"popfile" "mvm_redridge_b4b"
+			"map" "mvm_wizardry"
+			"popfile" "mvm_wizardry_click"
 		}
 		"180"
 		{
@@ -914,11 +914,6 @@
 		{
 			"map" "mvm_overgreen"
 			"popfile" "mvm_overgreen_advanced1"
-		}
-		"183"
-		{
-			"map" "mvm_wizardry"
-			"popfile" "mvm_wizardry_click"
 		}
 	}
 }
