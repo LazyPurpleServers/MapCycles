@@ -72,8 +72,8 @@
 		}
 		"15"
 		{
-			"map" "mvm_dockyard_rc7"
-			"popfile" "mvm_dockyard_rc7_spyware_shipping"
+			"map" "mvm_dockyard_rc7b"
+			"popfile" "mvm_dockyard_rc7b_spyware_shipping"
 		}
 		"16"
 		{
@@ -192,8 +192,8 @@
 		}
 		"39"
 		{
-			"map" "mvm_rustvalley_rc7"
-			"popfile" "mvm_rustvalley_rc7_int_restless_robotics"
+			"map" "mvm_rustvalley_rc7a"
+			"popfile" "mvm_rustvalley_rc7a_int_restless_robotics"
 		}
 		"40"
 		{
