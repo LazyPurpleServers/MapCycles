@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "182"
+		"count" "183"
 
 		// REGULAR MAPS (MvM Servers 1 - 3)
 
