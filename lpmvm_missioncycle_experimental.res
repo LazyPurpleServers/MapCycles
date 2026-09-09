@@ -915,6 +915,11 @@
 			"map" "mvm_overgreen"
 			"popfile" "mvm_overgreen_advanced1"
 		}
+		"183"
+		{
+			"map" "mvm_mind_bloom_rc2"
+			"popfile" "mvm_mind_bloom_rc2_dejavu_dejamort"
+		}
 	}
 }
 
