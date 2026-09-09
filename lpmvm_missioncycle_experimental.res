@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "183"
+		"count" "182"
 
 		// REGULAR MAPS (MvM Servers 1 - 3)
 
@@ -74,8 +74,8 @@
 		}
 		"15"
 		{
-			"map" "mvm_dockyard_rc7"
-			"popfile" "mvm_dockyard_rc7_spyware_shipping"
+			"map" "mvm_dockyard_rc7b"
+			"popfile" "mvm_dockyard_rc7b_spyware_shipping"
 		}
 		"16"
 		{
@@ -194,8 +194,8 @@
 		}
 		"39"
 		{
-			"map" "mvm_rustvalley_rc7"
-			"popfile" "mvm_rustvalley_rc7_int_restless_robotics"
+			"map" "mvm_rustvalley_rc7a"
+			"popfile" "mvm_rustvalley_rc7a_int_restless_robotics"
 		}
 		"40"
 		{
@@ -915,11 +915,11 @@
 			"map" "mvm_overgreen"
 			"popfile" "mvm_overgreen_advanced1"
 		}
-		"183"
-		{
-			"map" "mvm_mind_bloom_rc2"
-			"popfile" "mvm_mind_bloom_rc2_dejavu_dejamort"
-		}
+//		"insertnumberhere"
+//		{
+//			"map" "mvm_mind_bloom_rc2"
+//			"popfile" "mvm_mind_bloom_rc2_dejavu_dejamort"
+//		}
 	}
 }
 
