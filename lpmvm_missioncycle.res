@@ -667,8 +667,8 @@
 		}
 		"134"
 		{
-			"map" "mvm_flowerfield_rc11a"
-			"popfile" "mvm_flowerfield_rc11a_nor_flowering_day"
+			"map" "mvm_flowerfield_rc11b"
+			"popfile" "mvm_flowerfield_rc11b_nor_flowering_day"
 		}
 		"135"
 		{
