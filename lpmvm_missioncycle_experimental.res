@@ -369,8 +369,8 @@
 		}
 		"74"
 		{
-			"map" "mvm_humbridge_rc1"
-			"popfile" "mvm_humbridge_rc1_adv_broken_parts"
+			"map" "mvm_humbridge_rc2"
+			"popfile" "mvm_humbridge_rc2_adv_broken_parts"
 		}
 		"75"
 		{
