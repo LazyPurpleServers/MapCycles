@@ -23,15 +23,16 @@
 	"Zombie Infection "
 	{
 		"command" "exec gamemode/zi"
-        
+
+		"zi_antidote_b1" { "workshopid" "3798068932" }
 		"zi_atoll" { }
-		"zi_barnlanding" { "workshopid" "3319022503" }
 		"zi_blazehattan" { }
 		"zi_devastation_final1" { }
-		"zi_doomtown_b3" { }
+		"zi_doomtown_b4" { "workshopid" "3793747813" }
 		"zi_murky" { }
+		"zi_outbreak_b5a2" { "workshopid" "3795225054" }
 		"zi_sanitarium" { }
-		"zi_stronghold_b6" { }
+		"zi_stronghold_v4_0_5" { "workshopid" "3031098958" }
 		"zi_woods" { }
 	}
 
