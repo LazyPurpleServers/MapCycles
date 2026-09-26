@@ -6,10 +6,8 @@
 
 		"ctf_medi_evil_b1" { "workshopid" "3795568883" }
 		"dm_directional_dinosaurs_b4" { }
-		"dm_process_b2" { }
-		"koth_badmoon_b7" { "workshopid" "3778832099" }
-		"koth_camp_saxton" { }
 		"koth_dryfield" { }
+		"koth_fragile_rc1a" { "workshopid" "3241769114" }
 		"koth_shorelight" { }
 	}
 
@@ -116,6 +114,7 @@
 		"koth_empire_rc2" { }
 		"koth_etherestate" { }
 		"koth_forge_b5a" { }
+		"koth_fragile_rc1a" { "workshopid" "3241769114" }
 		"koth_gamma_rc1" { }
 		"koth_hangar_rc5b" { }
 		"koth_harvest_final" { }
