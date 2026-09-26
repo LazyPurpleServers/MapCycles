@@ -649,6 +649,7 @@
 		"koth_flake_a11" { }
 		"koth_forge_b5a" { }
 		"koth_former_cornfield_b1" { }
+		"koth_fragile_rc1a" { "workshopid" "3241769114" }
 		"koth_Framework" { }
 		"koth_frostline_b1" { }
 		"koth_frostmoon_event_rc2b" { }
