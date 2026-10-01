@@ -4,7 +4,7 @@
 	{
         "maps_invote" "1"
 
-		"ctf_medi_evil_b1" { "workshopid" "3795568883" }
+		"ctf_medi_evil" { }
 		"dm_directional_dinosaurs_b4" { }
 		"koth_dryfield" { }
 		"koth_fragile_rc1a" { "workshopid" "3241769114" }
@@ -51,7 +51,7 @@
 		"ctf_landfall" { }
 		"ctf_lavatech_rc2" { }
 		"ctf_locomotion_b3" { }
-		"ctf_medi_evil_b1" { "workshopid" "3795568883" }
+		"ctf_medi_evil" { }
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
 		"ctf_nuclide_rc8d" { }
 		"ctf_parabolic_a10" { }
