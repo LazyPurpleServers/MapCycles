@@ -303,6 +303,7 @@
 		"ctf_locomotion_b3" { }
 		"ctf_lonepine_xmas_rc4" { }
 		"ctf_lostcity" { }
+		"ctf_medi_evil" { }
 		"ctf_mercy" { }
 		"ctf_minecraft_b8" { }
 		"ctf_minecraftland_v2b3-3_sg2-1" { }
@@ -412,7 +413,7 @@
 		"cp_hadal" { }
 		"cp_haddou_rc2" { }
 		"cp_heaven_rc" { }
-		"cp_holyhell_rc1" { "workshopid" "3028289051" }
+		"cp_holyhell" { }
 		"cp_imbricatus_a5" { }
 		"cp_industries_beta02b" { }
 		"cp_intrusion_b4" { }
@@ -477,6 +478,7 @@
 		"cp_villa_b15b" { }
 		"cp_viper_industries" { }
 		"cp_wetcoal_b1" { }
+		"cp_wildcat_event" { }
 		"cp_wildcat_rc1a" { }
 		"cp_wildlife_rc3" { }
 		"cp_yellowvalley" { "workshopid" "2860717034" }
@@ -715,7 +717,7 @@
 		"koth_sandstone_rc5" { }
 		"koth_sandvich_b1" { }
 		"koth_saturnvalley" { }
-		"koth_sawmill_event_v2" { }
+		"koth_sawmill_event" { }
 		"koth_sekhmet_b4" { }
 		"koth_sharkbay" { }
 		"koth_sherman_rc1" { }
@@ -747,6 +749,7 @@
 		"koth_tombtown_rc6" { }
 		"koth_toxic" { }
 		"koth_trainfalls_v5" { }
+		"koth_trainsawlaser" { }
 		"koth_twinfalls" { }
 		"koth_undergrove_event_rc3e" { }
 		"koth_undergrove_rc1" { }
@@ -862,6 +865,7 @@
 
         "pl_alpine_forest_rc2" { }
 		"pl_aridpass_b6" { "workshopid" "3717196536" }
+		"pl_aridpass_event" { }
 		"pl_aquarius" { }
         "pl_badlands_winter" { }
 		"pl_badwawbad_lq" { }
