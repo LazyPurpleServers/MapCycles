@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "29"
+		"count" "28"
 
 		// REGULAR MAPS (MvM Servers 1 - 3)
 
@@ -146,11 +146,6 @@
 			"popfile" "mvm_scream_tv_extermination"
 		}
 		"28"
-		{
-			"map" "mvm_wizardry"
-			"popfile" "mvm_wizardry_click"
-		}
-		"29"
 		{
 			"map" "mvm_overgreen"
 			"popfile" "mvm_overgreen_advanced1"
