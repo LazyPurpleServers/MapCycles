@@ -31,3 +31,27 @@ Remember to try to keep the maps in rotation categories in alphabetical order wh
 How to add a FastDL Map to a rotation;
 
 Coming Soon...
+
+## Maintaining MvM missioncycle numbering
+
+The [missioncycle workflow](.github/workflows/reenumerate-missioncycles.yml) runs
+on every push to `main`, including commits made in GitHub's web editor. It runs
+the script below and creates a `chore: correct missioncycle numbering` commit
+only when missioncycle `.res` files change. Other files are never included in
+that correction commit.
+
+Run the re-enumeration script after adding, removing, or moving missions. It
+updates each category's `count` and renumbers its mission blocks in file order,
+while preserving comments, whitespace, and line endings:
+
+```console
+python3 scripts/reenumerate_missioncycles.py
+```
+
+With no paths, the script processes every `*missioncycle*.res` file in the
+current directory. You can also provide one or more files or directories. To
+check whether a correction is needed without writing anything, use:
+
+```console
+python3 scripts/reenumerate_missioncycles.py --check
+```

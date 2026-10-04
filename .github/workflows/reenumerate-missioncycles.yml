@@ -1,0 +1,49 @@
+name: Re-enumerate missioncycles
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+# Serialize corrections; queued runs check out the latest main below.
+concurrency:
+  group: reenumerate-missioncycles-main
+  cancel-in-progress: false
+
+jobs:
+  reenumerate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out latest main
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: main
+
+      - name: Correct missioncycle numbering
+        run: python3 scripts/reenumerate_missioncycles.py
+
+      - name: Commit and push corrections if needed
+        shell: bash
+        run: |
+          git add -u -- ':(top,glob)*missioncycle*.res'
+          if git diff --cached --quiet; then
+            echo "Missioncycle numbering is already correct."
+            exit 0
+          fi
+
+          # If main advanced, its queued run will correct the newer files.
+          git fetch --no-tags origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse FETCH_HEAD)" ]; then
+            echo "Main advanced; leaving corrections to the next run."
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "chore: correct missioncycle numbering"
+          # A normal push rejects concurrent changes instead of overwriting them.
+          # The built-in GITHUB_TOKEN also prevents recursive workflow runs.
+          git push origin HEAD:refs/heads/main
