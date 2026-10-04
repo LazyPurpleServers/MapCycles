@@ -132,8 +132,8 @@
 		}
 		"25"
 		{
-			"map" "mvm_mansion_v9"
-			"popfile" "mvm_mansion_v9_kmlp_dual"
+			"map" "mvm_mansion_rc1d"
+			"popfile" "mvm_mansion_rc1d_adv_property_inspection"
 		}
 		"26"
 		{
