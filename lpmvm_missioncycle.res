@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "159"
+		"count" "160"
 		
 		"1"
 		{
@@ -800,6 +800,11 @@
             "map" "mvm_madhattan_rc5a"
             "popfile" "mvm_madhattan_rc5a_adv_apocalyptic_assault"
         }
+		"160"
+		{
+			"map" "mvm_starcoast_b5b"
+			"popfile" "mvm_starcoast_b5b_adv_brokenparts"
+		}
 	}
 }
 
