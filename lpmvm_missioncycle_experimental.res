@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "181"
+		"count" "182"
 
 		// REGULAR MAPS (MvM Servers 1 - 3)
 
@@ -914,6 +914,11 @@
 		{
 			"map" "mvm_overgreen"
 			"popfile" "mvm_overgreen_advanced1"
+		}
+		"182"
+		{
+			"map" "mvm_starcoast_b5b"
+			"popfile" "mvm_starcoast_b5b_adv_brokenparts"
 		}
 //		"insertnumberhere"
 //		{
