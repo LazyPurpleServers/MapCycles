@@ -6,6 +6,7 @@
 
 		"ctf_medi_evil" { }
 		"dm_directional_dinosaurs_b4" { }
+		"koth_descent_rc3b_event" { }
 		"koth_dryfield" { }
 		"koth_fragile_rc1a" { "workshopid" "3241769114" }
 		"koth_shorelight" { }
@@ -107,6 +108,7 @@
 		"koth_conveyance_rc3b" { }
 		"koth_county_b7" { }
 		"koth_crumble_rc1" { }
+		"koth_descent_rc3b_event" { }
 		"koth_despair_heights_rc0c_w" { }
 		"koth_dewm_rc1" { }
 		"koth_dryfield" { }
