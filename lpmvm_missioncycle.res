@@ -427,8 +427,8 @@
 		}
 		"85"
 		{
-			"map" "mvm_spybase_rc17a"
-			"popfile" "mvm_spybase_rc17a_normal"
+			"map" "mvm_spybase_rc17b"
+			"popfile" "mvm_spybase_rc17b_normal"
 		}
 		"86"
 		{
