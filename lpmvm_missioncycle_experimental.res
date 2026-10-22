@@ -209,8 +209,8 @@
 		}
 		"41"
 		{
-			"map" "mvm_silentsky_rc3"
-			"popfile" "mvm_silentsky_rc3_adv_aerial_stupidity"
+			"map" "mvm_silentsky_rc4"
+			"popfile" "mvm_silentsky_rc4_adv_aerial_stupidity"
 		}
 		"42"
 		{
