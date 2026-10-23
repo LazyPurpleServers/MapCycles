@@ -712,8 +712,8 @@
 		}
 		"142"
 		{
-			"map" "mvm_solaris_final4"
-			"popfile" "mvm_solaris_final4_adv_sinister_sabotage"
+			"map" "mvm_solaris_final4fix2"
+			"popfile" "mvm_solaris_final4fix2_adv_sinister_sabotage"
 		}
 		"143"
 		{
