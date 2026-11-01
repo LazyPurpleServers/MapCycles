@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "160"
+		"count" "159"
 		
 		"1"
 		{
@@ -742,8 +742,8 @@
         }
 		"148"
 		{
-			"map" "mvm_mansion_rc1d"
-			"popfile" "mvm_mansion_rc1d_adv_property_inspection"
+			"map" "mvm_starcoast_b5b"
+			"popfile" "mvm_starcoast_b5b_adv_brokenparts"
 		}
 		"149"
 		{
@@ -800,11 +800,6 @@
             "map" "mvm_madhattan_rc5a"
             "popfile" "mvm_madhattan_rc5a_adv_apocalyptic_assault"
         }
-		"160"
-		{
-			"map" "mvm_starcoast_b5b"
-			"popfile" "mvm_starcoast_b5b_adv_brokenparts"
-		}
 	}
 }
 
