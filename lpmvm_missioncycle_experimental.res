@@ -189,8 +189,8 @@
 		}
 		"37"
 		{
-			"map" "mvm_hellburg_final5"
-			"popfile" "mvm_hellburg_final5"
+			"map" "mvm_hellburg_final6"
+			"popfile" "mvm_hellburg_final6"
 		}
 		"38"
 		{
