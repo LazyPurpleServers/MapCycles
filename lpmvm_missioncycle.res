@@ -92,9 +92,9 @@
 		}
 		"18"
 		{
-			"map" "mvm_frostwynd_rc1"
-			"popfile" "mvm_frostwynd_rc1_int_wicked_wizardry"
-		}
+            "map" "mvm_lostvalley_b5"
+            "popfile" "mvm_lostvalley_b5_int_haunted_hills"
+        }
 		"19"
 		{
 			"map" "mvm_giza_b7"
@@ -262,9 +262,9 @@
 		}
 		"52"
 		{
-			"map" "mvm_winterbridge_rc4c"
-			"popfile" "mvm_winterbridge_rc4c_int_frozen_fortitude"
-		}
+            "map" "mvm_madhattan_rc5a"
+            "popfile" "mvm_madhattan_rc5a_adv_apocalyptic_assault"
+        }
 		"53"
 		{
 			"map" "mvm_monsoon_b9"
@@ -789,16 +789,6 @@
 		{
             "map" "mvm_heatrock_rc6a"
             "popfile" "mvm_heatrock_rc6a_adv_heated_argument"
-        }
-		"158"
-		{
-            "map" "mvm_lostvalley_b5"
-            "popfile" "mvm_lostvalley_b5_int_haunted_hills"
-        }
-		"159"
-		{
-            "map" "mvm_madhattan_rc5a"
-            "popfile" "mvm_madhattan_rc5a_adv_apocalyptic_assault"
         }
 	}
 }
