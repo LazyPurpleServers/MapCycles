@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "183"
+		"count" "182"
 
 		// REGULAR MAPS (MvM Servers 1 - 3)
 
@@ -920,11 +920,11 @@
 			"map" "mvm_starcoast_b5b"
 			"popfile" "mvm_starcoast_b5b_adv_brokenparts"
 		}
-		"183"
-		{
-			"map" "mvm_moonworks"
-			"popfile" "mvm_moonworks_gndmas_trials_of_luna"
-		}
+//		"insertnumberhere"
+//		{
+//			"map" "mvm_moonworks"
+//			"popfile" "mvm_moonworks_gndmas_trials_of_luna"
+//		}
 //		"insertnumberhere"
 //		{
 //			"map" "mvm_mind_bloom_rc2"
