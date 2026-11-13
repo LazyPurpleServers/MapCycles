@@ -3,7 +3,7 @@
 	"categories" "1"
 	"1"
 	{
-		"count" "158"
+		"count" "157"
 		
 		"1"
 		{
@@ -790,11 +790,11 @@
             "map" "mvm_heatrock_rc6a"
             "popfile" "mvm_heatrock_rc6a_adv_heated_argument"
         }
-		"158"
-		{
-			"map" "mvm_moonworks"
-			"popfile" "mvm_moonworks_gndmas_trials_of_luna"
-		}
+	//	"put number here"
+	//	{
+	//		"map" "mvm_moonworks"
+	//		"popfile" "mvm_moonworks_gndmas_trials_of_luna"
+	//	}
 	}
 }
 
