@@ -841,7 +841,7 @@
 		"mvm_sequoia_rc4" { }
 		"mvm_sharp_rc9" { }
 		"mvm_shipper_b4" { }
-		"mvm_shiverpeak_rc2" { }
+		"mvm_shiverpeak_rc4c" { }
 		"mvm_skullcove_rc1" { }
 		"mvm_snowflake_b3" { }
 		"mvm_spacepost_b4" { }
