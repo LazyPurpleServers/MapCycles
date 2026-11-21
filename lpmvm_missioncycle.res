@@ -202,8 +202,8 @@
 		}
 		"40"
 		{
-			"map" "mvm_shiverpeak_rc3"
-			"popfile" "mvm_shiverpeak_rc3_int_coldfront_coalition"
+			"map" "mvm_shiverpeak_rc4c"
+			"popfile" "mvm_shiverpeak_rc4c_int_coldfront_coalition"
 		}
 		"41"
 		{
